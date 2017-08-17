@@ -1,0 +1,1364 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<link rel="dns-prefetch" href="//b1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//b3.hoopchina.com.cn" />
+
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.hupu.com/bbs" />
+<meta name="mobile-agent" content="format=html5;url=https://m.hupu.com/bbs" />
+
+<title>运动&装备 - 虎扑社区</title>
+<meta name="keywords" content="运动&装备" />
+<meta name="description" content="运动&装备来自虎扑装备论坛." />
+<base href="//bbs.hupu.com" /><!--[if IE 6]></base><![endif]-->
+<script type='text/javascript'>var __daceDataNameOfForum='233';var __daceDataNameOfCategory = '233'; var __daceDataNameOfProject='zb';var __daceDataNameOfChannel='';</script>
+<meta name="apple-itunes-app" content="app-id=906632439" />
+<link rel="shortcut icon" href="//b3.hoopchina.com.cn/common/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="//b3.hoopchina.com.cn/common/common-v1.css" />
+<script src="//b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js"></script> 
+<script src="//b3.hoopchina.com.cn/common/common-v1.js"></script>
+<link rel='stylesheet' type='text/css' href='//b3.hoopchina.com.cn/css/hupu-v56.css?2017070320' />
+<link rel='apple-touch-icon' href='https://b1.hoopchina.com.cn/common/apple-touch-icon.png'/>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/pcbbs/js/j15.js"></script>
+</head>
+<body>
+<!--topbarNav star-->
+                        <div id="hp-topbarNav">
+                            <div class="hp-topbarNav-bd">
+                                <ul class="hp-quickNav">
+                                    <li class="mobileWeb"><a href="https://m.hupu.com/" target="_blank"><i class="ico-mobile"></i>手机虎扑</a></li>
+                                    <li class="line">|</li>
+                                    <li class="mobileclientDown"><a class="red" href="https://mobile.hupu.com/?_r=globalNav" target="_blank">虎扑客户端</a></li>
+                                    <li class="line">|</li>
+			                        <li><a class="red" href="https://mobile.hupu.com/football?r=global_nav" target="_blank">虎扑足球客户端</a></li>
+                                    <li class="line">|</li>
+                                    <li class="hp-dropDownMenu topFollowBlog">
+                                        <a href="javascript:void(0)" class="hp-set">关注虎扑<s class="setArrow"></s></a>
+                                        <div class="hp-drapDown followLayer">
+                                            <a class="weibo" target="_blank" rel="nofollow" href="//weibo.com/liangle4u"><i class="hp-ico-weibo"></i>新浪微博</a>
+											<a class="weixin" target="_blank" href="https://voice.hupu.com/other/1581560.html"><i class="hp-ico-weixin"></i>官方微信</a>
+                                            <a class="instagram" target="_blank" rel="nofollow" href="https://voice.hupu.com/other/1634334.html"><i class="hp-ico-instagram"></i>Instagram</a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="hp-topLogin-info"></div>
+                            </div>
+                        </div>
+                        <!--topbarNav ent--><!--header star--><div class="hp-header hp-header-A"><div class="hp-logo"><a title="虎扑装备" href="http://zb.hupu.com/"><img src="https://b3.hoopchina.com.cn/images/logo2017/v1/hp_logo_zb.png" alt="装备" /></a>
+                            </div>
+                            <div class="hp-mainNav hp-mainNav-B">
+                                <div class="hp-nav">
+                                    <div class="hp-nav-bd">
+                                        <ul class="hp-nav-item"><li><a href="https://www.hupu.com/" >虎扑首页</a></li><li class="line">|</li><li><a href="https://nba.hupu.com/" >NBA</a></li><li class="line">|</li><li><a href="https://cba.hupu.com/" >CBA</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com" >国际足球</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com/china/" >中国足球</a></li><li class="line">|</li><li><a href="http://racing.hupu.com/" >赛车</a></li><li class="line">|</li><li class="on"><a href="http://zb.hupu.com/" target="_blank">装备</a></li><li class="line">|</li><li><a href="http://www.shihuo.cn/" target="_blank">识货</a></li><li class="line">|</li><li><a href="http://v.liangle.com/" >视频</a></li><li class="line">|</li><li><a href="http://photo.hupu.com/" >图片</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/" >社区</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/all-gambia" >步行街</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/all-esports" >电竞</a></li><li class="line">|</li><li><a href="http://www.liangle.com" target="_blank">路人王</a></li><li class="line">|</li><li class="hp-dropDownMenu hp-moreNav">
+                                                <a href="javascript:void(0)" class="hp-set">更多<s class="setArrow"></s></a>
+                                                <div class="hp-drapDown hp-moreNav-drapDown"><a href="https://shop311048929.taobao.com/" target="_blank">虎扑优选</a><a href="http://www.kaluli.com/" target="_blank">卡路里</a><a href="http://outdoor.hupu.com/" >户外</a><a href="http://run.hupu.com/" >跑步</a><a href="http://ymq.hupu.com/" >羽毛球</a><a href="http://xgame.hupu.com/" target="_blank">xgames</a><a href="http://www.nflchina.com/" target="_blank">NFL</a><a href="http://golf.hupu.com/" target="_blank">高尔夫</a><s class="arrow-top"><s class="arrowbd"></s></s>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="hp-subNav">
+            <ul class="hp-subNav-item">
+				<li class="hp-dropDownMenu">
+					<a class="hp-set"  title="装备中心" href="http://zb.hupu.com">装备中心</a>
+					<div class="hp-drapDown">
+                        <a target="_blank" title="装备新闻" href="http://voice.hupu.com/zb">新闻</a>
+						<a  title="装备列表" href="http://zb.hupu.com/list">装备列表</a>
+						<a  title="榜单" href="http://zb.hupu.com/rank">榜单</a>
+						<s class="arrow-top"><s class="arrowbd"></s></s>
+					</div>
+				</li>
+				<li class="hp-dropDownMenu">
+					<a class="hp-set" target="_blank" title="识货" href="http://www.shihuo.cn">识货</a>
+					<div class="hp-drapDown">
+						<a target="_blank" title="发现好货" href="http://www.shihuo.cn/find">发现好货</a>
+						<a target="_blank" title="运动鞋" href="http://www.shihuo.cn/shoe">运动鞋</a>
+                        <a target="_blank" title="团购" href="http://www.shihuo.cn/tuangou">团购</a>
+						<a target="_blank" title="推荐店铺" href="http://www.shihuo.cn/shop">推荐店铺</a>
+						<a target="_blank" title="亚马逊专区" href="http://www.shihuo.cn/amazon">亚马逊专区</a>
+						<s class="arrow-top"><s class="arrowbd"></s></s>
+					</div>
+				</li>
+                
+                <li><a target="_blank" href="http://www.shihuo.cn/shop">推荐店铺</a></li><li class="line">|</li>
+                <li><a href="http://zb.hupu.com/rank">榜单</a></li><li class="line">|</li>                
+				<li class="hp-dropDownMenu">
+					<a class="hp-set" target="_blank" title="装备论坛" href="http://bbs.hupu.com/all-gear">装备论坛</a>
+					<div class="hp-drapDown">
+						<a target="_blank" title="装备区" href="http://bbs.hupu.com/gear">装备区</a>
+						<a target="_blank" title="交易区" href="http://bbs.hupu.com/c2c">交易区</a>
+                                                <a target="_blank" title="户外装备" href="http://bbs.hupu.com/outdoorgear">户外装备</a>
+						<s class="arrow-top"><s class="arrowbd"></s></s>
+					</div>
+				</li><li class="line">|</li> 
+				<li><a href="http://zb.hupu.com/soccer">足球装备中心</a></li><li class="line">
+				<li class="line">|</li> 
+				<li><a href="http://zb.hupu.com/tennis">网球装备中心</a></li><li class="line">
+            </ul>
+</div>
+                                <i class="hp-roundPoint-br-tl roundPoint-br-tl"></i>
+                                <i class="hp-roundPoint-br-tr roundPoint-br-tr"></i>
+                                <i class="hp-roundPoint-br-bl roundPoint-br-bl"></i>
+                                <i class="hp-roundPoint-br-br roundPoint-br-br"></i>
+                            </div>
+                        </div>
+
+<div id="topPub" style="height:66px"></div>
+
+
+			<div class="hp-threeNav">
+			<div class="hp-threeNav-bd">
+			<ul class="hp-threeNav-item"><li><a href='/all-gear'  class= "on" data-project='zb' id='g_b'>首页</a></li><li ><a href='/gear'  >运动装备</a></li><li ><a href='/jersey'  >球衣</a></li><li ><a href='/in'  >潮流</a></li><li ><a href='/kixDesign'  >球鞋手稿</a></li><li ><a href='/qanda'  >装备咨询问答</a></li><li ><a href='/jianding'  >鉴定中心</a></li><li ><a href='/c2c'  >交易(新品)</a></li><li ><a href='/2'  >二手交易</a></li><li  class="hp-hide-w1024"><a href='/qiugou'  >求购</a></li><li  class="hp-hide-w1024"><a href='/paimai'  >拍卖</a></li><li  class="hp-hide-w1024"><a href='/brandfeedback'  >品牌建议</a></li><li class="hp-dropDownMenu">
+								<a href="javascript:void(0)" class="hp-set">更多</a>
+								<div class="hp-drapDown"><a href='/qiugou'  class='hp-hide-w1024'>求购</a><a href='/paimai'  class='hp-hide-w1024'>拍卖</a><a href='/brandfeedback'  class='hp-hide-w1024'>品牌建议</a><a href='/shihuo'  >虎扑识货</a><a href='/gearfeedback'  >装备意见受理</a><a href='/all-nba'  target="_blank" >NBA论坛</a><a href='/all-cba'  target="_blank" >CBA论坛</a><a href='/all-soccer'  target="_blank" >国际足球论坛</a><a href='/china-soccer'  target="_blank" >中国足球</a><a href='/f1'  target="_blank" >F1赛车场</a><a href='/all-sports'  target="_blank" >综合体育</a><a href='/all-gear'  target="_blank" >运动&装备</a><a href='/all-gambia'  target="_blank" >步行街</a><a href='/all-lottery'  target="_blank" >彩票中心</a><a href='/all-webgame'  target="_blank" >网页游戏</a><a href='/all-group'  target="_blank" >虎扑社团</a><a href='/all-boards'  target="_blank" >自建版块</a><a href='/all-feedback'  target="_blank" >站务管理</a></div></li></ul></div><i id='level2header' title='装备论坛'></i>
+				<div class="hp-search">
+					<form id="hp-form-search" method="get" enctype="multipart/form-data" action="https://my.hupu.com/search">
+						<input type="text" value="搜索视频、帖子" class="it-search" />
+						<input type="submit" value="搜索" class="btn-search" />
+					</form>
+				</div>
+			</div>
+		
+<div class="hp-wrap">
+
+<div id="container" class="rel">
+  <div id="container_padd">
+    				<div id="sidenav_bbs"><div id="bbs_banner"><h4><a class="h4_t">版块分类</a></h4><ul>
+		<li id="l1" lid="1"><a href="//bbs.hupu.com/all-nba">NBA论坛</a></li>
+		<li id="l232" lid="232"><a href="//bbs.hupu.com/all-cba">CBA论坛</a></li>
+		<li id="l233" lid="233"><a href="//bbs.hupu.com/all-gear">运动&装备</a></li>
+		<li id="l198" lid="198"><a href="//bbs.hupu.com/all-soccer">国际足球论坛</a></li>
+		<li id="l4596" lid="4596"><a href="//bbs.hupu.com/all-csl">中国足球论坛</a></li>
+		<li id="l41" lid="41"><a href="//bbs.hupu.com/all-sports">综合体育</a></li><li id="l174" lid="174"><a href="//bbs.hupu.com/all-gambia">步行街</a></li>
+	<li id="l42" lid="42"><a href="//bbs.hupu.com/all-lottery">彩票中心</a></li>
+	<li id="l238" lid="238"><a href="//bbs.hupu.com/all-boards">自建版块</a></li>
+	<li id="l114" lid="114"><a href="//bbs.hupu.com/all-group">虎扑社团</a></li>
+	<li id="l7" lid="7"><a href="//bbs.hupu.com/all-feedback">站务管理</a></li>
+	</ul></div>
+				<div class="sidenav_pop_tips"><p class="more"><a href="//bbs.hupu.com/boards.php">更多版块 &raquo;</a></p></div>
+				
+				</div>    <script>
+      if(screen.width > 1152)
+      {
+        document.write('<style>#recomBbsIndex{width:740px} #recomBbsIndex .list .textSpan{width:auto;} </style>');
+      }
+    </script>
+
+    <!---中间 start--->
+    <div id="recomBbsIndex">
+      <h1>运动&装备热帖</h1>
+      <div class="list">
+      <h3>主版</h3>
+      <ul>
+        <li><span class="textSpan"><a href="/20022534.html" target="_blank"
+                                      title="【小虎哥嗮球鞋】本人全部球鞋一览。">【小虎哥嗮球鞋】本人全部球鞋一览。</a><em class="f666">1亮60回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+        <li><span class="textSpan"><a href="/20021140.html" target="_blank"
+                                      title="不负责球鞋评测：Jordan Super.Fly 2017"><span class="red">不负责球鞋评测：Jordan Super.Fly 2017</span></a><em class="f666">1亮80回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+        <li><span class="textSpan"><a href="/20023886.html" target="_blank"
+                                      title="换季折扣店44码及以上鞋子折扣基础上再6折，保罗 傻芬鞋子比安踏还便宜。">换季折扣店44码及以上鞋子折扣基础上再6折，保罗 傻芬鞋子比安踏还便宜。</a><em class="f666">1亮46回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+        <li><span class="textSpan"><a href="/20021069.html" target="_blank"
+                                      title="作为科密你们还有哪双ZK后悔没收到的">作为科密你们还有哪双ZK后悔没收到的</a><em class="f666">2亮236回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+        <li><span class="textSpan"><a href="/20020749.html" target="_blank"
+                                      title="白菜价格的欧文3">白菜价格的欧文3</a><em class="f666">6亮116回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+        <li><span class="textSpan"><a href="/20020625.html" target="_blank"
+                                      title="说它是最帅的罗斯系列，不过分。">说它是最帅的罗斯系列，不过分。</a><em class="f666">1亮125回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+        <li><span class="textSpan"><a href="/20024180.html" target="_blank"
+                                      title="最强阿迪实战鞋">最强阿迪实战鞋</a><em class="f666">28回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+        <li><span class="textSpan"><a href="/20020406.html" target="_blank"
+                                      title="分享个菊花吧。现在也就这些家伙还在陪着我了。">分享个菊花吧。现在也就这些家伙还在陪着我了。</a><em class="f666">3亮145回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+        <li><span class="textSpan"><a href="/20023887.html" target="_blank"
+                                      title="踩一脚砍死人系列">踩一脚砍死人系列</a><em class="f666">30回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+        <li><span class="textSpan"><a href="/20023600.html" target="_blank"
+                                      title="发两个最喜欢的aj11，保存的还不错吧？">发两个最喜欢的aj11，保存的还不错吧？</a><em class="f666">34回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+        <li><span class="textSpan"><a href="/20022893.html" target="_blank"
+                                      title="大阪，收了双末日博士和puma，第一次见成排卖的椰子，NikeXsupreme联名…">大阪，收了双末日博士和puma，第一次见成排卖的椰子，NikeXsupreme联名…</a><em class="f666">38回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+        <li><span class="textSpan"><a href="/20024480.html" target="_blank"
+                                      title="人生中第一双aj求推荐（贝弗利）">人生中第一双aj求推荐（贝弗利）</a><em class="f666">20回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+        <li><span class="textSpan"><a href="/20023891.html" target="_blank"
+                                      title="南京折扣">南京折扣</a><em class="f666">22回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+        <li><span class="textSpan"><a href="/20024278.html" target="_blank"
+                                      title="champion卫衣求鉴定">champion卫衣求鉴定</a><em class="f666">18回复</em></span><span class="forum">
+                <a target="_blank" href="/in" class="f666">潮流区</a></span></li>
+        <li><span class="textSpan"><a href="/20020247.html" target="_blank"
+                                      title="小弟不才，有没有大神前来看看小弟的球鞋设计">小弟不才，有没有大神前来看看小弟的球鞋设计</a><em class="f666">1亮51回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+        <li><span class="textSpan"><a href="/20024297.html" target="_blank"
+                                      title="搞大事搞大事。zk5世锦赛纯手工强拆。">搞大事搞大事。zk5世锦赛纯手工强拆。</a><em class="f666">15回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+        <li><span class="textSpan"><a href="/20020885.html" target="_blank"
+                                      title="“李宁之家”？生日礼物？">“李宁之家”？生日礼物？</a><em class="f666">1亮45回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+        <li><span class="textSpan"><a href="/20022416.html" target="_blank"
+                                      title="喜欢eqt今天可以抢购官网，带boost">喜欢eqt今天可以抢购官网，带boost</a><em class="f666">29回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+        <li><span class="textSpan"><a href="/20016555.html" target="_blank"
+                                      title="我觉得目前虎扑上的球鞋评测对防侧翻和抗扭转似乎有一些误解"><span class="red">我觉得目前虎扑上的球鞋评测对防侧翻和抗扭转似乎有一些误解</span></a><em class="f666">3亮118回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+        <li><span class="textSpan"><a href="/20022482.html" target="_blank"
+                                      title="整入坑五个月，收了9双鞋，晒一晒，我估计好多jr都和我买的有重的">整入坑五个月，收了9双鞋，晒一晒，我估计好多jr都和我买的有重的</a><em class="f666">27回复</em></span><span class="forum">
+                <a target="_blank" href="/gear" class="f666">运动装备</a></span></li>
+      </ul>
+    </div><div class="list">
+      <h3>求助</h3>
+      <ul>
+        <li><span class="textSpan"><a href="/20021241.html" target="_blank"
+                                      title="都不敢去虎扑装备区鉴定还敢说正品？">都不敢去虎扑装备区鉴定还敢说正品？</a><em class="f666">5亮151回复</em></span><span class="forum">
+                <a target="_blank" href="/qanda" class="f666">装备咨询问答</a></span></li>
+        <li><span class="textSpan"><a href="/20023181.html" target="_blank"
+                                      title="这样的鞋jrs们怎么保持？">这样的鞋jrs们怎么保持？</a><em class="f666">39回复</em></span><span class="forum">
+                <a target="_blank" href="/qanda" class="f666">装备咨询问答</a></span></li>
+        <li><span class="textSpan"><a href="/20023999.html" target="_blank"
+                                      title="呜呜呜~(>_<)~难受，脚长了，鞋穿不了了，有相同境遇的么？">呜呜呜~(>_<)~难受，脚长了，鞋穿不了了，有相同境遇的么？</a><em class="f666">22回复</em></span><span class="forum">
+                <a target="_blank" href="/qanda" class="f666">装备咨询问答</a></span></li>
+        <li><span class="textSpan"><a href="/20022800.html" target="_blank"
+                                      title="最希望能复刻的一双鞋，在此求助">最希望能复刻的一双鞋，在此求助</a><em class="f666">32回复</em></span><span class="forum">
+                <a target="_blank" href="/qanda" class="f666">装备咨询问答</a></span></li>
+        <li><span class="textSpan"><a href="/20023171.html" target="_blank"
+                                      title="不懂就问。这算是瑕疵吗？">不懂就问。这算是瑕疵吗？</a><em class="f666">25回复</em></span><span class="forum">
+                <a target="_blank" href="/qanda" class="f666">装备咨询问答</a></span></li>
+      </ul>
+    </div><div class="list">
+      <h3>其他</h3>
+      <ul>
+        <li><span class="textSpan"><a href="/19998893.html" target="_blank"
+                                      title="Adidas天猫旗舰店服务态度极差，客服不理人">Adidas天猫旗舰店服务态度极差，客服不理人</a><em class="f666">126回复</em></span><span class="forum">
+                <a target="_blank" href="/brandfeedback" class="f666">品牌建议区</a></span></li>
+        <li><span class="textSpan"><a href="/19996860.html" target="_blank"
+                                      title="其实关于安踏和李宁的营收问题">其实关于安踏和李宁的营收问题</a><em class="f666">3亮61回复</em></span><span class="forum">
+                <a target="_blank" href="/brandfeedback" class="f666">品牌建议区</a></span></li>
+      </ul>
+    </div><div class="l_w_reply">
+      <h3 id="highlights">运动&装备亮了的回帖</h3>
+      
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/160315140489399">
+        <img alt="新人sneaker" src="https://i1.hoopchina.com.cn/user/424/4919424/4919424-1495734084.jpg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/160315140489399">新人sneaker</a>
+                       <span class="stime">2013-02-23 23:00:59</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="4919424" id="tipcolor353029122">
+                                            <a class="ilike_icon " onclick="tipfight(5147713,353029122,49);" href="javascript:;">亮了</a>(<span id="tip353029122" class="stime" style="padding:0;">11</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/5147713.html" target="_blank">我的cork 詹十软木塞 &#160; 有图有真相 &#160; 算首发么？  【有卡哦】</a>
+                                        <span class="f666">(来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>笑尿了～～～～</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/78256614168210">
+        <img alt="~不告訴你." src="https://i3.hoopchina.com.cn/user/293/15402293/15402293_small_2.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/78256614168210">~不告訴你.</a>
+                       <span class="stime">2013-02-23 23:15:24</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="15402293" id="tipcolor353030278">
+                                            <a class="ilike_icon " onclick="tipfight(5147789,353030278,49);" href="javascript:;">亮了</a>(<span id="tip353030278" class="stime" style="padding:0;">23</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/5147789.html" target="_blank">我靠关系把一个店发售的软木塞全扫了，哈哈哈哈哈，别羡慕！！！</a>
+                                        <span class="f666">(共2亮回帖 来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>...然后楼主用这些软木塞做了一双詹十</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/198292149428200">
+        <img alt="lcclzjh" src="https://i2.hoopchina.com.cn/user/header/20170601/149625297240651_small_31.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/198292149428200">lcclzjh</a>
+                       <span class="stime">2017-08-16 20:31:27</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="335419" id="tipcolor575415">
+                                            <a class="ilike_icon " onclick="tipfight(20019956,575415,49);" href="javascript:;">亮了</a>(<span id="tip575415" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20019956.html" target="_blank">总算把你拿到手～LBJ8 South Beach</a>
+                                        <span class="f666">(来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>的确很美......价格一直也都很美.......</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/92144310692589">
+        <img alt="李成136" src="https://i3.hoopchina.com.cn/user/204/15290204/15290204_small_3.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/92144310692589">李成136</a>
+                       <span class="stime">2013-03-01 22:09:44</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="15290204" id="tipcolor355029706">
+                                            <a class="ilike_icon " onclick="tipfight(5177627,355029706,49);" href="javascript:;">亮了</a>(<span id="tip355029706" class="stime" style="padding:0;">94</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/5177627.html" target="_blank">应筒子们投票要求，上通灵，散散最近满屏软木塞的妖气~~</a>
+                                        <span class="f666">(共2亮回帖 来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>这不是鞋.这是首都一平米啊！</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/187223130699604">
+        <img alt="LA的果果" src="https://i1.hoopchina.com.cn/user/085/16841085/16841085_small_2.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/187223130699604">LA的果果</a>
+                       <span class="stime">2013-03-03 04:14:39</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="16841085" id="tipcolor355152378">
+                                            <a class="ilike_icon " onclick="tipfight(5184543,355152378,49);" href="javascript:;">亮了</a>(<span id="tip355152378" class="stime" style="padding:0;">52</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/5184543.html" target="_blank">晕，莆田怎么还不发售软木塞！居然让钩子抢先</a>
+                                        <span class="f666">(来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>我们已经拿到软木塞43码实物，现在正在拆鞋，分析用料，马上会投入生产，预计4月中旬出最高版，售价在900到1200之间，请亲到时候支持</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/30161503378450">
+        <img alt="白條大" src="https://i3.hoopchina.com.cn/user/header/20170724/150086918466106_small_1.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/30161503378450">白條大</a>
+                       <span class="stime">2017-08-17 12:27:57</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="31436654" id="tipcolor933719">
+                                            <a class="ilike_icon " onclick="tipfight(20024180,933719,49);" href="javascript:;">亮了</a>(<span id="tip933719" class="stime" style="padding:0;">6</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20024180.html" target="_blank">最强阿迪实战鞋</a>
+                                        <span class="f666">(来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>你好   你這雙可能是假貨<div><div><img src="https://i3.hoopchina.com.cn/blogfile/201708/17/BbsImg150294429178424_30161503378450_1170x780.jpg" data-w="750" data-h="499"><br>如圖</div></div><div>我用紅筆圈起來的地方是正品該有的弧度</div><div>他是微凸的</div><div>但是你的圖片同一個地方是凹陷進去的</div><div>這是我認為假貨的最大原因</div><div><br></div><div>第二</div><div>你的襪套似乎太寬了</div><div>我用桃紅色表示一般寬度</div><div>你的鞋似乎到了綠筆處</div><div>當然這個比較可能受到圖片角度影響 , 所以我比較沒把握</div><div><br></div><div>第三</div><div>你的前掌側牆上的三角tpu跟正品比, &nbsp;似乎過於巨大了, &nbsp;甚至擺放對應boost的位置也不對</div><div>當然這也可能是圖片角度問題</div><div>只是這雙鞋我真的覺得一眼怪</div></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/345143991650">
+        <img alt="宠宠韩脆鸡" src="https://i2.hoopchina.com.cn/user/801/25267801/25267801_small_2.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/345143991650">宠宠韩脆鸡</a>
+                       <span class="stime">2017-08-17 11:00:31</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="25267801" id="tipcolor865515">
+                                            <a class="ilike_icon " onclick="tipfight(20023600,865515,49);" href="javascript:;">亮了</a>(<span id="tip865515" class="stime" style="padding:0;">7</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023600.html" target="_blank">发两个最喜欢的aj11，保存的还不错吧？</a>
+                                        <span class="f666">(来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>非常赞，最美的两双11</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/151110367424988">
+        <img alt="法伊123" src="https://i2.hoopchina.com.cn/user/324/27904324/27904324-1502551770.jpeg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/151110367424988">法伊123</a>
+                       <span class="stime">2017-08-17 08:07:27</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="27904324" id="tipcolor762905">
+                                            <a class="ilike_icon " onclick="tipfight(20020749,762905,49);" href="javascript:;">亮了</a>(<span id="tip762905" class="stime" style="padding:0;">6</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20020749.html" target="_blank">白菜价格的欧文3</a>
+                                        <span class="f666">(共6亮回帖 来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用31楼 @<a class="u" target="_blank" href="https://my.hupu.com/165222790318394" >大家们的爸爸</a> 发表的</b>:<br>兄弟要不要那么酸</p></blockquote><br>在装备区秀fake还不让说了？<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/132685581515924">
+        <img alt="米高舒密加" src="https://i2.hoopchina.com.cn/user/730/17448730/17448730_small_3.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/132685581515924">米高舒密加</a>
+                       <span class="stime">2013-08-01 13:13:38</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="17448730" id="tipcolor414111005">
+                                            <a class="ilike_icon " onclick="tipfight(6068356,414111005,49);" href="javascript:;">亮了</a>(<span id="tip414111005" class="stime" style="padding:0;">49</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/6068356.html" target="_blank">真假lbj cork 软木塞对比.</a>
+                                        <span class="f666">(共5亮回帖 来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>莆田的劳动人民还没攻克纤维气垫这个难题，仍在努力中！</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/68225525778686">
+        <img alt="陈智之篮球" src="https://i1.hoopchina.com.cn/user/470/5329470/5329470_small_42.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/68225525778686">陈智之篮球</a>
+                       <span class="stime">2013-08-01 13:01:37</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="5329470" id="tipcolor414109560">
+                                            <a class="ilike_icon " onclick="tipfight(6068356,414109560,49);" href="javascript:;">亮了</a>(<span id="tip414109560" class="stime" style="padding:0;">78</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/6068356.html" target="_blank">真假lbj cork 软木塞对比.</a>
+                                        <span class="f666">(共5亮回帖 来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>原来软木塞已经出现pt了，好快，感谢LZ分享，帮顶了</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/182758990230879">
+        <img alt="FreshShoes" src="https://i1.hoopchina.com.cn/user/640/17378640/17378640_small_1.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/182758990230879">FreshShoes</a>
+                       <span class="stime">2013-08-01 13:07:33</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="17378640" id="tipcolor414110249">
+                                            <a class="ilike_icon " onclick="tipfight(6068356,414110249,49);" href="javascript:;">亮了</a>(<span id="tip414110249" class="stime" style="padding:0;">260</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/6068356.html" target="_blank">真假lbj cork 软木塞对比.</a>
+                                        <span class="f666">(共5亮回帖 来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>访的已经很可以了。。才400块钱不到  比4000的值</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/78916984801166">
+        <img alt="crazyfan10" src="https://i2.hoopchina.com.cn/user/330/17212330/17212330_small_1.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/78916984801166">crazyfan10</a>
+                       <span class="stime">2014-01-02 15:52:27</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="17212330" id="tipcolor20545">
+                                            <a class="ilike_icon " onclick="tipfight(7552864,20545,49);" href="javascript:;">亮了</a>(<span id="tip20545" class="stime" style="padding:0;">43</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/7552864.html" target="_blank">我在外场看见詹姆斯X软木塞实战是个什么水平？</a>
+                                        <span class="f666">(共3亮回帖 来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>有两种可能  一是土豪二是pt</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/168685287237186">
+        <img alt="林弯弯不弯" src="https://i3.hoopchina.com.cn/user/856/17161856/17161856_small_9.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/168685287237186">林弯弯不弯</a>
+                       <span class="stime">2014-09-21 01:23:52</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="17161856" id="tipcolor135451">
+                                            <a class="ilike_icon " onclick="tipfight(10469964,135451,49);" href="javascript:;">亮了</a>(<span id="tip135451" class="stime" style="padding:0;">14</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/10469964.html" target="_blank">求软木塞保养秘籍和长蘑菇教程。。。。</a>
+                                        <span class="f666">(来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>有一天一个男淫去草丛里睡觉，<br>一个小女孩去森林里采蘑菇，<br>“一个”，“两个”，“三个”，“四个”，“五个”，“五个”，“五个”……<br>这个男淫感觉很爽……<br>第二天，小熊也去采蘑菇……<br>“一个”，“两个”，“三个”，“四个”，“五个”，“六个”，“七个”……</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/136366137376367">
+        <img alt="太完美的人" src="https://i2.hoopchina.com.cn/user/4/27498004/27498004-1458732932.jpeg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/136366137376367">太完美的人</a>
+                       <span class="stime">2017-08-17 10:14:12</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="27498004" id="tipcolor829099">
+                                            <a class="ilike_icon " onclick="tipfight(20023171,829099,196);" href="javascript:;">亮了</a>(<span id="tip829099" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023171.html" target="_blank">不懂就问。这算是瑕疵吗？</a>
+                                        <span class="f666">(来自:
+                                            <a href="/qanda" target="_blank">装备咨询问答</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>算。 zszszszszs<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/74663577787184">
+        <img alt="KAWXX" src="https://i3.hoopchina.com.cn/user/363/31730363/31730363-1502504448.jpeg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/74663577787184">KAWXX</a>
+                       <span class="stime">2017-08-17 11:33:55</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="31730363" id="tipcolor891727">
+                                            <a class="ilike_icon " onclick="tipfight(20023886,891727,49);" href="javascript:;">亮了</a>(<span id="tip891727" class="stime" style="padding:0;">6</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023886.html" target="_blank">换季折扣店44码及以上鞋子折扣基础上再6折，保罗 傻芬鞋子比安踏还便宜。</a>
+                                        <span class="f666">(来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>脚大  鞋子用料更多  价格更便宜</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/85533802455596">
+        <img alt="壹壹壹壹贰叁" src="https://i1.hoopchina.com.cn/user/641/21265641/21265641-1483345458.jpg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/85533802455596">壹壹壹壹贰叁</a>
+                       <span class="stime">2017-08-17 10:33:28</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="21265641" id="tipcolor843773">
+                                            <a class="ilike_icon " onclick="tipfight(20023280,843773,49);" href="javascript:;">亮了</a>(<span id="tip843773" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023280.html" target="_blank">Air Jordan 1星空定制</a>
+                                        <span class="f666">(来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>这要是我看见你在大马路上这样拍鞋子，我拎起来就跑<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/1296542412864">
+        <img alt="倒下的博阿滕" src="https://i3.hoopchina.com.cn/user/656/25659656/25659656-1453379829.png@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/1296542412864">倒下的博阿滕</a>
+                       <span class="stime">2017-08-16 21:21:54</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="25659656" id="tipcolor605689">
+                                            <a class="ilike_icon " onclick="tipfight(20020082,605689,49);" href="javascript:;">亮了</a>(<span id="tip605689" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20020082.html" target="_blank">我也来晒晒我的全部家当！</a>
+                                        <span class="f666">(来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>咱俩的偶像现在是队友了。<br/>咱俩拍鞋的方式也可以做队友了。<p><img src="https://i10.hoopchina.com.cn/hupuapp/bbs/656/25659656/thread_25659656_20170816212130_s_3917822_o_h_3968px_w_2976px1365959695.jpeg" data-w="2976" data-h="3968"/></p><br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/16475335811029">
+        <img alt="尤行大师" src="https://i3.hoopchina.com.cn/user/481/27568481/27568481-1486643706.jpg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/16475335811029">尤行大师</a>
+                       <span class="stime">2017-08-16 19:58:36</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="27568481" id="tipcolor556758">
+                                            <a class="ilike_icon " onclick="tipfight(20019685,556758,49);" href="javascript:;">亮了</a>(<span id="tip556758" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20019685.html" target="_blank">这个pg1杜克，id效果和搭配，请指教！</a>
+                                        <span class="f666">(来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>蓝魔附体，帅的一笔<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/108654909256184">
+        <img alt="GAKKI么么哒" src="https://i3.hoopchina.com.cn/user/265/30211265/30211265-1484572504.jpg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/108654909256184">GAKKI么么哒</a>
+                       <span class="stime">2017-07-02 12:16:26</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="30211265" id="tipcolor348499">
+                                            <a class="ilike_icon " onclick="tipfight(19585863,348499,49);" href="javascript:;">亮了</a>(<span id="tip348499" class="stime" style="padding:0;">36</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/19585863.html" target="_blank">韦德之道3橙滴摆拍二图流</a>
+                                        <span class="f666">(来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>韦德之道3真没被低估，垃圾一匹，对不起300的价钱<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/90785857268635">
+        <img alt="问问去问问" src="https://i2.hoopchina.com.cn/user/143/27851143/27851143-1475322147.jpeg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/90785857268635">问问去问问</a>
+                       <span class="stime">2017-08-17 09:49:03</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="27851143" id="tipcolor810107">
+                                            <a class="ilike_icon " onclick="tipfight(20022510,810107,144);" href="javascript:;">亮了</a>(<span id="tip810107" class="stime" style="padding:0;">41</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20022510.html" target="_blank">我同学这波什么水平</a>
+                                        <span class="f666">(共5亮回帖 来自:
+                                            <a href="/recycle" target="_blank">回收站</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用2楼 @<a class="u" target="_blank" href="https://my.hupu.com/100025270029800" >全国前几丑</a> 发表的</b>:<br>……与你何干啊</p></blockquote><br>不好意思啊，就是不太喜欢这样的。<br/>另外我和那位jr不是一个小学的 我是七里香幼儿园的 这下您高兴了吗<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/194000819300434">
+        <img alt="科密爱科比" src="https://i1.hoopchina.com.cn/user/183/29649183/29649183-1502862364.jpeg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/194000819300434">科密爱科比</a>
+                       <span class="stime">2017-08-17 10:25:00</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="29649183" id="tipcolor837361">
+                                            <a class="ilike_icon " onclick="tipfight(20023181,837361,196);" href="javascript:;">亮了</a>(<span id="tip837361" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023181.html" target="_blank">这样的鞋jrs们怎么保持？</a>
+                                        <span class="f666">(来自:
+                                            <a href="/qanda" target="_blank">装备咨询问答</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>带刀上场tx<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/202451178659363">
+        <img alt="都没有我铁" src="https://i3.hoopchina.com.cn/user/61/20227061/20227061-1460812809.jpeg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/202451178659363">都没有我铁</a>
+                       <span class="stime">2017-08-15 22:17:24</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="20227061" id="tipcolor65232">
+                                            <a class="ilike_icon " onclick="tipfight(20012147,65232,49);" href="javascript:;">亮了</a>(<span id="tip65232" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20012147.html" target="_blank">关于1970s是不是大量铺货过了？</a>
+                                        <span class="f666">(来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>铺货过了还不好？<br/>之前一双普通的黄高70s价格上千还有价无市呢现在五六百随便买，多好<br/>非要讲究穿匡威穿出逼格那可以去买addict和made in japan，最近一个50s一个addict x N.HOLLYWOOD价格都已经上天了<br/>如果这还满足不了，那就去买addict 6j吧，二手的都得两三千一双<br/>匡威这个东西，真的是坑，现在大家能随便买以前的中端支线了，应该高兴才对<br/><br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/176557418516530">
+        <img alt="JConnor" src="https://i1.hoopchina.com.cn/user/358/26381358/26381358-1460691835.jpeg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/176557418516530">JConnor</a>
+                       <span class="stime">2016-03-20 23:48:45</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="26381358" id="tipcolor165867">
+                                            <a class="ilike_icon " onclick="tipfight(15773855,165867,49);" href="javascript:;">亮了</a>(<span id="tip165867" class="stime" style="padding:0;">42</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/15773855.html" target="_blank">【夜叉】四面出击，韦德之道4王者归来！超详细评测多图！</a>
+                                        <span class="f666">(共4亮回帖 来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>花了将近20分钟看完了狗哥辛苦写完的测评 只能跪谢狗哥！<br><br>关注狗哥也将近一年了不论在虎扑发帖还是微博发博都是给人一种霸道总裁的细致感。<br><br>回到测评上感觉已经面面俱到了不得不说WOW4从各个方面真是一双好鞋 配色和不同鞋面材料的搭配也是完美  可惜价格稍贵学生党有压力<br><br>ps：建议狗哥把缓震性和反应性分开写 还有音速4雾霾快上了到时候抽一点时间也测评一下啦 <img src='https://b1.hoopchina.com.cn/post/smile/icon_momo.gif'></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/236913662206577">
+        <img alt="炱燁吢" src="https://i1.hoopchina.com.cn/user/89/31124089/31124089-1493529285.jpeg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/236913662206577">炱燁吢</a>
+                       <span class="stime">2017-08-17 00:06:56</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="31124089" id="tipcolor701540">
+                                            <a class="ilike_icon " onclick="tipfight(20021241,701540,196);" href="javascript:;">亮了</a>(<span id="tip701540" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20021241.html" target="_blank">都不敢去虎扑装备区鉴定还敢说正品？</a>
+                                        <span class="f666">(共5亮回帖 来自:
+                                            <a href="/qanda" target="_blank">装备咨询问答</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>jrs，你们仔细看看，这个是滔搏而不是滔博！！！<p><img src="https://i10.hoopchina.com.cn/hupuapp/bbs/89/31124089/thread_31124089_20170817000652_s_94444_h_2560px_w_1440px654093300.png" data-w="1440" data-h="2560"/></p><br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/12724377329640">
+        <img alt="我想考上真的" src="https://i1.hoopchina.com.cn/user/708/30969708/30969708-1491919971.jpg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/12724377329640">我想考上真的</a>
+                       <span class="stime">2017-08-16 23:46:08</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="30969708" id="tipcolor690385">
+                                            <a class="ilike_icon " onclick="tipfight(20021241,690385,196);" href="javascript:;">亮了</a>(<span id="tip690385" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20021241.html" target="_blank">都不敢去虎扑装备区鉴定还敢说正品？</a>
+                                        <span class="f666">(共5亮回帖 来自:
+                                            <a href="/qanda" target="_blank">装备咨询问答</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用17楼 @<a class="u" target="_blank" href="https://my.hupu.com/199437690365489" >山西Jh13</a> 发表的</b>:<br>那他为什么说不支持虎扑鉴定呢，正品应该不怕啊？求老哥指导，🙏</p></blockquote><br>他们一定是正品网上总有傻吊 只能说他们的东西比鉴定正</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/162318054364106">
+        <img alt="飞行里约" src="https://i1.hoopchina.com.cn/user/101/27580101/27580101-1498533669.jpeg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/162318054364106">飞行里约</a>
+                       <span class="stime">2017-02-13 13:49:11</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="27580101" id="tipcolor184815">
+                                            <a class="ilike_icon " onclick="tipfight(18473467,184815,49);" href="javascript:;">亮了</a>(<span id="tip184815" class="stime" style="padding:0;">8</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/18473467.html" target="_blank">认真的aj31评测--made for flight</a>
+                                        <span class="f666">(来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>手机码字不宜，请多多支持，有错地方欢迎纠正<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/789558176520">
+        <img alt="来自中国的壮汉" src="https://i2.hoopchina.com.cn/user/457/29934457/29934457-1484623809.jpg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/789558176520">来自中国的壮汉</a>
+                       <span class="stime">2017-08-16 17:33:22</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="29934457" id="tipcolor468156">
+                                            <a class="ilike_icon " onclick="tipfight(20018620,468156,49);" href="javascript:;">亮了</a>(<span id="tip468156" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20018620.html" target="_blank">【小虎哥嗮球鞋】百分之94反对票的PG1超人配色ID终于到了 开箱</a>
+                                        <span class="f666">(共3亮回帖 来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>我不是针对你，但是这玩意<br>真的。。。。<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/79777227689740">
+        <img alt="justinliu19990" src="https://i3.hoopchina.com.cn/user/539/19353539/19353539-1483068191.jpg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/79777227689740">justinliu19990</a>
+                       <span class="stime">2017-08-17 11:38:12</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="19353539" id="tipcolor895172">
+                                            <a class="ilike_icon " onclick="tipfight(20023887,895172,49);" href="javascript:;">亮了</a>(<span id="tip895172" class="stime" style="padding:0;">8</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023887.html" target="_blank">踩一脚砍死人系列</a>
+                                        <span class="f666">(来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>白鞋都是买一送三，刚买是白鞋，穿两天变灰鞋，过俩月变黑鞋，有些鞋面氧化了还会变黄鞋 tx<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/235886874824247">
+        <img alt="猛虎巴里" src="https://i2.hoopchina.com.cn/user/543/20881543/20881543_small_2.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/235886874824247">猛虎巴里</a>
+                       <span class="stime">2017-08-17 11:55:57</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="20881543" id="tipcolor909149">
+                                            <a class="ilike_icon " onclick="tipfight(20023886,909149,49);" href="javascript:;">亮了</a>(<span id="tip909149" class="stime" style="padding:0;">9</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023886.html" target="_blank">换季折扣店44码及以上鞋子折扣基础上再6折，保罗 傻芬鞋子比安踏还便宜。</a>
+                                        <span class="f666">(来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>你们这儿这活动持续的可真久 另外 看lz自己的回复地点在江苏无锡 多说一句 不是我恶意揣测 各位有想法的 即使再想要 千万不要先款！<p><img src="https://i10.hoopchina.com.cn/hupuapp/bbs/543/20881543/thread_20881543_20170817115430_s_400231_h_1334px_w_750px1915953462.jpeg" data-w="750" data-h="1334"/></p><br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/248239054550760">
+        <img alt="威化大大饼" src="https://i1.hoopchina.com.cn/user/327/17055327/17055327_small_3.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/248239054550760">威化大大饼</a>
+                       <span class="stime">2017-08-17 11:33:22</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="17055327" id="tipcolor891280">
+                                            <a class="ilike_icon " onclick="tipfight(20023886,891280,49);" href="javascript:;">亮了</a>(<span id="tip891280" class="stime" style="padding:0;">29</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023886.html" target="_blank">换季折扣店44码及以上鞋子折扣基础上再6折，保罗 傻芬鞋子比安踏还便宜。</a>
+                                        <span class="f666">(来自:
+                                            <a href="/gear" target="_blank">运动装备</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><p><img src="https://i10.hoopchina.com.cn/hupuapp/bbs/327/17055327/thread_17055327_20170817113140_s_7892533_o_h_3024px_w_4032px382910108.jpeg" data-w="4032" data-h="3024"/></p>自己撸了三样。<br><br>保罗：359元     Mix 90： 240元   T恤：99元 <br><br>三件再8折  总共 559元。  <br><br>还要啥自行车。。。。<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+    </div><script type="text/javascript">
+      function tipfight(tid,pid,fid){
+        var state=1,authorid = $("#tipcolor"+pid).attr("mid"),token="4306b06d0c";
+        $.ajax({
+          type: "POST",
+          dataType: "json",
+          url: "/ajax/lights.ajax.php?" + Math.random(),
+          data: {tid:tid, pid:pid, state:state, authorid:authorid, fid:fid,token:token},
+          success: function(data) {
+              $("b.loading").hide();
+              if(data.code != 1){
+                  if(data.code == -1){
+                      show_login();
+                  }else{
+                      show_message("<div class='tips_pop'>"+data.msg+"</div>");
+                  }
+
+                  return false;
+              }else{
+                  $("#tip"+pid).text(data.num);
+                  if(state==1){
+                      $("#tipcolor"+pid).attr("class","red");
+                  }else{
+                      $("#fightcolor"+pid).attr("class","f666");
+                  }
+                  ga("bbs-c-highlights-click");
+              }
+          }
+        });
+      }
+      window.onload=function(){
+        var mw = 444;if(screen.width > 1152){mw = 650;}$("table.case img").each(function(){
+          if($(this).width() > mw){
+            $(this).width(mw).attr("title","点击查看原图").addClass("lightbox").click(function(){window.open($(this).attr("src"));});}});}
+    </script>         <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+                    '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+        <script type='text/javascript'>
+var pubW = screen.width>1152 ? 1200 : 990;
+if ($('#g_b').attr('data-project') != 'soccer') {
+    var other_index_c2c_ad = 'hc_newbbs_indexTop_'+pubW+'x60';
+} else {
+    var other_index_c2c_ad = 'goalhi-bbs-top-banner-'+pubW+'x60';
+}
+googletag.cmd.push(function() {
+googletag.defineSlot('/1016953/hoopchina-bbs-right-Optimus-120x600', [120, 600], 'hoopchina-bbs-right-Optimus-120x600').addService(googletag.pubads());
+googletag.defineSlot('/1016953/'+other_index_c2c_ad+'', [pubW, 60], 'other_index_c2c_ad').addService(googletag.pubads());
+googletag.defineSlot('/1016953/bbs_rightback_250x250', [250, 250], 'bbs_rightback_250x250').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+        <div class="lpub_ad" id="lpub_ad" style="display:none;left:-133px"><div id='hoopchina-bbs-right-Optimus-120x600'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('hoopchina-bbs-right-Optimus-120x600'); });</script></div>
+</div>
+    </div>
+    <!---中间 end--->
+    <!---右侧 start--->
+    <div id="indexSidebar">
+      <h3><a href="/boards.php">版块列表</a></h3>
+      <div class="list"><div class="title">
+          <h4>主版</h4>
+        </div>
+        <ul><li><a target="_blank" href="/gear">装备区</a></li><li><a target="_blank" href="/jersey">球衣区</a></li><li><a target="_blank" href="/in">潮流区</a></li></ul> <br>
+        <div class="clearfix"></div><div class="title">
+          <h4>求助</h4>
+        </div>
+        <ul><li><a target="_blank" href="/jianding">鉴定</a></li><li><a target="_blank" href="/qanda">咨询</a></li></ul> <br>
+        <div class="clearfix"></div><div class="title">
+          <h4>其他</h4>
+        </div>
+        <ul><li><a target="_blank" href="/soccer-gear">足球装备</a></li><li><a target="_blank" href="/kixDesign">手稿</a></li><li><a target="_blank" href="/gearfeedback">装备区意见受理</a></li><li><a target="_blank" href="/brandfeedback">品牌建议区</a></li></ul> <br>
+        <div class="clearfix"></div><div class="title">
+          <h4>交易</h4>
+        </div>
+        <ul><li><a target="_blank" href="/c2c">交易区</a></li><li><a target="_blank" href="/2">二手交易区</a></li><li><a target="_blank" href="/paimai">拍卖区</a></li><li><a target="_blank" href="/qiugou">求购</a></li></ul> <br>
+        <div class="clearfix"></div>
+      </div><div class="bbs-index-weixin"><div id='bbs_rightback_250x250'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('bbs_rightback_250x250'); });</script></div>
+</div>
+    </div>
+      <!---右侧 end--->
+    </div>
+
+    <div class="c2c_ad" style="display:none;"><div id='other_index_c2c_ad'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('other_index_c2c_ad'); });</script></div>
+</div>
+
+  </div>
+</div>
+</div>
+<div style="display: none;"></div>
+
+
+
+<div class="fback"><a class="btop" href="#">回顶部</a></div>
+<b id="footer-loadedError"></b>
+
+
+<div class="hp-footer">
+                    <div class="hp-copyright">虎扑（上海）文化传播股份有限公司 <a href="https://www.hupu.com/icp.html" target="_blank">沪B2-20120042</a> <a target="_blank" href="http://www.miitbeian.gov.cn">沪ICP备05037078号-13</a></div>
+                    <div class="hp-copyright">
+                    
+                    Copyright by 虎扑JRs &amp;
+                    <a href="https://www.hupu.com/" target="_blank" title="虎扑">虎扑</a> -
+                    <a href="http://jobs.hupu.com/" target="_blank">在虎扑工作</a> -
+                    <a href="http://marketing.hupu.com/contact/" target="_blank">联系我们</a> -
+                    <a href="https://m.hupu.com/" target="_blank">手机虎扑网</a> -
+                    <a href="https://mobile.hupu.com/" target="_blank">虎扑App</a> -
+                    <a href="https://www.hupu.com/policies/terms" target="_blank">服务协议</a> -
+                    <a href="https://www.hupu.com/sitemap.html" target="_blank">网站地图</a> -
+                    <a href="https://nba.hupu.com/" target="_blank" title="NBA">NBA</a> -
+                    <a href="https://cba.hupu.com/" target="_blank" title="CBA">CBA</a>  -
+                    <a href="https://soccer.hupu.com/" target="_blank" title="足球">足球</a> -
+                    <a href="https://soccer.hupu.com/china/" target="_blank" title="中超">中超</a> -
+                    <a href="http://racing.hupu.com/" target="_blank" title="赛车">赛车</a> 
+                    </div>
+                    <div class="securityPic">
+                    <a href="http://www.jhga.gov.cn/" target="_blank"><img src="https://b3.hoopchina.com.cn/images/wl_wljga.png" alt="金华市公安局网络报警"></a>
+                    <a href="http://www.zx110.org" target="_blank"><img src="https://b3.hoopchina.com.cn/images/wl_wlshzxw.png" alt="网络社会征信网"></a>
+                    <a href="http://www.shjbzx.cn/" target="_blank"><img src="https://b3.hoopchina.com.cn/images/www_jubao.png" alt="上海网络举报图片"></a>
+                    <a href="http://report.12377.cn:13225/toreportinputNormal_anis.do" target="_blank"><img src="https://b3.hoopchina.com.cn/images/www_cn_jubao.png" alt="有害信息举报图片"></a>
+                    </div>
+                </div>
+
+
+<script>
+	var countGATrackPageview = location.pathname+location.search+"'|zb/233-运动&装备/233-'";
+_common.init({project: "zb",countGASetVar: "",countGATrackPageview: countGATrackPageview});	
+</script>
+<script async="true" src="//b3.hoopchina.com.cn/pcbbs/js/g85.js?20170207"></script>
+
+<script type="text/javascript" src="https://hm.baidu.com/h.js?39fc58a7ab8a311f2f6ca4dc1222a96e" async="async"></script>
+<script>IE6 = '';</script><!--[if lte IE 6]><script>IE6 = 'sucks';</script><![endif]-->
+<script>
+    try{
+      if(window.top != window.self){
+        var topHost = top.document.location.hostname;
+        if (topHost.indexOf('hupu.com') < 0 && topHost.indexOf('liangle.com') < 0 && topHost.indexOf('shihuo.cn') < 0){
+          window.top.location.href = window.self.location.href;
+        }
+      } 
+    }catch(e){}
+
+    $(function(){
+        if ($("#lpub_ad")[0]) {
+            function findPos_top(obj) {
+                var top = obj.offsetTop || 0;
+                while (obj = obj.offsetParent) {
+                    top += obj.offsetTop;
+                }
+                return top;
+            }
+
+            function findPos_left(obj) {
+                var l = obj.offsetLeft;
+                while (obj.offsetParent != null) {
+                    obj = obj.offsetParent;
+                    l += obj.offsetLeft;
+                }
+                return l;
+            }
+
+            ifSideSticky = (IE6 == 'sucks') ? false : true;
+            var pubPos = findPos_top($("#bbs_banner")[0]) - findPos_top($("#sidenav_bbs")[0]) + 403;
+            $("#lpub_ad").css('top', pubPos + 'px');
+            $("#lpub_ad").show();
+            if (!isMobile() && ifSideSticky && document.documentElement.clientHeight > 670) {
+                var contentwitdth = $("#content").width();
+                var sideSticky = function () {
+                    var now_top = document.body.scrollTop || document.documentElement.scrollTop || 0;
+                    if (now_top > pubPos + 100) {
+                        $("#lpub_ad").attr('style', 'position: fixed; _position: absolute; top:10px;left:' + (findPos_left($("#container_padd")[0]) + 13 - document.documentElement.scrollLeft) + 'px');
+                    } else {
+                        $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                    }
+                };
+                $(window).bind('scroll', sideSticky).resize(function () {
+                    $(window).unbind("scroll");
+                    $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                });
+            }
+        }
+        if ($("div .c2c_ad")[0]) {
+            if ($(".level2header").attr('title')) {
+                $("div .c2c_ad").css('top', "-66px").show();
+            } else {
+                $("div .c2c_ad").css('top', '-114px').show();
+            }
+        }
+    })
+
+    /**
+     * check is mobile device
+     */
+    function isMobile() {
+        var userAgent = navigator.userAgent.toLowerCase(),
+                mobile = /Mobile/i.test( userAgent ) || 'ontouchstart' in document.documentElement;
+        return mobile;
+    }
+
+</script>
+</body>
+</html>
+

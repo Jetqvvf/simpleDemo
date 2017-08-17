@@ -1,0 +1,862 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<link rel="dns-prefetch" href="//b1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//b3.hoopchina.com.cn" />
+
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.hupu.com/bbs/999" />
+<meta name="mobile-agent" content="format=html5;url=https://m.hupu.com/bbs/999" />
+
+<title>万事屋 - 虎扑社区</title>
+<meta name="keywords" content="万事屋,摄影,相片,数码,胶片,影像" />
+<meta name="description" content="万事屋来自虎扑步行街社区，这里是步行街的哆啦A梦口袋，是JRs求助的万事屋，关注这里，等于多了一个人生导师。在这里，你是老师，是学生，也是朋友。" />
+<link rel="alternate" type="application/rss+xml" title="万事屋" href="/rss.php?fid=999" />
+<base href="//bbs.hupu.com" /><!--[if IE 6]></base><![endif]-->
+<link rel="canonical" href="https://bbs.hupu.com/999" />
+<link rel="alternate" href="android-app://com.hupu.games/huputiyu/bbs/board/999?r=hupucom"/>
+<script type='text/javascript'>var __daceDataNameOfForum='999';var __daceDataNameOfCategory = '174'; var __daceDataNameOfProject='bxj';var __daceDataNameOfChannel='gambia';</script>
+<meta name="apple-itunes-app" content="app-id=906632439" />
+<link rel="shortcut icon" href="//b3.hoopchina.com.cn/common/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="//b3.hoopchina.com.cn/common/common-v1.css" />
+<script src="//b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js"></script> 
+<script src="//b3.hoopchina.com.cn/common/common-v1.js"></script>
+<link rel='stylesheet' type='text/css' href='//b3.hoopchina.com.cn/css/hupu-v56.css?2017070320' />
+<link rel='apple-touch-icon' href='https://b1.hoopchina.com.cn/common/apple-touch-icon.png'/>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/pcbbs/js/j15.js"></script>
+</head>
+<body>
+<!--topbarNav star-->
+                        <div id="hp-topbarNav">
+                            <div class="hp-topbarNav-bd">
+                                <ul class="hp-quickNav">
+                                    <li class="mobileWeb"><a href="https://m.hupu.com/" target="_blank"><i class="ico-mobile"></i>手机虎扑</a></li>
+                                    <li class="line">|</li>
+                                    <li class="mobileclientDown"><a class="red" href="https://mobile.hupu.com/?_r=globalNav" target="_blank">虎扑客户端</a></li>
+                                    <li class="line">|</li>
+			                        <li><a class="red" href="https://mobile.hupu.com/football?r=global_nav" target="_blank">虎扑足球客户端</a></li>
+                                    <li class="line">|</li>
+                                    <li class="hp-dropDownMenu topFollowBlog">
+                                        <a href="javascript:void(0)" class="hp-set">关注虎扑<s class="setArrow"></s></a>
+                                        <div class="hp-drapDown followLayer">
+                                            <a class="weibo" target="_blank" rel="nofollow" href="//weibo.com/liangle4u"><i class="hp-ico-weibo"></i>新浪微博</a>
+											<a class="weixin" target="_blank" href="https://voice.hupu.com/other/1581560.html"><i class="hp-ico-weixin"></i>官方微信</a>
+                                            <a class="instagram" target="_blank" rel="nofollow" href="https://voice.hupu.com/other/1634334.html"><i class="hp-ico-instagram"></i>Instagram</a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="hp-topLogin-info"></div>
+                            </div>
+                        </div>
+                        <!--topbarNav ent--><!--header star--><div class="hp-header hp-header-B"><div class="hp-logo"><a title="步行街" href="https://bbs.hupu.com/all-gambia"><img src="https://b3.hoopchina.com.cn/images/logo2017/v1/hp_logo_sports.png" alt="步行街" /></a>
+                            </div>
+                            <div class="hp-mainNav hp-mainNav-B">
+                                <div class="hp-nav">
+                                    <div class="hp-nav-bd">
+                                        <ul class="hp-nav-item"><li><a href="https://www.hupu.com/" >虎扑首页</a></li><li class="line">|</li><li><a href="https://nba.hupu.com/" >NBA</a></li><li class="line">|</li><li><a href="https://cba.hupu.com/" >CBA</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com" >国际足球</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com/china/" >中国足球</a></li><li class="line">|</li><li><a href="http://racing.hupu.com/" >赛车</a></li><li class="line">|</li><li><a href="http://zb.hupu.com/" target="_blank">装备</a></li><li class="line">|</li><li><a href="http://www.shihuo.cn/" target="_blank">识货</a></li><li class="line">|</li><li><a href="http://v.liangle.com/" >视频</a></li><li class="line">|</li><li><a href="http://photo.hupu.com/" >图片</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/" >社区</a></li><li class="line">|</li><li class="on"><a href="https://bbs.hupu.com/all-gambia" >步行街</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/all-esports" >电竞</a></li><li class="line">|</li><li><a href="http://www.liangle.com" target="_blank">路人王</a></li><li class="line">|</li><li class="hp-dropDownMenu hp-moreNav">
+                                                <a href="javascript:void(0)" class="hp-set">更多<s class="setArrow"></s></a>
+                                                <div class="hp-drapDown hp-moreNav-drapDown"><a href="https://shop311048929.taobao.com/" target="_blank">虎扑优选</a><a href="http://www.kaluli.com/" target="_blank">卡路里</a><a href="http://outdoor.hupu.com/" >户外</a><a href="http://run.hupu.com/" >跑步</a><a href="http://ymq.hupu.com/" >羽毛球</a><a href="http://xgame.hupu.com/" target="_blank">xgames</a><a href="http://www.nflchina.com/" target="_blank">NFL</a><a href="http://golf.hupu.com/" target="_blank">高尔夫</a><s class="arrow-top"><s class="arrowbd"></s></s>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="hp-subNav">
+			<ul class="hp-subNav-item">
+                <li><a href="https://bbs.hupu.com/all-gambia">首页</a></li>
+            </ul>
+</div>
+                                <i class="hp-roundPoint-br-tl roundPoint-br-tl"></i>
+                                <i class="hp-roundPoint-br-tr roundPoint-br-tr"></i>
+                                <i class="hp-roundPoint-br-bl roundPoint-br-bl"></i>
+                                <i class="hp-roundPoint-br-br roundPoint-br-br"></i>
+                            </div>
+                        </div>
+
+
+
+
+			<div class="hp-threeNav">
+			<div class="hp-threeNav-bd">
+			<ul class="hp-threeNav-item"><li><a href='/all-gambia'  data-project='bxj' id='g_b'>步行街热帖</a></li><li ><a href='/bxj'  >步行街主干道</a></li><li ><a href='/ent'  >影视</a></li><li ><a href='/digital'  >IT数码</a></li><li ><a href='/selfie'  >爆照</a></li><li ><a href='/lol'  >英雄联盟</a></li><li ><a href='/kog'  >王者荣耀</a></li><li ><a href='/acg'  >ACG</a></li><li ><a href='/finance'  >股票</a></li><li  class="hp-hide-w1024"><a href='/cars'  >车友交流</a></li><li  class="hp-hide-w1024"><a href='/music'  >音乐</a></li><li  class="hp-hide-w1024"><a href='/xuefu'  >学府路</a></li><li  class="hp-hide-w1024"><a href='/999' class="on" >万事屋</a></li></ul></div><i id='level2header' title='首页'></i>
+				<div class="hp-search">
+					<form id="hp-form-search" method="get" enctype="multipart/form-data" action="https://my.hupu.com/search">
+						<input type="text" value="搜索视频、帖子" class="it-search" />
+						<input type="submit" value="搜索" class="btn-search" />
+					</form>
+				</div>
+			</div>
+		
+<div class="hp-wrap">
+
+
+<!--页面主体 -->
+<div id="container" class="rel"><div id="container_padd">
+<!---主体部分 start--->
+				<div id="sidenav_bbs"><div id="bbs_banner"><h4><a class="h4_t">版块分类</a></h4><ul>
+		<li id="l1" lid="1"><a href="//bbs.hupu.com/all-nba">NBA论坛</a></li>
+		<li id="l232" lid="232"><a href="//bbs.hupu.com/all-cba">CBA论坛</a></li>
+		<li id="l233" lid="233"><a href="//bbs.hupu.com/all-gear">运动&装备</a></li>
+		<li id="l198" lid="198"><a href="//bbs.hupu.com/all-soccer">国际足球论坛</a></li>
+		<li id="l4596" lid="4596"><a href="//bbs.hupu.com/all-csl">中国足球论坛</a></li>
+		<li id="l41" lid="41"><a href="//bbs.hupu.com/all-sports">综合体育</a></li><li id="l174" lid="174"><a href="//bbs.hupu.com/all-gambia">步行街</a></li>
+	<li id="l42" lid="42"><a href="//bbs.hupu.com/all-lottery">彩票中心</a></li>
+	<li id="l238" lid="238"><a href="//bbs.hupu.com/all-boards">自建版块</a></li>
+	<li id="l114" lid="114"><a href="//bbs.hupu.com/all-group">虎扑社团</a></li>
+	<li id="l7" lid="7"><a href="//bbs.hupu.com/all-feedback">站务管理</a></li>
+	</ul></div>
+				<div class="sidenav_pop_tips"><p class="more"><a href="//bbs.hupu.com/boards.php">更多版块 &raquo;</a></p></div>
+				
+				</div>
+<!---右侧 start--->
+
+<div id="content">
+<!--头部-->
+
+<div itemscope itemtype="http://schema.org/WebPage" class="bbs_head">
+<div itemprop="breadcrumb" class="breadCrumbs"><a href="/">社区</a>&nbsp;&raquo;&nbsp;<a href="/all-gambia">步行街</a></div>
+
+<div class="right"><form id="forum_see" method="get" enctype="multipart/form-data" name="forum_see" action="//my.hupu.com/search"><input type="hidden" name='fid' value='999' /><input type="hidden" name='type' value='topic' /><input id="search_thread" name="q" type="text" class="tabs_input" value="搜索本版帖子" title="搜索万事屋的帖子" /><input type="submit" value="" class="tabs_btn" /></form></div>
+<div id="googlepub" class="right" style="margin-right:5px;"></div>
+<h1 class="left"><span id="forumname" fid="999" fidurl="999">万事屋</span>
+
+</h1>&nbsp;
+<div class="clearfix" style="*height:0;"></div>
+
+<div class="pl_nav ">
+
+
+<span class="pl_d">&nbsp;</span><div class="pl_top">
+版块介绍：<span id="des_forum">这里是步行街的哆啦A梦口袋，是JRs求助的万事屋，关注这里，等于多了一个人生导师。在这里，你是老师，是学生，也是朋友。</span><br />
+
+版主：<a class="u" target="_blank" href="https://my.hupu.com/18199551720363">assholeeric</a><span class="f666"></span> <a class="u" target="_blank" href="https://my.hupu.com/c171148772">尤文图斯10号</a><span class="f666">(实习)</span> <a class="u" target="_blank" href="https://my.hupu.com/188833670115234">退热微粒子</a><span class="f666">(实习)</span> <a class="u" target="_blank" href="https://my.hupu.com/68772106695581">old_11</a><span class="f666">(实习)</span> </div>
+
+
+<script type='text/javascript'>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') +
+				'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script>
+<script type='text/javascript'>
+var adwidth = screen.width>1152 ? 1020 : 810;
+googletag.cmd.push(function() {
+googletag.defineSlot('/1016953/nba_bbs_list_right_320x60', [320, 60], 'bbs_list_right_320x60').addService(googletag.pubads());
+googletag.defineSlot('/1016953/hoopchina-bbs-right-Optimus-120x600', [120, 600], 'hoopchina-bbs-right-Optimus-120x600').addService(googletag.pubads());
+googletag.defineSlot('/1016953/nba_bbs_list_1x1', [1, 1], 'bbs_list_1x1').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+
+
+</div>
+
+
+<div class="clearfix" style="*height:0;"></div>
+</div>
+<!--头部END-->
+<!---标签页 start--->
+<div class="tabs_header zoom" id="tabs_header">
+<ul class="left">
+<li class="selected"><a href="/999">主题</a></li><li><a href="/999-digest">精华</a></li><li><a title="今日4个亮回帖" href="/999/highlights">亮了(4)</a></li>
+
+<li><a href="/999/members">成员</a></li>
+
+</ul>
+
+<div class="right">
+
+<a id="g_n" class="issue_button" rel="nofollow me noopener noreferrer" href="/post.php?fid=999">发新帖</a>
+</div>
+
+<div class="clearfix tabs_border"></div>
+
+</div>
+<!---标签页 end---><!--内容分类-->
+<div id="sort">
+<div class="fr">
+<form style="display:inline">
+<select id="orderway" style="vertical-align:middle; _vertical-align:top;">
+
+<option value="null" selected>排序方式</option>
+<option value="lastpost">按回帖时间排序</option>
+<option value="postdate">按发帖时间排序</option>
+
+</select></form>
+</div>
+
+<div class="clearfix" style="*height:0;"></div>
+</div>
+<!--内容分类END--><!--帖子列表-->
+
+<table id="pl" class="bbstopic ptable topiclisttr" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+	<th>&nbsp;</th>
+	<th align="left">主题</th>
+	<th align="left" width="100">作者</th>
+	<th width="110">回复 / 浏览</th>
+	<th align="left" width="85">最后回复</th>
+</tr><tbody>
+
+<tr mid="19367835"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19367835sh"></div>
+
+<font style="color:#b50000">[置顶]</font> <a id="" href="/19367835.html"><b><font color=red>万事屋版规（禁止求募捐、广告、淘宝、色情资源、盗版资源等）</font></b></a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/272380999276581">虎扑团队</a><br />2017-06-05</td><td class="p_re">0 / 2947</td><td class="p_retime"><a href="/19367835.html#o" title="查看最后回复">06-05</a><br />虎扑体育</td></tr>
+
+<tr mid="20023911"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023911sh"></div>
+
+ <a id="" href="/20023911.html">书荒。爱看小说的老哥都进来说说？有狐狸。</a>
+
+ [ <span class="multipage"> <a href="/20023911-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/9721443348488">侠盗小王子</a><br />2017-08-17</td><td class="p_re">30 / 831</td><td class="p_retime"><a href="/20023911-2.html#o" title="查看最后回复">13:17</a><br />气个名这么南</td></tr>
+
+<tr mid="20020370"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20020370sh"></div>
+
+ <a id="" href="/20020370.html">求助各位jr们，伦纳德8.18在北京的见面会有没有什么便宜点的购票渠道？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/47059522037499">浪子cp不回头</a><br />2017-08-16</td><td class="p_re">1 / 47</td><td class="p_retime"><a href="/20020370.html#o" title="查看最后回复">13:13</a><br />十年一见我篮球</td></tr>
+
+<tr mid="20024685"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024685sh"></div>
+
+ <a id="" href="/20024685.html">怎么才能忘了她</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/84859164656252">6:57am</a><br />2017-08-17</td><td class="p_re">0 / 8</td><td class="p_retime"><a href="/20024685.html#o" title="查看最后回复">13:12</a><br />6:57am</td></tr>
+
+<tr mid="20020845"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20020845sh"></div>
+
+ <a id="" href="/20020845.html">看图猜车</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/1461870598737">人走菊花开</a><br />2017-08-16</td><td class="p_re">17 / 906</td><td class="p_retime"><a href="/20020845.html#o" title="查看最后回复">13:07</a><br />超人小内裤</td></tr>
+
+<tr mid="20020047"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20020047sh"></div>
+
+ <a id="" href="/20020047.html">小弟姓马，开学大一想改个名字，求于步行街众文豪</a>
+
+<span class="light_r "><a title="有3个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/20020047-2.html">2</a> <a href="/20020047-3.html">3</a> .. <a href="/20020047-8.html">8</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/97098707314818">vbvgvvbbb</a><br />2017-08-16</td><td class="p_re">158 / 6538</td><td class="p_retime"><a href="/20020047-8.html#o" title="查看最后回复">12:59</a><br />足下万里</td></tr>
+
+<tr mid="20015440"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20015440sh"></div>
+
+ <a id="" href="/20015440.html">七夕快到了 ，给媳妇儿送哪款鞋子比较合适啊  千元内的？</a>
+
+<span class="light_r "><a title="有8个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/20015440-2.html">2</a> <a href="/20015440-3.html">3</a> .. <a href="/20015440-15.html">15</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/ever7">ever7</a><br />2017-08-16</td><td class="p_re">280 / 66969</td><td class="p_retime"><a href="/20015440-15.html#o" title="查看最后回复">12:56</a><br />我们不会反驳你们的</td></tr>
+
+<tr mid="20024535"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024535sh"></div>
+
+ <a id="" href="/20024535.html">求助各位JRS，女朋友在外地，手机被偷怎么处理？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/119341497759364">Huroment</a><br />2017-08-17</td><td class="p_re">0 / 6</td><td class="p_retime"><a href="/20024535.html#o" title="查看最后回复">12:54</a><br />Huroment</td></tr>
+
+<tr mid="20024293"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024293sh"></div>
+
+ <a id="" href="/20024293.html">打球不小心把手指打折了，请家人们帮我看看，有福利</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/139546052653806">Ranen某李</a><br />2017-08-17</td><td class="p_re">2 / 32</td><td class="p_retime"><a href="/20024293.html#o" title="查看最后回复">12:52</a><br />叭了个卟</td></tr>
+
+<tr mid="20017621"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20017621sh"></div>
+
+ <a id="" href="/20017621.html">我又来求P图了，朋友在朋友圈求助。</a>
+
+ [ <span class="multipage"> <a href="/20017621-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/107864845441308">老司机吴亦凡</a><br />2017-08-16</td><td class="p_re">36 / 2834</td><td class="p_retime"><a href="/20017621-2.html#o" title="查看最后回复">12:45</a><br />vodaphone</td></tr>
+
+<tr mid="20024457"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024457sh"></div>
+
+ <a id="" href="/20024457.html">求助各位老铁，想买台跑步机....</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/213872098592663">听力38分</a><br />2017-08-17</td><td class="p_re">0 / 4</td><td class="p_retime"><a href="/20024457.html#o" title="查看最后回复">12:45</a><br />听力38分</td></tr>
+
+<tr mid="20022447"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20022447sh"></div>
+
+ <a id="" href="/20022447.html">男JRS，女JRS请你们摸着良心回答这个问题</a>
+
+ [ <span class="multipage"> <a href="/20022447-2.html">2</a> <a href="/20022447-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/239849173853027">图样图森破619</a><br />2017-08-17</td><td class="p_re">40 / 2349</td><td class="p_retime"><a href="/20022447-3.html#o" title="查看最后回复">12:36</a><br />熊猫猫是美雁雁</td></tr>
+
+<tr mid="20024317"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024317sh"></div>
+
+ <a id="" href="/20024317.html">求一个表情包</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/162664791669931">时间里的南山南</a><br />2017-08-17</td><td class="p_re">2 / 95</td><td class="p_retime"><a href="/20024317.html#o" title="查看最后回复">12:33</a><br />dzq6666</td></tr>
+
+<tr mid="20018786"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20018786sh"></div>
+
+ <a id="" href="/20018786.html">想推荐几首歌给女孩子，老铁们出出主意。</a>
+
+ [ <span class="multipage"> <a href="/20018786-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/216781140022382">z梦回大唐</a><br />2017-08-16</td><td class="p_re">29 / 596</td><td class="p_retime"><a href="/20018786-2.html#o" title="查看最后回复">12:29</a><br />木登陈</td></tr>
+
+<tr mid="20024097"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024097sh"></div>
+
+ <a id="" href="/20024097.html">请假jr,2k17在哪下载比较好?</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/57319155793097">追赶被遗失的美好</a><br />2017-08-17</td><td class="p_re">15 / 549</td><td class="p_retime"><a href="/20024097.html#o" title="查看最后回复">12:19</a><br />大叔罗</td></tr>
+
+<tr mid="20017251"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20017251sh"></div>
+
+ <a id="" href="/20017251.html">福州的JR 告诉我该怎么玩福州吧</a>
+
+<span class="light_r "><a title="有1个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/20017251-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/167716126913131">一只特立独行的JR</a><br />2017-08-16</td><td class="p_re">33 / 996</td><td class="p_retime"><a href="/20017251-2.html#o" title="查看最后回复">12:17</a><br />核武一族副族长</td></tr>
+
+<tr mid="20024238"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024238sh"></div>
+
+ <a id="" href="/20024238.html">要被气炸了。。这QAF字幕组领导层真的是生活中的孤儿</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/218725455083693">CQ德韦恩韦德</a><br />2017-08-17</td><td class="p_re">0 / 5</td><td class="p_retime"><a href="/20024238.html#o" title="查看最后回复">12:16</a><br />CQ德韦恩韦德</td></tr>
+
+<tr mid="20023629"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023629sh"></div>
+
+ <a id="" href="/20023629.html">求大神帮我找首日文歌</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/114776331631868">乔丹我儿子</a><br />2017-08-17</td><td class="p_re">17 / 291</td><td class="p_retime"><a href="/20023629.html#o" title="查看最后回复">12:14</a><br />乔丹我儿子</td></tr>
+
+<tr mid="20017792"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20017792sh"></div>
+
+ <a id="" href="/20017792.html">烟台莱山，青岛黄岛，青岛即墨区分别有什么好吃好玩的啊？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/203955837546400">摆地摊卖草鞋</a><br />2017-08-16</td><td class="p_re">8 / 149</td><td class="p_retime"><a href="/20017792.html#o" title="查看最后回复">12:06</a><br />家住烟台以西</td></tr>
+
+<tr mid="20017036"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20017036sh"></div>
+
+ <a id="" href="/20017036.html">轮到我了，老婆快生了。孟姓如何取女孩名字。。。男孩的我已经取好了！</a>
+
+<span class="light_r "><a title="有10个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/20017036-2.html">2</a> <a href="/20017036-3.html">3</a> .. <a href="/20017036-33.html">33</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/47077401019051">输赢都是LBJ</a><br />2017-08-16</td><td class="p_re">658 / 46878</td><td class="p_retime"><a href="/20017036-33.html#o" title="查看最后回复">12:01</a><br />jay3005</td></tr>
+
+<tr mid="20018405"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20018405sh"></div>
+
+ <a id="" href="/20018405.html">家人们，帮忙选下offer。</a>
+
+ [ <span class="multipage"> <a href="/20018405-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/236534040797220">开除科籍</a><br />2017-08-16</td><td class="p_re">38 / 2282</td><td class="p_retime"><a href="/20018405-2.html#o" title="查看最后回复">11:58</a><br />老柴龟</td></tr>
+
+<tr mid="20024098"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024098sh"></div>
+
+ <a id="" href="/20024098.html">iphone手机虎扑界面可以推荐帖子的？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/171805469406159">大白SNAKE</a><br />2017-08-17</td><td class="p_re">0 / 3</td><td class="p_retime"><a href="/20024098.html#o" title="查看最后回复">11:55</a><br />大白SNAKE</td></tr>
+
+<tr mid="20023978"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023978sh"></div>
+
+ <a id="" href="/20023978.html">有哪位好心的JR给我推荐一个学英语的APP！（有福利）</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/rechayezi">rechaye</a><br />2017-08-17</td><td class="p_re">4 / 62</td><td class="p_retime"><a href="/20023978.html#o" title="查看最后回复">11:47</a><br />rechaye</td></tr>
+
+<tr mid="20018845"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20018845sh"></div>
+
+ <a id="" href="/20018845.html">该取什么标题，你才会点进来？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/107441780771869">人生啊坑爹</a><br />2017-08-16</td><td class="p_re">5 / 168</td><td class="p_retime"><a href="/20018845.html#o" title="查看最后回复">11:47</a><br />瑶瑶酱</td></tr>
+
+<tr mid="20019164"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20019164sh"></div>
+
+ <a id="" href="/20019164.html">牙掉了一块咋办</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/51204454938024">金州环卫</a><br />2017-08-16</td><td class="p_re">1 / 15</td><td class="p_retime"><a href="/20019164.html#o" title="查看最后回复">11:46</a><br />瑶瑶酱</td></tr>
+
+<tr mid="20023991"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023991sh"></div>
+
+ <a id="" href="/20023991.html">求助各位，该怎么办</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/66070133708764">喂卫喂</a><br />2017-08-17</td><td class="p_re">0 / 1</td><td class="p_retime"><a href="/20023991.html#o" title="查看最后回复">11:42</a><br />喂卫喂</td></tr>
+
+<tr mid="20018328"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20018328sh"></div>
+
+ <a id="" href="/20018328.html">有没有比较耐玩儿的iOS游戏，求推荐</a>
+
+ [ <span class="multipage"> <a href="/20018328-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/83258272678260">风吹麦浪浪打浪</a><br />2017-08-16</td><td class="p_re">35 / 2388</td><td class="p_retime"><a href="/20018328-2.html#o" title="查看最后回复">11:42</a><br />哈哈哈士骑</td></tr>
+
+<tr mid="20014405"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20014405sh"></div>
+
+ <a id="" href="/20014405.html">有没有女jr进来推荐下女士香水。。</a>
+
+ [ <span class="multipage"> <a href="/20014405-2.html">2</a> <a href="/20014405-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/126023920449996">tmacjjh</a><br />2017-08-16</td><td class="p_re">41 / 1595</td><td class="p_retime"><a href="/20014405-3.html#o" title="查看最后回复">11:41</a><br />希望路超模</td></tr>
+
+<tr mid="20017028"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20017028sh"></div>
+
+ <a id="" href="/20017028.html">大神们知道这是什么东西吗？</a>
+
+ [ <span class="multipage"> <a href="/20017028-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/32618156778556">漫步洛克</a><br />2017-08-16</td><td class="p_re">24 / 963</td><td class="p_retime"><a href="/20017028-2.html#o" title="查看最后回复">11:28</a><br />不是所有故事都有后来</td></tr>
+
+<tr mid="20017891"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20017891sh"></div>
+
+ <a id="" href="/20017891.html">老婆月底就生了，潘姓如何取名字，愁死了，这字可真不好取啊。。。</a>
+
+<span class="light_r "><a title="有8个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/20017891-2.html">2</a> <a href="/20017891-3.html">3</a> .. <a href="/20017891-26.html">26</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/208613694516632">ばかやろう</a><br />2017-08-16</td><td class="p_re">509 / 30042</td><td class="p_retime"><a href="/20017891-26.html#o" title="查看最后回复">11:27</a><br />ばかやろう</td></tr>
+
+<tr mid="20019450"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20019450sh"></div>
+
+ <a id="" href="/20019450.html">小弟姓舒，宝宝出生，孩子应该取什么名字好？</a>
+
+ [ <span class="multipage"> <a href="/20019450-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/4408262858437">拐角刀削面</a><br />2017-08-16</td><td class="p_re">21 / 277</td><td class="p_retime"><a href="/20019450-2.html#o" title="查看最后回复">11:23</a><br />不是所有故事都有后来</td></tr>
+
+<tr mid="20023690"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023690sh"></div>
+
+ <a id="" href="/20023690.html">想买个手机只用来接电话以及收短信的～</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/31297401479233">m_paul</a><br />2017-08-17</td><td class="p_re">1 / 5</td><td class="p_retime"><a href="/20023690.html#o" title="查看最后回复">11:10</a><br />m_paul</td></tr>
+
+<tr mid="20015808"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20015808sh"></div>
+
+ <a id="" href="/20015808.html">求南京jrs推荐当地美食</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/76328568277849">蘑菇帝国</a><br />2017-08-16</td><td class="p_re">1 / 14</td><td class="p_retime"><a href="/20015808.html#o" title="查看最后回复">11:07</a><br />24-17</td></tr>
+
+<tr mid="19974178"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19974178sh"></div>
+
+ <a id="" href="/19974178.html">有没有了解消防工程师的</a>
+
+ [ <span class="multipage"> <a href="/19974178-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/30269628998990">hk19871113</a><br />2017-08-11</td><td class="p_re">23 / 518</td><td class="p_retime"><a href="/19974178-2.html#o" title="查看最后回复">11:06</a><br />hk19871113</td></tr>
+
+<tr mid="20020089"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20020089sh"></div>
+
+ <a id="" href="/20020089.html">有没有去年过了司考的jrs？卷四第一大题该怎么准备啊？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/279455775277546">古德洛克的世界</a><br />2017-08-16</td><td class="p_re">9 / 123</td><td class="p_retime"><a href="/20020089.html#o" title="查看最后回复">10:58</a><br />林书纬</td></tr>
+
+<tr mid="20023553"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023553sh"></div>
+
+ <a id="" href="/20023553.html">搬新房，求老哥推荐下电视机、冰箱、洗衣机</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/268763275144976">格雷格奥斯特塔格</a><br />2017-08-17</td><td class="p_re">1 / 6</td><td class="p_retime"><a href="/20023553.html#o" title="查看最后回复">10:56</a><br />格雷格奥斯特塔格</td></tr>
+
+<tr mid="20023494"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023494sh"></div>
+
+ <a id="" href="/20023494.html">怎么养发！就是防脱发掉发</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/274219844500046">陌路旧梦</a><br />2017-08-17</td><td class="p_re">0 / 9</td><td class="p_retime"><a href="/20023494.html#o" title="查看最后回复">10:47</a><br />陌路旧梦</td></tr>
+
+<tr mid="20020391"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20020391sh"></div>
+
+ <a id="" href="/20020391.html">懂德语的jr进！</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/174610257506751">北海街库里</a><br />2017-08-16</td><td class="p_re">13 / 174</td><td class="p_retime"><a href="/20020391.html#o" title="查看最后回复">10:42</a><br />RRRaitle</td></tr>
+
+<tr mid="19933609"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19933609sh"></div>
+
+ <a id="" href="/19933609.html">求问JR 今天NBA中国赛什么时候开始网上售票？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/144847373258673">Tsc6</a><br />2017-08-06</td><td class="p_re">10 / 434</td><td class="p_retime"><a href="/19933609.html#o" title="查看最后回复">10:41</a><br />小麦世界X</td></tr>
+
+<tr mid="20017870"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20017870sh"></div>
+
+ <a id="" href="/20017870.html">有没有去过嵊泗列岛的，求助</a>
+
+ [ <span class="multipage"> <a href="/20017870-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/hehe90809">iruic</a><br />2017-08-16</td><td class="p_re">22 / 533</td><td class="p_retime"><a href="/20017870-2.html#o" title="查看最后回复">10:35</a><br />逼两拳三五瓶</td></tr>
+
+<tr mid="19879813"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19879813sh"></div>
+
+ <a id="" href="/19879813.html">半月板撕裂求助，上海医院求推荐</a>
+
+ [ <span class="multipage"> <a href="/19879813-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/224961600047128">wcf2723</a><br />2017-07-31</td><td class="p_re">29 / 759</td><td class="p_retime"><a href="/19879813-2.html#o" title="查看最后回复">10:31</a><br />wcf2723</td></tr>
+
+<tr mid="20017020"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20017020sh"></div>
+
+ <a id="" href="/20017020.html">没有小说看了，求万能jr推荐。lz是那种只看网络小说的俗人。</a>
+
+ [ <span class="multipage"> <a href="/20017020-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/221456205364168">不过日天</a><br />2017-08-16</td><td class="p_re">25 / 845</td><td class="p_retime"><a href="/20017020-2.html#o" title="查看最后回复">10:28</a><br />8科比24神</td></tr>
+
+<tr mid="20023273"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023273sh"></div>
+
+ <a id="" href="/20023273.html">想买一台笔记本，5000以内，求推荐</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/243016623044944">西边的沙枣</a><br />2017-08-17</td><td class="p_re">0 / 13</td><td class="p_retime"><a href="/20023273.html#o" title="查看最后回复">10:24</a><br />西边的沙枣</td></tr>
+
+<tr mid="20016884"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20016884sh"></div>
+
+ <a id="" href="/20016884.html">一座山名和人名</a>
+
+ [ <span class="multipage"> <a href="/20016884-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/57642770724973">少波波</a><br />2017-08-16</td><td class="p_re">20 / 376</td><td class="p_retime"><a href="/20016884-2.html#o" title="查看最后回复">10:15</a><br />核武一族副族长</td></tr>
+
+<tr mid="20022686"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20022686sh"></div>
+
+ <a id="" href="/20022686.html">求助jr 推荐一双好看的鞋</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/119203561010311">leon_lzj</a><br />2017-08-17</td><td class="p_re">1 / 11</td><td class="p_retime"><a href="/20022686.html#o" title="查看最后回复">10:10</a><br />leon_lzj</td></tr>
+
+<tr mid="20023119"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023119sh"></div>
+
+ <a id="" href="/20023119.html">除了QQ旋风。还有哪些好用的下载软件？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/youngme">2亿齐飞</a><br />2017-08-17</td><td class="p_re">0 / 3</td><td class="p_retime"><a href="/20023119.html#o" title="查看最后回复">10:06</a><br />2亿齐飞</td></tr>
+
+<tr mid="20023106"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023106sh"></div>
+
+ <a id="" href="/20023106.html">哪位老哥有被永久禁言过，多少级了。</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/88844534665187">戈壁老王</a><br />2017-08-17</td><td class="p_re">0 / 10</td><td class="p_retime"><a href="/20023106.html#o" title="查看最后回复">10:04</a><br />戈壁老王</td></tr>
+
+<tr mid="19983995"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19983995sh"></div>
+
+ <a id="" href="/19983995.html">求助！健身房不能洗澡怎么办（有福利）</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/63066815085549">肌肉男大爱韦德</a><br />2017-08-12</td><td class="p_re">4 / 261</td><td class="p_retime"><a href="/19983995.html#o" title="查看最后回复">09:48</a><br />白斩鸡真好吃</td></tr>
+
+<tr mid="19769005"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19769005sh"></div>
+
+ <a id="" href="/19769005.html">求一部香港电影的名字，好像主演有刘青云陈小春吴彦祖古天乐</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/zth286788109">篮球比筐大</a><br />2017-07-21</td><td class="p_re">7 / 279</td><td class="p_retime"><a href="/19769005.html#o" title="查看最后回复">09:46</a><br />CraCKle</td></tr>
+
+<tr mid="20015349"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20015349sh"></div>
+
+ <a id="" href="/20015349.html">求助新人去健身房有什么要注意的。</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/274004131397010">9298</a><br />2017-08-16</td><td class="p_re">1 / 21</td><td class="p_retime"><a href="/20015349.html#o" title="查看最后回复">09:46</a><br />白斩鸡真好吃</td></tr>
+
+<tr mid="20019038"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20019038sh"></div>
+
+ <a id="" href="/20019038.html">书荒.各位jrs推荐一下好看的小说呗</a>
+
+ [ <span class="multipage"> <a href="/20019038-2.html">2</a> <a href="/20019038-3.html">3</a> <a href="/20019038-4.html">4</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/94475564865427">我等韦德退役QAQ</a><br />2017-08-16</td><td class="p_re">66 / 1864</td><td class="p_retime"><a href="/20019038-4.html#o" title="查看最后回复">09:28</a><br />长江以北我悦最美</td></tr>
+</tbody></table>
+<!--帖子列表END-->
+
+<div class="rss"><a target="_blank" href="/rss.php?fid=999" title="通过RSS订阅万事屋的帖子">rss</a></div>
+
+<div class="page"><span class="selected">1</span><a href="/999-2">2</a><a href="/999-3">3</a><a href="/999-4">4</a><a href="/999-5">5</a>...<a href="/999-100">100</a> <input type='text' title='输入页码数，回车即可到达指定页码' onkeydown="if(event.keyCode==13){location='/999-'+this.value+'';return false}"><a id="j_next" class="next" href="/999-2">下一页&raquo;</a><span class="f666">万事屋共8806主题 / 47566回复 &nbsp;今日179帖</span></div>
+
+<!---主体部分 end--->
+
+<div class="pub_ad">
+    <div id='bbs_list_right_320x60'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('bbs_list_right_320x60'); });</script></div>
+
+</div>
+
+
+	<div class="lpub_ad" id="lpub_ad" style="display:none;left:-133px"><div id='hoopchina-bbs-right-Optimus-120x600'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('hoopchina-bbs-right-Optimus-120x600'); });</script></div>
+</div>
+</div>
+</div></div>
+<!--内容END--><!--页面主体END-->
+
+</div><div class="pop" style="width:420px;display:none;" id="rm_div_msg"><div class="pop_content"><h2 class="mpop"><a onclick="closepop()"></a>推荐版块</h2><ul class="pop_commend"><form name="rm_form"><li>推荐语：</li><li><textarea name="tjmsg" id="tjmsg" class="j_enter"></textarea></li><li><input name="cid" id="cid" type="hidden" value="999" /><input name="fid" type="hidden" value="999" /><input name="Input2" type="button" class="btns2 j_tjmsg" id="j_recs" value="推 荐" /> &nbsp; &nbsp;<input name="Input2" type="button" class="btnb2" value="取 消" onclick="closepop()" /></li></form></ul></div></div>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/pcbbs/js/thread22.js?2017040115"></script>
+
+
+<div style="display: none">
+<div id='bbs_list_1x1'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('bbs_list_1x1'); });</script></div>
+</div>
+
+
+
+<div class="fback"><a class="btop" href="#">回顶部</a></div>
+<b id="footer-loadedError"></b>
+
+
+<div class="hp-footer">
+                    
+                    <div class="hp-copyright">
+                    
+                    Copyright by 虎扑JRs &amp;
+                    <a href="https://www.hupu.com/" target="_blank" title="虎扑">虎扑</a> -
+                    <a href="http://jobs.hupu.com/" target="_blank">在虎扑工作</a> -
+                    <a href="http://marketing.hupu.com/contact/" target="_blank">联系我们</a> -
+                    <a href="https://m.hupu.com/" target="_blank">手机虎扑网</a> -
+                    <a href="https://mobile.hupu.com/" target="_blank">虎扑App</a> -
+                    <a href="https://www.hupu.com/policies/terms" target="_blank">服务协议</a> -
+                    <a href="https://www.hupu.com/sitemap.html" target="_blank">网站地图</a> -
+                    <a href="https://nba.hupu.com/" target="_blank" title="NBA">NBA</a> -
+                    <a href="https://cba.hupu.com/" target="_blank" title="CBA">CBA</a>  -
+                    <a href="https://soccer.hupu.com/" target="_blank" title="足球">足球</a> -
+                    <a href="https://soccer.hupu.com/china/" target="_blank" title="中超">中超</a> -
+                    <a href="http://racing.hupu.com/" target="_blank" title="赛车">赛车</a> 
+                    </div>
+                    
+                </div>
+
+
+<script>
+	var countGATrackPageview = location.pathname+location.search+"'|bxj/174-步行街/999-万事屋'";
+_common.init({project: "bxj",countGASetVar: "",countGATrackPageview: countGATrackPageview});	
+</script>
+<script async="true" src="//b3.hoopchina.com.cn/pcbbs/js/g85.js?20170207"></script>
+
+<script type="text/javascript" src="https://hm.baidu.com/h.js?39fc58a7ab8a311f2f6ca4dc1222a96e" async="async"></script>
+<script>IE6 = '';</script><!--[if lte IE 6]><script>IE6 = 'sucks';</script><![endif]-->
+<script>
+    try{
+      if(window.top != window.self){
+        var topHost = top.document.location.hostname;
+        if (topHost.indexOf('hupu.com') < 0 && topHost.indexOf('liangle.com') < 0 && topHost.indexOf('shihuo.cn') < 0){
+          window.top.location.href = window.self.location.href;
+        }
+      } 
+    }catch(e){}
+
+    $(function(){
+        if ($("#lpub_ad")[0]) {
+            function findPos_top(obj) {
+                var top = obj.offsetTop || 0;
+                while (obj = obj.offsetParent) {
+                    top += obj.offsetTop;
+                }
+                return top;
+            }
+
+            function findPos_left(obj) {
+                var l = obj.offsetLeft;
+                while (obj.offsetParent != null) {
+                    obj = obj.offsetParent;
+                    l += obj.offsetLeft;
+                }
+                return l;
+            }
+
+            ifSideSticky = (IE6 == 'sucks') ? false : true;
+            var pubPos = findPos_top($("#bbs_banner")[0]) - findPos_top($("#sidenav_bbs")[0]) + 403;
+            $("#lpub_ad").css('top', pubPos + 'px');
+            $("#lpub_ad").show();
+            if (!isMobile() && ifSideSticky && document.documentElement.clientHeight > 670) {
+                var contentwitdth = $("#content").width();
+                var sideSticky = function () {
+                    var now_top = document.body.scrollTop || document.documentElement.scrollTop || 0;
+                    if (now_top > pubPos + 100) {
+                        $("#lpub_ad").attr('style', 'position: fixed; _position: absolute; top:10px;left:' + (findPos_left($("#container_padd")[0]) + 13 - document.documentElement.scrollLeft) + 'px');
+                    } else {
+                        $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                    }
+                };
+                $(window).bind('scroll', sideSticky).resize(function () {
+                    $(window).unbind("scroll");
+                    $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                });
+            }
+        }
+        if ($("div .c2c_ad")[0]) {
+            if ($(".level2header").attr('title')) {
+                $("div .c2c_ad").css('top', "-66px").show();
+            } else {
+                $("div .c2c_ad").css('top', '-114px').show();
+            }
+        }
+    })
+
+    /**
+     * check is mobile device
+     */
+    function isMobile() {
+        var userAgent = navigator.userAgent.toLowerCase(),
+                mobile = /Mobile/i.test( userAgent ) || 'ontouchstart' in document.documentElement;
+        return mobile;
+    }
+
+</script>
+</body>
+</html>
+

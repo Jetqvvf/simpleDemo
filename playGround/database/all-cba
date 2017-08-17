@@ -1,0 +1,1384 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<link rel="dns-prefetch" href="//b1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//b3.hoopchina.com.cn" />
+
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.hupu.com/bbs" />
+<meta name="mobile-agent" content="format=html5;url=https://m.hupu.com/bbs" />
+
+<title>CBA论坛 - 虎扑社区</title>
+<meta name="keywords" content="CBA论坛" />
+<meta name="description" content="CBA论坛来自虎扑篮球论坛." />
+<base href="//bbs.hupu.com" /><!--[if IE 6]></base><![endif]-->
+<script type='text/javascript'>var __daceDataNameOfForum='232';var __daceDataNameOfCategory = '232'; var __daceDataNameOfProject='basketball';var __daceDataNameOfChannel='cba';</script>
+<meta name="apple-itunes-app" content="app-id=906632439" />
+<link rel="shortcut icon" href="//b3.hoopchina.com.cn/common/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="//b3.hoopchina.com.cn/common/common-v1.css" />
+<script src="//b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js"></script> 
+<script src="//b3.hoopchina.com.cn/common/common-v1.js"></script>
+<link rel='stylesheet' type='text/css' href='//b3.hoopchina.com.cn/css/hupu-v56.css?2017070320' />
+<link rel='apple-touch-icon' href='https://b1.hoopchina.com.cn/common/apple-touch-icon.png'/>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/pcbbs/js/j15.js"></script>
+</head>
+<body>
+<!--topbarNav star-->
+                        <div id="hp-topbarNav">
+                            <div class="hp-topbarNav-bd">
+                                <ul class="hp-quickNav">
+                                    <li class="mobileWeb"><a href="https://m.hupu.com/" target="_blank"><i class="ico-mobile"></i>手机虎扑</a></li>
+                                    <li class="line">|</li>
+                                    <li class="mobileclientDown"><a class="red" href="https://mobile.hupu.com/?_r=globalNav" target="_blank">虎扑客户端</a></li>
+                                    <li class="line">|</li>
+			                        <li><a class="red" href="https://mobile.hupu.com/football?r=global_nav" target="_blank">虎扑足球客户端</a></li>
+                                    <li class="line">|</li>
+                                    <li class="hp-dropDownMenu topFollowBlog">
+                                        <a href="javascript:void(0)" class="hp-set">关注虎扑<s class="setArrow"></s></a>
+                                        <div class="hp-drapDown followLayer">
+                                            <a class="weibo" target="_blank" rel="nofollow" href="//weibo.com/liangle4u"><i class="hp-ico-weibo"></i>新浪微博</a>
+											<a class="weixin" target="_blank" href="https://voice.hupu.com/other/1581560.html"><i class="hp-ico-weixin"></i>官方微信</a>
+                                            <a class="instagram" target="_blank" rel="nofollow" href="https://voice.hupu.com/other/1634334.html"><i class="hp-ico-instagram"></i>Instagram</a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="hp-topLogin-info"></div>
+                            </div>
+                        </div>
+                        <!--topbarNav ent--><!--header star--><div class="hp-header hp-header-A"><div class="hp-logo"><a title="虎扑篮球" href="https://cba.hupu.com/"><img src="https://b3.hoopchina.com.cn/images/logo2017/v1/hp_logo_nba.png" alt="CBA" /></a>
+                            </div>
+                            <div class="hp-mainNav hp-mainNav-B">
+                                <div class="hp-nav">
+                                    <div class="hp-nav-bd">
+                                        <ul class="hp-nav-item"><li><a href="https://www.hupu.com/" >虎扑首页</a></li><li class="line">|</li><li><a href="https://nba.hupu.com/" >NBA</a></li><li class="line">|</li><li class="on"><a href="https://cba.hupu.com/" >CBA</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com" >国际足球</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com/china/" >中国足球</a></li><li class="line">|</li><li><a href="http://racing.hupu.com/" >赛车</a></li><li class="line">|</li><li><a href="http://zb.hupu.com/" target="_blank">装备</a></li><li class="line">|</li><li><a href="http://www.shihuo.cn/" target="_blank">识货</a></li><li class="line">|</li><li><a href="http://v.liangle.com/" >视频</a></li><li class="line">|</li><li><a href="http://photo.hupu.com/" >图片</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/" >社区</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/all-gambia" >步行街</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/all-esports" >电竞</a></li><li class="line">|</li><li><a href="http://www.liangle.com" target="_blank">路人王</a></li><li class="line">|</li><li class="hp-dropDownMenu hp-moreNav">
+                                                <a href="javascript:void(0)" class="hp-set">更多<s class="setArrow"></s></a>
+                                                <div class="hp-drapDown hp-moreNav-drapDown"><a href="https://shop311048929.taobao.com/" target="_blank">虎扑优选</a><a href="http://www.kaluli.com/" target="_blank">卡路里</a><a href="http://outdoor.hupu.com/" >户外</a><a href="http://run.hupu.com/" >跑步</a><a href="http://ymq.hupu.com/" >羽毛球</a><a href="http://xgame.hupu.com/" target="_blank">xgames</a><a href="http://www.nflchina.com/" target="_blank">NFL</a><a href="http://golf.hupu.com/" target="_blank">高尔夫</a><s class="arrow-top"><s class="arrowbd"></s></s>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="hp-subNav">
+    <ul class="hp-subNav-item">
+        <li><a href="https://cba.hupu.com" title="虎扑CBA">首页</a></li>
+        <li class="line">|</li>
+        <li><a href="https://voice.hupu.com/cba">新闻</a></li>
+        <li class="line">|</li>
+        <li><a href="https://cba.hupu.com/schedule/">赛程</a></li>
+        <li class="line">|</li>
+        <li><a href="https://cba.hupu.com/gamespace/">比赛</a></li>
+        <li class="line">|</li>
+        <li><a href="https://cba.hupu.com/gamespace/jifen.php">积分榜</a></li>
+        <li class="line">|</li>
+        <li><a href="http://v.liangle.com/nba/tv/cba">直播</a></li>
+        <li class="line">|</li>
+        <li class="hp-dropDownMenu">
+            <a href="http://v.liangle.com/nba/new/cba" class="hp-set">视频</a>
+            <div class="hp-drapDown">
+                <a target="_blank" href="http://v.liangle.com/nba/tag/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE">中国篮球</a>
+                <a target="_blank" href="http://v.liangle.com/nba/tag/%E6%98%93%E5%BB%BA%E8%81%94">易建联</a>
+                <a target="_blank" href="http://v.liangle.com/nba/tag/%E9%83%AD%E8%89%BE%E4%BC%A6">郭艾伦</a>
+                <a target="_blank" href="http://v.liangle.com/nba/tag/%E5%AD%99%E6%82%A6">孙悦</a>
+                <a target="_blank" href="http://v.liangle.com/nba/tag/%E9%A9%AC%E5%B8%83%E9%87%8C">马布里</a>
+                <a target="_blank" href="http://v.liangle.com/nba/tag/%E6%9E%97%E5%BF%97%E6%9D%B0">林志杰</a>
+                <s class="arrow-top"><s class="arrowbd"></s></s>
+            </div>
+        </li>
+        <li class="line">|</li>
+        <li><a href="https://cba.hupu.com/players/">球员</a></li>
+        <li class="line">|</li>
+        <li><a href="https://cba.hupu.com/teams/">球队</a></li>
+        <li class="line">|</li>
+        <li class="hp-dropDownMenu">
+            <a href="http://photo.hupu.com/nba/tag/cba" class="hp-set">图片</a>
+            <div class="hp-drapDown">
+                <a href="http://photo.hupu.com/nba/tag/cba">CBA</a>
+                <a href="http://photo.hupu.com/nba/tag/%E6%98%93%E5%BB%BA%E8%81%94">易建联</a>
+                <a href="http://photo.hupu.com/nba/tag/%E7%8E%8B%E6%B2%BB%E9%83%85">王治郅</a>
+                <a href="http://photo.hupu.com/nba/tag/%E5%A7%9A%E6%98%8E">姚明</a>
+                <a href="http://photo.hupu.com/nba/tag/%E5%B7%B4%E7%89%B9%E5%B0%94">巴特尔</a>
+                <a href="http://photo.hupu.com/nba/tag/%E7%8E%8B%E5%93%B2%E6%9E%97">王哲林</a>
+                <a href="http://photo.hupu.com/tag/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE">中国篮球</a>
+                <a href="http://photo.hupu.com/nba/tag/NBL">NBL</a>
+                <a href="http://photo.hupu.com/nba/tag/WCBA">WCBA</a>
+                <s class="arrow-top"><s class="arrowbd"></s></s>
+            </div>
+        </li>
+        <li class="line">|</li>
+        <li class="hp-dropDownMenu">
+            <a href="https://bbs.hupu.com/all-cba" class="hp-set">论坛</a>
+            <div class="hp-drapDown">
+                <a href="https://bbs.hupu.com/cba">中国篮球</a>
+                <a href="https://bbs.hupu.com/guangdong">广东华南虎</a>
+                <a href="https://bbs.hupu.com/beijing">北京鸭</a>
+                <a href="https://bbs.hupu.com/shenzhen">深圳烈豹</a>
+                <a href="https://bbs.hupu.com/zhejiang">浙江金牛</a>
+                <a href="https://bbs.hupu.com/xinjiang">新疆飞虎</a>
+                <a href="https://bbs.hupu.com/liaoning">辽宁飞豹</a>
+                <a href="https://bbs.hupu.com/jiangsu">江苏龙</a>
+                <s class="arrow-top"><s class="arrowbd"></s></s>
+            </div>
+        </li>
+    </ul>
+</div>
+
+                                <i class="hp-roundPoint-br-tl roundPoint-br-tl"></i>
+                                <i class="hp-roundPoint-br-tr roundPoint-br-tr"></i>
+                                <i class="hp-roundPoint-br-bl roundPoint-br-bl"></i>
+                                <i class="hp-roundPoint-br-br roundPoint-br-br"></i>
+                            </div>
+                        </div>
+
+<div id="topPub" style="height:66px"></div>
+
+
+			<div class="hp-threeNav">
+			<div class="hp-threeNav-bd">
+			<ul class="hp-threeNav-item"><li><a href='/all-cba'  class= "on" data-project='basketball' id='g_b'>首页</a></li><li class="hp-dropDownMenu"><a href="javascript:void(0);" class="hp-set">CBA 球队</a>
+						<div class="hp-drapDown hp-drapDown-twoRow"><a href='/shenzhen'  >深圳烈豹</a><a href='/zhejiang'  >浙江稠州金牛</a><a href='/guangdong'  >广东华南虎</a><a href='/shanghai'  >上海大鲨鱼</a><a href='/jiangsu'  >江苏龙</a><a href='/beijing'  >北京鸭</a><a href='/liaoning'  >辽宁飞豹</a><a href='/xinjiang'  >新疆飞虎</a><a href='/bayi'  >八一火箭</a><a href='/guangsha'  >浙江广厦猛狮</a><a href='/shanxi'  >山西猛龙</a><a href='/shandong'  >山东金星</a><a href='/jilin'  >吉林东北虎</a><a href='/fujian'  >福建中华鲟</a><a href='/tianjin'  >天津金狮</a><a href='/longshi'  >广州龙狮</a><a href='/qingdao'  >青岛雄鹰</a><a href='/sichuan'  >四川蓝鲸</a><a href='/dasheng'  >江苏大圣</a><a href='/beikong'  >北京翱龙</a></div></li><li ><a href='/cba'  >中国篮球</a></li><li ><a href='/cbatalk'  >中国篮球话题</a></li><li ><a href='/cuba'  >校园篮球</a></li><li ><a href='/nbl'  >NBL</a></li><li ><a href='/wcba'  >WCBA</a></li><li ><a href='/cba-feedback'  >中国篮球意见</a></li><li class="hp-dropDownMenu">
+								<a href="javascript:void(0)" class="hp-set">更多</a>
+								<div class="hp-drapDown"><a href='/all-nba'  target="_blank" >NBA论坛</a><a href='/all-soccer'  target="_blank" >国际足球论坛</a><a href='/china-soccer'  target="_blank" >中国足球</a><a href='/f1'  target="_blank" >F1赛车场</a><a href='/tennis'  target="_blank" >网球场</a><a href='/all-sports'  target="_blank" >综合体育</a><a href='/all-gear'  target="_blank" >运动&装备</a><a href='/all-gambia'  target="_blank" >步行街</a><a href='/all-lottery'  target="_blank" >彩票中心</a><a href='/all-webgame'  target="_blank" >网页游戏</a><a href='/all-group'  target="_blank" >虎扑社团</a><a href='/all-boards'  target="_blank" >自建版块</a><a href='/all-feedback'  target="_blank" >站务管理</a></div></li></ul></div><i id='level2header' title='论坛'></i>
+				<div class="hp-search">
+					<form id="hp-form-search" method="get" enctype="multipart/form-data" action="https://my.hupu.com/search">
+						<input type="text" value="搜索视频、帖子" class="it-search" />
+						<input type="submit" value="搜索" class="btn-search" />
+					</form>
+				</div>
+			</div>
+		
+<div class="hp-wrap">
+
+<div id="container" class="rel">
+  <div id="container_padd">
+    				<div id="sidenav_bbs"><div id="bbs_banner"><h4><a class="h4_t">版块分类</a></h4><ul>
+		<li id="l1" lid="1"><a href="//bbs.hupu.com/all-nba">NBA论坛</a></li>
+		<li id="l232" lid="232"><a href="//bbs.hupu.com/all-cba">CBA论坛</a></li>
+		<li id="l233" lid="233"><a href="//bbs.hupu.com/all-gear">运动&装备</a></li>
+		<li id="l198" lid="198"><a href="//bbs.hupu.com/all-soccer">国际足球论坛</a></li>
+		<li id="l4596" lid="4596"><a href="//bbs.hupu.com/all-csl">中国足球论坛</a></li>
+		<li id="l41" lid="41"><a href="//bbs.hupu.com/all-sports">综合体育</a></li><li id="l174" lid="174"><a href="//bbs.hupu.com/all-gambia">步行街</a></li>
+	<li id="l42" lid="42"><a href="//bbs.hupu.com/all-lottery">彩票中心</a></li>
+	<li id="l238" lid="238"><a href="//bbs.hupu.com/all-boards">自建版块</a></li>
+	<li id="l114" lid="114"><a href="//bbs.hupu.com/all-group">虎扑社团</a></li>
+	<li id="l7" lid="7"><a href="//bbs.hupu.com/all-feedback">站务管理</a></li>
+	</ul></div>
+				<div class="sidenav_pop_tips"><p class="more"><a href="//bbs.hupu.com/boards.php">更多版块 &raquo;</a></p></div>
+				
+				</div>    <script>
+      if(screen.width > 1152)
+      {
+        document.write('<style>#recomBbsIndex{width:740px} #recomBbsIndex .list .textSpan{width:auto;} </style>');
+      }
+    </script>
+
+    <!---中间 start--->
+    <div id="recomBbsIndex">
+      <h1>CBA论坛热帖</h1>
+      <div class="list">
+      <h3>主版</h3>
+      <ul>
+        <li><span class="textSpan"><a href="/20022108.html" target="_blank"
+                                      title="球迷们，评论国家队请真凭实据就事论事，切莫寒了杜峰及球员的心。"><span class="red">球迷们，评论国家队请真凭实据就事论事，切莫寒了杜峰及球员的心。</span></a><em class="f666">23亮259回复</em></span><span class="forum">
+                <a target="_blank" href="/cbatalk" class="f666">中国篮球话题区</a></span></li>
+        <li><span class="textSpan"><a href="/20022681.html" target="_blank"
+                                      title="一图流：保罗哈登已是大魔王左膀右臂"><span class="red">一图流：保罗哈登已是大魔王左膀右臂</span></a><em class="f666">8亮108回复</em></span><span class="forum">
+                <a target="_blank" href="/cba" class="f666">中国篮球</a></span></li>
+        <li><span class="textSpan"><a href="/20022814.html" target="_blank"
+                                      title="自制CBA各省得分王地图一览"><span class="red">自制CBA各省得分王地图一览</span></a><em class="f666">4亮113回复</em></span><span class="forum">
+                <a target="_blank" href="/cba" class="f666">中国篮球</a></span></li>
+        <li><span class="textSpan"><a href="/20023680.html" target="_blank"
+                                      title="邹雨晨真的比王哲林强吗？">邹雨晨真的比王哲林强吗？</a><em class="f666">6亮111回复</em></span><span class="forum">
+                <a target="_blank" href="/cbatalk" class="f666">中国篮球话题区</a></span></li>
+        <li><span class="textSpan"><a href="/20023818.html" target="_blank"
+                                      title="足篮一样：外援越来越牛逼，国家队越来越弱了">足篮一样：外援越来越牛逼，国家队越来越弱了</a><em class="f666">4亮87回复</em></span><span class="forum">
+                <a target="_blank" href="/cbatalk" class="f666">中国篮球话题区</a></span></li>
+        <li><span class="textSpan"><a href="/20022563.html" target="_blank"
+                                      title="[流言板]周琦、约什、哈登和保罗等人一起进行训练"><span class="red">[流言板]周琦、约什、哈登和保罗等人一起进行训练</span></a><em class="f666">7亮71回复</em></span><span class="forum">
+                <a target="_blank" href="/cba" class="f666">中国篮球</a></span></li>
+        <li><span class="textSpan"><a href="/20023779.html" target="_blank"
+                                      title="看了韩国VS菲律宾有感——国家队还需要提高很多（综合分析）"><span class="red">看了韩国VS菲律宾有感——国家队还需要提高很多（综合分析）</span></a><em class="f666">3亮64回复</em></span><span class="forum">
+                <a target="_blank" href="/cba" class="f666">中国篮球</a></span></li>
+        <li><span class="textSpan"><a href="/20021771.html" target="_blank"
+                                      title="【赛后】韩国三分21中16大胜菲律宾，哈达迪23+20助伊朗力克黎巴嫩"><span class="red">【赛后】韩国三分21中16大胜菲律宾，哈达迪23+20助伊朗力克黎巴嫩</span></a><em class="f666">20亮477回复</em></span><span class="forum">
+                <a target="_blank" href="/cba" class="f666">中国篮球</a></span></li>
+        <li><span class="textSpan"><a href="/20023352.html" target="_blank"
+                                      title="为什么对手碰到咱们，总有一个人会爆发，外线命中率还高？">为什么对手碰到咱们，总有一个人会爆发，外线命中率还高？</a><em class="f666">2亮56回复</em></span><span class="forum">
+                <a target="_blank" href="/cba" class="f666">中国篮球</a></span></li>
+        <li><span class="textSpan"><a href="/20024074.html" target="_blank"
+                                      title="受让14.5分，盘口看低蓝队与澳大利亚八强战">受让14.5分，盘口看低蓝队与澳大利亚八强战</a><em class="f666">1亮35回复</em></span><span class="forum">
+                <a target="_blank" href="/cba" class="f666">中国篮球</a></span></li>
+      </ul>
+    </div><div class="list">
+      <h3>CBA球队</h3>
+      <ul>
+        <li><span class="textSpan"><a href="/20022655.html" target="_blank"
+                                      title="[流言板]丁彦雨航参加睢冉婚礼后再与山东队会合">[流言板]丁彦雨航参加睢冉婚礼后再与山东队会合</a><em class="f666">2亮26回复</em></span><span class="forum">
+                <a target="_blank" href="/shandong" class="f666">山东金星</a></span></li>
+        <li><span class="textSpan"><a href="/20023850.html" target="_blank"
+                                      title="[流言板]翟晓川力挺好友丁彦雨航：今夏你已经证明自己">[流言板]翟晓川力挺好友丁彦雨航：今夏你已经证明自己</a><em class="f666">13回复</em></span><span class="forum">
+                <a target="_blank" href="/shandong" class="f666">山东金星</a></span></li>
+        <li><span class="textSpan"><a href="/20023485.html" target="_blank"
+                                      title="[流言板]北京队：一开始没给孙悦报名，全运决赛锻炼新人">[流言板]北京队：一开始没给孙悦报名，全运决赛锻炼新人</a><em class="f666">17回复</em></span><span class="forum">
+                <a target="_blank" href="/beijing" class="f666">北京鸭</a></span></li>
+        <li><span class="textSpan"><a href="/20023287.html" target="_blank"
+                                      title="[流言板]林书豪鼓励丁彦雨航：你的梦想一定会实现">[流言板]林书豪鼓励丁彦雨航：你的梦想一定会实现</a><em class="f666">12回复</em></span><span class="forum">
+                <a target="_blank" href="/shandong" class="f666">山东金星</a></span></li>
+        <li><span class="textSpan"><a href="/20022522.html" target="_blank"
+                                      title="[流言板]哈德森晒结婚照：特殊的一天">[流言板]哈德森晒结婚照：特殊的一天</a><em class="f666">14回复</em></span><span class="forum">
+                <a target="_blank" href="/liaoning" class="f666">辽宁飞豹</a></span></li>
+        <li><span class="textSpan"><a href="/20023019.html" target="_blank"
+                                      title="老哈跟刘董在美国见面了，估计是讨论新赛季外援的事。">老哈跟刘董在美国见面了，估计是讨论新赛季外援的事。</a><em class="f666">1亮20回复</em></span><span class="forum">
+                <a target="_blank" href="/liaoning" class="f666">辽宁飞豹</a></span></li>
+        <li><span class="textSpan"><a href="/20021254.html" target="_blank"
+                                      title="[流言板]睢冉透露丁彦雨航拒绝了一份NBA双向合同">[流言板]睢冉透露丁彦雨航拒绝了一份NBA双向合同</a><em class="f666">5亮64回复</em></span><span class="forum">
+                <a target="_blank" href="/shandong" class="f666">山东金星</a></span></li>
+        <li><span class="textSpan"><a href="/20021117.html" target="_blank"
+                                      title="[流言板]丁彦雨航：争取助山东夺冠，从未放弃NBA梦想">[流言板]丁彦雨航：争取助山东夺冠，从未放弃NBA梦想</a><em class="f666">2亮57回复</em></span><span class="forum">
+                <a target="_blank" href="/shandong" class="f666">山东金星</a></span></li>
+        <li><span class="textSpan"><a href="/20023067.html" target="_blank"
+                                      title="YY 一下广东全运男篮12人大名单会有谁？附上比赛时间表">YY 一下广东全运男篮12人大名单会有谁？附上比赛时间表</a><em class="f666">23回复</em></span><span class="forum">
+                <a target="_blank" href="/guangdong" class="f666">广东华南虎</a></span></li>
+        <li><span class="textSpan"><a href="/20023961.html" target="_blank"
+                                      title="下赛季山东的首发会是什么？">下赛季山东的首发会是什么？</a><em class="f666">8回复</em></span><span class="forum">
+                <a target="_blank" href="/shandong" class="f666">山东金星</a></span></li>
+      </ul>
+    </div><div class="list">
+      <h3>其他联赛</h3>
+      <ul>
+        <li><span class="textSpan"><a href="/20023392.html" target="_blank"
+                                      title="Terrence Romeo脚踝终结技能"><span class="red">Terrence Romeo脚踝终结技能</span></a><em class="f666">4亮25回复</em></span><span class="forum">
+                <a target="_blank" href="/asiabasket" class="f666">亚洲篮球</a></span></li>
+        <li><span class="textSpan"><a href="/20023738.html" target="_blank"
+                                      title="[流言板]哈提卜：感谢黎巴嫩同胞，后面的比赛会继续努力">[流言板]哈提卜：感谢黎巴嫩同胞，后面的比赛会继续努力</a><em class="f666">1亮37回复</em></span><span class="forum">
+                <a target="_blank" href="/asiabasket" class="f666">亚洲篮球</a></span></li>
+        <li><span class="textSpan"><a href="/20021587.html" target="_blank"
+                                      title="菲律宾VS韩国半场数据:炸掉天:罗密欧单节命中6记三分得到22分">菲律宾VS韩国半场数据:炸掉天:罗密欧单节命中6记三分得到22分</a><em class="f666">6亮210回复</em></span><span class="forum">
+                <a target="_blank" href="/asiabasket" class="f666">亚洲篮球</a></span></li>
+        <li><span class="textSpan"><a href="/20021488.html" target="_blank"
+                                      title="为什么不让李忠贤上？">为什么不让李忠贤上？</a><em class="f666">5亮93回复</em></span><span class="forum">
+                <a target="_blank" href="/asiabasket" class="f666">亚洲篮球</a></span></li>
+        <li><span class="textSpan"><a href="/20015381.html" target="_blank"
+                                      title="篮球记者：致敬叙利亚 ！自费参加亚洲杯，半数业余球员！与中国队生扛到最后！"><span class="red">篮球记者：致敬叙利亚 ！自费参加亚洲杯，半数业余球员！与中国队生扛到最后！</span></a><em class="f666">15亮185回复</em></span><span class="forum">
+                <a target="_blank" href="/asiabasket" class="f666">亚洲篮球</a></span></li>
+      </ul>
+    </div><div class="l_w_reply">
+      <h3 id="highlights">CBA论坛亮了的回帖</h3>
+      
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/93582001964563">
+        <img alt="jacky1103" src="https://i1.hoopchina.com.cn/user/default_small.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/93582001964563">jacky1103</a>
+                       <span class="stime">2017-08-16 11:05:05</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="18880025" id="tipcolor218914">
+                                            <a class="ilike_icon " onclick="tipfight(20015794,218914,1498);" href="javascript:;">亮了</a>(<span id="tip218914" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20015794.html" target="_blank">打澳大利亚首发必须最强阵容</a>
+                                        <span class="f666">(共3亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>郭，根，鸟，秋，熊猫。硬钢。。<br /><small class="f999">发自手机虎扑 m.hupu.com</small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/186312750336859">
+        <img alt="仓鼠博XXX" src="https://i2.hoopchina.com.cn/user/111/26725111/26725111-1481161057.jpeg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/186312750336859">仓鼠博XXX</a>
+                       <span class="stime">2017-08-16 22:54:30</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="26725111" id="tipcolor661278">
+                                            <a class="ilike_icon " onclick="tipfight(20017100,661278,4498);" href="javascript:;">亮了</a>(<span id="tip661278" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20017100.html" target="_blank">[流言板]马布里机场偶遇冯小刚，吴亦凡担当翻译</a>
+                                        <span class="f666">(共6亮回帖 来自:
+                                            <a href="/beikong" target="_blank">北京翱龙</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>冯小刚两眼一闪，回去四处找有关梁启超的剧本<br /><small class="f999">发自手机虎扑 m.hupu.com</small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/134693672047531">
+        <img alt="俄城之光" src="https://i3.hoopchina.com.cn/user/391/27676391/27676391-1501072333.jpeg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/134693672047531">俄城之光</a>
+                       <span class="stime">2017-08-16 21:13:32</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="27676391" id="tipcolor600662">
+                                            <a class="ilike_icon " onclick="tipfight(20020277,600662,3776);" href="javascript:;">亮了</a>(<span id="tip600662" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20020277.html" target="_blank">有人关注今晚菲律宾对战韩国吗</a>
+                                        <span class="f666">(来自:
+                                            <a href="/asiabasket" target="_blank">亚洲篮球</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>我也想问<br/>虽然不是中国队的比赛<br/>但菲律宾韩国我都讨厌，但他们俩也都不弱，神经刀小快灵，反正暑假，我打算今晚熬夜看完睡觉<br/>jrs们也会看吗？<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/121880250922749">
+        <img alt="spartan-" src="https://i3.hoopchina.com.cn/user/545/18414545/18414545_small_1.png" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/121880250922749">spartan-</a>
+                       <span class="stime">2017-08-17 11:40:50</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="18414545" id="tipcolor897244">
+                                            <a class="ilike_icon " onclick="tipfight(20023779,897244,24);" href="javascript:;">亮了</a>(<span id="tip897244" class="stime" style="padding:0;">6</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023779.html" target="_blank">看了韩国VS菲律宾有感——国家队还需要提高很多（综合分析）</a>
+                                        <span class="f666">(共3亮回帖 来自:
+                                            <a href="/cba" target="_blank">中国篮球</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用2楼 @<a class="u" target="_blank" href="https://my.hupu.com/23521825469853" >我的精神有问题</a> 发表的</b>:<br>未来的亚洲霸主应该是澳洲+韩国</p></blockquote><br>你比较符合你的id <br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/91592768734001">
+        <img alt="火箭粉" src="https://i2.hoopchina.com.cn/user/342/490342/490342_small_2.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/91592768734001">火箭粉</a>
+                       <span class="stime">2017-08-16 01:19:12</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="490342" id="tipcolor115069">
+                                            <a class="ilike_icon " onclick="tipfight(20013753,115069,1498);" href="javascript:;">亮了</a>(<span id="tip115069" class="stime" style="padding:0;">7</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20013753.html" target="_blank">【创作社&话题】一战打破质疑！如何评价刘晓宇的表现？</a>
+                                        <span class="f666">(共13亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>从以前到现在，乃至以后，我觉得他无法担起国家队正牌主控，能力有限<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/168942980108272">
+        <img alt="河南财大小麦迪" src="https://i1.hoopchina.com.cn/user/header/20170811/150243388981108_small_16.png" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/168942980108272">河南财大小麦迪</a>
+                       <span class="stime">2017-08-17 12:06:07</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="29771652" id="tipcolor917035">
+                                            <a class="ilike_icon " onclick="tipfight(20024074,917035,24);" href="javascript:;">亮了</a>(<span id="tip917035" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20024074.html" target="_blank">受让14.5分，盘口看低蓝队与澳大利亚八强战</a>
+                                        <span class="f666">(来自:
+                                            <a href="/cba" target="_blank">中国篮球</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>楼上的 坐等夜里打脸啊 <br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/266580388408218">
+        <img alt="高瘦选投王阿联" src="https://i3.hoopchina.com.cn/user/902/21201902/21201902-1460124335.jpeg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/266580388408218">高瘦选投王阿联</a>
+                       <span class="stime">2017-08-17 11:24:33</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="21201902" id="tipcolor884383">
+                                            <a class="ilike_icon " onclick="tipfight(20023779,884383,24);" href="javascript:;">亮了</a>(<span id="tip884383" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023779.html" target="_blank">看了韩国VS菲律宾有感——国家队还需要提高很多（综合分析）</a>
+                                        <span class="f666">(共3亮回帖 来自:
+                                            <a href="/cba" target="_blank">中国篮球</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>因为姚明啊，只要高过别人就可以了<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/223776376627442">
+        <img alt="水虎扑" src="https://i3.hoopchina.com.cn/user/396/16988396/16988396_small_11.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/223776376627442">水虎扑</a>
+                       <span class="stime">2017-08-16 12:58:00</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="16988396" id="tipcolor293052">
+                                            <a class="ilike_icon " onclick="tipfight(20016556,293052,1498);" href="javascript:;">亮了</a>(<span id="tip293052" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20016556.html" target="_blank">淘汰赛中国蓝队对阵澳大利亚，比赛会如何进行？</a>
+                                        <span class="f666">(共6亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>还是抱着输30分以内的心态来看球吧，会好过点<br /><small class="f999">发自手机虎扑 m.hupu.com</small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/96488316746263">
+        <img alt="G大調--幸福" src="https://i1.hoopchina.com.cn/user/535/16173535/16173535-1489826385.jpeg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/96488316746263">G大調--幸福</a>
+                       <span class="stime">2017-08-16 01:17:44</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="16173535" id="tipcolor114691">
+                                            <a class="ilike_icon " onclick="tipfight(20013753,114691,1498);" href="javascript:;">亮了</a>(<span id="tip114691" class="stime" style="padding:0;">6</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20013753.html" target="_blank">【创作社&话题】一战打破质疑！如何评价刘晓宇的表现？</a>
+                                        <span class="f666">(共13亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>真没觉得哪里打得好，最后一节是叙利亚体力跟不上了，还出现突破底线分球被堵断。这真没啥好吹的。今天李根真给力<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/269646909169691">
+        <img alt="Remarque" src="https://i2.hoopchina.com.cn/user/header/20170727/150111953228072_small_15.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/269646909169691">Remarque</a>
+                       <span class="stime">2017-08-17 11:55:03</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="17076829" id="tipcolor908457">
+                                            <a class="ilike_icon " onclick="tipfight(20024074,908457,24);" href="javascript:;">亮了</a>(<span id="tip908457" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20024074.html" target="_blank">受让14.5分，盘口看低蓝队与澳大利亚八强战</a>
+                                        <span class="f666">(来自:
+                                            <a href="/cba" target="_blank">中国篮球</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>才让14.5？要是蓝队只输15左右，我是能接受的。<br /><small class="f999">发自手机虎扑 m.hupu.com</small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/15783090614846">
+        <img alt="fkeogkoe" src="https://i1.hoopchina.com.cn/user/default_small.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/15783090614846">fkeogkoe</a>
+                       <span class="stime">2017-08-17 08:55:22</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="27745587" id="tipcolor775724">
+                                            <a class="ilike_icon " onclick="tipfight(20022520,775724,1498);" href="javascript:;">亮了</a>(<span id="tip775724" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20022520.html" target="_blank">平心而论，巴特尔和哈达迪谁厉害？</a>
+                                        <span class="f666">(共2亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>46开吧，哈达迪6。  本身都是nba 边缘人，差不多。<br/>但哈达迪在亚洲赛场甚至国际赛场比巴特尔成绩更好。<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/54760451531145">
+        <img alt="小魔爸" src="https://i3.hoopchina.com.cn/user/932/27507932/27507932_small_1.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/54760451531145">小魔爸</a>
+                       <span class="stime">2017-08-16 01:16:11</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="27507932" id="tipcolor114243">
+                                            <a class="ilike_icon " onclick="tipfight(20013753,114243,1498);" href="javascript:;">亮了</a>(<span id="tip114243" class="stime" style="padding:0;">6</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20013753.html" target="_blank">【创作社&话题】一战打破质疑！如何评价刘晓宇的表现？</a>
+                                        <span class="f666">(共13亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>我只想问前三节干啥去了，要是不坑的话能这么辛苦吗打的<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/hwt365">
+        <img alt="hanwtao" src="https://i2.hoopchina.com.cn/user/602/4895602/4895602_small_7.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/hwt365">hanwtao</a>
+                       <span class="stime">2011-09-11 11:32:58</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="4895602" id="tipcolor189323938">
+                                            <a class="ilike_icon " onclick="tipfight(2699044,189323938,1498);" href="javascript:;">亮了</a>(<span id="tip189323938" class="stime" style="padding:0;">35</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/2699044.html" target="_blank">金钟奎口气不小</a>
+                                        <span class="f666">(共2亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>应该征服宇宙吧！</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/7963331120450">
+        <img alt="克利夫兰首脑" src="https://i1.hoopchina.com.cn/user/84/27153084/27153084-1465393152.jpg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/7963331120450">克利夫兰首脑</a>
+                       <span class="stime">2017-08-16 01:15:30</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="27153084" id="tipcolor114026">
+                                            <a class="ilike_icon " onclick="tipfight(20013753,114026,1498);" href="javascript:;">亮了</a>(<span id="tip114026" class="stime" style="padding:0;">6</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20013753.html" target="_blank">【创作社&话题】一战打破质疑！如何评价刘晓宇的表现？</a>
+                                        <span class="f666">(共13亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>没打破，他还是他，只不过第四节疯了而已。。<br>就冲他之前的组织和失误他还做不了指挥官。。<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/29388899820563">
+        <img alt="panweiye" src="https://i1.hoopchina.com.cn/user/626/15574626/15574626-1452086781.png@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/29388899820563">panweiye</a>
+                       <span class="stime">2017-08-16 01:15:15</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="15574626" id="tipcolor113938">
+                                            <a class="ilike_icon " onclick="tipfight(20013753,113938,1498);" href="javascript:;">亮了</a>(<span id="tip113938" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20013753.html" target="_blank">【创作社&话题】一战打破质疑！如何评价刘晓宇的表现？</a>
+                                        <span class="f666">(共13亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>嗯，我看到的是挡拆的质量，过半场必叫三个挡拆！！<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/159490793959923">
+        <img alt="LA大将军" src="https://i2.hoopchina.com.cn/user/763/19329763/19329763-1498067851.jpeg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/159490793959923">LA大将军</a>
+                       <span class="stime">2017-08-16 01:15:05</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="19329763" id="tipcolor113876">
+                                            <a class="ilike_icon " onclick="tipfight(20013753,113876,1498);" href="javascript:;">亮了</a>(<span id="tip113876" class="stime" style="padding:0;">8</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20013753.html" target="_blank">【创作社&话题】一战打破质疑！如何评价刘晓宇的表现？</a>
+                                        <span class="f666">(共13亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>太粘球，突破突不进去，还好赢了<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/179490116147452">
+        <img alt="xiong89510" src="https://i1.hoopchina.com.cn/user/836/3283836/3283836-1461401626.png@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/179490116147452">xiong89510</a>
+                       <span class="stime">2017-08-16 01:15:01</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="3283836" id="tipcolor113857">
+                                            <a class="ilike_icon " onclick="tipfight(20013753,113857,1498);" href="javascript:;">亮了</a>(<span id="tip113857" class="stime" style="padding:0;">8</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20013753.html" target="_blank">【创作社&话题】一战打破质疑！如何评价刘晓宇的表现？</a>
+                                        <span class="f666">(共13亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>有啥好吹的。。前三节真的看吐了。<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/267181849148874">
+        <img alt="库里真是准" src="https://i1.hoopchina.com.cn/user/246/17193246/17193246_small_4.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/267181849148874">库里真是准</a>
+                       <span class="stime">2017-08-16 01:14:50</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="17193246" id="tipcolor113795">
+                                            <a class="ilike_icon " onclick="tipfight(20013753,113795,1498);" href="javascript:;">亮了</a>(<span id="tip113795" class="stime" style="padding:0;">6</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20013753.html" target="_blank">【创作社&话题】一战打破质疑！如何评价刘晓宇的表现？</a>
+                                        <span class="f666">(共13亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>低级失误也不少啊……<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/196818855530037">
+        <img alt="laudlrb" src="https://i3.hoopchina.com.cn/user/768/31601768/31601768-1497930831.jpg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/196818855530037">laudlrb</a>
+                       <span class="stime">2017-08-16 01:14:47</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="31601768" id="tipcolor113777">
+                                            <a class="ilike_icon " onclick="tipfight(20013753,113777,1498);" href="javascript:;">亮了</a>(<span id="tip113777" class="stime" style="padding:0;">6</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20013753.html" target="_blank">【创作社&话题】一战打破质疑！如何评价刘晓宇的表现？</a>
+                                        <span class="f666">(共13亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>其实我觉得他实力不够<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/230493292762380">
+        <img alt="hailwy" src="https://i1.hoopchina.com.cn/user/default_small.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/230493292762380">hailwy</a>
+                       <span class="stime">2017-08-16 01:14:34</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="29416988" id="tipcolor113698">
+                                            <a class="ilike_icon " onclick="tipfight(20013753,113698,1498);" href="javascript:;">亮了</a>(<span id="tip113698" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20013753.html" target="_blank">【创作社&话题】一战打破质疑！如何评价刘晓宇的表现？</a>
+                                        <span class="f666">(共13亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>我觉得不行<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/233112327030199">
+        <img alt="小小易DD" src="https://i3.hoopchina.com.cn/user/871/26224871/26224871-1451920895.png@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/233112327030199">小小易DD</a>
+                       <span class="stime">2017-08-16 01:14:15</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="26224871" id="tipcolor113588">
+                                            <a class="ilike_icon " onclick="tipfight(20013753,113588,1498);" href="javascript:;">亮了</a>(<span id="tip113588" class="stime" style="padding:0;">6</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20013753.html" target="_blank">【创作社&话题】一战打破质疑！如何评价刘晓宇的表现？</a>
+                                        <span class="f666">(共13亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>前三节打的是什么。。。最后一节不错<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/224679614615295">
+        <img alt="chungui" src="https://i3.hoopchina.com.cn/user/121/29020121/29020121_small_2.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/224679614615295">chungui</a>
+                       <span class="stime">2017-08-16 01:14:10</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="29020121" id="tipcolor113558">
+                                            <a class="ilike_icon " onclick="tipfight(20013753,113558,1498);" href="javascript:;">亮了</a>(<span id="tip113558" class="stime" style="padding:0;">11</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20013753.html" target="_blank">【创作社&话题】一战打破质疑！如何评价刘晓宇的表现？</a>
+                                        <span class="f666">(共13亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>半节的正常掩盖不了之前的问题，我觉得他这次打的还是不好<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/150807751875290">
+        <img alt="非寻常射手" src="https://i3.hoopchina.com.cn/user/799/16963799/16963799_small_3.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/150807751875290">非寻常射手</a>
+                       <span class="stime">2017-08-16 01:14:07</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="16963799" id="tipcolor113538">
+                                            <a class="ilike_icon " onclick="tipfight(20013753,113538,1498);" href="javascript:;">亮了</a>(<span id="tip113538" class="stime" style="padding:0;">18</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20013753.html" target="_blank">【创作社&话题】一战打破质疑！如何评价刘晓宇的表现？</a>
+                                        <span class="f666">(共13亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>进攻还是犹豫，组织大部分时候还是墨迹，看整场球的都知道吧。。<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/206905430616196">
+        <img alt="大脸吧" src="https://i1.hoopchina.com.cn/user/465/25701465/25701465-1478699597.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/206905430616196">大脸吧</a>
+                       <span class="stime">2017-08-16 01:14:13</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="25701465" id="tipcolor113578">
+                                            <a class="ilike_icon " onclick="tipfight(20013753,113578,1498);" href="javascript:;">亮了</a>(<span id="tip113578" class="stime" style="padding:0;">112</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20013753.html" target="_blank">【创作社&话题】一战打破质疑！如何评价刘晓宇的表现？</a>
+                                        <span class="f666">(共13亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>看了直播的人，不会觉得刘晓宇这场比赛打得有多好，实话实说而已。水平真的一般。<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/79548252863358">
+        <img alt="世纪篮彩" src="https://i2.hoopchina.com.cn/user/223/4833223/4833223_small_3.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/79548252863358">世纪篮彩</a>
+                       <span class="stime">2017-08-16 01:13:53</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="4833223" id="tipcolor113453">
+                                            <a class="ilike_icon " onclick="tipfight(20013753,113453,1498);" href="javascript:;">亮了</a>(<span id="tip113453" class="stime" style="padding:0;">405</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20013753.html" target="_blank">【创作社&话题】一战打破质疑！如何评价刘晓宇的表现？</a>
+                                        <span class="f666">(共13亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用5楼 @<a class="u" target="_blank" href="https://my.hupu.com/132714751004956" >高人一等</a> 发表的</b>:<br>这场刘晓宇应记头功 在郭艾伦状态差的情况下 带来球队逆转获胜</p></blockquote><br>头功我给李根。。。</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/182708342251235">
+        <img alt="西昆仑大神" src="https://i1.hoopchina.com.cn/user/894/17790894/17790894_small_2.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/182708342251235">西昆仑大神</a>
+                       <span class="stime">2017-08-16 12:43:13</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="17790894" id="tipcolor283032">
+                                            <a class="ilike_icon " onclick="tipfight(20015825,283032,218);" href="javascript:;">亮了</a>(<span id="tip283032" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20015825.html" target="_blank">[流言板]立陶宛热身赛胜法国，莫蒂埃尤纳斯砍13分</a>
+                                        <span class="f666">(来自:
+                                            <a href="/guangdong" target="_blank">广东华南虎</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用10楼 @<a class="u" target="_blank" href="https://my.hupu.com/280216786308537" >雁塔精</a> 发表的</b>:<br>真期待中国和立陶宛正牌国家队打一场。</p></blockquote><br>唉。。。人家那热身赛的level，只有大姚在的时候，才会有正派劲旅愿意跟咱们热着玩<br>记忆深刻的吉诺比利来的那次斯杯，水平是真高</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/280216786308537">
+        <img alt="雁塔精" src="https://i3.hoopchina.com.cn/user/673/28816673/28816673-1467516759.jpg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/280216786308537">雁塔精</a>
+                       <span class="stime">2017-08-17 07:34:16</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="28816673" id="tipcolor999220">
+                                            <a class="ilike_icon " onclick="tipfight(19893825,999220,24);" href="javascript:;">亮了</a>(<span id="tip999220" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/19893825.html" target="_blank">2017年男篮亚洲杯综合热线 23:30澳大利亚对中国 02:00新西兰对约旦</a>
+                                        <span class="f666">(共4亮回帖 来自:
+                                            <a href="/cba" target="_blank">中国篮球</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>罗密欧：下次再遇见韩国，没有人可以击败我。<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/242602579099484">
+        <img alt="spaihu" src="https://i1.hoopchina.com.cn/user/default_small.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/242602579099484">spaihu</a>
+                       <span class="stime">2017-08-17 11:35:11</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="15578519" id="tipcolor892751">
+                                            <a class="ilike_icon " onclick="tipfight(20023818,892751,1498);" href="javascript:;">亮了</a>(<span id="tip892751" class="stime" style="padding:0;">6</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023818.html" target="_blank">足篮一样：外援越来越牛逼，国家队越来越弱了</a>
+                                        <span class="f666">(共4亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>只能说国内篮球人不争气了，不想通过提高球员训练水平去赢得比赛，而是去急功近利的去比拼高水平外援，成为了一个外援肆虐的，国内球员沦为看客的联赛，强烈要求单外援制度<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/21725450707476">
+        <img alt="popesteven" src="https://i1.hoopchina.com.cn/user/default_small.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/21725450707476">popesteven</a>
+                       <span class="stime">2017-08-17 11:08:30</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="26526816" id="tipcolor871807">
+                                            <a class="ilike_icon " onclick="tipfight(20023352,871807,24);" href="javascript:;">亮了</a>(<span id="tip871807" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023352.html" target="_blank">为什么对手碰到咱们，总有一个人会爆发，外线命中率还高？</a>
+                                        <span class="f666">(共2亮回帖 来自:
+                                            <a href="/cba" target="_blank">中国篮球</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>本来从选人来看，杜峰对于球队的防守建设是:<br>由可兰白克，周鹏，李慕豪三个主力，配合郭艾伦，任骏飞，建立一个防守体系，层次分明覆盖面广，效果应该很好。<br>无奈，可兰伤病没有报道，李慕豪一下养伤刚刚归队又伤情又出现反复上不了场。整个体系又只有周鹏。<br>但周鹏在队里打锋线，如果去防守对方爆种的后卫，不但耗费体力，废了蓝队的一个场均十几分的进攻火力。<br>而且还会让对方的一个锋线暴露出来，蓝队的锋线本来有可兰白克足以调度。但现在恰恰漏了一环，本来锋线有高度的只有周鹏，二飞，和顾全。对方剩下的另一个锋线就只能由二飞和顾全来顶（这也是为什么选顾全的重要原因，并不是他就有多么的出色，而是可兰留下的防守缺陷，要身高更高的顾全补上，而不是球迷鼓吹的赵岩昊）。<br>所以，球队后卫线上必须有一个防守尖兵，并且能有一定的传控能力，所以选了于德豪，而不是进攻更好但防守弱的赵岩昊，或者传控不足的高尚。<br>并且把周鹏防守对方爆种外线，作为底牌来用，不能一开始就用。<br /><small class="f999">发自手机虎扑 m.hupu.com</small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/batttt">
+        <img alt="batttt" src="https://i1.hoopchina.com.cn/user/header/20170709/149958263490428_small_1.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/batttt">batttt</a>
+                       <span class="stime">2017-08-17 11:39:24</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="27106317" id="tipcolor896109">
+                                            <a class="ilike_icon " onclick="tipfight(20023818,896109,1498);" href="javascript:;">亮了</a>(<span id="tip896109" class="stime" style="padding:0;">9</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023818.html" target="_blank">足篮一样：外援越来越牛逼，国家队越来越弱了</a>
+                                        <span class="f666">(共4亮回帖 来自:
+                                            <a href="/cbatalk" target="_blank">中国篮球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>显而易见，赛场上的资源是有限的，全给外援，其他人得到的资源肯定就少。<div><br></div><div>假如我们给球员设定一个能力值，外援，小丁，阿联为10。</div><div>其他国内全员少数可达5，大多数是2。</div><div>比赛的时候，特别是关键时刻，你肯定不会把球给能力值仅为2的打，或许会给5。</div><div>但是起码有90%的几率是给能力值为10的球员打，也就是说他们吃掉了这些资源。</div><div>资源有限，而我们却为了成绩，为了联赛好看将资源拱手相让。</div><div><br></div><div>有人说，那是球员不努力，球权是挣来的。</div><div>但是，那也得有球打才能涨球是不是，一直没资源，哪来提升？</div><div><br></div><div>天塌下来有高个顶着，球队不行了，有外援顶着。</div><div>时间久了自然抗压能力就差，他们没经验啊！</div><div>外援顶着也有了安逸的理由。</div><div>非常明显的一点就是顾全，cba的大狙。</div><div>你说他训练不刻苦，我不信。但是他的慢动作，这就是外援养出来的，他这么慢的动作在cba有人给他吸引火力，自然就不必提高出手速度，而在国家队，他没人吸引防守，出手慢了被帽，出手快了乱自己节奏。</div><div><br></div><div>为什么阿联，小丁不去nba，他们可以打，但是去了能打多少球？</div><div>没球打提升总是有限的。</div><div>为什么外援在cba打了后能在nba找到下家，因为他们涨球了。</div><div>他们得到了资源，提升理所当然。</div><div><br></div><div>都说在国家队才能涨球？</div><div>就是因为在联赛很难涨球。</div><br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+    </div><script type="text/javascript">
+      function tipfight(tid,pid,fid){
+        var state=1,authorid = $("#tipcolor"+pid).attr("mid"),token="4306b06d0c";
+        $.ajax({
+          type: "POST",
+          dataType: "json",
+          url: "/ajax/lights.ajax.php?" + Math.random(),
+          data: {tid:tid, pid:pid, state:state, authorid:authorid, fid:fid,token:token},
+          success: function(data) {
+              $("b.loading").hide();
+              if(data.code != 1){
+                  if(data.code == -1){
+                      show_login();
+                  }else{
+                      show_message("<div class='tips_pop'>"+data.msg+"</div>");
+                  }
+
+                  return false;
+              }else{
+                  $("#tip"+pid).text(data.num);
+                  if(state==1){
+                      $("#tipcolor"+pid).attr("class","red");
+                  }else{
+                      $("#fightcolor"+pid).attr("class","f666");
+                  }
+                  ga("bbs-c-highlights-click");
+              }
+          }
+        });
+      }
+      window.onload=function(){
+        var mw = 444;if(screen.width > 1152){mw = 650;}$("table.case img").each(function(){
+          if($(this).width() > mw){
+            $(this).width(mw).attr("title","点击查看原图").addClass("lightbox").click(function(){window.open($(this).attr("src"));});}});}
+    </script>         <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+                    '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+        <script type='text/javascript'>
+var pubW = screen.width>1152 ? 1200 : 990;
+if ($('#g_b').attr('data-project') != 'soccer') {
+    var other_index_c2c_ad = 'hc_newbbs_indexTop_'+pubW+'x60';
+} else {
+    var other_index_c2c_ad = 'goalhi-bbs-top-banner-'+pubW+'x60';
+}
+googletag.cmd.push(function() {
+googletag.defineSlot('/1016953/hoopchina-bbs-right-Optimus-120x600', [120, 600], 'hoopchina-bbs-right-Optimus-120x600').addService(googletag.pubads());
+googletag.defineSlot('/1016953/'+other_index_c2c_ad+'', [pubW, 60], 'other_index_c2c_ad').addService(googletag.pubads());
+googletag.defineSlot('/1016953/bbs_rightback_250x250', [250, 250], 'bbs_rightback_250x250').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+        <div class="lpub_ad" id="lpub_ad" style="display:none;left:-133px"><div id='hoopchina-bbs-right-Optimus-120x600'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('hoopchina-bbs-right-Optimus-120x600'); });</script></div>
+</div>
+    </div>
+    <!---中间 end--->
+    <!---右侧 start--->
+    <div id="indexSidebar">
+      <h3><a href="/boards.php">版块列表</a></h3>
+      <div class="list"><div class="title">
+          <h4>主版</h4>
+        </div>
+        <ul><li><a target="_blank" href="/cba">中国篮球</a></li><li><a target="_blank" href="/cbatalk">话题区</a></li></ul> <br>
+        <div class="clearfix"></div><div class="title">
+          <h4>CBA球队</h4>
+        </div>
+        <ul><li><a target="_blank" href="/guangdong">广东</a></li><li><a target="_blank" href="/liaoning">辽宁</a></li><li><a target="_blank" href="/xinjiang">新疆</a></li><li><a target="_blank" href="/shanghai">上海</a></li><li><a target="_blank" href="/shandong">山东</a></li><li><a target="_blank" href="/beijing">北京</a></li><li><a target="_blank" href="/jiangsu">江苏</a></li><li><a target="_blank" href="/shanxi">山西</a></li><li><a target="_blank" href="/guangsha">广厦</a></li><li><a target="_blank" href="/shenzhen">深圳</a></li><li><a target="_blank" href="/sichuan">四川</a></li><li><a target="_blank" href="/fujian">福建</a></li><li><a target="_blank" href="/jilin">吉林</a></li><li><a target="_blank" href="/bayi">八一</a></li><li><a target="_blank" href="/zhejiang">浙江</a></li><li><a target="_blank" href="/longshi">佛山</a></li><li><a target="_blank" href="/qingdao">青岛</a></li><li><a target="_blank" href="/tianjin">天津</a></li><li><a target="_blank" href="/dasheng">同曦</a></li><li><a target="_blank" href="/beikong">北控</a></li></ul> <br>
+        <div class="clearfix"></div><div class="title">
+          <h4>其他联赛</h4>
+        </div>
+        <ul><li><a target="_blank" href="/cuba">校园篮球</a></li><li><a target="_blank" href="/asiabasket">亚洲篮球</a></li><li><a target="_blank" href="/wcba">WCBA</a></li><li><a target="_blank" href="/nbl">NBL</a></li></ul> <br>
+        <div class="clearfix"></div><div class="title">
+          <h4>意见和其他</h4>
+        </div>
+        <ul><li><a target="_blank" href="/cba-feedback">意见区</a></li></ul> <br>
+        <div class="clearfix"></div><script type="text/javascript" src="//goto.hupu.com/js/c/68.js"></script>
+      </div><div class="bbs-index-weixin"><div id='bbs_rightback_250x250'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('bbs_rightback_250x250'); });</script></div>
+</div>
+    </div>
+      <!---右侧 end--->
+    </div>
+
+    <div class="c2c_ad" style="display:none;"><div id='other_index_c2c_ad'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('other_index_c2c_ad'); });</script></div>
+</div>
+
+  </div>
+</div>
+</div>
+<div style="display: none;"></div>
+
+
+
+<div class="fback"><a class="btop" href="#">回顶部</a></div>
+<b id="footer-loadedError"></b>
+
+
+<div class="hp-footer">
+                    <div class="hp-copyright">虎扑（上海）文化传播股份有限公司 <a href="https://www.hupu.com/icp.html" target="_blank">沪B2-20120042</a> <a target="_blank" href="http://www.miitbeian.gov.cn">沪ICP备05037078号-13</a></div>
+                    <div class="hp-copyright">
+                    
+                    Copyright by 虎扑JRs &amp;
+                    <a href="https://www.hupu.com/" target="_blank" title="虎扑">虎扑</a> -
+                    <a href="http://jobs.hupu.com/" target="_blank">在虎扑工作</a> -
+                    <a href="http://marketing.hupu.com/contact/" target="_blank">联系我们</a> -
+                    <a href="https://m.hupu.com/" target="_blank">手机虎扑网</a> -
+                    <a href="https://mobile.hupu.com/" target="_blank">虎扑App</a> -
+                    <a href="https://www.hupu.com/policies/terms" target="_blank">服务协议</a> -
+                    <a href="https://www.hupu.com/sitemap.html" target="_blank">网站地图</a> -
+                    <a href="https://nba.hupu.com/" target="_blank" title="NBA">NBA</a> -
+                    <a href="https://cba.hupu.com/" target="_blank" title="CBA">CBA</a>  -
+                    <a href="https://soccer.hupu.com/" target="_blank" title="足球">足球</a> -
+                    <a href="https://soccer.hupu.com/china/" target="_blank" title="中超">中超</a> -
+                    <a href="http://racing.hupu.com/" target="_blank" title="赛车">赛车</a> 
+                    </div>
+                    <div class="securityPic">
+                    <a href="http://www.jhga.gov.cn/" target="_blank"><img src="https://b3.hoopchina.com.cn/images/wl_wljga.png" alt="金华市公安局网络报警"></a>
+                    <a href="http://www.zx110.org" target="_blank"><img src="https://b3.hoopchina.com.cn/images/wl_wlshzxw.png" alt="网络社会征信网"></a>
+                    <a href="http://www.shjbzx.cn/" target="_blank"><img src="https://b3.hoopchina.com.cn/images/www_jubao.png" alt="上海网络举报图片"></a>
+                    <a href="http://report.12377.cn:13225/toreportinputNormal_anis.do" target="_blank"><img src="https://b3.hoopchina.com.cn/images/www_cn_jubao.png" alt="有害信息举报图片"></a>
+                    </div>
+                </div>
+
+
+<script>
+	var countGATrackPageview = location.pathname+location.search+"'|basketball/232-CBA论坛/232-'";
+_common.init({project: "basketball",countGASetVar: "",countGATrackPageview: countGATrackPageview});	
+</script>
+<script async="true" src="//b3.hoopchina.com.cn/pcbbs/js/g85.js?20170207"></script>
+
+<script type="text/javascript" src="https://hm.baidu.com/h.js?39fc58a7ab8a311f2f6ca4dc1222a96e" async="async"></script>
+<script>IE6 = '';</script><!--[if lte IE 6]><script>IE6 = 'sucks';</script><![endif]-->
+<script>
+    try{
+      if(window.top != window.self){
+        var topHost = top.document.location.hostname;
+        if (topHost.indexOf('hupu.com') < 0 && topHost.indexOf('liangle.com') < 0 && topHost.indexOf('shihuo.cn') < 0){
+          window.top.location.href = window.self.location.href;
+        }
+      } 
+    }catch(e){}
+
+    $(function(){
+        if ($("#lpub_ad")[0]) {
+            function findPos_top(obj) {
+                var top = obj.offsetTop || 0;
+                while (obj = obj.offsetParent) {
+                    top += obj.offsetTop;
+                }
+                return top;
+            }
+
+            function findPos_left(obj) {
+                var l = obj.offsetLeft;
+                while (obj.offsetParent != null) {
+                    obj = obj.offsetParent;
+                    l += obj.offsetLeft;
+                }
+                return l;
+            }
+
+            ifSideSticky = (IE6 == 'sucks') ? false : true;
+            var pubPos = findPos_top($("#bbs_banner")[0]) - findPos_top($("#sidenav_bbs")[0]) + 403;
+            $("#lpub_ad").css('top', pubPos + 'px');
+            $("#lpub_ad").show();
+            if (!isMobile() && ifSideSticky && document.documentElement.clientHeight > 670) {
+                var contentwitdth = $("#content").width();
+                var sideSticky = function () {
+                    var now_top = document.body.scrollTop || document.documentElement.scrollTop || 0;
+                    if (now_top > pubPos + 100) {
+                        $("#lpub_ad").attr('style', 'position: fixed; _position: absolute; top:10px;left:' + (findPos_left($("#container_padd")[0]) + 13 - document.documentElement.scrollLeft) + 'px');
+                    } else {
+                        $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                    }
+                };
+                $(window).bind('scroll', sideSticky).resize(function () {
+                    $(window).unbind("scroll");
+                    $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                });
+            }
+        }
+        if ($("div .c2c_ad")[0]) {
+            if ($(".level2header").attr('title')) {
+                $("div .c2c_ad").css('top', "-66px").show();
+            } else {
+                $("div .c2c_ad").css('top', '-114px').show();
+            }
+        }
+    })
+
+    /**
+     * check is mobile device
+     */
+    function isMobile() {
+        var userAgent = navigator.userAgent.toLowerCase(),
+                mobile = /Mobile/i.test( userAgent ) || 'ontouchstart' in document.documentElement;
+        return mobile;
+    }
+
+</script>
+</body>
+</html>
+

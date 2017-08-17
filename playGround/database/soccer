@@ -1,0 +1,1302 @@
+<!DOCTYPE html>
+<html class="expanded">
+<head>
+<meta charset="utf-8"/>
+<title>虎扑足球</title>
+<link rel="dns-prefetch" href="//b1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//b2.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//b3.hoopchina.com.cn" />
+<link href="//assets-m.hoopchina.com.cn/touch/static/common/images/hupu_favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<meta id="viewport" name="viewport" content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<meta name="apple-itunes-app" content="app-id=1203163179" />
+<meta name="format-detection" content="telephone=no">
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="referrer" content="unsafe-url" />
+
+<script src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+
+<meta name="keywords" content="足球,虎扑足球" />
+<meta name="description" content="足球,虎扑足球是以英超意甲等五大联赛和中超等足球赛事为主的专业足球网站,原创的足球新闻与专栏,最全的足球直播和视频,百万铁杆足球迷尽在虎扑足球。" />
+
+<link rel="apple-touch-icon" tets="tet" href="https://w2.hoopchina.com.cn/2e/9f/f8/2e9ff8abe5146aa353764064d50a4fc5002.png"/>
+<link rel='canonical' href='https://soccer.hupu.com/'>
+
+
+<noscript><link rel="stylesheet" type="text/css" href="//cc.dace.hupu.com/_dace.gif?et=wap&vid=0x41d25de3c51763b5&sid=WL_tch_m&ref=&path=http%3A%2F%2Fm.hupu.com%2Fsoccer&rkw=&rurl=&ip=123.120.187.0&vst=67697cc8.4f8b23a9&v=1.0.1&inu=0&utmn=1502947599398427360&ptp=3000"></noscript><script>window.inu = '0'</script>
+<script>
+                        var __daceDataNameOfPage = '3000';
+            //dace源码无法区别网站协议，在外层添加以支持https, @2016/06/01 by meiandai
+            window.currentSchema = /^https/i.test(location.href) ? "https://" : "http://";
+
+            !function(win){
+                var win = window;
+                var HPM = win.HPM = {};
+                // 用户名称
+                HPM.getUserName = "";
+                // 用户登陆状态
+                HPM.isLogin = 0;
+                HPM.loginUrl = 'https:\/\/passport.hupu.com\/m\/2?jumpurl=http%3A%2F%2Fm.hupu.com%2Fsoccer&from=m&project=soccer';
+            }(window);
+
+        // 百度的新统计
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "//hm.baidu.com/hm.js?abb0c7fb3fb595c51dc99849b10830bd";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(hm, s);
+        })();
+        </script>
+<script src="//b3.hoopchina.com.cn/web/module/dace/m/m_dace.js"></script>
+
+<script src="//dup.baidustatic.com/js/dm.js"></script>
+
+
+<div style="width:0px; height:0px; overflow:hidden"><img src="//b1.hoopchina.com.cn/common/app-icon-380x380.png" /></div>
+<link rel="stylesheet" type="text/css" href="//assets-m.hoopchina.com.cn/touch/static/common/pkg/common_eb243d9.css"/><link rel="stylesheet" type="text/css" href="//assets-m.hoopchina.com.cn/touch/static/home/pkg/channel_86f2f6f.css"/><link rel="stylesheet" type="text/css" href="//assets-m.hoopchina.com.cn/touch/static/home/pkg/index_a711221.css"/><link rel="stylesheet" type="text/css" href="//assets-m.hoopchina.com.cn/touch/static/home/widget/match-board/match-board_65a2b7b.css"/></head>
+<body class="">
+
+<section id="J-nav-wrap"  style="min-height:37px;">
+<section class="main-nav-wrap " >
+<div class="mod-nav main-nav">
+
+<a href="//m.hupu.com/soccer"  class="active ">
+足球
+<span class="triangle"></span>
+</a>
+
+<a href="//m.hupu.com/soccer/csl/news"  class=" ">
+新闻
+</a>
+
+<a href="//m.hupu.com/soccer/match"  class=" ">
+比赛
+</a>
+
+<a href="//m.hupu.com/bbs"  class=" ">
+社区
+</a>
+
+<a href="//m.hupu.com/soccer/csl/tables"  class=" ">
+积分榜
+</a>
+
+<a href="//m.hupu.com/soccer/csl/topscorers"  class=" ">
+射手榜
+</a>
+</div>
+</section>
+<section class="mod-nav mid-nav">
+<a href="//m.hupu.com/soccer" class="active">全部</a>
+<a href="//m.hupu.com/soccer/csl" >中国足球</a>
+<a href="//m.hupu.com/soccer/epl" >英超</a>
+<a href="//m.hupu.com/soccer/laliga" >西甲</a>
+<a href="//m.hupu.com/soccer/1bund" >德甲</a>
+<a href="//m.hupu.com/soccer/seriea" >意甲</a>
+<a href="//m.hupu.com/soccer/ucl" >欧冠</a>
+<a href="//m.hupu.com/soccer/ligue1" >法甲</a>
+</section>
+<section class="mod-nav sub-nav">
+<div class="bread-nav">
+<a href="/">首页</a>
+<span class="icon64 icon64-arrow"></span>
+<a href="//m.hupu.com/soccer" >足球</a>
+<span class="icon64 icon64-arrow"></span>
+<a href="#" class="current">全部</a>
+</div>
+</section>
+</section>
+<div class="page-swipe" id="J_page_index_top">
+<div class="swipe-wrap">
+<figure  dace-node="3000_banner_1">
+<a href="https://bbs.hupu.com/20022433.html">
+<div class="image" style="background-image:url(https://w2.hoopchina.com.cn/99/40/bb/9940bbc48fe0654efbce1f0d0ec1fadb001.jpg)"></div>
+<div class="swipe-title">皇马2-0巴萨：两招压制巴萨变阵...</div>
+</a>
+</figure>
+<figure  dace-node="3000_banner_2">
+<a href="https://bbs.hupu.com/20020232.html">
+<div class="image" data-src="https://w3.hoopchina.com.cn/5d/0f/29/5d0f29f771e3d26c969c400d6302eb6e002.png"></div>
+<div class="swipe-title">罗本亲笔：写给自己，饥饿感流淌在...</div>
+</a>
+</figure>
+<figure  dace-node="3000_banner_3">
+<a href="https://bbs.hupu.com/20021927.html">
+<div class="image" data-src="https://w4.hoopchina.com.cn/75/89/2a/75892a04d20017058abfd37ba2ebbb7a001.jpg"></div>
+<div class="swipe-title">专访温格：从年轻球员培养到内马尔...</div>
+</a>
+</figure>
+<figure  dace-node="3000_banner_4">
+<a href="https://bbs.hupu.com/20015663.html">
+<div class="image" data-src="https://w4.hoopchina.com.cn/7f/10/62/7f1062437f7acaae8b3f60e7bf80da6a001.jpg"></div>
+<div class="swipe-title">入牧三分：曼联的复兴之路，也是三...</div>
+</a>
+</figure>
+</div>
+<ul class="swipe-position" id="J_page_index_top_pos">
+<li class="on"></li>
+<li class=""></li>
+<li class=""></li>
+<li class=""></li>
+</ul>
+</div>
+<section class="nba-wrap">
+<section class="card-col-4 card-col-nobrfore" dace-node="3000_operate" >
+<div class="card-wrap">
+<article class="bd">
+
+<a href="//m.hupu.com/bbs/20022096.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>皇马总比分5-1巴萨夺冠</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20021678.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>C罗社交网站抗议：这是迫害</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20022496.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>皮克：第一次觉得比皇马弱</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20022245.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>塞古拉：接近签登贝莱库蒂尼奥</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/2192547.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c1.hoopchina.com.cn/uploads/star/event/images/170816/19f053f70c59674704bb108c79b20414df7e802b.jpg)"></div>
+<div class="news-text">
+<div class="name">
+<span>官方：C罗维持五场禁赛处罚</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20022161.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>齐达内成夺冠第三多的皇马主帅</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20020098.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>主帅：让姆巴佩替补是保护他</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20020232.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>罗本亲笔：写给十六岁的自己</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20015663.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>入牧三分：“三德子”的成长</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20015495.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>阿诺德：小将也有英雄梦</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/19999628.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>新赛季最难看的18件球衣</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/19999585.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>唐纳鲁马：最天才青年球员？</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20000764.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>枪手vs蓝狐，惊险刺激揭幕战</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20010348.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>第一战，曼联新援闪耀全场</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20020437.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>贺惯头球绝杀，上港2-1恒大</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20017475.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>中国U20参加德地区联赛</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20017541.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>张修维疑似醉驾肇事被公安控制</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20018451.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>贺炜发微博委婉批评张修维</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20020573.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>终结尴尬，上港首胜恒大</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20020984.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>3平7负！恒大客场遇强仍难求一胜</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20020690.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>四番战拉开序幕，上港拔头筹</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20020592.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>足协杯世纪大战门柱4次抢戏！</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+</article>
+</div>
+</section>
+<section class="card-col-4 " dace-node="3000_bbs" section-exposure="3000_show1389">
+<div class="card-wrap">
+<article class="title">
+<h2>社区热点</h2>
+</article>
+<article class="bd">
+
+<a href="//m.hupu.com/bbs/20024562.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>理性讨论，皇家马德里是否和托特纳姆热刺是同一档球队？</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+足球话题区
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20022960.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>真.内鬼而论，当初把卡西推到风口浪尖的电话事件到底是怎么泄露于外的？</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+足球话题区
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20023745.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>巴萨补强内马尔，为什么只盯着哭鸟登贝莱两个难度极大并且是次顶级的球员？</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+足球话题区
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20023686.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>96两大妖人，阿里和阿森西奥你更看好谁？</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+足球话题区
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20023952.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>感觉皇马现在盛世之下也有危机啊</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+足球话题区
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20023994.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>枪手卖人都卖不出价钱，无能的制服组跟巴萨有一拼吧？</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+足球话题区
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20023154.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>我觉得库鸟和登贝莱转会风波中，各方看似做的正确，却把自己套入僵局</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+足球话题区
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20023500.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>曾经的三大中锋，苏牙本泽马下滑严重，莱万已经是无可争议的第一中锋了吗？</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+足球话题区
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20022919.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>脑洞大开一下，谁能对抗巅峰皇马？</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+足球话题区
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20022220.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>皮克：这么多年我们第一次觉得皇马比我们优秀。</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+足球话题区
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20021647.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>每日转会集中讨论贴 8.17</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+米兰专区
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20024510.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>众位看官请看！</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+巴萨专区
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20022644.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>镜报+塞尔电台：加布里埃尔1000万英镑转会瓦伦西亚即将官宣</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+阿森纳专区
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20023819.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>[流言板]霍芬海姆主帅：克洛普说做好了防守只是维护自己球队</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+利物浦专区
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20023960.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>[流言板]温格：董事会支持我留住桑切斯，厄齐尔，张伯伦</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+阿森纳专区
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20022046.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>关于张修维改年龄的考证</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+中国足球
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20022730.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>[流言板]阿媒：特维斯及家人携大量行李回国，将商讨回归博卡</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+上海申花
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20023700.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>郜林要来虎扑发帖了！大家赶紧准备好问题调戏他吧！</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+中国足球
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20022622.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>说实话，过程不重要，结果才是唯一。</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+中国足球
+</div>
+
+</div>
+</div>
+</a>
+
+<a href="//m.hupu.com/bbs/20023357.html" class="list general-list">
+<div class="news-text">
+<div class="name">
+<span>张修为，陈中流，杨一虎，还有多少天才毁在自律上？他们现在在哪？</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+中国足球
+</div>
+
+</div>
+</div>
+</a>
+</article>
+</div>
+</section>
+<div class="region-link">
+<a href="//m.hupu.com/bbs">更多 &gt;</a>
+</div>
+<section class="card-col-4 " dace-node="3000_hotNews" section-exposure="3000_showhotnews">
+<div class="card-wrap">
+<article class="title">
+<h2>最新新闻</h2>
+</article>
+<article class="bd">
+
+
+<a href="//m.hupu.com/soccer/news/2192808.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c2.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-12d1f860964076bf47c2a46c3aae9a2e7e67ec9d.png)"></div>
+<div class="news-text">
+<div class="name">
+<span>官方：狼堡中卫布鲁克斯肌腱撕裂，或缺阵3个月</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/2192806.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c2.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-7cbd403582dd5e0ab8541b7f34ae49f1bb02b083.png)"></div>
+<div class="news-text">
+<div class="name">
+<span>官方：博罗夫斯基出任不莱梅U17主帅</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/2192804.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c2.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-a1019e279ff4ac0a0e31e16f3893c634493d7168.jpg)"></div>
+<div class="news-text">
+<div class="name">
+<span>林加德：更衣室气氛变了，现在的曼联更具信心</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/2192803.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c1.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-6e53575ddc5a2656b94eba5aea6387a2bfccd5c9.png)"></div>
+<div class="news-text">
+<div class="name">
+<span>特拉齐诺谈回归弗赖堡：像从未离开过一样</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/csl/2192798.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c2.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-c4bc1fdc70042120a6499071c0e920dc7f3a0749.jpg)"></div>
+<div class="news-text">
+<div class="name">
+<span>赞！上港将携手恒丰智诚前往山区希望小学进行慈善活动</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/2192797.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c1.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-689f56735fc2ff5285c9e640dcfbf8663216790b.png)"></div>
+<div class="news-text">
+<div class="name">
+<span>贝里佐：希望恩宗齐8月31日之后还在塞维利亚</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/2192792.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c2.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-760f4c9feb2340eb75533f5d7cfc2af033d38cc3.png)"></div>
+<div class="news-text">
+<div class="name">
+<span>邮报：塞尔塔中场迪奥普之争，热刺报价低于里昂</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/2192790.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c2.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-39ecb68adb45e1d2b9cbcb95b6fe46f616348b01.jpg)"></div>
+<div class="news-text">
+<div class="name">
+<span>南安普顿主席：非常坚定范戴克不会被出售</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/2192789.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c1.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-908494540ce58036e718c8da67931d339a4f91aa.png)"></div>
+<div class="news-text">
+<div class="name">
+<span>温格：董事会支持我留住桑切斯，厄齐尔，张伯伦</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/csl/2192788.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c2.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-a08af0780326a7656324936a5f1f27ae29bd4d64.jpg)"></div>
+<div class="news-text">
+<div class="name">
+<span>恒大发布客战申花海报：坚定信念，直击目标</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/2192782.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c2.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-f4337990be5f71eb6e408d4cd399465db723ffcd.jpg)"></div>
+<div class="news-text">
+<div class="name">
+<span>马赛主帅：我和德比希共事过，他是一名超级球员</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/2192781.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c1.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-008eee0c3ad3127e4edfc8f4dba015b69056ea23.png)"></div>
+<div class="news-text">
+<div class="name">
+<span>停不下来！多特12岁小将再次在U17比赛中梅开二度</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/2192780.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c2.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-61217c1da79059c2b24c8c005c2fd905ca163dcd.png)"></div>
+<div class="news-text">
+<div class="name">
+<span>邮报：接受手术伤停3个月？巴克利无缘转会热刺</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/2192779.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c1.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-367fd4a1dc7598a3765ff741250b0da3e50413ee.jpg)"></div>
+<div class="news-text">
+<div class="name">
+<span>霍芬海姆主帅：克洛普说做好了防守只是维护自己球队</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/2192777.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c1.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-086af2be79856403a6ea3342e9636d4dd0a3282f.png)"></div>
+<div class="news-text">
+<div class="name">
+<span>诺利托：回家的感觉拿钱也换不来</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/csl/2192775.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c1.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-4cee55ce038fd4be13f5796bf6ba058a7c803370.jpg)"></div>
+<div class="news-text">
+<div class="name">
+<span>莫雷诺：申花永远是我生命的一部分，尚未续约因时机不适</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/2192774.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c2.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-9ce4e8dc1e3aef1452ae1b2e65f5febc212e3f4b.png)"></div>
+<div class="news-text">
+<div class="name">
+<span>邮报：阿森纳后卫加布里埃尔即将加盟瓦伦西亚</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/2192770.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c2.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-cf29b96bb9bb6f970186330ca1fb9656e00cb382.png)"></div>
+<div class="news-text">
+<div class="name">
+<span>希帅：多特这赛季把与拜仁差距缩小到9分就算成功了</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/2192769.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c1.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-8069563e50bce5c9cd5f5b628ceacb1aada1e33f.jpg)"></div>
+<div class="news-text">
+<div class="name">
+<span>每日电讯：曼联等俱乐部对提前关闭转会窗存疑</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+
+
+<a href="//m.hupu.com/soccer/news/2192767.html" class="list smail-pic-list">
+<div class="small-pic" style="background-image: url(https://c1.hoopchina.com.cn/uploads/star/event/images/170817/thumbnail-fd1c900f30fee3a88a01419dcfe24e9bd2764d99.jpg)"></div>
+<div class="news-text">
+<div class="name">
+<span>莫拉塔：我需要实现突破，切尔西是合适的落脚点</span>
+</div>
+<div class="other-info">
+<div class="bt-lf">
+
+
+</div>
+
+</div>
+</div>
+</a>
+</article>
+</div>
+</section>
+<div class="region-link">
+<a href="//m.hupu.com/soccer/csl/news">更多 &gt;</a>
+</div>
+</section>
+
+
+<div class="m-row hupu-m-row" id="J-hupu">
+<div class="m-bottom-spread">
+<script type="text/javascript" src="https://s.haiyunimg.com/SSP/37451.js"></script>
+</div>
+<div class="hupu-m">
+<div class="hupu-new-note">
+<div class="hupu-new-login">
+<div class="user-wrap">
+<a href="https://passport.hupu.com/m/2?jumpurl=http%3A%2F%2Fm.hupu.com%2Fsoccer&from=m&project=soccer" dace-node="3000_bottom_login">登录</a>
+</div>
+</div>
+<div class="hupu-new-links">
+<a href="//m.hupu.com" dace-node="3000_bottom_1000" class="index-link">首页</a>
+<a href="//m.hupu.com/nba" dace-node="3000_bottom_2100" class="index-link">NBA</a>
+<a href="//m.hupu.com/cba/news" dace-node="3000_bottom_2200" class="index-link">CBA</a>
+<a href="//m.hupu.com/soccer" dace-node="3000_bottom_3000" class="index-link">足球</a>
+</div>
+</div>
+<div class="sites-block">
+<div class="sites">
+<a href="https://soccer.hupu.com" id="J_pc_link" dace-node="3000_pc">电脑版</a>
+<a href="http://mobile.hupu.com/download/games/?_r=mwap" class="download-btn">虎扑App<i class="icon-download"></i></a>
+</div>
+<p><a href="https://www.hupu.com/policies/terms">虎扑用户协议（含隐私政策）</a></p>
+<p class="copyright">
+&copy;2017&nbsp;虎扑 hupu.com<a href="http://www.miitbeian.gov.cn" target="_blank" style="color:#bac2cc">&nbsp;沪ICP备05037078号-13</a>
+</p>
+</div>
+</div>
+<div class="m-app-info hupu-m-fixed">
+<div class="hupu-m-fixed-close" dace-node="3000_download_bottom_close"><i></i></div>
+<div class="m-app-download">
+<a dace-node="3000_download_bottom" href="https://mobile.hupu.com/download/games/?_r=wapbottombanner"><img src="https://i1.hoopchina.com.cn/touch/622/3598622/touch_adlist_3598622_1502250567.488.png" alt="" /></a>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="https://goto.hupu.com/js/c/89.js"></script>
+</body><script type="text/javascript" src="//assets-m.hoopchina.com.cn/touch/static/common/pkg/common_90c52ea.js"></script>
+<script type="text/javascript" src="//assets-m.hoopchina.com.cn/touch/static/common/widget/ui/wechat-share/wechat-share_8b42a5a.js"></script>
+<script type="text/javascript" src="//assets-m.hoopchina.com.cn/touch/static/common/widget/ui/share/wechat_3d5f223.js"></script>
+<script type="text/javascript" src="//assets-m.hoopchina.com.cn/touch/static/common/widget/ui/swipe/swipe_ff8ecb6.js"></script>
+<script type="text/javascript">var __ready = [];__ready.push(function(){             var login = require("common:widget/ui/login/login.js");
+             HPM.popLogin = function(){
+                login("https:\/\/passport.hupu.com\/m\/2?jumpurl=http%3A%2F%2Fm.hupu.com%2Fsoccer&from=m&project=soccer");
+             }
+        });
+__ready.push(function(){             wx.config({
+                debug: false,
+                appId: 'wx5549e304bc4c1d0d',
+                timestamp: '1502947599',
+                nonceStr: 'cJ8wd97sxEDWm4OB',
+                signature: '6537ddae0bc0049285086e250e18cfe0b560dde1',
+                jsApiList: [
+                    'onMenuShareTimeline',
+                    'onMenuShareAppMessage',
+                    'onMenuShareQQ',
+                    'onMenuShareWeibo',
+                    'onMenuShareQZone'
+                ]
+            });
+
+            wx.ready(function(){
+                var shareData = {
+                    title: "虎扑足球",
+                    desc: "足球,虎扑足球是以英超意甲等五大联赛和中超等足球赛事为主的专业足球网站,原创的足球新闻与专栏,最全的足球直播和视频,百万铁杆足球迷尽在虎扑足球。",
+                    link: "https:\/\/m.hupu.com\/soccer",
+                    imgUrl: "https:\/\/w2.hoopchina.com.cn\/2e\/9f\/f8\/2e9ff8abe5146aa353764064d50a4fc5002.png",
+                    success: function(res){
+                    },
+                    cancel: function(res){
+                    }
+                }
+
+                wx.onMenuShareTimeline(shareData);
+                wx.onMenuShareAppMessage(shareData);
+                wx.onMenuShareQQ(shareData);
+
+                wx.onMenuShareWeibo(shareData);
+                wx.onMenuShareQZone(shareData);
+            });
+        });
+__ready.push(function(){    var newTopNav = require("common:widget/new-top-nav/new-top-nav.js");
+    var wechatShare = require('common:widget/ui/share/wechat.js');
+
+    newTopNav.init();
+    var toShare = require("common:widget/ui/share/share.js");
+    //全局分享事件, 每个页面单独注册.
+    $(document).on("page:share", function(){
+        var opt = wechatShare.init();
+        opt.hasWechat ? opt.weChatconfig = {
+                            title: "虎扑足球",
+                            desc: "足球,虎扑足球是以英超意甲等五大联赛和中超等足球赛事为主的专业足球网站,原创的足球新闻与专栏,最全的足球直播和视频,百万铁杆足球迷尽在虎扑足球。",
+                            url: "https:\/\/m.hupu.com\/soccer",
+                            img: "https:\/\/w2.hoopchina.com.cn\/2e\/9f\/f8\/2e9ff8abe5146aa353764064d50a4fc5002.png",
+                        }
+                        : {}
+        opt.IsSafari ? opt.safariConfig = true : opt.safariConfig = false;
+        toShare(opt);
+    });
+    //触发挂载在document上的"page:share"事件.
+    $("#J_top_share").bind("click", function(){
+        $(document).trigger("page:share");
+    });
+});
+__ready.push(function(){  var Swipe = require("common:widget/ui/swipe/swipe.js");
+  var container = document.getElementById("J_page_index_top");
+  var bullets = document.getElementById("J_page_index_top_pos").getElementsByTagName('li');
+  var slideInstance = new Swipe(container, {
+      continuous: true,
+      auto: 3000,
+      callback: function(pos) {
+        var image = $(container).find(".image").eq(pos);
+        var imageSrc = image.data("src");
+        if(imageSrc){
+          image.css("background-image", "url(" + imageSrc +")" );
+          image.removeAttr("data-src");
+        }
+        var i = bullets.length;
+        while (i--) {
+          bullets[i].className = ' ';
+        }
+        bullets[pos].className = 'on';
+      }
+  });
+});
+__ready.push(function(){    $("#J_pc_link").on("click", function(e){
+        if (document.cookie.indexOf("__nmj")  == -1) {
+            var exp = new Date();
+            exp.setTime(exp.getTime() + 30*24*60*60*1000);
+            document.cookie = "__nmj=1; path=/;domain=.hupu.com;expires=" + exp.toGMTString();
+        };
+        window.location.href = 'https:\/\/soccer.hupu.com';
+    });
+
+    $(".hupu-m-fixed-close").on("click", function(e){
+        var exp = new Date();
+        exp.setTime(exp.getTime() + 24*60*60*7*1000);
+        document.cookie = "__closeapp=1; path=/;domain=.hupu.com;expires=" + exp.toGMTString();
+        $(".hupu-m-fixed").remove();
+        $(".hupu-m").css("margin-bottom", "0");
+    });
+
+    if($(".hupu-m-fixed")){
+        $(".hupu-m").css("margin-bottom", $(".hupu-m-fixed").height());
+    }
+
+    
+    // 用户第一次访问
+    if ($('.hupu-m-fixed').length && document.cookie.indexOf("__fixeduserfirst") == -1) {
+        var exp = new Date();
+        exp.setTime(exp.getTime() + 1*60*60*1000);
+        document.cookie = "__fixeduserfirst=1; path=/;domain=.hupu.com;expires=" + exp.toGMTString();
+    }
+});window.initEvent && window.initEvent();</script></html>

@@ -1,0 +1,1414 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<link rel="dns-prefetch" href="//b1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//b3.hoopchina.com.cn" />
+
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.hupu.com/bbs" />
+<meta name="mobile-agent" content="format=html5;url=https://m.hupu.com/bbs" />
+
+<title>步行街 - 虎扑社区</title>
+<meta name="keywords" content="步行街" />
+<meta name="description" content="步行街来自虎扑步行街论坛." />
+<base href="//bbs.hupu.com" /><!--[if IE 6]></base><![endif]-->
+<script type='text/javascript'>var __daceDataNameOfForum='174';var __daceDataNameOfCategory = '174'; var __daceDataNameOfProject='bxj';var __daceDataNameOfChannel='gambia';</script>
+<meta name="apple-itunes-app" content="app-id=906632439" />
+<link rel="shortcut icon" href="//b3.hoopchina.com.cn/common/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="//b3.hoopchina.com.cn/common/common-v1.css" />
+<script src="//b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js"></script> 
+<script src="//b3.hoopchina.com.cn/common/common-v1.js"></script>
+<link rel='stylesheet' type='text/css' href='//b3.hoopchina.com.cn/css/hupu-v56.css?2017070320' />
+<link rel='apple-touch-icon' href='https://b1.hoopchina.com.cn/common/apple-touch-icon.png'/>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/pcbbs/js/j15.js"></script>
+</head>
+<body>
+<!--topbarNav star-->
+                        <div id="hp-topbarNav">
+                            <div class="hp-topbarNav-bd">
+                                <ul class="hp-quickNav">
+                                    <li class="mobileWeb"><a href="https://m.hupu.com/" target="_blank"><i class="ico-mobile"></i>手机虎扑</a></li>
+                                    <li class="line">|</li>
+                                    <li class="mobileclientDown"><a class="red" href="https://mobile.hupu.com/?_r=globalNav" target="_blank">虎扑客户端</a></li>
+                                    <li class="line">|</li>
+			                        <li><a class="red" href="https://mobile.hupu.com/football?r=global_nav" target="_blank">虎扑足球客户端</a></li>
+                                    <li class="line">|</li>
+                                    <li class="hp-dropDownMenu topFollowBlog">
+                                        <a href="javascript:void(0)" class="hp-set">关注虎扑<s class="setArrow"></s></a>
+                                        <div class="hp-drapDown followLayer">
+                                            <a class="weibo" target="_blank" rel="nofollow" href="//weibo.com/liangle4u"><i class="hp-ico-weibo"></i>新浪微博</a>
+											<a class="weixin" target="_blank" href="https://voice.hupu.com/other/1581560.html"><i class="hp-ico-weixin"></i>官方微信</a>
+                                            <a class="instagram" target="_blank" rel="nofollow" href="https://voice.hupu.com/other/1634334.html"><i class="hp-ico-instagram"></i>Instagram</a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="hp-topLogin-info"></div>
+                            </div>
+                        </div>
+                        <!--topbarNav ent--><!--header star--><div class="hp-header hp-header-B"><div class="hp-logo"><a title="步行街" href="https://bbs.hupu.com/all-gambia"><img src="https://b3.hoopchina.com.cn/images/logo2017/v1/hp_logo_sports.png" alt="步行街" /></a>
+                            </div>
+                            <div class="hp-mainNav hp-mainNav-B">
+                                <div class="hp-nav">
+                                    <div class="hp-nav-bd">
+                                        <ul class="hp-nav-item"><li><a href="https://www.hupu.com/" >虎扑首页</a></li><li class="line">|</li><li><a href="https://nba.hupu.com/" >NBA</a></li><li class="line">|</li><li><a href="https://cba.hupu.com/" >CBA</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com" >国际足球</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com/china/" >中国足球</a></li><li class="line">|</li><li><a href="http://racing.hupu.com/" >赛车</a></li><li class="line">|</li><li><a href="http://zb.hupu.com/" target="_blank">装备</a></li><li class="line">|</li><li><a href="http://www.shihuo.cn/" target="_blank">识货</a></li><li class="line">|</li><li><a href="http://v.liangle.com/" >视频</a></li><li class="line">|</li><li><a href="http://photo.hupu.com/" >图片</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/" >社区</a></li><li class="line">|</li><li class="on"><a href="https://bbs.hupu.com/all-gambia" >步行街</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/all-esports" >电竞</a></li><li class="line">|</li><li><a href="http://www.liangle.com" target="_blank">路人王</a></li><li class="line">|</li><li class="hp-dropDownMenu hp-moreNav">
+                                                <a href="javascript:void(0)" class="hp-set">更多<s class="setArrow"></s></a>
+                                                <div class="hp-drapDown hp-moreNav-drapDown"><a href="https://shop311048929.taobao.com/" target="_blank">虎扑优选</a><a href="http://www.kaluli.com/" target="_blank">卡路里</a><a href="http://outdoor.hupu.com/" >户外</a><a href="http://run.hupu.com/" >跑步</a><a href="http://ymq.hupu.com/" >羽毛球</a><a href="http://xgame.hupu.com/" target="_blank">xgames</a><a href="http://www.nflchina.com/" target="_blank">NFL</a><a href="http://golf.hupu.com/" target="_blank">高尔夫</a><s class="arrow-top"><s class="arrowbd"></s></s>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="hp-subNav">
+			<ul class="hp-subNav-item">
+                <li><a href="https://bbs.hupu.com/all-gambia">首页</a></li>
+            </ul>
+</div>
+                                <i class="hp-roundPoint-br-tl roundPoint-br-tl"></i>
+                                <i class="hp-roundPoint-br-tr roundPoint-br-tr"></i>
+                                <i class="hp-roundPoint-br-bl roundPoint-br-bl"></i>
+                                <i class="hp-roundPoint-br-br roundPoint-br-br"></i>
+                            </div>
+                        </div>
+
+<div id="topPub" style="height:66px"></div>
+
+
+			<div class="hp-threeNav">
+			<div class="hp-threeNav-bd">
+			<ul class="hp-threeNav-item"><li><a href='/all-gambia'  class= "on" data-project='bxj' id='g_b'>步行街热帖</a></li><li ><a href='/bxj'  >步行街主干道</a></li><li ><a href='/ent'  >影视</a></li><li ><a href='/digital'  >IT数码</a></li><li ><a href='/selfie'  >爆照</a></li><li ><a href='/lol'  >英雄联盟</a></li><li ><a href='/kog'  >王者荣耀</a></li><li ><a href='/acg'  >ACG</a></li><li ><a href='/finance'  >股票</a></li><li  class="hp-hide-w1024"><a href='/cars'  >车友交流</a></li><li  class="hp-hide-w1024"><a href='/music'  >音乐</a></li><li  class="hp-hide-w1024"><a href='/xuefu'  >学府路</a></li><li  class="hp-hide-w1024"><a href='/999'  >万事屋</a></li></ul></div><i id='level2header' title='首页'></i>
+				<div class="hp-search">
+					<form id="hp-form-search" method="get" enctype="multipart/form-data" action="https://my.hupu.com/search">
+						<input type="text" value="搜索视频、帖子" class="it-search" />
+						<input type="submit" value="搜索" class="btn-search" />
+					</form>
+				</div>
+			</div>
+		
+<div class="hp-wrap">
+
+<div id="container" class="rel">
+  <div id="container_padd">
+    				<div id="sidenav_bbs"><div id="bbs_banner"><h4><a class="h4_t">版块分类</a></h4><ul>
+		<li id="l1" lid="1"><a href="//bbs.hupu.com/all-nba">NBA论坛</a></li>
+		<li id="l232" lid="232"><a href="//bbs.hupu.com/all-cba">CBA论坛</a></li>
+		<li id="l233" lid="233"><a href="//bbs.hupu.com/all-gear">运动&装备</a></li>
+		<li id="l198" lid="198"><a href="//bbs.hupu.com/all-soccer">国际足球论坛</a></li>
+		<li id="l4596" lid="4596"><a href="//bbs.hupu.com/all-csl">中国足球论坛</a></li>
+		<li id="l41" lid="41"><a href="//bbs.hupu.com/all-sports">综合体育</a></li><li id="l174" lid="174"><a href="//bbs.hupu.com/all-gambia">步行街</a></li>
+	<li id="l42" lid="42"><a href="//bbs.hupu.com/all-lottery">彩票中心</a></li>
+	<li id="l238" lid="238"><a href="//bbs.hupu.com/all-boards">自建版块</a></li>
+	<li id="l114" lid="114"><a href="//bbs.hupu.com/all-group">虎扑社团</a></li>
+	<li id="l7" lid="7"><a href="//bbs.hupu.com/all-feedback">站务管理</a></li>
+	</ul></div>
+				<div class="sidenav_pop_tips"><p class="more"><a href="//bbs.hupu.com/boards.php">更多版块 &raquo;</a></p></div>
+				
+				</div>    <script>
+      if(screen.width > 1152)
+      {
+        document.write('<style>#recomBbsIndex{width:740px} #recomBbsIndex .list .textSpan{width:auto;} </style>');
+      }
+    </script>
+
+    <!---中间 start--->
+    <div id="recomBbsIndex">
+      <h1>步行街热帖</h1>
+      <div class="list">
+      <h3>步行街</h3>
+      <ul>
+        <li><span class="textSpan"><a href="/20022356.html" target="_blank"
+                                      title="ZT发现女儿早恋，这个爸爸的做法刷爆了朋友圈"><span class="red">ZT发现女儿早恋，这个爸爸的做法刷爆了朋友圈</span></a><em class="f666">25亮959回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20023802.html" target="_blank"
+                                      title="“格斗孤儿”拳馆老板访谈，称不会再招大凉山的孩子，满是心酸和无奈。"><span class="red">“格斗孤儿”拳馆老板访谈，称不会再招大凉山的孩子，满是心酸和无奈。</span></a><em class="f666">25亮278回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20022861.html" target="_blank"
+                                      title="中国有嘻哈hiphopman欧阳靖街头随机freestyle，这能力什么水平？"><span class="red">中国有嘻哈hiphopman欧阳靖街头随机freestyle，这能力什么水平？</span></a><em class="f666">25亮378回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20023508.html" target="_blank"
+                                      title="华为是我见过最不要脸的公司，目前来说，可能没有之一"><span class="red">华为是我见过最不要脸的公司，目前来说，可能没有之一</span></a><em class="f666">17亮499回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20022461.html" target="_blank"
+                                      title="歼-15空中撞鸟！飞行员驾机带火着陆zt"><span class="red">歼-15空中撞鸟！飞行员驾机带火着陆zt</span></a><em class="f666">25亮528回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20022332.html" target="_blank"
+                                      title="三千块一个月是不是我国当前最普遍工资?"><span class="red">三千块一个月是不是我国当前最普遍工资?</span></a><em class="f666">25亮1258回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20022192.html" target="_blank"
+                                      title="我是中兴HR，大家有什么想问的？"><span class="red">我是中兴HR，大家有什么想问的？</span></a><em class="f666">17亮982回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20022315.html" target="_blank"
+                                      title="《不冷笑话》第1484期：不是只有柯基才有小电臀~"><span class="red">《不冷笑话》第1484期：不是只有柯基才有小电臀~</span></a><em class="f666">8亮452回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20023368.html" target="_blank"
+                                      title="ZT  刻骨寻人！北大女硕士被绑架案告破，这位中国警察震惊FBI！"><span class="red">ZT  刻骨寻人！北大女硕士被绑架案告破，这位中国警察震惊FBI！</span></a><em class="f666">4亮101回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20022325.html" target="_blank"
+                                      title="不懂就问，大部分女生在王思聪和胡歌之间会选谁？"><span class="red">不懂就问，大部分女生在王思聪和胡歌之间会选谁？</span></a><em class="f666">24亮709回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20023010.html" target="_blank"
+                                      title="【秋名山论美】第51期，国际李，李冰冰，你给出的虎扑评分是多少？(目前8.612分）"><span class="red">【秋名山论美】第51期，国际李，李冰冰，你给出的虎扑评分是多少？(目前8.612分）</span></a><em class="f666">14亮160回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20023308.html" target="_blank"
+                                      title="[王者荣耀冠军杯]8月19日决赛，QG对阵eStar，决赛会有怎样的BP出现（奖池800Q币）"><span class="red">[王者荣耀冠军杯]8月19日决赛，QG对阵eStar，决赛会有怎样的BP出现（奖池800Q币）</span></a><em class="f666">10亮265回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20023238.html" target="_blank"
+                                      title="我爸是警局领导，东西被盗了 也tm没办法"><span class="red">我爸是警局领导，东西被盗了 也tm没办法</span></a><em class="f666">8亮250回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20019196.html" target="_blank"
+                                      title="ｚｔ：他们是死士，牺牲时平均23岁！看后泪目！"><span class="red">ｚｔ：他们是死士，牺牲时平均23岁！看后泪目！</span></a><em class="f666">21亮619回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20022628.html" target="_blank"
+                                      title="康师傅太坑爹了，这让我怎么办"><span class="red">康师傅太坑爹了，这让我怎么办</span></a><em class="f666">5亮318回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20020074.html" target="_blank"
+                                      title="哆啦A梦开心地说：日本战败了！zt"><span class="red">哆啦A梦开心地说：日本战败了！zt</span></a><em class="f666">20亮520回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20021971.html" target="_blank"
+                                      title="交往了一年才发现，原来她是这种人，我该怎么跟她摊牌"><span class="red">交往了一年才发现，原来她是这种人，我该怎么跟她摊牌</span></a><em class="f666">23亮782回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20020806.html" target="_blank"
+                                      title="大凉山孩子被强迫按手印，送回大凉山，无良媒体吃人血馒头"><span class="red">大凉山孩子被强迫按手印，送回大凉山，无良媒体吃人血馒头</span></a><em class="f666">25亮786回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20023632.html" target="_blank"
+                                      title="华人导演有哪些可以称为大师的？"><span class="red">华人导演有哪些可以称为大师的？</span></a><em class="f666">11亮291回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20024228.html" target="_blank"
+                                      title="打完野球对手过来拍拍你的屁股是什么意思？"><span class="red">打完野球对手过来拍拍你的屁股是什么意思？</span></a><em class="f666">8亮146回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20023476.html" target="_blank"
+                                      title="女朋友说要给我惊喜，结果让我很伤心，我该怎么办？"><span class="red">女朋友说要给我惊喜，结果让我很伤心，我该怎么办？</span></a><em class="f666">7亮246回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20023693.html" target="_blank"
+                                      title="大舅子赌钱输了，发这信息我该怎么办"><span class="red">大舅子赌钱输了，发这信息我该怎么办</span></a><em class="f666">10亮135回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20022770.html" target="_blank"
+                                      title="为何大家都知道平型关大捷，而战况规模更大更惨烈，歼敌更多的上高会战却无人知晓"><span class="red">为何大家都知道平型关大捷，而战况规模更大更惨烈，歼敌更多的上高会战却无人知晓</span></a><em class="f666">9亮411回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20022857.html" target="_blank"
+                                      title="Zt 中国历史上最霸气的十句话 &nbsp; 娱乐为主 见仁见智"><span class="red">Zt 中国历史上最霸气的十句话 &nbsp; 娱乐为主 见仁见智</span></a><em class="f666">5亮191回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+        <li><span class="textSpan"><a href="/20022708.html" target="_blank"
+                                      title="电瓶车被偷了   刚报了警   在等警察"><span class="red">电瓶车被偷了   刚报了警   在等警察</span></a><em class="f666">9亮350回复</em></span><span class="forum">
+                <a target="_blank" href="/bxj" class="f666">步行街主干道</a></span></li>
+      </ul>
+    </div><div class="list">
+      <h3>影音娱乐</h3>
+      <ul>
+        <li><span class="textSpan"><a href="/20024083.html" target="_blank"
+                                      title="“育良书记”张志坚与好友重聚 “丁义珍”也来了！"><span class="red">“育良书记”张志坚与好友重聚 “丁义珍”也来了！</span></a><em class="f666">6亮46回复</em></span><span class="forum">
+                <a target="_blank" href="/ent" class="f666">影视区</a></span></li>
+        <li><span class="textSpan"><a href="/20023465.html" target="_blank"
+                                      title="胡歌超man写真撩爆了！"出走"归来的他才是真男神（高清组图）【ZT】"><span class="red">胡歌超man写真撩爆了！"出走"归来的他才是真男神（高清组图）【ZT】</span></a><em class="f666">6亮62回复</em></span><span class="forum">
+                <a target="_blank" href="/ent" class="f666">影视区</a></span></li>
+        <li><span class="textSpan"><a href="/20022351.html" target="_blank"
+                                      title="【GIF】看了超级战舰后才知道，原来船是可以这么玩的！"><span class="red">【GIF】看了超级战舰后才知道，原来船是可以这么玩的！</span></a><em class="f666">8亮77回复</em></span><span class="forum">
+                <a target="_blank" href="/ent" class="f666">影视区</a></span></li>
+        <li><span class="textSpan"><a href="/20022632.html" target="_blank"
+                                      title="ZT：丹尼尔克雷格亲自确认出演新《007》：这是最后一部！">ZT：丹尼尔克雷格亲自确认出演新《007》：这是最后一部！</a><em class="f666">3亮155回复</em></span><span class="forum">
+                <a target="_blank" href="/ent" class="f666">影视区</a></span></li>
+        <li><span class="textSpan"><a href="/20023522.html" target="_blank"
+                                      title="《爸爸去哪儿》第五季录制照曝光  “山鸡哥”陈小春、吴尊、杜江、邓伦、刘耕宏">《爸爸去哪儿》第五季录制照曝光  “山鸡哥”陈小春、吴尊、杜江、邓伦、刘耕宏</a><em class="f666">4亮49回复</em></span><span class="forum">
+                <a target="_blank" href="/ent" class="f666">影视区</a></span></li>
+        <li><span class="textSpan"><a href="/20023047.html" target="_blank"
+                                      title="朱丽倩，罗美薇，乐基儿，方媛，来自天王嫂的比拼。">朱丽倩，罗美薇，乐基儿，方媛，来自天王嫂的比拼。</a><em class="f666">5亮38回复</em></span><span class="forum">
+                <a target="_blank" href="/ent" class="f666">影视区</a></span></li>
+        <li><span class="textSpan"><a href="/20022626.html" target="_blank"
+                                      title="豆瓣感觉很客观，战狼1只有6.8分，战狼2看了也确实就值7.5分。">豆瓣感觉很客观，战狼1只有6.8分，战狼2看了也确实就值7.5分。</a><em class="f666">3亮179回复</em></span><span class="forum">
+                <a target="_blank" href="/ent" class="f666">影视区</a></span></li>
+        <li><span class="textSpan"><a href="/20023048.html" target="_blank"
+                                      title="从大闹天空到三打白骨精，再到女儿国。别喷好吗，正经的西游记就这么一个系列了">从大闹天空到三打白骨精，再到女儿国。别喷好吗，正经的西游记就这么一个系列了</a><em class="f666">4亮58回复</em></span><span class="forum">
+                <a target="_blank" href="/ent" class="f666">影视区</a></span></li>
+        <li><span class="textSpan"><a href="/20024133.html" target="_blank"
+                                      title="ZT：王刚斥个别年轻演员台词差 一个镜头拍8遍都烦透了">ZT：王刚斥个别年轻演员台词差 一个镜头拍8遍都烦透了</a><em class="f666">3亮25回复</em></span><span class="forum">
+                <a target="_blank" href="/ent" class="f666">影视区</a></span></li>
+        <li><span class="textSpan"><a href="/20022892.html" target="_blank"
+                                      title="TFBOYS编舞老师被指抄袭GOT7动作，这真的是一模一样，傻子都看出来抄了。">TFBOYS编舞老师被指抄袭GOT7动作，这真的是一模一样，傻子都看出来抄了。</a><em class="f666">4亮49回复</em></span><span class="forum">
+                <a target="_blank" href="/ent" class="f666">影视区</a></span></li>
+      </ul>
+    </div><div class="list">
+      <h3>图片</h3>
+      <ul>
+        <li><span class="textSpan"><a href="/20023121.html" target="_blank"
+                                      title="同事上班睡觉 要不要举报">同事上班睡觉 要不要举报</a><em class="f666">4亮112回复</em></span><span class="forum">
+                <a target="_blank" href="/selfie" class="f666">爆照区</a></span></li>
+        <li><span class="textSpan"><a href="/20024140.html" target="_blank"
+                                      title="女Jr，新染了头发，都说不好，请大家评评。">女Jr，新染了头发，都说不好，请大家评评。</a><em class="f666">2亮102回复</em></span><span class="forum">
+                <a target="_blank" href="/selfie" class="f666">爆照区</a></span></li>
+        <li><span class="textSpan"><a href="/20022478.html" target="_blank"
+                                      title="朋友的女友几分？">朋友的女友几分？</a><em class="f666">4亮46回复</em></span><span class="forum">
+                <a target="_blank" href="/selfie" class="f666">爆照区</a></span></li>
+        <li><span class="textSpan"><a href="/20018567.html" target="_blank"
+                                      title="和女朋友在家上演了一波“第二强23vs24…”"><span class="red">和女朋友在家上演了一波“第二强23vs24…”</span></a><em class="f666">24亮617回复</em></span><span class="forum">
+                <a target="_blank" href="/selfie" class="f666">爆照区</a></span></li>
+        <li><span class="textSpan"><a href="/20021044.html" target="_blank"
+                                      title="大家都晒分，我晒下健身前后变化，求jr们分别打分啦！"><span class="red">大家都晒分，我晒下健身前后变化，求jr们分别打分啦！</span></a><em class="f666">3亮237回复</em></span><span class="forum">
+                <a target="_blank" href="/selfie" class="f666">爆照区</a></span></li>
+      </ul>
+    </div><div class="list">
+      <h3>电竞游戏</h3>
+      <ul>
+        <li><span class="textSpan"><a href="/20023265.html" target="_blank"
+                                      title="把联盟中英雄名字的第二个字改成B看看有什么有趣的名字"><span class="red">把联盟中英雄名字的第二个字改成B看看有什么有趣的名字</span></a><em class="f666">15亮124回复</em></span><span class="forum">
+                <a target="_blank" href="/lol" class="f666">英雄联盟</a></span></li>
+        <li><span class="textSpan"><a href="/20024319.html" target="_blank"
+                                      title="[王者荣耀冠军杯]冠军杯暑期盛典主题曲首发，中国有嘻哈选手创作《王者降临》">[王者荣耀冠军杯]冠军杯暑期盛典主题曲首发，中国有嘻哈选手创作《王者降临》</a><em class="f666">4亮29回复</em></span><span class="forum">
+                <a target="_blank" href="/kog" class="f666">王者荣耀</a></span></li>
+        <li><span class="textSpan"><a href="/20023361.html" target="_blank"
+                                      title="[S7冷知识] Uzi是全球总决赛历史上第一位200杀先生">[S7冷知识] Uzi是全球总决赛历史上第一位200杀先生</a><em class="f666">6亮63回复</em></span><span class="forum">
+                <a target="_blank" href="/lol" class="f666">英雄联盟</a></span></li>
+        <li><span class="textSpan"><a href="/20023105.html" target="_blank"
+                                      title="两年德云色老粉，昨天看录播真的对他们失望极了">两年德云色老粉，昨天看录播真的对他们失望极了</a><em class="f666">5亮108回复</em></span><span class="forum">
+                <a target="_blank" href="/lol" class="f666">英雄联盟</a></span></li>
+        <li><span class="textSpan"><a href="/20023462.html" target="_blank"
+                                      title="猴子现在强成这样了？">猴子现在强成这样了？</a><em class="f666">3亮86回复</em></span><span class="forum">
+                <a target="_blank" href="/kog" class="f666">王者荣耀</a></span></li>
+      </ul>
+    </div><div class="list">
+      <h3>生活</h3>
+      <ul>
+        <li><span class="textSpan"><a href="/20023303.html" target="_blank"
+                                      title="[流言板]情怀旗舰！诺基亚8发布：4700元/骁龙835/1300万蔡司双摄"><span class="red">[流言板]情怀旗舰！诺基亚8发布：4700元/骁龙835/1300万蔡司双摄</span></a><em class="f666">3亮123回复</em></span><span class="forum">
+                <a target="_blank" href="/digital" class="f666">IT数码区</a></span></li>
+        <li><span class="textSpan"><a href="/20022548.html" target="_blank"
+                                      title="对于一汽大众首款suv，t—rock大家怎么看？">对于一汽大众首款suv，t—rock大家怎么看？</a><em class="f666">5亮86回复</em></span><span class="forum">
+                <a target="_blank" href="/cars" class="f666">车友交流</a></span></li>
+        <li><span class="textSpan"><a href="/20023666.html" target="_blank"
+                                      title="ZT：MIUI即将全面撤掉广告">ZT：MIUI即将全面撤掉广告</a><em class="f666">3亮61回复</em></span><span class="forum">
+                <a target="_blank" href="/digital" class="f666">IT数码区</a></span></li>
+        <li><span class="textSpan"><a href="/20023594.html" target="_blank"
+                                      title="[流言板]诺基亚8将于9月6日开卖 约售4700元">[流言板]诺基亚8将于9月6日开卖 约售4700元</a><em class="f666">1亮54回复</em></span><span class="forum">
+                <a target="_blank" href="/digital" class="f666">IT数码区</a></span></li>
+        <li><span class="textSpan"><a href="/20022928.html" target="_blank"
+                                      title="平心而论，VV7真的不算一款好车？">平心而论，VV7真的不算一款好车？</a><em class="f666">2亮64回复</em></span><span class="forum">
+                <a target="_blank" href="/cars" class="f666">车友交流</a></span></li>
+      </ul>
+    </div><div class="l_w_reply">
+      <h3 id="highlights">步行街亮了的回帖</h3>
+      
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/222800357425954">
+        <img alt="D_不知" src="https://i1.hoopchina.com.cn/user/720/27477720/27477720-1483941679.jpg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/222800357425954">D_不知</a>
+                       <span class="stime">2017-08-17 10:08:16</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="27477720" id="tipcolor824484">
+                                            <a class="ilike_icon " onclick="tipfight(20022857,824484,34);" href="javascript:;">亮了</a>(<span id="tip824484" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20022857.html" target="_blank">Zt 中国历史上最霸气的十句话 &nbsp; 娱乐为主 见仁见智</a>
+                                        <span class="f666">(共5亮回帖 来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>我觉得有一句也很霸气。<br>惜秦皇汉武 略输文采<br>唐宗宋祖 稍逊风骚<br>一代天骄 成吉思汗<br>只识弯弓射大雕<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/75821871969159">
+        <img alt="小徐州" src="https://i1.hoopchina.com.cn/user/header/20170724/150088127363441_small_2.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/75821871969159">小徐州</a>
+                       <span class="stime">2017-08-08 15:22:59</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="26122935" id="tipcolor36845">
+                                            <a class="ilike_icon " onclick="tipfight(19952258,36845,34);" href="javascript:;">亮了</a>(<span id="tip36845" class="stime" style="padding:0;">20</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/19952258.html" target="_blank">吴京谢楠两夫妻野外旅行, 行李备足避孕套!zt</a>
+                                        <span class="f666">(共4亮回帖 来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>人家是夫妻，出去野战也很正常啊，记者大惊小怪的。</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/151943805094578">
+        <img alt="北京埋土大学" src="https://i2.hoopchina.com.cn/user/407/20585407/20585407-1483425555.jpg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/151943805094578">北京埋土大学</a>
+                       <span class="stime">2017-08-14 23:49:15</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="20585407" id="tipcolor526460">
+                                            <a class="ilike_icon " onclick="tipfight(20004844,526460,34);" href="javascript:;">亮了</a>(<span id="tip526460" class="stime" style="padding:0;">32</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20004844.html" target="_blank">印度阿三这事儿，是不是和萨德一样，最后媒体淡化，大家不了了之了呀</a>
+                                        <span class="f666">(来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>萨德那件事，是在韩国自己领土上搭的一个防御性武器，说破了天这是他国军事防御，我们再怎么制裁也就那样<br>印度这事儿，尼玛都踩到咱们领土上了，这是主权问题，肯定更严重，要不然就是你印度自己给我滚出去，要不然就是我给你打出去<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/198721823696458">
+        <img alt="3最爱韦德3" src="https://i3.hoopchina.com.cn/user/598/30421598/30421598-1492346093.jpg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/198721823696458">3最爱韦德3</a>
+                       <span class="stime">2017-08-08 15:22:11</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="30421598" id="tipcolor36698">
+                                            <a class="ilike_icon " onclick="tipfight(19952258,36698,34);" href="javascript:;">亮了</a>(<span id="tip36698" class="stime" style="padding:0;">35</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/19952258.html" target="_blank">吴京谢楠两夫妻野外旅行, 行李备足避孕套!zt</a>
+                                        <span class="f666">(共4亮回帖 来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>戴在手上？这个我会<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/38709117654157">
+        <img alt="冲田" src="https://i3.hoopchina.com.cn/user/122/9122/9122_small_5.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/38709117654157">冲田</a>
+                       <span class="stime">2017-05-11 14:03:14</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="9122" id="tipcolor402795">
+                                            <a class="ilike_icon " onclick="tipfight(19178893,402795,34);" href="javascript:;">亮了</a>(<span id="tip402795" class="stime" style="padding:0;">151</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/19178893.html" target="_blank">我老妈去银行存定期，被诱导买了保险怎么办</a>
+                                        <span class="f666">(共4亮回帖 来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>保险有犹豫期吧，我记得银行渠道是10天还是15天来着
+<br>
+<br>这个期限内，应该是无条件可以退的
+<br>
+<br>
+<br>要是超过的话，可能就得收一定费用了吧</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/138140763948602">
+        <img alt="刚猛泡椒" src="https://i1.hoopchina.com.cn/user/549/18912549/18912549-1484796000.jpeg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/138140763948602">刚猛泡椒</a>
+                       <span class="stime">2017-08-08 15:24:49</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="18912549" id="tipcolor37143">
+                                            <a class="ilike_icon " onclick="tipfight(19952258,37143,34);" href="javascript:;">亮了</a>(<span id="tip37143" class="stime" style="padding:0;">54</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/19952258.html" target="_blank">吴京谢楠两夫妻野外旅行, 行李备足避孕套!zt</a>
+                                        <span class="f666">(共4亮回帖 来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>额，这个真不是吴京乱说，避孕套真的是户外三宝之一……作用非常多 <br/>另外户外三宝还有卫生巾呢……<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/90921569673024">
+        <img alt="xhtlaji" src="https://i1.hoopchina.com.cn/user/header/20170801/150157467166068_small_2.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/90921569673024">xhtlaji</a>
+                       <span class="stime">2017-08-08 15:22:02</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="3511095" id="tipcolor36673">
+                                            <a class="ilike_icon " onclick="tipfight(19952258,36673,34);" href="javascript:;">亮了</a>(<span id="tip36673" class="stime" style="padding:0;">107</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/19952258.html" target="_blank">吴京谢楠两夫妻野外旅行, 行李备足避孕套!zt</a>
+                                        <span class="f666">(共4亮回帖 来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>这个解释够冷锋。<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/276681475337122">
+        <img alt="澄中学子" src="https://i3.hoopchina.com.cn/user/878/20646878/20646878-1490575887.jpg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/276681475337122">澄中学子</a>
+                       <span class="stime">2017-08-17 11:22:27</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="20646878" id="tipcolor882766">
+                                            <a class="ilike_icon " onclick="tipfight(20022708,882766,34);" href="javascript:;">亮了</a>(<span id="tip882766" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20022708.html" target="_blank">电瓶车被偷了   刚报了警   在等警察</a>
+                                        <span class="f666">(共9亮回帖 来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用2楼 @<a class="u" target="_blank" href="https://my.hupu.com/26376712848616" >UTUTbest</a> 发表的</b>:<br>还在报警？我把电瓶车骑走了啊</p></blockquote><br><p><img src="https://i10.hoopchina.com.cn/hupuapp/bbs/878/20646878/thread_20646878_20170817112150_s_152751_h_349px_w_559px1735227326.jpeg" data-w="559" data-h="349"/></p>是你吗，窃格瓦尔<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/121989993890690">
+        <img alt="鲨齿龙" src="https://i1.hoopchina.com.cn/user/549/21731549/21731549-1501330568.jpeg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/121989993890690">鲨齿龙</a>
+                       <span class="stime">2017-08-17 12:10:37</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="21731549" id="tipcolor920498">
+                                            <a class="ilike_icon " onclick="tipfight(20024187,920498,34);" href="javascript:;">亮了</a>(<span id="tip920498" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20024187.html" target="_blank">凭胸而论，你们会把西瓜最甜的部分让给自己的男朋友（女朋友）吗？</a>
+                                        <span class="f666">(来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用2楼 @<a class="u" target="_blank" href="https://my.hupu.com/234901696299606" >营痒快线</a> 发表的</b>:<br>不会，我都是留给我的小情人。</p></blockquote><br>你的右手长着嘴?<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/115794182978336">
+        <img alt="没有沈佳宜的我" src="https://i2.hoopchina.com.cn/user/915/19165915/19165915-1454082429.jpeg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/115794182978336">没有沈佳宜的我</a>
+                       <span class="stime">2017-08-17 12:29:59</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="19165915" id="tipcolor935266">
+                                            <a class="ilike_icon " onclick="tipfight(20024257,935266,34);" href="javascript:;">亮了</a>(<span id="tip935266" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20024257.html" target="_blank">历史上还有比“臣等欲将死战，陛下为何先降”更悲壮的吗？</a>
+                                        <span class="f666">(共2亮回帖 来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用13楼 @<a class="u" target="_blank" href="https://my.hupu.com/4594274075479" >狐岐之水</a> 发表的</b>:<br>卡特，投了个绝杀球，结果教练提前喊了暂停。把卡特快气疯了。</p></blockquote><br>德罗赞，卡特毛啊<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/yybyes0929">
+        <img alt="xhw户主" src="https://i3.hoopchina.com.cn/user/530/567530/567530_small_14.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/yybyes0929">xhw户主</a>
+                       <span class="stime">2017-08-17 11:35:18</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="567530" id="tipcolor892841">
+                                            <a class="ilike_icon " onclick="tipfight(20023894,892841,34);" href="javascript:;">亮了</a>(<span id="tip892841" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023894.html" target="_blank">想问一下，到底有多少人对警察有敌视？</a>
+                                        <span class="f666">(来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>我只想说，口碑不是靠一天积累起来的。<br>当年我iPhone4S 被偷，报警，等了一个月，然后告诉我基本找不回来了，后来我自己查到了对方手机号码，特别兴奋感觉案情可以得到重大突破，然后跟他们说完卵子用都没有，GG！</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/61795942407544">
+        <img alt="长春梁朝伟" src="https://i1.hoopchina.com.cn/user/42/31165042/31165042-1499390021.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/61795942407544">长春梁朝伟</a>
+                       <span class="stime">2017-08-16 09:35:22</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="31165042" id="tipcolor169619">
+                                            <a class="ilike_icon " onclick="tipfight(20014819,169619,122);" href="javascript:;">亮了</a>(<span id="tip169619" class="stime" style="padding:0;">20</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20014819.html" target="_blank">你见过哪些霸气的路名?</a>
+                                        <span class="f666">(共9亮回帖 来自:
+                                            <a href="/pogua" target="_blank">破瓜区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>冰淇淋胡同…长春jr<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/74744679431734">
+        <img alt="运尸的艺术" src="https://i1.hoopchina.com.cn/user/header/20170406/149144842780267_small_2.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/74744679431734">运尸的艺术</a>
+                       <span class="stime">2017-08-17 09:26:16</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="26376261" id="tipcolor793604">
+                                            <a class="ilike_icon " onclick="tipfight(20022760,793604,34);" href="javascript:;">亮了</a>(<span id="tip793604" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20022760.html" target="_blank">震惊！十几年的发小竟然对小两岁的表妹做这种事？！</a>
+                                        <span class="f666">(共6亮回帖 来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用3楼 @<a class="u" target="_blank" href="https://my.hupu.com/c9052y" >被强煎的土鸡蛋</a> 发表的</b>:<br>俩人都成年了吧。这事儿该他们爹妈考虑，不需要你接受........  哈哈</p></blockquote><br>= =看着觉得怪怪的，觉得太过了<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/257609002427153">
+        <img alt="NPmvp" src="https://i3.hoopchina.com.cn/user/95/26439095/26439095-1495176452.jpeg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/257609002427153">NPmvp</a>
+                       <span class="stime">2017-08-05 11:11:44</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="26439095" id="tipcolor233110">
+                                            <a class="ilike_icon " onclick="tipfight(19924391,233110,34);" href="javascript:;">亮了</a>(<span id="tip233110" class="stime" style="padding:0;">126</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/19924391.html" target="_blank">【秋名山论美】第39期，天使之恋：佐佐木希，你的虎扑评分是多少？（截止9.127）</a>
+                                        <span class="f666">(共25亮回帖 来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>已经结婚了，嫁的人在应该有很多人都听说过，<div>就是郭冬临经常抄的那个日本搞笑组合<span style="color: rgb(204, 0, 0); font-family: arial; font-size: 13px; background-color: rgb(255, 255, 255);">UNJASH</span>的<span style="color: rgb(51, 51, 51); font-family: arial, tahoma, &quot;Microsoft Yahei&quot;, 宋体, sans-serif; font-size: 34px; background-color: rgb(255, 255, 255);">渡部建</span></div><div><font color="#333333" face="arial, tahoma, Microsoft Yahei, 宋体, sans-serif"><span style="font-size: 34px;"><div><img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1501913166355&amp;di=7c4157f4d6b77eb14202d72dc88fe440&amp;imgtype=0&amp;src=https://bbsstaticoss.hoopchina.com.cn/aHR0cCUzQSUyRiUyRmltZy5tcC5zb2h1LmNvbSUyRnVwbG9hZCUyRjIwMTcwNTIwJTJGMzk2YzJhOTc5ZDg5NDZjOGJhNTUwOTA4MzFhZjdmOWJfdGgucG5n" data-w="640" data-h="471"><br></div></span></font><div><font size="5"><b>挖大鳖，纳命来</b></font><br></div></div></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/21345466899013">
+        <img alt="丶带血的雏菊" src="https://i3.hoopchina.com.cn/user/343/28450343/28450343-1476336526.jpeg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/21345466899013">丶带血的雏菊</a>
+                       <span class="stime">2016-10-26 18:09:36</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="28450343" id="tipcolor293886">
+                                            <a class="ilike_icon " onclick="tipfight(17618956,293886,34);" href="javascript:;">亮了</a>(<span id="tip293886" class="stime" style="padding:0;">762</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/17618956.html" target="_blank">是暴露一把年纪的时候了</a>
+                                        <span class="f666">(共11亮回帖 来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>卧槽!!!  这套梦寐以求啊!!!!  现在还想要</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/200117275838273">
+        <img alt="rose面" src="https://i1.hoopchina.com.cn/user/header/20170804/150181751438772_small_5.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/200117275838273">rose面</a>
+                       <span class="stime">2017-08-17 12:30:34</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="19408959" id="tipcolor935692">
+                                            <a class="ilike_icon " onclick="tipfight(20024269,935692,34);" href="javascript:;">亮了</a>(<span id="tip935692" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20024269.html" target="_blank">探探你们用过了后是什么效果？</a>
+                                        <span class="f666">(来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>这个app，我是看鬼吹灯下载的，下载了前三天，每天是看到喜欢的类型的妹子才选择喜欢，结果三天后一个人都没回我。<br>然后我就选择开始疯狂切水果模式，疯狂右划，管你是林志玲还是罗玉凤，只要是雌的就行，然并卵。<br>卸载~~！</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/99411805536698">
+        <img alt="不等于什么" src="https://i3.hoopchina.com.cn/user/795/6329795/6329795_small_1.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/99411805536698">不等于什么</a>
+                       <span class="stime">2017-08-17 12:33:49</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="6329795" id="tipcolor938205">
+                                            <a class="ilike_icon " onclick="tipfight(20024356,938205,34);" href="javascript:;">亮了</a>(<span id="tip938205" class="stime" style="padding:0;">6</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20024356.html" target="_blank">你身边不懂车的人都买了什么车？</a>
+                                        <span class="f666">(来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>又是知乎刚嚼烂的梗<br /><small class="f999">发自手机虎扑 m.hupu.com</small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/56110565829238">
+        <img alt="低调雷阿伦" src="https://i2.hoopchina.com.cn/user/920/16976920/16976920-1474327672.png@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/56110565829238">低调雷阿伦</a>
+                       <span class="stime">2017-08-17 12:27:30</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="16976920" id="tipcolor933388">
+                                            <a class="ilike_icon " onclick="tipfight(20023460,933388,34);" href="javascript:;">亮了</a>(<span id="tip933388" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023460.html" target="_blank">小学生教室热吻三分钟，全班同学起哄zt</a>
+                                        <span class="f666">(共5亮回帖 来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用12楼 @<a class="u" target="_blank" href="https://my.hupu.com/275869079643611" >外卖小哥陈冠希</a> 发表的</b>:<br>教室热吻三分钟，全班起哄，老师用手机拍下感人瞬间</p></blockquote><br>明天来uc上班！<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/223479189827998">
+        <img alt="无伤0821" src="https://i3.hoopchina.com.cn/user/232/25210232/25210232_small_4.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/223479189827998">无伤0821</a>
+                       <span class="stime">2017-07-26 20:41:48</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="25210232" id="tipcolor62433">
+                                            <a class="ilike_icon " onclick="tipfight(19817942,62433,34);" href="javascript:;">亮了</a>(<span id="tip62433" class="stime" style="padding:0;">29</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/19817942.html" target="_blank">中国景区总统山，提名黄山！</a>
+                                        <span class="f666">(共4亮回帖 来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用12楼 @<a class="u" target="_blank" href="https://my.hupu.com/98316161150558" >罗延珏</a> 发表的</b>:<br>你说前五就前五了？你全国各地名胜都去过了？</p></blockquote><br>那你说又有几个风景名胜能稳压黄山</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/132081881253783">
+        <img alt="Skinfaxi" src="https://i2.hoopchina.com.cn/user/869/25796869/25796869_small_1.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/132081881253783">Skinfaxi</a>
+                       <span class="stime">2017-07-05 11:18:00</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="25796869" id="tipcolor244610">
+                                            <a class="ilike_icon " onclick="tipfight(19611209,244610,34);" href="javascript:;">亮了</a>(<span id="tip244610" class="stime" style="padding:0;">387</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/19611209.html" target="_blank">《权力的游戏》中谁的死让你不能接受？</a>
+                                        <span class="f666">(共21亮回帖 来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>小玫瑰啊…真的说明哪怕你也是有城府的人，遇上疯子，能躲还是躲吧…<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/18238744737737">
+        <img alt="起昵称要认真" src="https://i1.hoopchina.com.cn/user/default_small.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/18238744737737">起昵称要认真</a>
+                       <span class="stime">2017-06-27 13:37:58</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="27682505" id="tipcolor472078">
+                                            <a class="ilike_icon " onclick="tipfight(19541499,472078,34);" href="javascript:;">亮了</a>(<span id="tip472078" class="stime" style="padding:0;">420</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/19541499.html" target="_blank">为什么迪迦奥特曼在中国是知名度最高的奥特曼？</a>
+                                        <span class="f666">(共4亮回帖 来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>收视率高，中文主题曲火，另外变身3个形态的创新，再说平成后，迪加是唯一一个在国内电视台放过的奥特曼吧。回复泰罗赛文的，那是邵和时代的，迪迦是最后一个在国内电视台放过的奥特曼<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/124673888658895">
+        <img alt="快船输二轮" src="https://i1.hoopchina.com.cn/user/117/18645117/18645117_small_1.png" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/124673888658895">快船输二轮</a>
+                       <span class="stime">2015-11-21 23:48:55</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="18645117" id="tipcolor11565">
+                                            <a class="ilike_icon " onclick="tipfight(14746364,11565,120);" href="javascript:;">亮了</a>(<span id="tip11565" class="stime" style="padding:0;">50</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/14746364.html" target="_blank">邓超折戟金马奖，是不是失去了他超过黄晓明的最好机会？</a>
+                                        <span class="f666">(共11亮回帖 来自:
+                                            <a href="/ent" target="_blank">影视区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>  我感觉超哥的人气是远超黄晓明。<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/245783679345380">
+        <img alt="颓唐Link" src="https://i2.hoopchina.com.cn/user/140/28904140/28904140_small_2.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/245783679345380">颓唐Link</a>
+                       <span class="stime">2016-09-09 15:36:19</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="28904140" id="tipcolor401185">
+                                            <a class="ilike_icon " onclick="tipfight(17262062,401185,34);" href="javascript:;">亮了</a>(<span id="tip401185" class="stime" style="padding:0;">21</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/17262062.html" target="_blank">一堆人大晚上围在一间密闭的空间里讲灵异故事为什么那么刺激</a>
+                                        <span class="f666">(来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>心满意足地聊了一晚上睡觉了，第二天被室友们的敲门声吵醒，他们说刚从网吧通宵回来累死了。</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/82068660665384">
+        <img alt="唐山老宋9" src="https://i3.hoopchina.com.cn/user/header/20170616/149759627088030_small_3.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/82068660665384">唐山老宋9</a>
+                       <span class="stime">2017-08-14 22:15:39</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="31434446" id="tipcolor481350">
+                                            <a class="ilike_icon " onclick="tipfight(20004077,481350,34);" href="javascript:;">亮了</a>(<span id="tip481350" class="stime" style="padding:0;">7</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20004077.html" target="_blank">请教：同一间办公室但工作上少有交集，颜值较低的女同事平时你会主动搭理吗</a>
+                                        <span class="f666">(来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><img src='https://b1.hoopchina.com.cn/post/smile/10.gif'> 这个看脸的社会 同事也不搭理了？</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/30656778639635">
+        <img alt="陵寐寐" src="https://i3.hoopchina.com.cn/user/299/29223299/29223299_small_5.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/30656778639635">陵寐寐</a>
+                       <span class="stime">2016-09-09 15:33:48</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="29223299" id="tipcolor400647">
+                                            <a class="ilike_icon " onclick="tipfight(17262062,400647,34);" href="javascript:;">亮了</a>(<span id="tip400647" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/17262062.html" target="_blank">一堆人大晚上围在一间密闭的空间里讲灵异故事为什么那么刺激</a>
+                                        <span class="f666">(来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>……一大群人晚上在一个密闭的空间里聊异性也很刺激的。</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/86073868634924">
+        <img alt="养生大师" src="https://i1.hoopchina.com.cn/user/default_small.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/86073868634924">养生大师</a>
+                       <span class="stime">2017-08-12 12:34:50</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="27192775" id="tipcolor109145">
+                                            <a class="ilike_icon " onclick="tipfight(19983261,109145,34);" href="javascript:;">亮了</a>(<span id="tip109145" class="stime" style="padding:0;">19</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/19983261.html" target="_blank">【秋名山论美】第46期，夏日香气：孙艺珍，你的虎扑评分是多少？（截止9.249)</a>
+                                        <span class="f666">(共25亮回帖 来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>给十分是因为满分只有十分，难以想象世间竟有如此美好的女子。<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/100578737040636">
+        <img alt="蓝胖都是帝" src="https://i1.hoopchina.com.cn/user/default_small.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/100578737040636">蓝胖都是帝</a>
+                       <span class="stime">2017-08-17 12:52:43</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="30353309" id="tipcolor952477">
+                                            <a class="ilike_icon " onclick="tipfight(20024446,952477,34);" href="javascript:;">亮了</a>(<span id="tip952477" class="stime" style="padding:0;">8</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20024446.html" target="_blank">来给大家说说我是怎么毕业一年开上奔驰GLE320的</a>
+                                        <span class="f666">(来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>散了吧，这种经验狗，12年发帖参加校园招聘，14年还在拿奖学金，17年说毕业1年了开奔驰，RPG很好玩吗，人生多不得意要来论坛找存在感?</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/232306117357865">
+        <img alt="熊凯的号" src="https://i1.hoopchina.com.cn/user/default_small.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/232306117357865">熊凯的号</a>
+                       <span class="stime">2017-08-17 12:31:52</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="26232790" id="tipcolor936707">
+                                            <a class="ilike_icon " onclick="tipfight(20024346,936707,4657);" href="javascript:;">亮了</a>(<span id="tip936707" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20024346.html" target="_blank">宫本和吕布二选一，福利女友</a>
+                                        <span class="f666">(来自:
+                                            <a href="/kog" target="_blank">王者荣耀</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>选女友吧吧吧吧<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/197567752057254">
+        <img alt="小白天" src="https://i1.hoopchina.com.cn/user/053/346053/346053_small_1.gif" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/197567752057254">小白天</a>
+                       <span class="stime">2014-01-15 22:11:10</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="346053" id="tipcolor24925">
+                                            <a class="ilike_icon " onclick="tipfight(7842634,24925,34);" href="javascript:;">亮了</a>(<span id="tip24925" class="stime" style="padding:0;">261</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/7842634.html" target="_blank">一菲，美嘉，yoyo，羽墨，宛瑜，诺澜。哪个比较适合当女朋友？</a>
+                                        <span class="f666">(共8亮回帖 来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>美嘉做女朋友的确是最佳，傻傻的，可爱无比，恋爱时最有感觉，但是做老婆会让你感到着急的。<br><br>一菲嘛，恋爱时很难受，但变老婆后就不错了，特别对于孩子而已<br><br>悠悠没啥感觉，做普通朋友不错<br><br>雨墨，这花瓶就是个二奶，情人的角色<br><br>宛瑜，作为白富美，做女友不用担心消费，做老婆可以少奋斗20年<br><br>诺澜，杀出的黑马，属于比较完美的妹子，<br><br><br>如果要我选。。。。感觉像是初中时想大学读清华还是北大一样让人烦恼</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/dongjun0512">
+        <img alt="飞虎拳鹰" src="https://i3.hoopchina.com.cn/user/538/15667538/15667538_small_30.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/dongjun0512">飞虎拳鹰</a>
+                       <span class="stime">2017-01-12 11:52:07</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="15667538" id="tipcolor70848">
+                                            <a class="ilike_icon " onclick="tipfight(18243734,70848,34);" href="javascript:;">亮了</a>(<span id="tip70848" class="stime" style="padding:0;">1592</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/18243734.html" target="_blank">吴彦祖：我因为长得帅被绿过。 吴彦祖这段话的思想境界什么水平？</a>
+                                        <span class="f666">(共25亮回帖 来自:
+                                            <a href="/bxj" target="_blank">步行街主干道</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>鲁豫的眼睛里充满了渴望<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+    </div><script type="text/javascript">
+      function tipfight(tid,pid,fid){
+        var state=1,authorid = $("#tipcolor"+pid).attr("mid"),token="4306b06d0c";
+        $.ajax({
+          type: "POST",
+          dataType: "json",
+          url: "/ajax/lights.ajax.php?" + Math.random(),
+          data: {tid:tid, pid:pid, state:state, authorid:authorid, fid:fid,token:token},
+          success: function(data) {
+              $("b.loading").hide();
+              if(data.code != 1){
+                  if(data.code == -1){
+                      show_login();
+                  }else{
+                      show_message("<div class='tips_pop'>"+data.msg+"</div>");
+                  }
+
+                  return false;
+              }else{
+                  $("#tip"+pid).text(data.num);
+                  if(state==1){
+                      $("#tipcolor"+pid).attr("class","red");
+                  }else{
+                      $("#fightcolor"+pid).attr("class","f666");
+                  }
+                  ga("bbs-c-highlights-click");
+              }
+          }
+        });
+      }
+      window.onload=function(){
+        var mw = 444;if(screen.width > 1152){mw = 650;}$("table.case img").each(function(){
+          if($(this).width() > mw){
+            $(this).width(mw).attr("title","点击查看原图").addClass("lightbox").click(function(){window.open($(this).attr("src"));});}});}
+    </script>         <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+                    '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+        <script type='text/javascript'>
+var pubW = screen.width>1152 ? 1200 : 990;
+if ($('#g_b').attr('data-project') != 'soccer') {
+    var other_index_c2c_ad = 'hc_newbbs_indexTop_'+pubW+'x60';
+} else {
+    var other_index_c2c_ad = 'goalhi-bbs-top-banner-'+pubW+'x60';
+}
+googletag.cmd.push(function() {
+googletag.defineSlot('/1016953/hoopchina-bbs-right-Optimus-120x600', [120, 600], 'hoopchina-bbs-right-Optimus-120x600').addService(googletag.pubads());
+googletag.defineSlot('/1016953/'+other_index_c2c_ad+'', [pubW, 60], 'other_index_c2c_ad').addService(googletag.pubads());
+googletag.defineSlot('/1016953/bbs_rightback_250x250', [250, 250], 'bbs_rightback_250x250').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+        <div class="lpub_ad" id="lpub_ad" style="display:none;left:-133px"><div id='hoopchina-bbs-right-Optimus-120x600'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('hoopchina-bbs-right-Optimus-120x600'); });</script></div>
+</div>
+    </div>
+    <!---中间 end--->
+    <!---右侧 start--->
+    <div id="indexSidebar">
+      <h3><a href="/boards.php">版块列表</a></h3>
+      <div class="list"><div class="title">
+          <h4>步行街</h4>
+        </div>
+        <ul><li><a target="_blank" href="/bxj">主干道</a></li><li><a target="_blank" href="/xuefu">学府路</a></li><li><a target="_blank" href="/999">万事屋</a></li></ul> <br>
+        <div class="clearfix"></div><div class="title">
+          <h4>影音娱乐</h4>
+        </div>
+        <ul><li><a target="_blank" href="/ent">影视区</a></li><li><a target="_blank" href="/music">音乐区</a></li><li><a target="_blank" href="/acg">ACG区</a></li><li><a target="_blank" href="/nba2k">2K游戏</a></li></ul> <br>
+        <div class="clearfix"></div><div class="title">
+          <h4>图片</h4>
+        </div>
+        <ul><li><a target="_blank" href="/selfie">爆照区</a></li><li><a target="_blank" href="/wallpaper">手机壁纸区</a></li></ul> <br>
+        <div class="clearfix"></div><div class="title">
+          <h4>电竞游戏</h4>
+        </div>
+        <ul><li><a target="_blank" href="/lol">英雄联盟</a></li><li><a target="_blank" href="/kog">王者荣耀</a></li><li><a target="_blank" href="/hs">炉石传说</a></li><li><a target="_blank" href="/ow">守望先锋</a></li><li><a target="_blank" href="/game">游戏区</a></li></ul> <br>
+        <div class="clearfix"></div><div class="title">
+          <h4>生活</h4>
+        </div>
+        <ul><li><a target="_blank" href="/finance">股票区</a></li><li><a target="_blank" href="/literature">文学区</a></li><li><a target="_blank" href="/love">情感区</a></li><li><a target="_blank" href="/digital">数码</a></li><li><a target="_blank" href="/cars">车友交流</a></li><li><a target="_blank" href="/fit">健身</a></li><li><a target="_blank" href="/hccares">基金会</a></li></ul> <br>
+        <div class="clearfix"></div>
+      </div><div class="bbs-index-weixin"><div id='bbs_rightback_250x250'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('bbs_rightback_250x250'); });</script></div>
+</div>
+    </div>
+      <!---右侧 end--->
+    </div>
+
+    <div class="c2c_ad" style="display:none;"><div id='other_index_c2c_ad'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('other_index_c2c_ad'); });</script></div>
+</div>
+
+  </div>
+</div>
+</div>
+<div style="display: none;"></div>
+
+
+
+<div class="fback"><a class="btop" href="#">回顶部</a></div>
+<b id="footer-loadedError"></b>
+
+
+<div class="hp-footer">
+                    <div class="hp-copyright">虎扑（上海）文化传播股份有限公司 <a href="https://www.hupu.com/icp.html" target="_blank">沪B2-20120042</a> <a target="_blank" href="http://www.miitbeian.gov.cn">沪ICP备05037078号-13</a></div>
+                    <div class="hp-copyright">
+                    
+                    Copyright by 虎扑JRs &amp;
+                    <a href="https://www.hupu.com/" target="_blank" title="虎扑">虎扑</a> -
+                    <a href="http://jobs.hupu.com/" target="_blank">在虎扑工作</a> -
+                    <a href="http://marketing.hupu.com/contact/" target="_blank">联系我们</a> -
+                    <a href="https://m.hupu.com/" target="_blank">手机虎扑网</a> -
+                    <a href="https://mobile.hupu.com/" target="_blank">虎扑App</a> -
+                    <a href="https://www.hupu.com/policies/terms" target="_blank">服务协议</a> -
+                    <a href="https://www.hupu.com/sitemap.html" target="_blank">网站地图</a> -
+                    <a href="https://nba.hupu.com/" target="_blank" title="NBA">NBA</a> -
+                    <a href="https://cba.hupu.com/" target="_blank" title="CBA">CBA</a>  -
+                    <a href="https://soccer.hupu.com/" target="_blank" title="足球">足球</a> -
+                    <a href="https://soccer.hupu.com/china/" target="_blank" title="中超">中超</a> -
+                    <a href="http://racing.hupu.com/" target="_blank" title="赛车">赛车</a> 
+                    </div>
+                    <div class="securityPic">
+                    <a href="http://www.jhga.gov.cn/" target="_blank"><img src="https://b3.hoopchina.com.cn/images/wl_wljga.png" alt="金华市公安局网络报警"></a>
+                    <a href="http://www.zx110.org" target="_blank"><img src="https://b3.hoopchina.com.cn/images/wl_wlshzxw.png" alt="网络社会征信网"></a>
+                    <a href="http://www.shjbzx.cn/" target="_blank"><img src="https://b3.hoopchina.com.cn/images/www_jubao.png" alt="上海网络举报图片"></a>
+                    <a href="http://report.12377.cn:13225/toreportinputNormal_anis.do" target="_blank"><img src="https://b3.hoopchina.com.cn/images/www_cn_jubao.png" alt="有害信息举报图片"></a>
+                    </div>
+                </div>
+
+
+<script>
+	var countGATrackPageview = location.pathname+location.search+"'|bxj/174-步行街/174-'";
+_common.init({project: "bxj",countGASetVar: "",countGATrackPageview: countGATrackPageview});	
+</script>
+<script async="true" src="//b3.hoopchina.com.cn/pcbbs/js/g85.js?20170207"></script>
+
+<script type="text/javascript" src="https://hm.baidu.com/h.js?39fc58a7ab8a311f2f6ca4dc1222a96e" async="async"></script>
+<script>IE6 = '';</script><!--[if lte IE 6]><script>IE6 = 'sucks';</script><![endif]-->
+<script>
+    try{
+      if(window.top != window.self){
+        var topHost = top.document.location.hostname;
+        if (topHost.indexOf('hupu.com') < 0 && topHost.indexOf('liangle.com') < 0 && topHost.indexOf('shihuo.cn') < 0){
+          window.top.location.href = window.self.location.href;
+        }
+      } 
+    }catch(e){}
+
+    $(function(){
+        if ($("#lpub_ad")[0]) {
+            function findPos_top(obj) {
+                var top = obj.offsetTop || 0;
+                while (obj = obj.offsetParent) {
+                    top += obj.offsetTop;
+                }
+                return top;
+            }
+
+            function findPos_left(obj) {
+                var l = obj.offsetLeft;
+                while (obj.offsetParent != null) {
+                    obj = obj.offsetParent;
+                    l += obj.offsetLeft;
+                }
+                return l;
+            }
+
+            ifSideSticky = (IE6 == 'sucks') ? false : true;
+            var pubPos = findPos_top($("#bbs_banner")[0]) - findPos_top($("#sidenav_bbs")[0]) + 403;
+            $("#lpub_ad").css('top', pubPos + 'px');
+            $("#lpub_ad").show();
+            if (!isMobile() && ifSideSticky && document.documentElement.clientHeight > 670) {
+                var contentwitdth = $("#content").width();
+                var sideSticky = function () {
+                    var now_top = document.body.scrollTop || document.documentElement.scrollTop || 0;
+                    if (now_top > pubPos + 100) {
+                        $("#lpub_ad").attr('style', 'position: fixed; _position: absolute; top:10px;left:' + (findPos_left($("#container_padd")[0]) + 13 - document.documentElement.scrollLeft) + 'px');
+                    } else {
+                        $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                    }
+                };
+                $(window).bind('scroll', sideSticky).resize(function () {
+                    $(window).unbind("scroll");
+                    $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                });
+            }
+        }
+        if ($("div .c2c_ad")[0]) {
+            if ($(".level2header").attr('title')) {
+                $("div .c2c_ad").css('top', "-66px").show();
+            } else {
+                $("div .c2c_ad").css('top', '-114px').show();
+            }
+        }
+    })
+
+    /**
+     * check is mobile device
+     */
+    function isMobile() {
+        var userAgent = navigator.userAgent.toLowerCase(),
+                mobile = /Mobile/i.test( userAgent ) || 'ontouchstart' in document.documentElement;
+        return mobile;
+    }
+
+</script>
+</body>
+</html>
+

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <meta charset="UTF-8" />
+        <title>虎扑足球App客户端官方下载</title>
+        <meta name="keywords"  content="虎扑足球客户端,虎扑足球App,虎扑App,虎扑足球App下载,虎扑App下载,虎扑看球,虎扑,足球,客户端" />
+        <meta name="description" content="虎扑足球App有足球迷想要的一切：直播，社区，新闻，视频和数据等等，涵盖中超、欧冠、英超、西甲、德甲、意甲、法甲、世界杯、欧洲杯、亚洲杯、欧联等各类赛事，在这里，你可以和数百万人一起看球，一起聊体育。" />
+        <meta name="apple-itunes-app" content="app-id=1203163179" />
+        <link rel="shortcut icon" href="//b3.hoopchina.com.cn/common/football_favicon.ico" />
+        <link rel="canonical" href="https://mobile.hupu.com/football" />
+        <link rel="stylesheet" href="//w1.hoopchina.com.cn/m/football/css/reset-pc.css" />
+        <link rel="stylesheet" href="//w1.hoopchina.com.cn/m/football/css/index-pc.css" />
+        <script src="//b3.hoopchina.com.cn/common/common-v1.js"></script>
+        <script src="//b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js"></script>
+    </head>
+    <body>
+        <div class="main-part">
+            <div class="banner-part1">
+                <div class="top-bar-bg"></div>
+                <div class="top-bar-con">
+                    <div class="cw">
+                        <a href="https://m.hupu.com" target="_blank">手机虎扑</a>
+                        <a href="https://soccer.hupu.com" target="_blank">虎扑足球网页版</a>
+                        <a href="https://bbs.hupu.com/18325252.html" target="_blank">关注我们</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="banner-part2"></div>
+
+            <div class="main-con">
+                <div class="cw clearfix">
+                    <div class="main-slide">
+                        <div class="silde-wrap">
+                            <div class="slide-con">
+                                <ul>
+                                    <li><img src="//w1.hoopchina.com.cn/m/football/images/newf/1.png" alt=""></li>
+                                    <li><img src="//w1.hoopchina.com.cn/m/football/images/newf/3.png" alt=""></li>
+                                    <li><img src="//w1.hoopchina.com.cn/m/football/images/newf/4.png" alt=""></li>
+                                    <li><img src="//w1.hoopchina.com.cn/m/football/images/newf/5.png" alt=""></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="main-con-right">
+                        <h2></h2>
+                        <div class="down-con clearfix">
+                            <div class="down-con-left">
+                                <div class="app-store">
+                                    <a class="apple-store" target="_blank" href="https://mobile.hupu.com/download/football/?os=ios&amp;r=goalhi"></a>
+                                    <a class="android-store" href="https://mobile.hupu.com/download/football/?os=android&amp;r=goalhi"></a>
+                                </div>
+                            </div>
+
+                            <div class="down-con-right">
+                                <p>扫描二维码 免费下载</p>
+                                <div class="qr-code">
+                                    二维码
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="fn-list">
+            <div class="cw clearfix">
+                <div itemscope itemtype="http://schema.org/Comment" class="fn-item fn-item4">
+                    <i class="fn-logo"></i>
+                    <h3 class="fn-title">完整的看比赛体验</h3>
+                    <p class="fn-text">提供丰富的直播源，最详尽的比赛数据，包括每场比赛每个球员的进球助攻、射门、抢断、扑救等数据，以及几十万人同时在线聊天的热闹氛围</p>
+                    <span itemprop="upvoteCount" style="display:none;">426</span>
+                </div>
+
+                <div class="fn-item fn-item2">
+                    <i class="fn-logo"></i>
+                    <h3 class="fn-title">积累10年，认真而有趣的足球社区</h3>
+                    <p class="fn-text">你听到过的许多足球梗，就来自虎扑足球社区，而你看到过的很多足球分析大神，也是虎扑足球社区的忠实JRs</p>
+                </div>
+
+                <div class="fn-item fn-item1">
+                    <i class="fn-logo"></i>
+                    <h3 class="fn-title">快速详尽的新闻资讯</h3>
+                    <p class="fn-text">我们努力以最快速度报道国内外足球大小新闻事，只有一种情况能让我们不追求第一时间报道：我们不确定这条新闻的来源是否可靠——是的，我们不生产毫无根据的谣言</p>
+                </div>
+            </div>
+        </div>
+        <script src="//w1.hoopchina.com.cn/m/football/js/jquery.js"></script>
+        <script src="//w1.hoopchina.com.cn/m/football/js/index.js"></script>
+        <script>
+var _hmt = _hmt || [];
+(function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?4658a208b7b33db5a3b7bb31a03c5720";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+})();
+        </script>
+        <div class="hp-footer">
+                    
+                    <div class="hp-copyright">
+                    
+                    Copyright by 虎扑JRs &amp;
+                    <a href="https://www.hupu.com/" target="_blank" title="虎扑">虎扑</a> -
+                    <a href="http://jobs.hupu.com/" target="_blank">在虎扑工作</a> -
+                    <a href="http://marketing.hupu.com/contact/" target="_blank">联系我们</a> -
+                    <a href="https://m.hupu.com/" target="_blank">手机虎扑网</a> -
+                    <a href="https://mobile.hupu.com/" target="_blank">虎扑App</a> -
+                    <a href="https://www.hupu.com/policies/terms" target="_blank">服务协议</a> -
+                    <a href="https://www.hupu.com/sitemap.html" target="_blank">网站地图</a> -
+                    <a href="https://nba.hupu.com/" target="_blank" title="NBA">NBA</a> -
+                    <a href="https://cba.hupu.com/" target="_blank" title="CBA">CBA</a>  -
+                    <a href="https://soccer.hupu.com/" target="_blank" title="足球">足球</a> -
+                    <a href="https://soccer.hupu.com/china/" target="_blank" title="中超">中超</a> -
+                    <a href="http://racing.hupu.com/" target="_blank" title="赛车">赛车</a> 
+                    </div>
+                    
+                </div>
+    </body>
+</html>

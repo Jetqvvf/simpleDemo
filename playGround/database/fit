@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<link rel="dns-prefetch" href="//b1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//b3.hoopchina.com.cn" />
+
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.hupu.com/bbs/203" />
+<meta name="mobile-agent" content="format=html5;url=https://m.hupu.com/bbs/203" />
+
+<title>健身和运动健康 - 虎扑社区</title>
+<meta name="keywords" content="健身和运动健康" />
+<meta name="description" content="健身和运动健康来自虎扑步行街社区，用运动保持健康，欢迎所有参与运动健身的网友！ 欢迎各位！" />
+<link rel="alternate" type="application/rss+xml" title="健身和运动健康" href="/rss.php?fid=203" />
+<base href="//bbs.hupu.com" /><!--[if IE 6]></base><![endif]-->
+<link rel="canonical" href="https://bbs.hupu.com/fit" />
+<link rel="alternate" href="android-app://com.hupu.games/huputiyu/bbs/board/203?r=hupucom"/>
+<script type='text/javascript'>var __daceDataNameOfForum='203';var __daceDataNameOfCategory = '174'; var __daceDataNameOfProject='bxj';var __daceDataNameOfChannel='gambia';</script>
+<meta name="apple-itunes-app" content="app-id=906632439" />
+<link rel="shortcut icon" href="//b3.hoopchina.com.cn/common/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="//b3.hoopchina.com.cn/common/common-v1.css" />
+<script src="//b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js"></script> 
+<script src="//b3.hoopchina.com.cn/common/common-v1.js"></script>
+<link rel='stylesheet' type='text/css' href='//b3.hoopchina.com.cn/css/hupu-v56.css?2017070320' />
+<link rel='apple-touch-icon' href='https://b1.hoopchina.com.cn/common/apple-touch-icon.png'/>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/pcbbs/js/j15.js"></script>
+</head>
+<body>
+<!--topbarNav star-->
+                        <div id="hp-topbarNav">
+                            <div class="hp-topbarNav-bd">
+                                <ul class="hp-quickNav">
+                                    <li class="mobileWeb"><a href="https://m.hupu.com/" target="_blank"><i class="ico-mobile"></i>手机虎扑</a></li>
+                                    <li class="line">|</li>
+                                    <li class="mobileclientDown"><a class="red" href="https://mobile.hupu.com/?_r=globalNav" target="_blank">虎扑客户端</a></li>
+                                    <li class="line">|</li>
+			                        <li><a class="red" href="https://mobile.hupu.com/football?r=global_nav" target="_blank">虎扑足球客户端</a></li>
+                                    <li class="line">|</li>
+                                    <li class="hp-dropDownMenu topFollowBlog">
+                                        <a href="javascript:void(0)" class="hp-set">关注虎扑<s class="setArrow"></s></a>
+                                        <div class="hp-drapDown followLayer">
+                                            <a class="weibo" target="_blank" rel="nofollow" href="//weibo.com/liangle4u"><i class="hp-ico-weibo"></i>新浪微博</a>
+											<a class="weixin" target="_blank" href="https://voice.hupu.com/other/1581560.html"><i class="hp-ico-weixin"></i>官方微信</a>
+                                            <a class="instagram" target="_blank" rel="nofollow" href="https://voice.hupu.com/other/1634334.html"><i class="hp-ico-instagram"></i>Instagram</a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="hp-topLogin-info"></div>
+                            </div>
+                        </div>
+                        <!--topbarNav ent--><!--header star--><div class="hp-header hp-header-B"><div class="hp-logo"><a title="步行街" href="https://bbs.hupu.com/all-gambia"><img src="https://b3.hoopchina.com.cn/images/logo2017/v1/hp_logo_sports.png" alt="步行街" /></a>
+                            </div>
+                            <div class="hp-mainNav hp-mainNav-B">
+                                <div class="hp-nav">
+                                    <div class="hp-nav-bd">
+                                        <ul class="hp-nav-item"><li><a href="https://www.hupu.com/" >虎扑首页</a></li><li class="line">|</li><li><a href="https://nba.hupu.com/" >NBA</a></li><li class="line">|</li><li><a href="https://cba.hupu.com/" >CBA</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com" >国际足球</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com/china/" >中国足球</a></li><li class="line">|</li><li><a href="http://racing.hupu.com/" >赛车</a></li><li class="line">|</li><li><a href="http://zb.hupu.com/" target="_blank">装备</a></li><li class="line">|</li><li><a href="http://www.shihuo.cn/" target="_blank">识货</a></li><li class="line">|</li><li><a href="http://v.liangle.com/" >视频</a></li><li class="line">|</li><li><a href="http://photo.hupu.com/" >图片</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/" >社区</a></li><li class="line">|</li><li class="on"><a href="https://bbs.hupu.com/all-gambia" >步行街</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/all-esports" >电竞</a></li><li class="line">|</li><li><a href="http://www.liangle.com" target="_blank">路人王</a></li><li class="line">|</li><li class="hp-dropDownMenu hp-moreNav">
+                                                <a href="javascript:void(0)" class="hp-set">更多<s class="setArrow"></s></a>
+                                                <div class="hp-drapDown hp-moreNav-drapDown"><a href="https://shop311048929.taobao.com/" target="_blank">虎扑优选</a><a href="http://www.kaluli.com/" target="_blank">卡路里</a><a href="http://outdoor.hupu.com/" >户外</a><a href="http://run.hupu.com/" >跑步</a><a href="http://ymq.hupu.com/" >羽毛球</a><a href="http://xgame.hupu.com/" target="_blank">xgames</a><a href="http://www.nflchina.com/" target="_blank">NFL</a><a href="http://golf.hupu.com/" target="_blank">高尔夫</a><s class="arrow-top"><s class="arrowbd"></s></s>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="hp-subNav">
+			<ul class="hp-subNav-item">
+                <li><a href="https://bbs.hupu.com/all-gambia">首页</a></li>
+            </ul>
+</div>
+                                <i class="hp-roundPoint-br-tl roundPoint-br-tl"></i>
+                                <i class="hp-roundPoint-br-tr roundPoint-br-tr"></i>
+                                <i class="hp-roundPoint-br-bl roundPoint-br-bl"></i>
+                                <i class="hp-roundPoint-br-br roundPoint-br-br"></i>
+                            </div>
+                        </div>
+
+
+
+
+			<div class="hp-threeNav">
+			<div class="hp-threeNav-bd">
+			<ul class="hp-threeNav-item"><li><a href='/all-gambia'  data-project='bxj' id='g_b'>步行街热帖</a></li><li ><a href='/bxj'  >步行街主干道</a></li><li ><a href='/ent'  >影视</a></li><li ><a href='/digital'  >IT数码</a></li><li ><a href='/selfie'  >爆照</a></li><li ><a href='/lol'  >英雄联盟</a></li><li ><a href='/kog'  >王者荣耀</a></li><li ><a href='/acg'  >ACG</a></li><li ><a href='/finance'  >股票</a></li><li  class="hp-hide-w1024"><a href='/cars'  >车友交流</a></li><li  class="hp-hide-w1024"><a href='/music'  >音乐</a></li><li  class="hp-hide-w1024"><a href='/xuefu'  >学府路</a></li><li  class="hp-hide-w1024"><a href='/999'  >万事屋</a></li></ul></div><i id='level2header' title='首页'></i>
+				<div class="hp-search">
+					<form id="hp-form-search" method="get" enctype="multipart/form-data" action="https://my.hupu.com/search">
+						<input type="text" value="搜索视频、帖子" class="it-search" />
+						<input type="submit" value="搜索" class="btn-search" />
+					</form>
+				</div>
+			</div>
+		
+<div class="hp-wrap">
+
+
+<!--页面主体 -->
+<div id="container" class="rel"><div id="container_padd">
+<!---主体部分 start--->
+				<div id="sidenav_bbs"><div id="bbs_banner"><h4><a class="h4_t">版块分类</a></h4><ul>
+		<li id="l1" lid="1"><a href="//bbs.hupu.com/all-nba">NBA论坛</a></li>
+		<li id="l232" lid="232"><a href="//bbs.hupu.com/all-cba">CBA论坛</a></li>
+		<li id="l233" lid="233"><a href="//bbs.hupu.com/all-gear">运动&装备</a></li>
+		<li id="l198" lid="198"><a href="//bbs.hupu.com/all-soccer">国际足球论坛</a></li>
+		<li id="l4596" lid="4596"><a href="//bbs.hupu.com/all-csl">中国足球论坛</a></li>
+		<li id="l41" lid="41"><a href="//bbs.hupu.com/all-sports">综合体育</a></li><li id="l174" lid="174"><a href="//bbs.hupu.com/all-gambia">步行街</a></li>
+	<li id="l42" lid="42"><a href="//bbs.hupu.com/all-lottery">彩票中心</a></li>
+	<li id="l238" lid="238"><a href="//bbs.hupu.com/all-boards">自建版块</a></li>
+	<li id="l114" lid="114"><a href="//bbs.hupu.com/all-group">虎扑社团</a></li>
+	<li id="l7" lid="7"><a href="//bbs.hupu.com/all-feedback">站务管理</a></li>
+	</ul></div>
+				<div class="sidenav_pop_tips"><p class="more"><a href="//bbs.hupu.com/boards.php">更多版块 &raquo;</a></p></div>
+				
+				</div>
+<!---右侧 start--->
+
+<div id="content">
+<!--头部-->
+
+<div itemscope itemtype="http://schema.org/WebPage" class="bbs_head">
+<div itemprop="breadcrumb" class="breadCrumbs"><a href="/">社区</a>&nbsp;&raquo;&nbsp;<a href="/all-gambia">步行街</a></div>
+
+<div class="right"><form id="forum_see" method="get" enctype="multipart/form-data" name="forum_see" action="//my.hupu.com/search"><input type="hidden" name='fid' value='203' /><input type="hidden" name='type' value='topic' /><input id="search_thread" name="q" type="text" class="tabs_input" value="搜索本版帖子" title="搜索健身和运动健康的帖子" /><input type="submit" value="" class="tabs_btn" /></form></div>
+<div id="googlepub" class="right" style="margin-right:5px;"></div>
+<h1 class="left"><span id="forumname" fid="203" fidurl="fit">健身和运动健康</span>
+
+</h1>&nbsp;
+<div class="clearfix" style="*height:0;"></div>
+
+<div class="pl_nav ">
+
+<style>
+.pl_nav{background:#fdfdfd url(https://i1.hoopchina.com.cn/blogfile/201703/14/BbsImg148947225549401_1020x140big.jpg) no-repeat 0px 0px;cursor:pointer;}
+</style>
+<script>
+$(function(){
+    $('.pl_nav ').bind('click', function(event) {
+        if ( event.target.nodeName !== 'A' ) {
+            window.open("http://track.kaluli.com/tradelink?union_id=hupufitBG&to=http%3A%2F%2Fwww.kaluli.com%3Ffrom%3DhupufitBG", '_blank');
+            return false;
+        }
+    });
+});
+</script>
+<span class="pl_d">&nbsp;</span><div class="pl_top">
+版块介绍：<span id="des_forum">用运动保持健康，欢迎所有参与运动健身的网友！ 欢迎各位！</span><br />
+
+版主：<a class="u" target="_blank" href="https://my.hupu.com/129582127322745">大智慧</a><span class="f666"></span> <a class="u" target="_blank" href="https://my.hupu.com/186449618413016">虎扑卡路里</a><span class="f666">(实习)</span> </div>
+
+<div id="navigation"><span id="nav_change">
+<ul>
+
+<li><a href="http://bbs.hupu.com/5717867.html" target="_blank">特殊版规：本区严打伸手党！严禁纯求教程求指导推荐</a></li>
+
+<li><a href="http://bbs.hupu.com/13386751.html" target="_blank">本区所有帖子内都不能出现虎扑外的微信公众号和网站链接</a></li>
+
+</ul>
+</span><div class="clear"></div>
+</div>
+
+
+<script type='text/javascript'>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') +
+				'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script>
+<script type='text/javascript'>
+var adwidth = screen.width>1152 ? 1020 : 810;
+googletag.cmd.push(function() {
+googletag.defineSlot('/1016953/nba_bbs_list_right_320x60', [320, 60], 'bbs_list_right_320x60').addService(googletag.pubads());
+googletag.defineSlot('/1016953/hoopchina-bbs-right-Optimus-120x600', [120, 600], 'hoopchina-bbs-right-Optimus-120x600').addService(googletag.pubads());
+googletag.defineSlot('/1016953/nba_bbs_list_1x1', [1, 1], 'bbs_list_1x1').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+
+<iframe frameborder="0" width="100%" height="29" scrolling="no" src="//api.hupu.com/trade/index" style="margin-top:10px;"></iframe>
+</div>
+
+
+<div class="clearfix" style="*height:0;"></div>
+</div>
+<!--头部END-->
+<!---标签页 start--->
+<div class="tabs_header zoom" id="tabs_header">
+<ul class="left">
+<li class="selected"><a href="/fit">主题</a></li><li><a href="/fit-digest">精华</a></li><li><a title="今日4个亮回帖" href="/fit/highlights">亮了(4)</a></li>
+
+<li><a href="/fit/members">成员</a></li>
+
+</ul>
+
+<div class="right">
+
+<a id="g_n" class="issue_button" rel="nofollow me noopener noreferrer" href="/post.php?fid=203">发新帖</a>
+</div>
+
+<div class="clearfix tabs_border"></div>
+
+</div>
+<!---标签页 end---><!--内容分类-->
+<div id="sort">
+<div class="fr">
+<form style="display:inline">
+<select id="orderway" style="vertical-align:middle; _vertical-align:top;">
+
+<option value="null" selected>排序方式</option>
+<option value="lastpost">按回帖时间排序</option>
+<option value="postdate">按发帖时间排序</option>
+
+</select></form>
+</div>
+
+<a class="blue" href="/fit-type1">求助</a>
+
+<a class="blue" href="/fit-type2">减肥</a>
+
+<a class="blue" href="/fit-type3">运动医学</a>
+
+<a class="blue" href="/fit-type4">跑步</a>
+
+<a class="blue" href="/fit-type5">训练 </a>
+
+<div class="clearfix" style="*height:0;"></div>
+</div>
+<!--内容分类END--><!--帖子列表-->
+
+<table id="pl" class="bbstopic ptable topiclisttr" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+	<th>&nbsp;</th>
+	<th align="left">主题</th>
+	<th align="left" width="100">作者</th>
+	<th width="110">回复 / 浏览</th>
+	<th align="left" width="85">最后回复</th>
+</tr><tbody>
+
+<tr mid="20018632"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20018632sh"></div>
+
+ <a id="" href="/20018632.html">求助各位老铁，为什么我深蹲的时候臀部发不上力？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/117276606161753">两浙东路茶盐司</a><br />2017-08-16</td><td class="p_re">19 / 451</td><td class="p_retime"><a href="/20018632.html#o" title="查看最后回复">13:17</a><br />sj222sky</td></tr>
+
+<tr mid="20020128"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20020128sh"></div>
+
+ <a id="" href="/20020128.html">就现在我面前的一位能深蹲120kg做组</a>
+
+<span class="light_r "><a title="有1个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/20020128-2.html">2</a> <a href="/20020128-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/143216358924136">何况你的小逼挺紧的</a><br />2017-08-16</td><td class="p_re">59 / 1868</td><td class="p_retime"><a href="/20020128-3.html#o" title="查看最后回复">13:09</a><br />magicgzh</td></tr>
+
+<tr mid="20023591"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023591sh"></div>
+
+ <a id="" href="/20023591.html">老鐵們，我這個健美式分部位分化練法可以嗎？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/269455472794116">花房观音</a><br />2017-08-17</td><td class="p_re">2 / 65</td><td class="p_retime"><a href="/20023591.html#o" title="查看最后回复">13:06</a><br />sj222sky</td></tr>
+
+<tr mid="19907636"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19907636sh"></div>
+
+ <a id="" href="/19907636.html">各位老铁看看，我现在这个样子应该配合怎样训练</a>
+
+ [ <span class="multipage"> <a href="/19907636-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/leerda">Melo丶leerda.</a><br />2017-08-03</td><td class="p_re">28 / 1592</td><td class="p_retime"><a href="/19907636-2.html#o" title="查看最后回复">13:00</a><br />Melo丶leerda.</td></tr>
+
+<tr mid="20020330"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20020330sh"></div>
+
+ <a id="" href="/20020330.html">女JR求问健身经验！</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/98897373778984">177zz</a><br />2017-08-16</td><td class="p_re">18 / 489</td><td class="p_retime"><a href="/20020330.html#o" title="查看最后回复">12:56</a><br />ALVIN017</td></tr>
+
+<tr mid="20020596"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20020596sh"></div>
+
+ <a id="" href="/20020596.html">从200到150，保持一个月了体重没变但是看起来胖了</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/30559520855927">不要给我传球</a><br />2017-08-16</td><td class="p_re">16 / 484</td><td class="p_retime"><a href="/20020596.html#o" title="查看最后回复">12:54</a><br />ALVIN017</td></tr>
+
+<tr mid="20022964"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20022964sh"></div>
+
+ <a id="" href="/20022964.html">一个想增重的jr，求教体重上不去的jrs？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/131561323655887">我就呵呵不说话</a><br />2017-08-17</td><td class="p_re">14 / 110</td><td class="p_retime"><a href="/20022964.html#o" title="查看最后回复">12:29</a><br />duoluowunai</td></tr>
+
+<tr mid="19935084"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19935084sh"></div>
+
+ <a id="" href="/19935084.html">卧推40KG ，俯卧撑一口气做不了20个是什么原因？</a>
+
+<span class="light_r "><a title="有1个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19935084-2.html">2</a> <a href="/19935084-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/61275288780618">美国包子</a><br />2017-08-06</td><td class="p_re">48 / 4530</td><td class="p_retime"><a href="/19935084-3.html#o" title="查看最后回复">12:02</a><br />我就呵呵不说话</td></tr>
+
+<tr mid="20023196"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023196sh"></div>
+
+ <a id="" href="/20023196.html">体重较大的人减肥有必要找私教吗</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/237012329537563">青春稍纵即逝</a><br />2017-08-17</td><td class="p_re">2 / 64</td><td class="p_retime"><a href="/20023196.html#o" title="查看最后回复">11:35</a><br />tcblackmamba</td></tr>
+
+<tr mid="19964526"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19964526sh"></div>
+
+ <a id="" href="/19964526.html">求助，问下老铁们，轻度腰突患者能做啥练习啊。</a>
+
+ [ <span class="multipage"> <a href="/19964526-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/159595569987214">duoluowunai</a><br />2017-08-09</td><td class="p_re">22 / 557</td><td class="p_retime"><a href="/19964526-2.html#o" title="查看最后回复">11:03</a><br />哎哟我的乖</td></tr>
+
+<tr mid="20023410"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023410sh"></div>
+
+ <a id="" href="/20023410.html">请教大家，如何进行有效或者针对性的练习才能减掉腰腹部的脂肪？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/142312262008831">紫竹羽佳</a><br />2017-08-17</td><td class="p_re">4 / 59</td><td class="p_retime"><a href="/20023410.html#o" title="查看最后回复">10:55</a><br />紫竹羽佳</td></tr>
+
+<tr mid="20018120"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20018120sh"></div>
+
+ <a id="" href="/20018120.html">大家帮我看看我的健身计划</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/9238664607635">他这听</a><br />2017-08-16</td><td class="p_re">14 / 537</td><td class="p_retime"><a href="/20018120.html#o" title="查看最后回复">10:52</a><br />冲动的奶牛</td></tr>
+
+<tr mid="20022917"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20022917sh"></div>
+
+ <a id="" href="/20022917.html">各位老铁，求教有氧无氧的搭配！</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/153742344650814">芳爱热火</a><br />2017-08-17</td><td class="p_re">2 / 49</td><td class="p_retime"><a href="/20022917.html#o" title="查看最后回复">10:36</a><br />上下是我儿</td></tr>
+
+<tr mid="20011373"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20011373sh"></div>
+
+ <a id="" href="/20011373.html">健身房新手关于卧推与胸部训练，求指导</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/1385613088650">飞翔的屁股</a><br />2017-08-15</td><td class="p_re">13 / 928</td><td class="p_retime"><a href="/20011373.html#o" title="查看最后回复">09:57</a><br />我亲爱的爸爸</td></tr>
+
+<tr mid="19669786"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19669786sh"></div>
+
+ <a id="" href="/19669786.html"><font color=green>42岁的老男人发果照。。。求鼓励。。。</font></a>
+
+<span class="light_r "><a title="有2个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19669786-2.html">2</a> <a href="/19669786-3.html">3</a> .. <a href="/19669786-7.html">7</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/169168053657825">zjwandyou</a><br />2017-07-11</td><td class="p_re">135 / 14840</td><td class="p_retime"><a href="/19669786-7.html#o" title="查看最后回复">09:52</a><br />凭栏慕枫</td></tr>
+
+<tr mid="20021074"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20021074sh"></div>
+
+ <a id="" href="/20021074.html">敢问各位老哥。真正的泵感是什么。</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/256306425990359">球哥被别人打爆之后说</a><br />2017-08-16</td><td class="p_re">8 / 385</td><td class="p_retime"><a href="/20021074.html#o" title="查看最后回复">08:03</a><br />西安李丹</td></tr>
+
+<tr mid="20022247"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20022247sh"></div>
+
+ <a id="" href="/20022247.html">关于胸肌中缝的运动损伤</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/256598430879241">Shwert</a><br />2017-08-17</td><td class="p_re">0 / 80</td><td class="p_retime"><a href="/20022247.html#o" title="查看最后回复">07:56</a><br />Shwert</td></tr>
+
+<tr mid="20005666"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20005666sh"></div>
+
+ <a id="" href="/20005666.html">求教！深蹲和硬拉下背怎么样保持刚性。</a>
+
+ [ <span class="multipage"> <a href="/20005666-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/215135186634679">咆哮__小乐</a><br />2017-08-15</td><td class="p_re">28 / 1358</td><td class="p_retime"><a href="/20005666-2.html#o" title="查看最后回复">08-16</a><br />咆哮__小乐</td></tr>
+
+<tr mid="19689565"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19689565sh"></div>
+
+ <a id="" href="/19689565.html">跟老哥们分享下大半年的成果</a>
+
+ [ <span class="multipage"> <a href="/19689565-2.html">2</a> <a href="/19689565-3.html">3</a> .. <a href="/19689565-6.html">6</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/43455260297450">毛阿卷</a><br />2017-07-14</td><td class="p_re">105 / 6438</td><td class="p_retime"><a href="/19689565-6.html#o" title="查看最后回复">08-16</a><br />勒布朗接锅侠</td></tr>
+
+<tr mid="19996889"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19996889sh"></div>
+
+ <a id="" href="/19996889.html"><b><font color=green>【原创】《举重技术交流 挺举箭步分腿挺的姿势》</font></b></a>
+
+<span class="digest_1"><a title="精华帖">&nbsp;</a></span>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/243586957204702">showtime911</a><br />2017-08-14</td><td class="p_re">14 / 377</td><td class="p_retime"><a href="/19996889.html#o" title="查看最后回复">08-16</a><br />凹凸哥哥</td></tr>
+
+<tr mid="20007377"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20007377sh"></div>
+
+ <a id="" href="/20007377.html">蛋白粉与长痘痘</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/20350394833826">胜利D街</a><br />2017-08-15</td><td class="p_re">19 / 838</td><td class="p_retime"><a href="/20007377.html#o" title="查看最后回复">08-16</a><br />伊尔森木头人</td></tr>
+
+<tr mid="19964457"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19964457sh"></div>
+
+ <a id="" href="/19964457.html">各位大神，新手瘦子练胸用了各种方法胸肌都没感觉怎么回事？</a>
+
+ [ <span class="multipage"> <a href="/19964457-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/106777933286844">莱昂and泰格</a><br />2017-08-09</td><td class="p_re">39 / 1823</td><td class="p_retime"><a href="/19964457-2.html#o" title="查看最后回复">08-16</a><br />写一首歌</td></tr>
+
+<tr mid="19973799"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19973799sh"></div>
+
+ <a id="" href="/19973799.html">觉得挺好笑看到帖子 肩推360lb做了12个</a>
+
+<span class="light_r "><a title="有4个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19973799-2.html">2</a> <a href="/19973799-3.html">3</a> <a href="/19973799-4.html">4</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/canadabuybuyer">旅人宇宇</a><br />2017-08-11</td><td class="p_re">76 / 2819</td><td class="p_retime"><a href="/19973799-4.html#o" title="查看最后回复">08-16</a><br />写一首歌</td></tr>
+
+<tr mid="19999517"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19999517sh"></div>
+
+ <a id="" href="/19999517.html">减脂瓶颈 大家给点意见！</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/142680647332039">tmackg</a><br />2017-08-14</td><td class="p_re">19 / 1003</td><td class="p_retime"><a href="/19999517.html#o" title="查看最后回复">08-16</a><br />tmackg</td></tr>
+
+<tr mid="19967731"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19967731sh"></div>
+
+ <a id="" href="/19967731.html">增重和减脂的冲突，求教</a>
+
+ [ <span class="multipage"> <a href="/19967731-2.html">2</a> <a href="/19967731-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/211628303322389">命中率忽略不计</a><br />2017-08-10</td><td class="p_re">48 / 1720</td><td class="p_retime"><a href="/19967731-3.html#o" title="查看最后回复">08-16</a><br />quyao1113</td></tr>
+
+<tr mid="1134277"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="1134277sh"></div>
+
+ <a id="" href="/1134277.html"><u><b>简单求助贴（普遍的、几句话的提问一律合并到此处）</b></u></a>
+
+<span class="light_r "><a title="有2个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/1134277-2.html">2</a> <a href="/1134277-3.html">3</a> .. <a href="/1134277-964.html">964</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/129582127322745">大智慧</a><br />2010-02-08</td><td class="p_re">19271 / 224696</td><td class="p_retime"><a href="/1134277-964.html#o" title="查看最后回复">08-16</a><br />大智慧</td></tr>
+
+<tr mid="19927703"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19927703sh"></div>
+
+ <a id="" href="/19927703.html">问一下我现在的身材算有训练痕迹吗？</a>
+
+<span class="light_r "><a title="有2个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19927703-2.html">2</a> <a href="/19927703-3.html">3</a> .. <a href="/19927703-6.html">6</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/185314543201227">unlocity</a><br />2017-08-05</td><td class="p_re">116 / 7816</td><td class="p_retime"><a href="/19927703-6.html#o" title="查看最后回复">08-16</a><br />离不开你怎么办</td></tr>
+
+<tr mid="19428810"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19428810sh"></div>
+
+ <a id="" href="/19428810.html">处女帖～健身5个月重了25斤但感觉每次健身还是没练透</a>
+
+ [ <span class="multipage"> <a href="/19428810-2.html">2</a> <a href="/19428810-3.html">3</a> <a href="/19428810-4.html">4</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/215531095040917">图样图森破97</a><br />2017-06-13</td><td class="p_re">76 / 7484</td><td class="p_retime"><a href="/19428810-4.html#o" title="查看最后回复">08-16</a><br />图样图森破97</td></tr>
+
+<tr mid="19966875"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19966875sh"></div>
+
+ <a id="" href="/19966875.html">练了几个月，体重基本没增长怎么办</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/245067330532487">johnnyocean</a><br />2017-08-10</td><td class="p_re">18 / 945</td><td class="p_retime"><a href="/19966875.html#o" title="查看最后回复">08-16</a><br />冰镇威士忌</td></tr>
+
+<tr mid="19994777"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19994777sh"></div>
+
+ <a id="" href="/19994777.html">求问一个练背受伤问题</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/67424845631679">我方后卫是纳什</a><br />2017-08-13</td><td class="p_re">3 / 240</td><td class="p_retime"><a href="/19994777.html#o" title="查看最后回复">08-16</a><br />samljane</td></tr>
+
+<tr mid="19931789"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19931789sh"></div>
+
+ <a id="" href="/19931789.html">关于腹肌 有些问题想请教</a>
+
+ [ <span class="multipage"> <a href="/19931789-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/231893541221812">科坏莱昂拿德</a><br />2017-08-06</td><td class="p_re">38 / 2384</td><td class="p_retime"><a href="/19931789-2.html#o" title="查看最后回复">08-16</a><br />I布LIKE</td></tr>
+
+<tr mid="20004085"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20004085sh"></div>
+
+ <a id="" href="/20004085.html">增肌增重建议   贝弗利</a>
+
+ [ <span class="multipage"> <a href="/20004085-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/231676443169197">doubleyh</a><br />2017-08-14</td><td class="p_re">25 / 1109</td><td class="p_retime"><a href="/20004085-2.html#o" title="查看最后回复">08-16</a><br />旅人宇宇</td></tr>
+
+<tr mid="19772265"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19772265sh"></div>
+
+ <a id="" href="/19772265.html"><font color=blue>日常运动损伤，运动恢复小问题，本帖可集中提问，有时间会逐一回复！</font></a>
+
+ [ <span class="multipage"> <a href="/19772265-2.html">2</a> <a href="/19772265-3.html">3</a> .. <a href="/19772265-9.html">9</a></span> ]&nbsp;<span class="bbs-icon-gold" title="已被赞赏10个虎扑币"></span></td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/37179663271614">FIL_King</a><br />2017-07-21</td><td class="p_re">179 / 3282</td><td class="p_retime"><a href="/19772265-9.html#o" title="查看最后回复">08-15</a><br />当个小老头儿</td></tr>
+
+<tr mid="19965930"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19965930sh"></div>
+
+ <a id="" href="/19965930.html">断断续续接触运动六年了 发帖求鼓励 求指点</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/247533531648841">萧山区吴彦祖</a><br />2017-08-10</td><td class="p_re">13 / 656</td><td class="p_retime"><a href="/19965930.html#o" title="查看最后回复">08-15</a><br />88mmL71</td></tr>
+
+<tr mid="19561966"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19561966sh"></div>
+
+ <a id="" href="/19561966.html">能做20个标准引体向上，难度究竟多大，到底如何评价？</a>
+
+<span class="light_r "><a title="有3个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19561966-2.html">2</a> <a href="/19561966-3.html">3</a> .. <a href="/19561966-7.html">7</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/161375733200768">huachiyiren01</a><br />2017-06-29</td><td class="p_re">129 / 10298</td><td class="p_retime"><a href="/19561966-7.html#o" title="查看最后回复">08-15</a><br />Bieleaus</td></tr>
+
+<tr mid="19808300"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19808300sh"></div>
+
+ <a id="" href="/19808300.html">今天在国外健身房发现一个奇怪的现象，求解答</a>
+
+<span class="light_r "><a title="有5个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19808300-2.html">2</a> <a href="/19808300-3.html">3</a> <a href="/19808300-4.html">4</a> <a href="/19808300-5.html">5</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/44562532203675">Humblr</a><br />2017-07-25</td><td class="p_re">98 / 14751</td><td class="p_retime"><a href="/19808300-5.html#o" title="查看最后回复">08-15</a><br />一日不撸铁就难受</td></tr>
+
+<tr mid="19788095"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19788095sh"></div>
+
+ <a id="" href="/19788095.html">单杠前水平成功</a>
+
+ [ <span class="multipage"> <a href="/19788095-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/aarxon">aarxon</a><br />2017-07-23</td><td class="p_re">21 / 1687</td><td class="p_retime"><a href="/19788095-2.html#o" title="查看最后回复">08-15</a><br />无界角斗</td></tr>
+
+<tr mid="19937389"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19937389sh"></div>
+
+ <a id="" href="/19937389.html">大家常说的5x5是说每组五下每个动作五组吗？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/266560893486446">亿枝花</a><br />2017-08-06</td><td class="p_re">19 / 1414</td><td class="p_retime"><a href="/19937389.html#o" title="查看最后回复">08-15</a><br />威尔胜wilson</td></tr>
+
+<tr mid="19660836"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19660836sh"></div>
+
+ <a id="" href="/19660836.html">就在刚才我练完深蹲后，胸口发闷，喘不过来气</a>
+
+ [ <span class="multipage"> <a href="/19660836-2.html">2</a> <a href="/19660836-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/135795015224954">南京彭于晏啊</a><br />2017-07-10</td><td class="p_re">50 / 3592</td><td class="p_retime"><a href="/19660836-3.html#o" title="查看最后回复">08-15</a><br />NGChiuYuen</td></tr>
+
+<tr mid="19988069"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19988069sh"></div>
+
+ <a id="" href="/19988069.html">请大神帮我看看我的健身计划。</a>
+
+ [ <span class="multipage"> <a href="/19988069-2.html">2</a> <a href="/19988069-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/232461899531404">上下是我儿</a><br />2017-08-12</td><td class="p_re">42 / 1528</td><td class="p_retime"><a href="/19988069-3.html#o" title="查看最后回复">08-15</a><br />血染的图腾</td></tr>
+
+<tr mid="19970337"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19970337sh"></div>
+
+ <a id="" href="/19970337.html">健身新手几个问题。</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/251842485197794">卡梅隆安车尼大木</a><br />2017-08-10</td><td class="p_re">13 / 698</td><td class="p_retime"><a href="/19970337.html#o" title="查看最后回复">08-15</a><br />51757164</td></tr>
+
+<tr mid="19893918"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19893918sh"></div>
+
+ <a id="" href="/19893918.html">就想问问大家练腿日练腿结束是什么感觉</a>
+
+<span class="light_r "><a title="有1个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19893918-2.html">2</a> <a href="/19893918-3.html">3</a> .. <a href="/19893918-6.html">6</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/76438565564819">萨姆辛</a><br />2017-08-01</td><td class="p_re">107 / 5046</td><td class="p_retime"><a href="/19893918-6.html#o" title="查看最后回复">08-15</a><br />牙膏君</td></tr>
+
+<tr mid="19872301"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19872301sh"></div>
+
+ <a id="" href="/19872301.html">看看这手臂怎么样</a>
+
+<span class="light_r "><a title="有3个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19872301-2.html">2</a> <a href="/19872301-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/108536104084408">下士丶</a><br />2017-07-30</td><td class="p_re">45 / 4858</td><td class="p_retime"><a href="/19872301-3.html#o" title="查看最后回复">08-14</a><br />血染的图腾</td></tr>
+
+<tr mid="19967284"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19967284sh"></div>
+
+ <a id="" href="/19967284.html">226到173，继续加油！</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/27739582108007">wangbixiaojay</a><br />2017-08-10</td><td class="p_re">11 / 676</td><td class="p_retime"><a href="/19967284.html#o" title="查看最后回复">08-14</a><br />lihailin163</td></tr>
+
+<tr mid="19916306"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19916306sh"></div>
+
+ <a id="" href="/19916306.html">大号被封，伤愈复出，推个140kg*8助助兴。。</a>
+
+<span class="light_r "><a title="有1个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19916306-2.html">2</a> <a href="/19916306-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/199859735000144">金牌剪辑安云鹏</a><br />2017-08-04</td><td class="p_re">41 / 20745</td><td class="p_retime"><a href="/19916306-3.html#o" title="查看最后回复">08-14</a><br />445091107</td></tr>
+
+<tr mid="19987979"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19987979sh"></div>
+
+ <a id="" href="/19987979.html">请各位大神看看俺的饮食 版主慢合并慢转水啊</a>
+
+ [ <span class="multipage"> <a href="/19987979-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/270223065966915">干锅牛</a><br />2017-08-12</td><td class="p_re">27 / 516</td><td class="p_retime"><a href="/19987979-2.html#o" title="查看最后回复">08-14</a><br />血染的图腾</td></tr>
+
+<tr mid="19996201"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19996201sh"></div>
+
+ <a id="" href="/19996201.html">求助增肌增重方案</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/T23482">街头艾弗森</a><br />2017-08-13</td><td class="p_re">10 / 574</td><td class="p_retime"><a href="/19996201.html#o" title="查看最后回复">08-14</a><br />街头艾弗森</td></tr>
+
+<tr mid="19521325"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19521325sh"></div>
+
+ <a id="" href="/19521325.html">原创！肩部力量及稳定性训练</a>
+
+ [ <span class="multipage"> <a href="/19521325-2.html">2</a> <a href="/19521325-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/89617267002444">1565802816</a><br />2017-06-25</td><td class="p_re">52 / 5185</td><td class="p_retime"><a href="/19521325-3.html#o" title="查看最后回复">08-14</a><br />张东西真不是东西</td></tr>
+
+<tr mid="19991211"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19991211sh"></div>
+
+ <a id="" href="/19991211.html">新手求助！关于二头肌的训练</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/15255749094752">Michael是上帝</a><br />2017-08-13</td><td class="p_re">11 / 609</td><td class="p_retime"><a href="/19991211.html#o" title="查看最后回复">08-14</a><br />magicgzh</td></tr>
+
+<tr mid="19965416"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19965416sh"></div>
+
+ <a id="" href="/19965416.html">都说练腿之间间隔要有72小时，那么练腿日能否隔天打篮球么？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/conantares">conantares</a><br />2017-08-09</td><td class="p_re">11 / 1291</td><td class="p_retime"><a href="/19965416.html#o" title="查看最后回复">08-14</a><br />roseroser</td></tr>
+</tbody></table>
+<!--帖子列表END-->
+
+<div class="rss"><a target="_blank" href="/rss.php?fid=203" title="通过RSS订阅健身和运动健康的帖子">rss</a></div>
+
+<div class="page"><span class="selected">1</span><a href="/fit-2">2</a><a href="/fit-3">3</a><a href="/fit-4">4</a><a href="/fit-5">5</a>...<a href="/fit-100">100</a> <input type='text' title='输入页码数，回车即可到达指定页码' onkeydown="if(event.keyCode==13){location='/fit-'+this.value+'';return false}"><a id="j_next" class="next" href="/fit-2">下一页&raquo;</a><span class="f666">健身和运动健康共12387主题 / 314278回复 &nbsp;今日126帖</span></div>
+
+<!---主体部分 end--->
+
+<div class="pub_ad">
+    <div id='bbs_list_right_320x60'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('bbs_list_right_320x60'); });</script></div>
+
+</div>
+
+
+	<div class="lpub_ad" id="lpub_ad" style="display:none;left:-133px"><div id='hoopchina-bbs-right-Optimus-120x600'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('hoopchina-bbs-right-Optimus-120x600'); });</script></div>
+</div>
+</div>
+</div></div>
+<!--内容END--><!--页面主体END-->
+
+</div><div class="pop" style="width:420px;display:none;" id="rm_div_msg"><div class="pop_content"><h2 class="mpop"><a onclick="closepop()"></a>推荐版块</h2><ul class="pop_commend"><form name="rm_form"><li>推荐语：</li><li><textarea name="tjmsg" id="tjmsg" class="j_enter"></textarea></li><li><input name="cid" id="cid" type="hidden" value="203" /><input name="fid" type="hidden" value="203" /><input name="Input2" type="button" class="btns2 j_tjmsg" id="j_recs" value="推 荐" /> &nbsp; &nbsp;<input name="Input2" type="button" class="btnb2" value="取 消" onclick="closepop()" /></li></form></ul></div></div>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/pcbbs/js/thread22.js?2017040115"></script>
+
+
+<div style="display: none">
+<div id='bbs_list_1x1'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('bbs_list_1x1'); });</script></div>
+</div>
+
+
+
+<div class="fback"><a class="btop" href="#">回顶部</a></div>
+<b id="footer-loadedError"></b>
+
+
+<div class="hp-footer">
+                    
+                    <div class="hp-copyright">
+                    
+                    Copyright by 虎扑JRs &amp;
+                    <a href="https://www.hupu.com/" target="_blank" title="虎扑">虎扑</a> -
+                    <a href="http://jobs.hupu.com/" target="_blank">在虎扑工作</a> -
+                    <a href="http://marketing.hupu.com/contact/" target="_blank">联系我们</a> -
+                    <a href="https://m.hupu.com/" target="_blank">手机虎扑网</a> -
+                    <a href="https://mobile.hupu.com/" target="_blank">虎扑App</a> -
+                    <a href="https://www.hupu.com/policies/terms" target="_blank">服务协议</a> -
+                    <a href="https://www.hupu.com/sitemap.html" target="_blank">网站地图</a> -
+                    <a href="https://nba.hupu.com/" target="_blank" title="NBA">NBA</a> -
+                    <a href="https://cba.hupu.com/" target="_blank" title="CBA">CBA</a>  -
+                    <a href="https://soccer.hupu.com/" target="_blank" title="足球">足球</a> -
+                    <a href="https://soccer.hupu.com/china/" target="_blank" title="中超">中超</a> -
+                    <a href="http://racing.hupu.com/" target="_blank" title="赛车">赛车</a> 
+                    </div>
+                    
+                </div>
+
+
+<script>
+	var countGATrackPageview = location.pathname+location.search+"'|bxj/174-步行街/203-健身和运动健康'";
+_common.init({project: "bxj",countGASetVar: "",countGATrackPageview: countGATrackPageview});	
+</script>
+<script async="true" src="//b3.hoopchina.com.cn/pcbbs/js/g85.js?20170207"></script>
+
+<script type="text/javascript" src="https://hm.baidu.com/h.js?39fc58a7ab8a311f2f6ca4dc1222a96e" async="async"></script>
+<script>IE6 = '';</script><!--[if lte IE 6]><script>IE6 = 'sucks';</script><![endif]-->
+<script>
+    try{
+      if(window.top != window.self){
+        var topHost = top.document.location.hostname;
+        if (topHost.indexOf('hupu.com') < 0 && topHost.indexOf('liangle.com') < 0 && topHost.indexOf('shihuo.cn') < 0){
+          window.top.location.href = window.self.location.href;
+        }
+      } 
+    }catch(e){}
+
+    $(function(){
+        if ($("#lpub_ad")[0]) {
+            function findPos_top(obj) {
+                var top = obj.offsetTop || 0;
+                while (obj = obj.offsetParent) {
+                    top += obj.offsetTop;
+                }
+                return top;
+            }
+
+            function findPos_left(obj) {
+                var l = obj.offsetLeft;
+                while (obj.offsetParent != null) {
+                    obj = obj.offsetParent;
+                    l += obj.offsetLeft;
+                }
+                return l;
+            }
+
+            ifSideSticky = (IE6 == 'sucks') ? false : true;
+            var pubPos = findPos_top($("#bbs_banner")[0]) - findPos_top($("#sidenav_bbs")[0]) + 403;
+            $("#lpub_ad").css('top', pubPos + 'px');
+            $("#lpub_ad").show();
+            if (!isMobile() && ifSideSticky && document.documentElement.clientHeight > 670) {
+                var contentwitdth = $("#content").width();
+                var sideSticky = function () {
+                    var now_top = document.body.scrollTop || document.documentElement.scrollTop || 0;
+                    if (now_top > pubPos + 100) {
+                        $("#lpub_ad").attr('style', 'position: fixed; _position: absolute; top:10px;left:' + (findPos_left($("#container_padd")[0]) + 13 - document.documentElement.scrollLeft) + 'px');
+                    } else {
+                        $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                    }
+                };
+                $(window).bind('scroll', sideSticky).resize(function () {
+                    $(window).unbind("scroll");
+                    $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                });
+            }
+        }
+        if ($("div .c2c_ad")[0]) {
+            if ($(".level2header").attr('title')) {
+                $("div .c2c_ad").css('top', "-66px").show();
+            } else {
+                $("div .c2c_ad").css('top', '-114px').show();
+            }
+        }
+    })
+
+    /**
+     * check is mobile device
+     */
+    function isMobile() {
+        var userAgent = navigator.userAgent.toLowerCase(),
+                mobile = /Mobile/i.test( userAgent ) || 'ontouchstart' in document.documentElement;
+        return mobile;
+    }
+
+</script>
+</body>
+</html>
+

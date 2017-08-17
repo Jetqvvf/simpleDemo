@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="playGround:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/playGround_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="playGround/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="playGround" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="jfinal-3.2-bin-with-src" />
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="commons-lang-2.5" />
+          <element id="library" level="project" name="crawler4j-4.4.0-SNAPSHOT-jar-with-dependencies" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

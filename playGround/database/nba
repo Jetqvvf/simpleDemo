@@ -1,0 +1,852 @@
+<!DOCTYPE html>
+<html class="expanded">
+<head>
+<meta charset="utf-8"/>
+<title>NBA|虎扑篮球</title>
+<link rel="dns-prefetch" href="//b1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//b2.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//b3.hoopchina.com.cn" />
+<link href="//assets-m.hoopchina.com.cn/touch/static/common/images/hupu_favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<meta id="viewport" name="viewport" content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<meta name="apple-itunes-app" content="app-id=906632439" />
+<meta name="format-detection" content="telephone=no">
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="referrer" content="unsafe-url" />
+
+<script src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+
+<meta name="keywords" content="NBA,NBA中文网,篮球" />
+<meta name="description" content="NBA中文网虎扑篮球最专业的篮球网站，专注于最全的NBA直播、NBA视频、图片及原创NBA新闻、分析等深入内容，拥有良好氛围的NBA火箭、湖人、热火等全部NBA球队论坛。" />
+
+<link rel="apple-touch-icon" tets="tet" href="https://w3.hoopchina.com.cn/9b/92/12/9b9212f30a2515fa0cc5faa7f1632f92002.png"/>
+<link rel='canonical' href='https://nba.hupu.com/'>
+
+
+<noscript><link rel="stylesheet" type="text/css" href="//cc.dace.hupu.com/_dace.gif?et=wap&vid=0x41d25de3c51763b5&sid=WL_tch_m&ref=&path=http%3A%2F%2Fm.hupu.com%2Fnba&rkw=&rurl=&ip=123.120.187.0&vst=67697cc8.4f8b23a9&v=1.0.1&inu=0&utmn=1502947612371359606&ptp=2100"></noscript><script>window.inu = '0'</script>
+<script>
+                        var __daceDataNameOfPage = '2100';
+            //dace源码无法区别网站协议，在外层添加以支持https, @2016/06/01 by meiandai
+            window.currentSchema = /^https/i.test(location.href) ? "https://" : "http://";
+
+            !function(win){
+                var win = window;
+                var HPM = win.HPM = {};
+                // 用户名称
+                HPM.getUserName = "";
+                // 用户登陆状态
+                HPM.isLogin = 0;
+                HPM.loginUrl = 'https:\/\/passport.hupu.com\/m\/2?jumpurl=http%3A%2F%2Fm.hupu.com%2Fnba&from=m&project=basketball';
+            }(window);
+
+        // 百度的新统计
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "//hm.baidu.com/hm.js?abb0c7fb3fb595c51dc99849b10830bd";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(hm, s);
+        })();
+        </script>
+<script src="//b3.hoopchina.com.cn/web/module/dace/m/m_dace.js"></script>
+
+<script src="//dup.baidustatic.com/js/dm.js"></script>
+
+<div style="width:0px; height:0px; overflow:hidden"><img src="//b1.hoopchina.com.cn/common/app-icon-380x380.png" /></div>
+<link rel="stylesheet" type="text/css" href="//assets-m.hoopchina.com.cn/touch/static/common/pkg/common_eb243d9.css"/><link rel="stylesheet" type="text/css" href="//assets-m.hoopchina.com.cn/touch/static/common/js/swiper/swiper_9b75acb.css"/><link rel="stylesheet" type="text/css" href="//assets-m.hoopchina.com.cn/touch/static/home/pkg/channel_86f2f6f.css"/><link rel="stylesheet" type="text/css" href="//assets-m.hoopchina.com.cn/touch/static/common/js/swiper/swiper.min_53eac07.css"/><link rel="stylesheet" type="text/css" href="//assets-m.hoopchina.com.cn/touch/static/home/widget/match-board/match-board_65a2b7b.css"/></head>
+<body class="">
+
+<section id="J-nav-wrap"  style="min-height:37px;">
+<section class="main-nav-wrap " style="border-bottom: 1px solid #e1e1e1;">
+<div class="mod-nav main-nav">
+
+<a href="//m.hupu.com/nba"  class="active ">
+NBA
+<span class="line"></span>
+</a>
+
+<a href="//m.hupu.com/nba/news"  class=" ">
+新闻
+</a>
+
+<a href="//m.hupu.com/nba/game"  class=" ">
+比赛
+</a>
+
+<a href="//m.hupu.com/nba/standings"  class=" ">
+数据
+</a>
+
+<a href="//m.hupu.com/nba/transactions"  class=" ">
+签约
+</a>
+
+<a href="//m.hupu.com/nba/draft"  class=" ">
+选秀
+</a>
+
+<a href="//m.hupu.com/bbs"  class=" ">
+社区
+</a>
+
+<a href="https://fantasy.hupu.com/" target="_blank" class=" ">
+范特西
+</a>
+</div>
+</section>
+<section class="mod-nav sub-nav">
+<div class="bread-nav">
+<a href="/">首页</a>
+<span class="icon64 icon64-arrow"></span>
+<a href="#" class="current">NBA</a>
+</div>
+</section>
+</section>
+<section class="nba-wrap">
+<section class="swiper-container focus-img">
+<ul class="swiper-wrapper">
+<li class="swiper-slide">
+<img src="https://w1.hoopchina.com.cn/20/f1/f8/20f1f8e82366b2b62da21d1670069bcc002.png">
+<p>
+阿德为何仍是马刺的一份子？
+</p>
+<a href="//m.hupu.com/bbs/20005161.html"></a>
+</li>
+<li class="swiper-slide">
+<img src="https://w4.hoopchina.com.cn/86/10/7a/86107a246afce18daa511a6a819a93c4002.png">
+<p>
+NBA城市故事
+</p>
+<a href="//m.hupu.com/bbs/20011038.html"></a>
+</li>
+<li class="swiper-slide">
+<img src="https://w2.hoopchina.com.cn/21/2b/3e/212b3e6103a88a1f68c6ce8cfcc09a1b001.jpg">
+<p>
+JUMP10世界街球大奖赛
+</p>
+<a href="//m.hupu.com/bbs/20010106.html"></a>
+</li>
+</ul>
+<div class="swiper-pagination"></div>
+</section>
+<dl class="text-list focus">
+<dd class=""><h2>【CAVS·译】勒布朗-詹姆斯—但行好事，自有前程</h2>
+<span>
+18回复</span>
+<a href="//m.hupu.com/bbs/20019351.html"></a>
+</dd>
+<dd class=""><h2>「BlueAlliance翻译」保罗乔治：攻防两端完美契合雷霆</h2>
+<span>
+2亮26回复</span>
+<a href="//m.hupu.com/bbs/20017808.html"></a>
+</dd>
+<dd class=""><h2>杜兰特为詹姆斯辩护：你不能交易一个传奇</h2>
+<span>
+7亮81回复</span>
+<a href="//m.hupu.com/bbs/20022214.html"></a>
+</dd>
+<dd class=""><h2>韦德和公牛预计会在未来几个月内达成买断协议？</h2>
+<span>
+4亮94回复</span>
+<a href="//m.hupu.com/bbs/20022764.html"></a>
+</dd>
+<dd class=""><h2>周琦、约什、哈登和保罗等人一起进行训练</h2>
+<span>
+7亮278回复</span>
+<a href="//m.hupu.com/bbs/20022211.html"></a>
+</dd>
+<dd class=""><h2>博彩网Bovada公布MVP赔率：威杜前二</h2>
+<span>
+1亮30回复</span>
+<a href="//m.hupu.com/bbs/20022249.html"></a>
+</dd>
+<dd class=""><h2>乔治在推特上与球迷互动：我爱印第安纳</h2>
+<span>
+9回复</span>
+<a href="//m.hupu.com/bbs/20022855.html"></a>
+</dd>
+<dd class=""><h2>唐斯：非常开心能够打圣诞大战</h2>
+<span>
+13回复</span>
+<a href="//m.hupu.com/bbs/20022697.html"></a>
+</dd>
+<dd class=""><h2>保罗祝自己女儿5岁生日快乐</h2>
+<span>
+</span>
+<a href="//m.hupu.com/bbs/20022642.html"></a>
+</dd>
+<dd class=""><h2>[翻译团]灰熊队休赛期评级：倾其所有，尽其所能</h2>
+<span>
+3亮24回复</span>
+<a href="//m.hupu.com/bbs/20009369.html"></a>
+</dd>
+<dd class=""><h2>尼克斯对于交易波尔津吉斯没有任何兴趣</h2>
+<span>
+17回复</span>
+<a href="//m.hupu.com/bbs/20022348.html"></a>
+</dd>
+<dd class=""><h2>杜兰特：我从小看纽约篮球长大</h2>
+<span>
+4亮21回复</span>
+<a href="//m.hupu.com/bbs/20022413.html"></a>
+</dd>
+<dd class=""><h2>利拉德每天花12小时筹备个人第二张专辑</h2>
+<span>
+3亮36回复</span>
+<a href="//m.hupu.com/bbs/20022328.html"></a>
+</dd>
+<dd class=""><h2>激情四射！官方公布2K18最新宣传片</h2>
+<span>
+13亮222回复</span>
+<a href="//m.hupu.com/bbs/20022347.html"></a>
+</dd>
+<dd class=""><h2>沃顿谈鲍尔：成为下个科比？一切皆有可能</h2>
+<span>
+7亮27回复</span>
+<a href="//m.hupu.com/bbs/20022196.html"></a>
+</dd>
+<dd class=""><h2>考辛斯：对欧文的决定吃惊，但我支持他</h2>
+<span>
+6回复</span>
+<a href="//m.hupu.com/bbs/20020484.html"></a>
+</dd>
+<dd class=""><h2>丁彦雨航亲口承认下赛季不打NBA</h2>
+<span>
+4亮172回复</span>
+<a href="//m.hupu.com/bbs/20020290.html"></a>
+</dd>
+<dd class=""><h2>周琦、约什、哈登和保罗等人一起进行训练</h2>
+<span>
+6亮72回复</span>
+<a href="//m.hupu.com/bbs/20022563.html"></a>
+</dd>
+<dd class=""><h2>【赛后】韩国三分21中16大胜菲律宾，哈达迪23+20助伊朗力克黎巴嫩</h2>
+<span>
+20亮478回复</span>
+<a href="//m.hupu.com/bbs/20021771.html"></a>
+</dd>
+<dd class=""><h2>【创作社&话题】丁神+莫泰+劳森+众国手，山东男篮这个阵容什么水平？</h2>
+<span>
+7亮488回复</span>
+<a href="//m.hupu.com/bbs/20020430.html"></a>
+</dd>
+<dd class=""><h2>睢冉透露丁彦雨航拒绝了一份NBA双向合同</h2>
+<span>
+5亮64回复</span>
+<a href="//m.hupu.com/bbs/20021254.html"></a>
+</dd>
+<dd class=""><h2>丁彦雨航：争取助山东夺冠，从未放弃NBA梦想</h2>
+<span>
+2亮57回复</span>
+<a href="//m.hupu.com/bbs/20021117.html"></a>
+</dd>
+<dd class=""><h2>自制CBA各省得分王地图一览</h2>
+<span>
+4亮114回复</span>
+<a href="//m.hupu.com/bbs/20022814.html"></a>
+</dd>
+<dd class=""><h2>孙悦、张松涛均未进入北京全运会12人名单</h2>
+<span>
+19回复</span>
+<a href="//m.hupu.com/bbs/20021367.html"></a>
+</dd>
+</dl>
+<dl class="text-list">
+<dt>湿乎乎的话题</dt>
+<dd>
+<h2>组大胡子香蕉船？热议詹姆斯出走流言</h2>
+<span>
+18亮91回复</span>
+<a href="//m.hupu.com/bbs/20023253.html"></a>
+</dd>
+<dd>
+<h2>詹姆斯各阶段数据对比：他是关键先生</h2>
+<span>
+17亮199回复</span>
+<a href="//m.hupu.com/bbs/20023555.html"></a>
+</dd>
+<dd>
+<h2>詹姆斯称洛杉矶为家？他明年会走么？</h2>
+<span>
+5亮54回复</span>
+<a href="//m.hupu.com/bbs/20022460.html"></a>
+</dd>
+<dd>
+<h2>NBA城市故事之多伦多：北境王不遗忘</h2>
+<span>
+1亮25回复</span>
+<a href="//m.hupu.com/bbs/20011038.html"></a>
+</dd>
+<dd>
+<h2>坚信过程！费城76人到崛起的时候了？</h2>
+<span>
+4亮125回复</span>
+<a href="//m.hupu.com/bbs/20017272.html"></a>
+</dd>
+<dd>
+<h2>全明星首秀浅谈：五大新星有望入选！</h2>
+<span>
+14回复</span>
+<a href="//m.hupu.com/bbs/20022550.html"></a>
+</dd>
+<dd>
+<h2>激情四射！官方公布2K18最新宣传片！</h2>
+<span>
+13亮203回复</span>
+<a href="//m.hupu.com/bbs/20022347.html"></a>
+</dd>
+<dd>
+<h2>你主队管理层让你最气的一次操作是？</h2>
+<span>
+18亮953回复</span>
+<a href="//m.hupu.com/bbs/20020867.html"></a>
+</dd>
+<dd>
+<h2>2K中有着哪些低于80的球员实战利器？</h2>
+<span>
+5亮245回复</span>
+<a href="//m.hupu.com/bbs/20018111.html"></a>
+</dd>
+<dd>
+<h2>大食堂？你在哪些地方看过NBA比赛？</h2>
+<span>
+13亮507回复</span>
+<a href="//m.hupu.com/bbs/20017519.html"></a>
+</dd>
+<dd>
+<h2>赛程出炉！NBA新季各队飞行距离一览</h2>
+<span>
+9亮118回复</span>
+<a href="//m.hupu.com/bbs/20019575.html"></a>
+</dd>
+<dd>
+<h2>头功？杜兰特库里谁对勇士成功更重要</h2>
+<span>
+20亮595回复</span>
+<a href="//m.hupu.com/bbs/20016642.html"></a>
+</dd>
+<dd>
+<h2>手的大小对打球很重要，谁是第一大手</h2>
+<span>
+5亮130回复</span>
+<a href="//m.hupu.com/bbs/19967484.html"></a>
+</dd>
+<dd>
+<h2>这种古老扎实的游戏，你们那叫啥名字</h2>
+<span>
+6亮192回复</span>
+<a href="//m.hupu.com/bbs/19972799.html"></a>
+</dd>
+<dd>
+<h2>攻击力特强，菲律宾的罗密欧什么水平</h2>
+<span>
+15亮338回复</span>
+<a href="//m.hupu.com/bbs/19963505.html"></a>
+</dd>
+<dd>
+<h2>一展歌喉！哈登和我唱歌，什么水平？</h2>
+<span>
+19亮566回复</span>
+<a href="//m.hupu.com/bbs/20017728.html"></a>
+</dd>
+<dd>
+<a href="https://m.hupu.com/bbs/1048"></a>
+更多<i></i>
+</dd>
+</dl>
+<dl class="text-list">
+<dt>球队分区</dt>
+<dd>
+<h2>勒布朗-詹姆斯：但行好事，自有前程 </h2>
+<span>
+18回复</span>
+<sub class="subarea">骑士专区</sub>
+<a href="//m.hupu.com/bbs/20019351.html"></a>
+</dd>
+<dd>
+<h2>美骑蜜热议勒布朗2K18评分现已第一</h2>
+<span>
+3亮41回复</span>
+<sub class="subarea">骑士专区</sub>
+<a href="//m.hupu.com/bbs/20018627.html"></a>
+</dd>
+<dd>
+<h2>德里克-罗斯公牛生涯八大关键进球 </h2>
+<span>
+9回复</span>
+<sub class="subarea">骑士专区</sub>
+<a href="//m.hupu.com/bbs/20018155.html"></a>
+</dd>
+<dd>
+<h2>JR-史密斯骑士生涯不讲理单打收录 </h2>
+<span>
+2亮27回复</span>
+<sub class="subarea">骑士专区</sub>
+<a href="//m.hupu.com/bbs/20017904.html"></a>
+</dd>
+<dd>
+<h2>火箭可能会拥有NBA里最强的进攻</h2>
+<span>
+2亮76回复</span>
+<sub class="subarea">火箭专区</sub>
+<a href="//m.hupu.com/bbs/20015675.html"></a>
+</dd>
+<dd>
+<h2>和丹尼尔斯站一起的孩子王是谁？</h2>
+<span>
+165回复</span>
+<sub class="subarea">火箭专区</sub>
+<a href="//m.hupu.com/bbs/20015790.html"></a>
+</dd>
+<dd>
+<h2>克里斯-保罗回到休斯敦进行训练 </h2>
+<span>
+3亮72回复</span>
+<sub class="subarea">火箭专区</sub>
+<a href="//m.hupu.com/bbs/20014651.html"></a>
+</dd>
+<dd>
+<h2>回顾霍里在罗德曼前惊天空接惊呆解说</h2>
+<span>
+1亮32回复</span>
+<sub class="subarea">火箭专区</sub>
+<a href="//m.hupu.com/bbs/20015181.html"></a>
+</dd>
+<dd>
+<h2>乔治-尼昂与勇士签下部分保障合同</h2>
+<span>
+1亮33回复</span>
+<sub class="subarea">勇士专区</sub>
+<a href="//m.hupu.com/bbs/20019907.html"></a>
+</dd>
+<dd>
+<h2>2017金州勇士队官方夺冠纪录片</h2>
+<span>
+3亮365回复</span>
+<sub class="subarea">勇士专区</sub>
+<a href="//m.hupu.com/bbs/20011235.html"></a>
+</dd>
+<dd>
+<h2>球队总经理：麦基对球队作用无可替代</h2>
+<span>
+6亮47回复</span>
+<sub class="subarea">勇士专区</sub>
+<a href="//m.hupu.com/bbs/20015385.html"></a>
+</dd>
+<dd>
+<h2>库里等人参加彭博球员技术峰会 </h2>
+<span>
+4亮23回复</span>
+<sub class="subarea">勇士专区</sub>
+<a href="//m.hupu.com/bbs/20015129.html"></a>
+</dd>
+<dd>
+<h2>伦纳德：我对中国之旅感到非常激动 </h2>
+<span>
+6亮229回复</span>
+<sub class="subarea">马刺专区</sub>
+<a href="//m.hupu.com/bbs/20018503.html"></a>
+</dd>
+<dd>
+<h2>被遗忘的25名前马刺球员（19-21）</h2>
+<span>
+9回复</span>
+<sub class="subarea">马刺专区</sub>
+<a href="//m.hupu.com/bbs/19998293.html"></a>
+</dd>
+<dd>
+<h2>看点多多！湖人17-18赛季赛程剖析</h2>
+<span>
+17回复</span>
+<sub class="subarea">湖人专区</sub>
+<a href="//m.hupu.com/bbs/20007939.html"></a>
+</dd>
+<dd>
+<h2>看发型你能猜出是哪位球员吗？</h2>
+<span>
+285回复</span>
+<sub class="subarea">湖人专区</sub>
+<a href="//m.hupu.com/bbs/20014919.html"></a>
+</dd>
+<dd>
+<h2>新赛季雷霆必须观看的6场比赛</h2>
+<span>
+21回复</span>
+<sub class="subarea">雷霆专区</sub>
+<a href="//m.hupu.com/bbs/20016083.html"></a>
+</dd>
+<dd>
+<h2>保罗-乔治：攻防两端完美契合雷霆</h2>
+<span>
+2亮26回复</span>
+<sub class="subarea">雷霆专区</sub>
+<a href="//m.hupu.com/bbs/20017808.html"></a>
+</dd>
+<dd>
+<h2>续约托马斯？凯尔特人的幸福烦恼</h2>
+<span>
+2亮131回复</span>
+<sub class="subarea">凯尔特人</sub>
+<a href="//m.hupu.com/bbs/20009013.html"></a>
+</dd>
+<dd>
+<h2>80年代：前往梅多兰兹，进季后赛</h2>
+<span>
+2回复</span>
+<sub class="subarea">篮网专区</sub>
+<a href="//m.hupu.com/bbs/20012241.html"></a>
+</dd>
+<dd>
+<h2>15块选阵容开拓者阵容，你选谁？</h2>
+<span>
+1亮29回复</span>
+<sub class="subarea">开拓者区</sub>
+<a href="//m.hupu.com/bbs/20002941.html"></a>
+</dd>
+<dd>
+<h2>掘金历史40天20大球星！18号球星是谁？</h2>
+<span>
+3回复</span>
+<sub class="subarea">掘金专区</sub>
+<a href="//m.hupu.com/bbs/19942583.html"></a>
+</dd>
+<dd>
+<a href="https://m.hupu.com/bbs"></a>
+更多<i></i>
+</dd>
+</dl>
+<dl class="text-list">
+<dt>步行街</dt>
+<dd>
+<h2>QG对阵eStar，决赛会有怎样的BP出现</h2>
+<span>
+10亮265回复</span>
+<sub class="subarea">步行街主干道</sub>
+<a href="//m.hupu.com/bbs/20023308.html"></a>
+</dd>
+<dd>
+<h2>泰勒斯威夫特这首歌带上耳机更好听！</h2>
+<span>
+25亮456回复</span>
+<sub class="subarea">步行街主干道</sub>
+<a href="//m.hupu.com/bbs/20018717.html"></a>
+</dd>
+<dd>
+<h2>今天马路上碰瓷竟然遇到了碰瓷祖师爷</h2>
+<span>
+8亮452回复</span>
+<sub class="subarea">步行街主干道</sub>
+<a href="//m.hupu.com/bbs/20022315.html"></a>
+</dd>
+<dd>
+<h2>李冰冰，你们给出的虎扑评分是多少？</h2>
+<span>
+14亮160回复</span>
+<sub class="subarea">步行街主干道</sub>
+<a href="//m.hupu.com/bbs/20023010.html"></a>
+</dd>
+<dd>
+<h2>他们是捍卫天空的死士，牺牲平均23岁</h2>
+<span>
+21亮619回复</span>
+<sub class="subarea">步行街主干道</sub>
+<a href="//m.hupu.com/bbs/20019196.html"></a>
+</dd>
+<dd>
+<h2>你觉得哪一部电视剧的平均颜值更高？</h2>
+<span>
+25亮1120回复</span>
+<sub class="subarea">步行街主干道</sub>
+<a href="//m.hupu.com/bbs/20019883.html"></a>
+</dd>
+<dd>
+<h2>你人生中做过最正确的一次决定是什么</h2>
+<span>
+23亮517回复</span>
+<sub class="subarea">步行街主干道</sub>
+<a href="//m.hupu.com/bbs/20020679.html"></a>
+</dd>
+<dd>
+<h2>甄子丹称账号恶意被盗点赞黑吴京言论</h2>
+<span>
+23亮314回复</span>
+<sub class="subarea">步行街主干道</sub>
+<a href="//m.hupu.com/bbs/20019708.html"></a>
+</dd>
+<dd>
+<h2>给老妈发来一条短信，莫名的却挨了骂</h2>
+<span>
+12亮252回复</span>
+<sub class="subarea">步行街主干道</sub>
+<a href="//m.hupu.com/bbs/20018628.html"></a>
+</dd>
+<dd>
+<h2>百万保时捷被大石头猛砸竟然无人赔偿</h2>
+<span>
+17亮631回复</span>
+<sub class="subarea">步行街主干道</sub>
+<a href="//m.hupu.com/bbs/20017635.html"></a>
+</dd>
+<dd>
+<h2>老婆无辜受到客户的侮辱，我该怎么办</h2>
+<span>
+25亮995回复</span>
+<sub class="subarea">步行街主干道</sub>
+<a href="//m.hupu.com/bbs/20019099.html"></a>
+</dd>
+<dd>
+<h2>街亭之战是否为孔明北伐失败主要原因</h2>
+<span>
+10亮183回复</span>
+<sub class="subarea">步行街主干道</sub>
+<a href="//m.hupu.com/bbs/20018179.html"></a>
+</dd>
+<dd>
+<h2>去游泳馆游泳怎么可以显得自己很熟练</h2>
+<span>
+25亮434回复</span>
+<sub class="subarea">步行街主干道</sub>
+<a href="//m.hupu.com/bbs/20018234.html"></a>
+</dd>
+<dd>
+<h2>交往了一年才发现，原来她竟是这种人</h2>
+<span>
+23亮782回复</span>
+<sub class="subarea">步行街主干道</sub>
+<a href="//m.hupu.com/bbs/20021971.html"></a>
+</dd>
+<dd>
+<h2>我曾负责中兴社会招聘，大家想问什么</h2>
+<span>
+17亮982回复</span>
+<sub class="subarea">步行街主干道</sub>
+<a href="//m.hupu.com/bbs/20022192.html"></a>
+</dd>
+<dd>
+<h2>霸王别姬你给出的虎扑评分是多少？</h2>
+<span>
+</span>
+<sub class="subarea"></sub>
+<a href="//m.hupu.com/bbs/20022699.html"></a>
+</dd>
+<dd>
+<h2>文章导演处女作提名金鸡奖五大奖项</h2>
+<span>
+7亮106回复</span>
+<sub class="subarea">影视区</sub>
+<a href="//m.hupu.com/bbs/20018968.html"></a>
+</dd>
+<dd>
+<h2>中餐厅方回应抄袭质疑：谁都能想到</h2>
+<span>
+9亮84回复</span>
+<sub class="subarea">影视区</sub>
+<a href="//m.hupu.com/bbs/20020506.html"></a>
+</dd>
+<dd>
+<h2>张涵予和福山雅治加盟吴宇森新电影</h2>
+<span>
+7亮128回复</span>
+<sub class="subarea">影视区</sub>
+<a href="//m.hupu.com/bbs/20016444.html"></a>
+</dd>
+<dd>
+<h2>全面分析三大国产新星ADC，看好谁</h2>
+<span>
+5亮113回复</span>
+<sub class="subarea">英雄联盟</sub>
+<a href="//m.hupu.com/bbs/20019367.html"></a>
+</dd>
+<dd>
+<h2>外媒评LOL历史单杀TOP10，第一是谁</h2>
+<span>
+5亮70回复</span>
+<sub class="subarea">英雄联盟</sub>
+<a href="//m.hupu.com/bbs/20017303.html"></a>
+</dd>
+<dd>
+<h2>一个王者带四个坑队友能赢五青铜吗</h2>
+<span>
+6亮205回复</span>
+<sub class="subarea">王者荣耀</sub>
+<a href="//m.hupu.com/bbs/20021602.html"></a>
+</dd>
+<dd>
+<h2>我孙尚香玩的不错，大家有什么想问</h2>
+<span>
+6亮104回复</span>
+<sub class="subarea">王者荣耀</sub>
+<a href="//m.hupu.com/bbs/20020170.html"></a>
+</dd>
+<dd>
+<h2>一汽大众首款suv，trock大家怎么看</h2>
+<span>
+5亮86回复</span>
+<sub class="subarea">车友交流</sub>
+<a href="//m.hupu.com/bbs/20022548.html"></a>
+</dd>
+<dd>
+<h2>今日开盘，创业板这是要晚节不保吗</h2>
+<span>
+12回复</span>
+<sub class="subarea">股票区</sub>
+<a href="//m.hupu.com/bbs/20022803.html"></a>
+</dd>
+<dd>
+<h2>我晒下健身前后变化，大家觉得如何</h2>
+<span>
+3亮237回复</span>
+<sub class="subarea">爆照区</sub>
+<a href="//m.hupu.com/bbs/20021044.html"></a>
+</dd>
+<dd>
+<a href="https://m.hupu.com/bbs"></a>
+更多<i></i>
+</dd>
+</dl>
+</section>
+
+
+<div class="m-row hupu-m-row" id="J-hupu">
+<div class="m-bottom-spread">
+<script type="text/javascript" src="https://s.haiyunimg.com/SSP/37451.js"></script>
+</div>
+<div class="hupu-m">
+<div class="hupu-new-note">
+<div class="hupu-new-login">
+<div class="user-wrap">
+<a href="https://passport.hupu.com/m/2?jumpurl=http%3A%2F%2Fm.hupu.com%2Fnba&from=m&project=basketball" dace-node="2100_bottom_login">登录</a>
+</div>
+</div>
+<div class="hupu-new-links">
+<a href="//m.hupu.com" dace-node="2100_bottom_1000" class="index-link">首页</a>
+<a href="//m.hupu.com/nba" dace-node="2100_bottom_2100" class="index-link">NBA</a>
+<a href="//m.hupu.com/cba/news" dace-node="2100_bottom_2200" class="index-link">CBA</a>
+<a href="//m.hupu.com/soccer" dace-node="2100_bottom_3000" class="index-link">足球</a>
+</div>
+</div>
+<div class="sites-block">
+<div class="sites">
+<a href="https://nba.hupu.com" id="J_pc_link" dace-node="2100_pc">电脑版</a>
+<a href="http://mobile.hupu.com/download/games/?_r=mwap" class="download-btn">虎扑App<i class="icon-download"></i></a>
+</div>
+<p><a href="https://www.hupu.com/policies/terms">虎扑用户协议（含隐私政策）</a></p>
+<p class="copyright">
+&copy;2017&nbsp;虎扑 hupu.com<a href="http://www.miitbeian.gov.cn" target="_blank" style="color:#bac2cc">&nbsp;沪ICP备05037078号-13</a>
+</p>
+</div>
+</div>
+<div class="m-app-info hupu-m-fixed">
+<div class="hupu-m-fixed-close" dace-node="2100_download_bottom_close"><i></i></div>
+<div class="m-app-download">
+<a dace-node="2100_download_bottom" href="https://mobile.hupu.com/download/games/?_r=wapbottombanner"><img src="https://i1.hoopchina.com.cn/touch/622/3598622/touch_adlist_3598622_1502250567.488.png" alt="" /></a>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="https://goto.hupu.com/js/c/87.js"></script>
+</body><script type="text/javascript" src="//assets-m.hoopchina.com.cn/touch/static/common/pkg/common_90c52ea.js"></script>
+<script type="text/javascript" src="//assets-m.hoopchina.com.cn/touch/static/common/widget/ui/wechat-share/wechat-share_8b42a5a.js"></script>
+<script type="text/javascript" src="//assets-m.hoopchina.com.cn/touch/static/common/js/swiper/swiper.min_69cdef4.js"></script>
+<script type="text/javascript" src="//assets-m.hoopchina.com.cn/touch/static/common/widget/ui/share/wechat_3d5f223.js"></script>
+<script type="text/javascript">var __ready = [];__ready.push(function(){             var login = require("common:widget/ui/login/login.js");
+             HPM.popLogin = function(){
+                login("https:\/\/passport.hupu.com\/m\/2?jumpurl=http%3A%2F%2Fm.hupu.com%2Fnba&from=m&project=basketball");
+             }
+        });
+__ready.push(function(){             wx.config({
+                debug: false,
+                appId: 'wx5549e304bc4c1d0d',
+                timestamp: '1502947612',
+                nonceStr: 'RfMd8poen5uAY263',
+                signature: '18b15cdf9d399a21ef3540645f9fd4f87794e3c6',
+                jsApiList: [
+                    'onMenuShareTimeline',
+                    'onMenuShareAppMessage',
+                    'onMenuShareQQ',
+                    'onMenuShareWeibo',
+                    'onMenuShareQZone'
+                ]
+            });
+
+            wx.ready(function(){
+                var shareData = {
+                    title: "NBA|虎扑篮球",
+                    desc: "NBA中文网虎扑篮球最专业的篮球网站，专注于最全的NBA直播、NBA视频、图片及原创NBA新闻、分析等深入内容，拥有良好氛围的NBA火箭、湖人、热火等全部NBA球队论坛。",
+                    link: "https:\/\/m.hupu.com\/nba",
+                    imgUrl: "https:\/\/w3.hoopchina.com.cn\/9b\/92\/12\/9b9212f30a2515fa0cc5faa7f1632f92002.png",
+                    success: function(res){
+                    },
+                    cancel: function(res){
+                    }
+                }
+
+                wx.onMenuShareTimeline(shareData);
+                wx.onMenuShareAppMessage(shareData);
+                wx.onMenuShareQQ(shareData);
+
+                wx.onMenuShareWeibo(shareData);
+                wx.onMenuShareQZone(shareData);
+            });
+        });
+__ready.push(function(){    var newTopNav = require("common:widget/new-top-nav/new-top-nav.js");
+    var wechatShare = require('common:widget/ui/share/wechat.js');
+
+    newTopNav.init();
+    var toShare = require("common:widget/ui/share/share.js");
+    //全局分享事件, 每个页面单独注册.
+    $(document).on("page:share", function(){
+        var opt = wechatShare.init();
+        opt.hasWechat ? opt.weChatconfig = {
+                            title: "NBA|虎扑篮球",
+                            desc: "NBA中文网虎扑篮球最专业的篮球网站，专注于最全的NBA直播、NBA视频、图片及原创NBA新闻、分析等深入内容，拥有良好氛围的NBA火箭、湖人、热火等全部NBA球队论坛。",
+                            url: "https:\/\/m.hupu.com\/nba",
+                            img: "https:\/\/w3.hoopchina.com.cn\/9b\/92\/12\/9b9212f30a2515fa0cc5faa7f1632f92002.png",
+                        }
+                        : {}
+        opt.IsSafari ? opt.safariConfig = true : opt.safariConfig = false;
+        toShare(opt);
+    });
+    //触发挂载在document上的"page:share"事件.
+    $("#J_top_share").bind("click", function(){
+        $(document).trigger("page:share");
+    });
+});
+__ready.push(function(){    var mySwiper = new Swiper('.swiper-container', {
+        autoplay: 2000,
+        loop: true,
+        pagination : '.swiper-pagination',
+        paginationClickable: true
+    })
+    $(".pagination span").first().css('border-left', '0')
+    var screen = window.screen.width;
+    $(".swiper-container").css('height',screen/2 + 'px')
+
+});
+__ready.push(function(){    $("#J_pc_link").on("click", function(e){
+        if (document.cookie.indexOf("__nmj")  == -1) {
+            var exp = new Date();
+            exp.setTime(exp.getTime() + 30*24*60*60*1000);
+            document.cookie = "__nmj=1; path=/;domain=.hupu.com;expires=" + exp.toGMTString();
+        };
+        window.location.href = 'https:\/\/nba.hupu.com';
+    });
+
+    $(".hupu-m-fixed-close").on("click", function(e){
+        var exp = new Date();
+        exp.setTime(exp.getTime() + 24*60*60*7*1000);
+        document.cookie = "__closeapp=1; path=/;domain=.hupu.com;expires=" + exp.toGMTString();
+        $(".hupu-m-fixed").remove();
+        $(".hupu-m").css("margin-bottom", "0");
+    });
+
+    if($(".hupu-m-fixed")){
+        $(".hupu-m").css("margin-bottom", $(".hupu-m-fixed").height());
+    }
+
+    
+    // 用户第一次访问
+    if ($('.hupu-m-fixed').length && document.cookie.indexOf("__fixeduserfirst") == -1) {
+        var exp = new Date();
+        exp.setTime(exp.getTime() + 1*60*60*1000);
+        document.cookie = "__fixeduserfirst=1; path=/;domain=.hupu.com;expires=" + exp.toGMTString();
+    }
+});window.initEvent && window.initEvent();</script></html>

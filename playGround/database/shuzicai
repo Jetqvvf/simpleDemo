@@ -1,0 +1,878 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<link rel="dns-prefetch" href="//b1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//b3.hoopchina.com.cn" />
+
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.hupu.com/bbs/2883" />
+<meta name="mobile-agent" content="format=html5;url=https://m.hupu.com/bbs/2883" />
+
+<title>数字彩讨论区 - 虎扑社区</title>
+<meta name="keywords" content="数字彩讨论区" />
+<meta name="description" content="数字彩讨论区来自虎扑彩票社区，数字彩其实可以改变世界。" />
+<link rel="alternate" type="application/rss+xml" title="数字彩讨论区" href="/rss.php?fid=2883" />
+<base href="//bbs.hupu.com" /><!--[if IE 6]></base><![endif]-->
+<link rel="canonical" href="https://bbs.hupu.com/shuzicai" />
+<link rel="alternate" href="android-app://com.hupu.games/huputiyu/bbs/board/2883?r=hupucom"/>
+<script type='text/javascript'>var __daceDataNameOfForum='2883';var __daceDataNameOfCategory = '42'; var __daceDataNameOfProject='caipiao';var __daceDataNameOfChannel='';</script>
+<meta name="apple-itunes-app" content="app-id=906632439" />
+<link rel="shortcut icon" href="//b3.hoopchina.com.cn/common/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="//b3.hoopchina.com.cn/common/common-v1.css" />
+<script src="//b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js"></script> 
+<script src="//b3.hoopchina.com.cn/common/common-v1.js"></script>
+<link rel='stylesheet' type='text/css' href='//b3.hoopchina.com.cn/css/hupu-v56.css?2017070320' />
+<link rel='apple-touch-icon' href='https://b1.hoopchina.com.cn/common/apple-touch-icon.png'/>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/pcbbs/js/j15.js"></script>
+</head>
+<body>
+<!--topbarNav star-->
+                        <div id="hp-topbarNav">
+                            <div class="hp-topbarNav-bd">
+                                <ul class="hp-quickNav">
+                                    <li class="mobileWeb"><a href="https://m.hupu.com/" target="_blank"><i class="ico-mobile"></i>手机虎扑</a></li>
+                                    <li class="line">|</li>
+                                    <li class="mobileclientDown"><a class="red" href="https://mobile.hupu.com/?_r=globalNav" target="_blank">虎扑客户端</a></li>
+                                    <li class="line">|</li>
+			                        <li><a class="red" href="https://mobile.hupu.com/football?r=global_nav" target="_blank">虎扑足球客户端</a></li>
+                                    <li class="line">|</li>
+                                    <li class="hp-dropDownMenu topFollowBlog">
+                                        <a href="javascript:void(0)" class="hp-set">关注虎扑<s class="setArrow"></s></a>
+                                        <div class="hp-drapDown followLayer">
+                                            <a class="weibo" target="_blank" rel="nofollow" href="//weibo.com/liangle4u"><i class="hp-ico-weibo"></i>新浪微博</a>
+											<a class="weixin" target="_blank" href="https://voice.hupu.com/other/1581560.html"><i class="hp-ico-weixin"></i>官方微信</a>
+                                            <a class="instagram" target="_blank" rel="nofollow" href="https://voice.hupu.com/other/1634334.html"><i class="hp-ico-instagram"></i>Instagram</a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="hp-topLogin-info"></div>
+                            </div>
+                        </div>
+                        <!--topbarNav ent--><!--header star--><div class="hp-header hp-header-B"><div class="hp-logo"><a title="社区" href="https://bbs.hupu.com/"><img src="https://b3.hoopchina.com.cn/images/logo2017/v1/hp_logo_sports.png" alt="社区" /></a>
+                            </div>
+                            <div class="hp-mainNav hp-mainNav-B">
+                                <div class="hp-nav">
+                                    <div class="hp-nav-bd">
+                                        <ul class="hp-nav-item"><li><a href="https://www.hupu.com/" >虎扑首页</a></li><li class="line">|</li><li><a href="https://nba.hupu.com/" >NBA</a></li><li class="line">|</li><li><a href="https://cba.hupu.com/" >CBA</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com" >国际足球</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com/china/" >中国足球</a></li><li class="line">|</li><li><a href="http://racing.hupu.com/" >赛车</a></li><li class="line">|</li><li><a href="http://zb.hupu.com/" target="_blank">装备</a></li><li class="line">|</li><li><a href="http://www.shihuo.cn/" target="_blank">识货</a></li><li class="line">|</li><li><a href="http://v.liangle.com/" >视频</a></li><li class="line">|</li><li><a href="http://photo.hupu.com/" >图片</a></li><li class="line">|</li><li class="on"><a href="https://bbs.hupu.com/" >社区</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/all-gambia" >步行街</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/all-esports" >电竞</a></li><li class="line">|</li><li><a href="http://www.liangle.com" target="_blank">路人王</a></li><li class="line">|</li><li class="hp-dropDownMenu hp-moreNav">
+                                                <a href="javascript:void(0)" class="hp-set">更多<s class="setArrow"></s></a>
+                                                <div class="hp-drapDown hp-moreNav-drapDown"><a href="https://shop311048929.taobao.com/" target="_blank">虎扑优选</a><a href="http://www.kaluli.com/" target="_blank">卡路里</a><a href="http://outdoor.hupu.com/" >户外</a><a href="http://run.hupu.com/" >跑步</a><a href="http://ymq.hupu.com/" >羽毛球</a><a href="http://xgame.hupu.com/" target="_blank">xgames</a><a href="http://www.nflchina.com/" target="_blank">NFL</a><a href="http://golf.hupu.com/" target="_blank">高尔夫</a><s class="arrow-top"><s class="arrowbd"></s></s>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="hp-subNav">
+    <ul class="hp-subNav-item">
+        <li><a href="/">首页</a></li><li class="line">|</li>
+        <li><a target="_blank" href="https://bbs.hupu.com/all-nba">NBA版</a></li><li class="line">|</li>
+        <li><a target="_blank" href="https://bbs.hupu.com/all-cba">CBA版</a></li><li class="line">|</li>
+        <li><a target="_blank" href="https://bbs.hupu.com/all-soccer">国际足球版</a></li><li class="line">|</li>
+        <li><a target="_blank" href="https://bbs.hupu.com/china-soccer">中国足球版</a></li><li class="line">|</li>
+        <li><a target="_blank" href="https://bbs.hupu.com/all-sports">综合体育</a></li><li class="line">|</li>
+        <li class="hp-dropDownMenu">
+            <a target="_blank" href="https://bbs.hupu.com/all-gear">装备版</a>
+            <div class="hp-drapDown">
+                <a href="https://bbs.hupu.com/c2c">交易区</a>
+                <a href="https://bbs.hupu.com/jersey">球衣区</a>
+                <a href="https://bbs.hupu.com/outdoorgear">户外装备</a>
+            </div>
+        </li>
+		<li class="line">|</li>
+        <li class="hp-dropDownMenu">
+			<a href="/all-gambia" class="hp-set">步行街</a>
+			<div class="hp-drapDown">
+				<a href="https://bbs.hupu.com/bxj">步行街主干道</a>
+				<a href="https://bbs.hupu.com/kfq">开放区</a>
+				<a href="https://bbs.hupu.com/ent">影视区</a>
+				<a href="https://bbs.hupu.com/acg">ACG区</a>
+				<a href="https://bbs.hupu.com/nba2k">NBA2K区</a>
+				<a href="https://bbs.hupu.com/game">电竞区</a>
+				<a href="https://bbs.hupu.com/cars">车友交流</a>
+				<a href="https://bbs.hupu.com/music">音乐区</a>
+				<a href="https://bbs.hupu.com/love">情感区</a>
+				<a target="_blank" href="https://bbs.hupu.com/all-gambia">更多</a>
+				<s class="arrow-top"><s class="arrowbd"></s></s>
+			</div>
+		</li><li class="line">|</li>	
+        <li class="hp-dropDownMenu">
+			<a href="/all-lottery" class="hp-set">彩票版</a>
+			<div class="hp-drapDown">
+				<a href="https://bbs.hupu.com/lancai">篮彩神棍区</a>
+				<a href="https://bbs.hupu.com/zucai">足彩讨论区</a>
+				<a href="https://bbs.hupu.com/shuzicai">数字彩讨论区</a>
+				<a href="https://bbs.hupu.com/caipiao">虎扑彩票客服区</a>
+				<s class="arrow-top"><s class="arrowbd"></s></s>
+			</div>
+		</li><li class="line hp-hide-w1024">|</li>
+		<li class="hp-hide-w1024"><a href="/all-group">虎扑社团</a></li><li class="line">|</li>
+		<li><a target="_blank" href="https://bbs.hupu.com/all-boards">自建版块</a></li><li class="line">|</li>
+		<li><a target="_blank" href="https://bbs.hupu.com/all-feedback">站务版</a></li>
+    </ul>
+</div>
+
+                                <i class="hp-roundPoint-br-tl roundPoint-br-tl"></i>
+                                <i class="hp-roundPoint-br-tr roundPoint-br-tr"></i>
+                                <i class="hp-roundPoint-br-bl roundPoint-br-bl"></i>
+                                <i class="hp-roundPoint-br-br roundPoint-br-br"></i>
+                            </div>
+                        </div>
+
+
+
+
+			<div class="hp-threeNav">
+			<div class="hp-threeNav-bd">
+			<ul class="hp-threeNav-item"><li><a href='/all-lottery'  data-project='caipiao' id='g_b'>首页</a></li><li ><a href='/lancai'  >篮彩神棍</a></li><li ><a href='/zucai'  >足彩讨论</a></li><li ><a href='/shuzicai' class="on" >数字彩讨论</a></li><li ><a href='/caipiao'  >彩票客服</a></li></ul></div><i id='level2header' title='彩票版'></i>
+				<div class="hp-search">
+					<form id="hp-form-search" method="get" enctype="multipart/form-data" action="https://my.hupu.com/search">
+						<input type="text" value="搜索视频、帖子" class="it-search" />
+						<input type="submit" value="搜索" class="btn-search" />
+					</form>
+				</div>
+			</div>
+		
+<div class="hp-wrap">
+
+
+<!--页面主体 -->
+<div id="container" class="rel"><div id="container_padd">
+<!---主体部分 start--->
+				<div id="sidenav_bbs"><div id="bbs_banner"><h4><a class="h4_t">版块分类</a></h4><ul>
+		<li id="l1" lid="1"><a href="//bbs.hupu.com/all-nba">NBA论坛</a></li>
+		<li id="l232" lid="232"><a href="//bbs.hupu.com/all-cba">CBA论坛</a></li>
+		<li id="l233" lid="233"><a href="//bbs.hupu.com/all-gear">运动&装备</a></li>
+		<li id="l198" lid="198"><a href="//bbs.hupu.com/all-soccer">国际足球论坛</a></li>
+		<li id="l4596" lid="4596"><a href="//bbs.hupu.com/all-csl">中国足球论坛</a></li>
+		<li id="l41" lid="41"><a href="//bbs.hupu.com/all-sports">综合体育</a></li><li id="l174" lid="174"><a href="//bbs.hupu.com/all-gambia">步行街</a></li>
+	<li id="l42" lid="42"><a href="//bbs.hupu.com/all-lottery">彩票中心</a></li>
+	<li id="l238" lid="238"><a href="//bbs.hupu.com/all-boards">自建版块</a></li>
+	<li id="l114" lid="114"><a href="//bbs.hupu.com/all-group">虎扑社团</a></li>
+	<li id="l7" lid="7"><a href="//bbs.hupu.com/all-feedback">站务管理</a></li>
+	</ul></div>
+				<div class="sidenav_pop_tips"><p class="more"><a href="//bbs.hupu.com/boards.php">更多版块 &raquo;</a></p></div>
+				
+				</div>
+<!---右侧 start--->
+
+<div id="content">
+<!--头部-->
+
+<div class="bbs_head head_rel">
+	<a class="headpic left head_po" href="/shuzicai"><img width="45" height="45" alt="数字彩讨论区" src="http://b1.hoopchina.com.cn/images/cai/sztlq-logo.jpg" /></a>
+
+<div class="right"><form id="forum_see" method="get" enctype="multipart/form-data" name="forum_see" action="//my.hupu.com/search"><input type="hidden" name='fid' value='2883' /><input type="hidden" name='type' value='topic' /><input id="search_thread" name="q" type="text" class="tabs_input" value="搜索本版帖子" title="搜索数字彩讨论区的帖子" /><input type="submit" value="" class="tabs_btn" /></form></div>
+<div id="googlepub" class="right" style="margin-right:5px;"></div>
+<h1 class="left"><span id="forumname" fid="2883" fidurl="shuzicai">数字彩讨论区</span>
+
+<span class="l10px snor"><a class="blue" target="_blank" href="https://caipiao.hupu.com/fcssq/">我要投注&raquo;</a></span>
+
+</h1>&nbsp;
+<div class="clearfix" style="*height:0;"></div>
+
+<div class="pl_nav ">
+
+
+<span class="pl_d">&nbsp;</span><div class="pl_top">
+版块介绍：<span id="des_forum">数字彩其实可以改变世界。</span><br />
+
+版主：</div>
+
+
+<script type='text/javascript'>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') +
+				'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script>
+<script type='text/javascript'>
+var adwidth = screen.width>1152 ? 1020 : 810;
+googletag.cmd.push(function() {
+googletag.defineSlot('/1016953/nba_bbs_list_right_320x60', [320, 60], 'bbs_list_right_320x60').addService(googletag.pubads());
+googletag.defineSlot('/1016953/hoopchina-bbs-right-Optimus-120x600', [120, 600], 'hoopchina-bbs-right-Optimus-120x600').addService(googletag.pubads());
+googletag.defineSlot('/1016953/nba_bbs_list_1x1', [1, 1], 'bbs_list_1x1').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+
+
+</div>
+
+
+<div class="clearfix" style="*height:0;"></div>
+</div>
+<!--头部END-->
+<!---标签页 start--->
+<div class="tabs_header zoom" id="tabs_header">
+<ul class="left">
+<li class="selected"><a href="/shuzicai">主题</a></li><li><a href="/shuzicai-digest">精华</a></li><li><a href="/shuzicai/highlights">亮了</a></li>
+
+<li><a href="/shuzicai/members">成员</a></li>
+
+</ul>
+
+<div class="right">
+
+<a id="g_n" class="issue_button" rel="nofollow me noopener noreferrer" href="/post.php?fid=2883">发新帖</a>
+</div>
+
+<div class="clearfix tabs_border"></div>
+
+</div>
+<!---标签页 end---><!--内容分类-->
+<div id="sort">
+<div class="fr">
+<form style="display:inline">
+<select id="orderway" style="vertical-align:middle; _vertical-align:top;">
+
+<option value="null" selected>排序方式</option>
+<option value="lastpost">按回帖时间排序</option>
+<option value="postdate">按发帖时间排序</option>
+
+</select></form>
+</div>
+
+<div class="clearfix" style="*height:0;"></div>
+</div>
+<!--内容分类END--><!--帖子列表-->
+
+<table id="pl" class="bbstopic ptable topiclisttr" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+	<th>&nbsp;</th>
+	<th align="left">主题</th>
+	<th align="left" width="100">作者</th>
+	<th width="110">回复 / 浏览</th>
+	<th align="left" width="85">最后回复</th>
+</tr><tbody>
+
+<tr mid="19340067"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19340067sh"></div>
+
+ <a id="" href="/19340067.html">双色球这玩意到底是不是坑？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/149766763917586">魔法小水花</a><br />2017-06-01</td><td class="p_re">3 / 417</td><td class="p_retime"><a href="/19340067.html#o" title="查看最后回复">08-14</a><br />郊县天王123</td></tr>
+
+<tr mid="19651153"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19651153sh"></div>
+
+ <a id="" href="/19651153.html">大家快来投票2017次亚洲洲际赛最佳阵容</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/58843058568742">南澜掌</a><br />2017-07-09</td><td class="p_re">0 / 85</td><td class="p_retime"><a href="/19651153.html#o" title="查看最后回复">07-09</a><br />南澜掌</td></tr>
+
+<tr mid="19349637"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19349637sh"></div>
+
+ <a id="" href="/19349637.html">数字游戏这几年</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/rjeagle">框框还是那个框框</a><br />2017-06-02</td><td class="p_re">2 / 341</td><td class="p_retime"><a href="/19349637.html#o" title="查看最后回复">06-15</a><br />我爱腻腻粥</td></tr>
+
+<tr mid="19304530"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19304530sh"></div>
+
+ <a id="" href="/19304530.html">讨论是机选还是守一个号</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/146310349387908">对她旧情绵绵</a><br />2017-05-27</td><td class="p_re">2 / 243</td><td class="p_retime"><a href="/19304530.html#o" title="查看最后回复">06-01</a><br />这锅你来接</td></tr>
+
+<tr mid="19256476"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19256476sh"></div>
+
+ <a id="" href="/19256476.html">大家是喜欢随机还是自选号来投个票</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/211871558320567">小猴ww</a><br />2017-05-21</td><td class="p_re">0 / 184</td><td class="p_retime"><a href="/19256476.html#o" title="查看最后回复">05-21</a><br />小猴ww</td></tr>
+
+<tr mid="19240991"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19240991sh"></div>
+
+ <a id="" href="/19240991.html">SSC讨论</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/25353407751667">情寄火箭</a><br />2017-05-18</td><td class="p_re">4 / 291</td><td class="p_retime"><a href="/19240991.html#o" title="查看最后回复">05-18</a><br />情寄火箭</td></tr>
+
+<tr mid="18258276"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="18258276sh"></div>
+
+ <a id="" href="/18258276.html">都来谈谈自己的看法，是专注一注买？还是一直随机？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/229046394237347">豁达体育正品店</a><br />2017-01-13</td><td class="p_re">0 / 686</td><td class="p_retime"><a href="/18258276.html#o" title="查看最后回复">01-13</a><br />豁达体育正品店</td></tr>
+
+<tr mid="18257877"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="18257877sh"></div>
+
+ <a id="" href="/18257877.html">买彩票凭的是运气？还是技术？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/229046394237347">豁达体育正品店</a><br />2017-01-13</td><td class="p_re">0 / 604</td><td class="p_retime"><a href="/18257877.html#o" title="查看最后回复">01-13</a><br />豁达体育正品店</td></tr>
+
+<tr mid="18257690"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="18257690sh"></div>
+
+ <a id="" href="/18257690.html">马上过年了，你中奖了没？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/229046394237347">豁达体育正品店</a><br />2017-01-13</td><td class="p_re">0 / 295</td><td class="p_retime"><a href="/18257690.html#o" title="查看最后回复">01-13</a><br />豁达体育正品店</td></tr>
+
+<tr mid="18112465"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="18112465sh"></div>
+
+ <a id="" href="/18112465.html">111</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/179530942135590">安道尔的海</a><br />2016-12-27</td><td class="p_re">1 / 392</td><td class="p_retime"><a href="/18112465.html#o" title="查看最后回复">2016-12-27</a><br />虎扑彩票</td></tr>
+
+<tr mid="17589511"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="17589511sh"></div>
+
+ <a id="" href="/17589511.html">宝宝疯狂收米快跟上阿！！</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/23813491828389">薄荷叶的回</a><br />2016-10-22</td><td class="p_re">1 / 570</td><td class="p_retime"><a href="/17589511.html#o" title="查看最后回复">2016-10-25</a><br />薄荷叶的回</td></tr>
+
+<tr mid="16871788"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="16871788sh"></div>
+
+ <a id="" href="/16871788.html">虎扑彩票买不起来了吗？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/42846482019027">JG鞋屋</a><br />2016-07-25</td><td class="p_re">3 / 871</td><td class="p_retime"><a href="/16871788.html#o" title="查看最后回复">2016-08-11</a><br />魔都丶</td></tr>
+
+<tr mid="16585641"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="16585641sh"></div>
+
+ <a id="" href="/16585641.html">有没有利用近50期出现总次数、当前遗漏和平均遗漏购双色球的？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/275259373545374">离歌浅唱半世殇</a><br />2016-06-23</td><td class="p_re">1 / 785</td><td class="p_retime"><a href="/16585641.html#o" title="查看最后回复">2016-07-09</a><br />JacobD</td></tr>
+
+<tr mid="16637652"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="16637652sh"></div>
+
+ <a id="" href="/16637652.html">断续买几年福彩只得过最高10元没谁了吧</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/125729132675222">luke_wyn</a><br />2016-06-29</td><td class="p_re">1 / 619</td><td class="p_retime"><a href="/16637652.html#o" title="查看最后回复">2016-07-09</a><br />JacobD</td></tr>
+
+<tr mid="16666359"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="16666359sh"></div>
+
+ <a id="" href="/16666359.html">好冷清的彩票区啊！？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/159039720595091">美国杂货铺</a><br />2016-07-02</td><td class="p_re">2 / 605</td><td class="p_retime"><a href="/16666359.html#o" title="查看最后回复">2016-07-09</a><br />JacobD</td></tr>
+
+<tr mid="16243583"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="16243583sh"></div>
+
+ <a id="" href="/16243583.html">【农夫老师】把握机会，继续命中。127期排列三推荐</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/139933763900537">彩妹杀号</a><br />2016-05-13</td><td class="p_re">0 / 768</td><td class="p_retime"><a href="/16243583.html#o" title="查看最后回复">2016-05-13</a><br />彩妹杀号</td></tr>
+
+<tr mid="16243481"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="16243481sh"></div>
+
+ <a id="" href="/16243481.html">【彩妹排雷】彩妹大乐透推荐，星期六就开奖了！还不把握机会！</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/139933763900537">彩妹杀号</a><br />2016-05-13</td><td class="p_re">0 / 595</td><td class="p_retime"><a href="/16243481.html#o" title="查看最后回复">2016-05-13</a><br />彩妹杀号</td></tr>
+
+<tr mid="16234733"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="16234733sh"></div>
+
+ <a id="" href="/16234733.html">【彩票老店主】唯彩会专家老店主，独家讲述定码经验，还不赶紧来瞧瞧？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/139933763900537">彩妹杀号</a><br />2016-05-12</td><td class="p_re">0 / 781</td><td class="p_retime"><a href="/16234733.html#o" title="查看最后回复">2016-05-12</a><br />彩妹杀号</td></tr>
+
+<tr mid="16234649"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="16234649sh"></div>
+
+ <a id="" href="/16234649.html">【彩妹杀号】天生丽质难自弃！上期杀号正确，命中双红球。篮球直接中标</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/139933763900537">彩妹杀号</a><br />2016-05-12</td><td class="p_re">0 / 480</td><td class="p_retime"><a href="/16234649.html#o" title="查看最后回复">2016-05-12</a><br />彩妹杀号</td></tr>
+
+<tr mid="16228132"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="16228132sh"></div>
+
+ <a id="" href="/16228132.html">【彩票老店主】福彩3D16125期推荐：双胆53</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/139933763900537">彩妹杀号</a><br />2016-05-11</td><td class="p_re">0 / 481</td><td class="p_retime"><a href="/16228132.html#o" title="查看最后回复">2016-05-11</a><br />彩妹杀号</td></tr>
+
+<tr mid="16228074"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="16228074sh"></div>
+
+ <a id="" href="/16228074.html">【农夫老师】小奖容易中，大奖还会远吗？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/139933763900537">彩妹杀号</a><br />2016-05-11</td><td class="p_re">0 / 494</td><td class="p_retime"><a href="/16228074.html#o" title="查看最后回复">2016-05-11</a><br />彩妹杀号</td></tr>
+
+<tr mid="16228047"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="16228047sh"></div>
+
+ <a id="" href="/16228047.html">【彩票老店主】唯彩会的老店主胆码7连中了，你还等什么？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/139933763900537">彩妹杀号</a><br />2016-05-11</td><td class="p_re">0 / 711</td><td class="p_retime"><a href="/16228047.html#o" title="查看最后回复">2016-05-11</a><br />彩妹杀号</td></tr>
+
+<tr mid="16223706"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="16223706sh"></div>
+
+ <a id="" href="/16223706.html">【彩妹排雷】分割大乐透29亿奖池就差你这一注</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/ludashivipc">鲁大师玩篮球</a><br />2016-05-11</td><td class="p_re">0 / 448</td><td class="p_retime"><a href="/16223706.html#o" title="查看最后回复">2016-05-11</a><br />鲁大师玩篮球</td></tr>
+
+<tr mid="15965427"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="15965427sh"></div>
+
+ <a id="" href="/15965427.html">终于中奖了</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/11600151287198">闻寂寞落</a><br />2016-04-11</td><td class="p_re">0 / 833</td><td class="p_retime"><a href="/15965427.html#o" title="查看最后回复">2016-04-11</a><br />闻寂寞落</td></tr>
+
+<tr mid="15749773"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="15749773sh"></div>
+
+ <a id="" href="/15749773.html">差点就中双色球一等奖了</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/80332294121082">我愛刘慧</a><br />2016-03-18</td><td class="p_re">1 / 1188</td><td class="p_retime"><a href="/15749773.html#o" title="查看最后回复">2016-03-29</a><br />我愛刘慧</td></tr>
+
+<tr mid="15786991"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="15786991sh"></div>
+
+ <a id="" href="/15786991.html">彩妹杀号之双色球16032期分析</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/139933763900537">彩妹杀号</a><br />2016-03-22</td><td class="p_re">8 / 677</td><td class="p_retime"><a href="/15786991.html#o" title="查看最后回复">2016-03-24</a><br />虎扑彩票</td></tr>
+
+<tr mid="15796200"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="15796200sh"></div>
+
+ <a id="" href="/15796200.html">聪爷之16033期双色球</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/139933763900537">彩妹杀号</a><br />2016-03-23</td><td class="p_re">0 / 468</td><td class="p_retime"><a href="/15796200.html#o" title="查看最后回复">2016-03-23</a><br />彩妹杀号</td></tr>
+
+<tr mid="15780581"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="15780581sh"></div>
+
+ <a id="" href="/15780581.html">买了几年了，最多中过400元是什么水平</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/248148672330406">天亮之家前</a><br />2016-03-21</td><td class="p_re">1 / 527</td><td class="p_retime"><a href="/15780581.html#o" title="查看最后回复">2016-03-21</a><br />星星21231</td></tr>
+
+<tr mid="15587767"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="15587767sh"></div>
+
+ <a id="" href="/15587767.html">求彩票中奖人感言。让我先有个心理准备！</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/205415031496234">豁达六号</a><br />2016-02-27</td><td class="p_re">1 / 695</td><td class="p_retime"><a href="/15587767.html#o" title="查看最后回复">2016-03-17</a><br />nighty_9</td></tr>
+
+<tr mid="15677887"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="15677887sh"></div>
+
+ <a id="" href="/15677887.html">超级大乐透累积了不少奖啊</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/97730202536631">realtiooo</a><br />2016-03-09</td><td class="p_re">2 / 534</td><td class="p_retime"><a href="/15677887.html#o" title="查看最后回复">2016-03-14</a><br />喜欢雪小禅</td></tr>
+
+<tr mid="15601366"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="15601366sh"></div>
+
+ <a id="" href="/15601366.html">买了彩票后，你是不是一直在幻想中了500W后该怎么花？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/205415031496234">豁达六号</a><br />2016-02-29</td><td class="p_re">1 / 673</td><td class="p_retime"><a href="/15601366.html#o" title="查看最后回复">2016-03-04</a><br />银ping123</td></tr>
+
+<tr mid="15589138"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="15589138sh"></div>
+
+ <a id="" href="/15589138.html">想问问，为什么现在网上静止买卖彩票了呢？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/205415031496234">豁达六号</a><br />2016-02-28</td><td class="p_re">1 / 651</td><td class="p_retime"><a href="/15589138.html#o" title="查看最后回复">2016-02-28</a><br />没有人dd</td></tr>
+
+<tr mid="14983607"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="14983607sh"></div>
+
+ <a id="" href="/14983607.html">遗憾错过一次大奖</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/106267674752521">谈谈情探try</a><br />2015-12-18</td><td class="p_re">1 / 782</td><td class="p_retime"><a href="/14983607.html#o" title="查看最后回复">2016-01-09</a><br />ppv凉</td></tr>
+
+<tr mid="14963640"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="14963640sh"></div>
+
+ <a id="" href="/14963640.html">中过10W以上的来吱一声</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/229046394237347">豁达体育正品店</a><br />2015-12-16</td><td class="p_re">0 / 755</td><td class="p_retime"><a href="/14963640.html#o" title="查看最后回复">2015-12-16</a><br />豁达体育正品店</td></tr>
+
+<tr mid="14963203"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="14963203sh"></div>
+
+ <a id="" href="/14963203.html">大家有没有一组号码 是一直追到中为止呢？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/259483312468287">粉耐謊言</a><br />2015-12-16</td><td class="p_re">0 / 555</td><td class="p_retime"><a href="/14963203.html#o" title="查看最后回复">2015-12-16</a><br />粉耐謊言</td></tr>
+
+<tr mid="14849318"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="14849318sh"></div>
+
+ <a id="" href="/14849318.html">大家买彩票是机选还是追号？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/beijudi">杯具帝王</a><br />2015-12-03</td><td class="p_re">1 / 1066</td><td class="p_retime"><a href="/14849318.html#o" title="查看最后回复">2015-12-04</a><br />theking2010</td></tr>
+
+<tr mid="11969418"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="11969418sh"></div>
+
+ <a id="" href="/11969418.html">刮刮乐这东西  这几天花了好几百，啥都没中</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/27527128519046">耿卢睿爺杰</a><br />2015-02-10</td><td class="p_re">1 / 729</td><td class="p_retime"><a href="/11969418.html#o" title="查看最后回复">2015-10-19</a><br />本哈登一世</td></tr>
+
+<tr mid="13045820"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="13045820sh"></div>
+
+ <a id="" href="/13045820.html">我想知道虎扑可以直接买彩票吗？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/98378457590731">泓江科技</a><br />2015-06-24</td><td class="p_re">3 / 1662</td><td class="p_retime"><a href="/13045820.html#o" title="查看最后回复">2015-10-17</a><br />凯里~欧文</td></tr>
+
+<tr mid="13030927"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="13030927sh"></div>
+
+ <a id="" href="/13030927.html">双色球和大乐透 大家都买什么啊</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/40773957695782">piupiu23</a><br />2015-06-22</td><td class="p_re">0 / 757</td><td class="p_retime"><a href="/13030927.html#o" title="查看最后回复">2015-06-22</a><br />piupiu23</td></tr>
+
+<tr mid="12961379"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="12961379sh"></div>
+
+ <a id="" href="/12961379.html">选数字彩票有什么明显的数字规律吗？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/24201647287624">再说一次我</a><br />2015-06-14</td><td class="p_re">0 / 860</td><td class="p_retime"><a href="/12961379.html#o" title="查看最后回复">2015-06-14</a><br />再说一次我</td></tr>
+
+<tr mid="12955802"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="12955802sh"></div>
+
+ <a id="" href="/12955802.html">现在奖池最高的是双色球吗？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/274307554969531">高妹儿</a><br />2015-06-13</td><td class="p_re">0 / 423</td><td class="p_retime"><a href="/12955802.html#o" title="查看最后回复">2015-06-13</a><br />高妹儿</td></tr>
+
+<tr mid="12677001"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="12677001sh"></div>
+
+ <a id="" href="/12677001.html">有没有中过大奖的。。。</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/154293000566925">火车叨位去z</a><br />2015-05-11</td><td class="p_re">1 / 553</td><td class="p_retime"><a href="/12677001.html#o" title="查看最后回复">2015-06-07</a><br />freewya</td></tr>
+
+<tr mid="12715849"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="12715849sh"></div>
+
+ <a id="" href="/12715849.html">买彩票最多中过10元，还有更厉害的嘛</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/185545533424803">letitbej</a><br />2015-05-16</td><td class="p_re">0 / 507</td><td class="p_retime"><a href="/12715849.html#o" title="查看最后回复">2015-05-16</a><br />letitbej</td></tr>
+
+<tr mid="12529163"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="12529163sh"></div>
+
+ <a id="" href="/12529163.html">我猜中开头却没猜中结尾</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/275760219500512">邵帅寺</a><br />2015-04-23</td><td class="p_re">0 / 294</td><td class="p_retime"><a href="/12529163.html#o" title="查看最后回复">2015-04-23</a><br />邵帅寺</td></tr>
+
+<tr mid="12475012"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="12475012sh"></div>
+
+ <a id="" href="/12475012.html">有身边的人中过大奖的人吗</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/125412323542151">纯情艳</a><br />2015-04-17</td><td class="p_re">0 / 407</td><td class="p_retime"><a href="/12475012.html#o" title="查看最后回复">2015-04-17</a><br />纯情艳</td></tr>
+
+<tr mid="12396635"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="12396635sh"></div>
+
+ <a id="" href="/12396635.html">今天买了大乐透 哈哈 有期盼</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/hahafd">卢清怡</a><br />2015-04-08</td><td class="p_re">1 / 344</td><td class="p_retime"><a href="/12396635.html#o" title="查看最后回复">2015-04-17</a><br />Ecince</td></tr>
+
+<tr mid="12437532"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="12437532sh"></div>
+
+ <a id="" href="/12437532.html">买了N年的大乐透和双色球 没中过什么大奖啊 不过有期待</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/208919625103627">熊哥</a><br />2015-04-13</td><td class="p_re">0 / 351</td><td class="p_retime"><a href="/12437532.html#o" title="查看最后回复">2015-04-13</a><br />熊哥</td></tr>
+
+<tr mid="12407422"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="12407422sh"></div>
+
+ <a id="" href="/12407422.html">中奖了，呵呵，一起庆祝一下</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/hahafd">卢清怡</a><br />2015-04-09</td><td class="p_re">0 / 435</td><td class="p_retime"><a href="/12407422.html#o" title="查看最后回复">2015-04-09</a><br />卢清怡</td></tr>
+</tbody></table>
+<!--帖子列表END-->
+
+<div class="rss"><a target="_blank" href="/rss.php?fid=2883" title="通过RSS订阅数字彩讨论区的帖子">rss</a></div>
+
+<div class="page"><span class="selected">1</span><a href="/shuzicai-2">2</a><a href="/shuzicai-3">3</a><a href="/shuzicai-4">4</a><a href="/shuzicai-5">5</a>...<a href="/shuzicai-12">12</a> <input type='text' title='输入页码数，回车即可到达指定页码' onkeydown="if(event.keyCode==13){location='/shuzicai-'+this.value+'';return false}"><a id="j_next" class="next" href="/shuzicai-2">下一页&raquo;</a><span class="f666">数字彩讨论区共546主题 / 927回复 &nbsp;今日0帖</span></div>
+
+<!---主体部分 end--->
+
+<div class="pub_ad">
+    <div id='bbs_list_right_320x60'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('bbs_list_right_320x60'); });</script></div>
+
+</div>
+
+
+	<div class="lpub_ad" id="lpub_ad" style="display:none;left:-133px"><div id='hoopchina-bbs-right-Optimus-120x600'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('hoopchina-bbs-right-Optimus-120x600'); });</script></div>
+</div>
+</div>
+</div></div>
+<!--内容END--><!--页面主体END-->
+
+</div><div class="pop" style="width:420px;display:none;" id="rm_div_msg"><div class="pop_content"><h2 class="mpop"><a onclick="closepop()"></a>推荐版块</h2><ul class="pop_commend"><form name="rm_form"><li>推荐语：</li><li><textarea name="tjmsg" id="tjmsg" class="j_enter"></textarea></li><li><input name="cid" id="cid" type="hidden" value="2883" /><input name="fid" type="hidden" value="2883" /><input name="Input2" type="button" class="btns2 j_tjmsg" id="j_recs" value="推 荐" /> &nbsp; &nbsp;<input name="Input2" type="button" class="btnb2" value="取 消" onclick="closepop()" /></li></form></ul></div></div>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/pcbbs/js/thread22.js?2017040115"></script>
+
+
+<div style="display: none">
+<div id='bbs_list_1x1'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('bbs_list_1x1'); });</script></div>
+</div>
+
+
+
+<div class="fback"><a class="btop" href="#">回顶部</a></div>
+<b id="footer-loadedError"></b>
+
+
+<div class="hp-footer">
+                    
+                    <div class="hp-copyright">
+                    
+                    Copyright by 虎扑JRs &amp;
+                    <a href="https://www.hupu.com/" target="_blank" title="虎扑">虎扑</a> -
+                    <a href="http://jobs.hupu.com/" target="_blank">在虎扑工作</a> -
+                    <a href="http://marketing.hupu.com/contact/" target="_blank">联系我们</a> -
+                    <a href="https://m.hupu.com/" target="_blank">手机虎扑网</a> -
+                    <a href="https://mobile.hupu.com/" target="_blank">虎扑App</a> -
+                    <a href="https://www.hupu.com/policies/terms" target="_blank">服务协议</a> -
+                    <a href="https://www.hupu.com/sitemap.html" target="_blank">网站地图</a> -
+                    <a href="https://nba.hupu.com/" target="_blank" title="NBA">NBA</a> -
+                    <a href="https://cba.hupu.com/" target="_blank" title="CBA">CBA</a>  -
+                    <a href="https://soccer.hupu.com/" target="_blank" title="足球">足球</a> -
+                    <a href="https://soccer.hupu.com/china/" target="_blank" title="中超">中超</a> -
+                    <a href="http://racing.hupu.com/" target="_blank" title="赛车">赛车</a> 
+                    </div>
+                    
+                </div>
+
+
+<script>
+	var countGATrackPageview = location.pathname+location.search+"'|caipiao/42-彩票中心/2883-数字彩讨论区'";
+_common.init({project: "caipiao",countGASetVar: "",countGATrackPageview: countGATrackPageview});	
+</script>
+<script async="true" src="//b3.hoopchina.com.cn/pcbbs/js/g85.js?20170207"></script>
+
+<script type="text/javascript" src="https://hm.baidu.com/h.js?39fc58a7ab8a311f2f6ca4dc1222a96e" async="async"></script>
+<script>IE6 = '';</script><!--[if lte IE 6]><script>IE6 = 'sucks';</script><![endif]-->
+<script>
+    try{
+      if(window.top != window.self){
+        var topHost = top.document.location.hostname;
+        if (topHost.indexOf('hupu.com') < 0 && topHost.indexOf('liangle.com') < 0 && topHost.indexOf('shihuo.cn') < 0){
+          window.top.location.href = window.self.location.href;
+        }
+      } 
+    }catch(e){}
+
+    $(function(){
+        if ($("#lpub_ad")[0]) {
+            function findPos_top(obj) {
+                var top = obj.offsetTop || 0;
+                while (obj = obj.offsetParent) {
+                    top += obj.offsetTop;
+                }
+                return top;
+            }
+
+            function findPos_left(obj) {
+                var l = obj.offsetLeft;
+                while (obj.offsetParent != null) {
+                    obj = obj.offsetParent;
+                    l += obj.offsetLeft;
+                }
+                return l;
+            }
+
+            ifSideSticky = (IE6 == 'sucks') ? false : true;
+            var pubPos = findPos_top($("#bbs_banner")[0]) - findPos_top($("#sidenav_bbs")[0]) + 403;
+            $("#lpub_ad").css('top', pubPos + 'px');
+            $("#lpub_ad").show();
+            if (!isMobile() && ifSideSticky && document.documentElement.clientHeight > 670) {
+                var contentwitdth = $("#content").width();
+                var sideSticky = function () {
+                    var now_top = document.body.scrollTop || document.documentElement.scrollTop || 0;
+                    if (now_top > pubPos + 100) {
+                        $("#lpub_ad").attr('style', 'position: fixed; _position: absolute; top:10px;left:' + (findPos_left($("#container_padd")[0]) + 13 - document.documentElement.scrollLeft) + 'px');
+                    } else {
+                        $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                    }
+                };
+                $(window).bind('scroll', sideSticky).resize(function () {
+                    $(window).unbind("scroll");
+                    $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                });
+            }
+        }
+        if ($("div .c2c_ad")[0]) {
+            if ($(".level2header").attr('title')) {
+                $("div .c2c_ad").css('top', "-66px").show();
+            } else {
+                $("div .c2c_ad").css('top', '-114px').show();
+            }
+        }
+    })
+
+    /**
+     * check is mobile device
+     */
+    function isMobile() {
+        var userAgent = navigator.userAgent.toLowerCase(),
+                mobile = /Mobile/i.test( userAgent ) || 'ontouchstart' in document.documentElement;
+        return mobile;
+    }
+
+</script>
+</body>
+</html>
+

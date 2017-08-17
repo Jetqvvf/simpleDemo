@@ -1,0 +1,1503 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<link rel="dns-prefetch" href="//b1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//b3.hoopchina.com.cn" />
+
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.hupu.com/bbs" />
+<meta name="mobile-agent" content="format=html5;url=https://m.hupu.com/bbs" />
+
+<title>国际足球论坛 - 虎扑社区</title>
+<meta name="keywords" content="国际足球论坛" />
+<meta name="description" content="国际足球论坛来自虎扑足球论坛." />
+<base href="//bbs.hupu.com" /><!--[if IE 6]></base><![endif]-->
+<script type='text/javascript'>var __daceDataNameOfForum='198';var __daceDataNameOfCategory = '198'; var __daceDataNameOfProject='soccer';var __daceDataNameOfChannel='soccer';</script>
+<meta name="apple-itunes-app" content="app-id=1203163179">
+<link rel="shortcut icon" href="//b3.hoopchina.com.cn/common/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="//b3.hoopchina.com.cn/common/common-v1.css" />
+<script src="//b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js"></script> 
+<script src="//b3.hoopchina.com.cn/common/common-v1.js"></script>
+<link rel='stylesheet' type='text/css' href='//b3.hoopchina.com.cn/css/hupu-v56.css?2017070320' />
+<link rel='apple-touch-icon' href='https://b1.hoopchina.com.cn/common/apple-touch-icon.png'/>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/pcbbs/js/j15.js"></script>
+</head>
+<body>
+<!--topbarNav star-->
+                        <div id="hp-topbarNav">
+                            <div class="hp-topbarNav-bd">
+                                <ul class="hp-quickNav">
+                                    <li class="mobileWeb"><a href="https://m.hupu.com/" target="_blank"><i class="ico-mobile"></i>手机虎扑</a></li>
+                                    <li class="line">|</li>
+                                    <li class="mobileclientDown"><a class="red" href="https://mobile.hupu.com/?_r=globalNav" target="_blank">虎扑客户端</a></li>
+                                    <li class="line">|</li>
+			                        <li><a class="red" href="https://mobile.hupu.com/football?r=global_nav" target="_blank">虎扑足球客户端</a></li>
+                                    <li class="line">|</li>
+                                    <li class="hp-dropDownMenu topFollowBlog">
+                                        <a href="javascript:void(0)" class="hp-set">关注虎扑<s class="setArrow"></s></a>
+                                        <div class="hp-drapDown followLayer">
+                                            <a class="weibo" target="_blank" rel="nofollow" href="//weibo.com/liangle4u"><i class="hp-ico-weibo"></i>新浪微博</a>
+											<a class="weixin" target="_blank" href="https://voice.hupu.com/other/1581560.html"><i class="hp-ico-weixin"></i>官方微信</a>
+                                            <a class="instagram" target="_blank" rel="nofollow" href="https://voice.hupu.com/other/1634334.html"><i class="hp-ico-instagram"></i>Instagram</a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="hp-topLogin-info"></div>
+                            </div>
+                        </div>
+                        <!--topbarNav ent--><!--header star--><div class="hp-header hp-header-A"><div class="hp-logo"><a title="虎扑足球" href="https://soccer.hupu.com"><img src="https://b3.hoopchina.com.cn/images/logo2017/v1/hp_logo_soccer.png" alt="国际足球" /></a>
+                            </div>
+                            <div class="hp-mainNav hp-mainNav-B">
+                                <div class="hp-nav">
+                                    <div class="hp-nav-bd">
+                                        <ul class="hp-nav-item"><li><a href="https://www.hupu.com/" >虎扑首页</a></li><li class="line">|</li><li><a href="https://nba.hupu.com/" >NBA</a></li><li class="line">|</li><li><a href="https://cba.hupu.com/" >CBA</a></li><li class="line">|</li><li class="on"><a href="https://soccer.hupu.com" >国际足球</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com/china/" >中国足球</a></li><li class="line">|</li><li><a href="http://racing.hupu.com/" >赛车</a></li><li class="line">|</li><li><a href="http://zb.hupu.com/" target="_blank">装备</a></li><li class="line">|</li><li><a href="http://www.shihuo.cn/" target="_blank">识货</a></li><li class="line">|</li><li><a href="http://v.liangle.com/" >视频</a></li><li class="line">|</li><li><a href="http://photo.hupu.com/" >图片</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/" >社区</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/all-gambia" >步行街</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/all-esports" >电竞</a></li><li class="line">|</li><li><a href="http://www.liangle.com" target="_blank">路人王</a></li><li class="line">|</li><li class="hp-dropDownMenu hp-moreNav">
+                                                <a href="javascript:void(0)" class="hp-set">更多<s class="setArrow"></s></a>
+                                                <div class="hp-drapDown hp-moreNav-drapDown"><a href="https://shop311048929.taobao.com/" target="_blank">虎扑优选</a><a href="http://www.kaluli.com/" target="_blank">卡路里</a><a href="http://outdoor.hupu.com/" >户外</a><a href="http://run.hupu.com/" >跑步</a><a href="http://ymq.hupu.com/" >羽毛球</a><a href="http://xgame.hupu.com/" target="_blank">xgames</a><a href="http://www.nflchina.com/" target="_blank">NFL</a><a href="http://golf.hupu.com/" target="_blank">高尔夫</a><s class="arrow-top"><s class="arrowbd"></s></s>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="hp-subNav">
+    <ul class="hp-subNav-item">
+        <li><a title="足球" href="https://soccer.hupu.com">首页</a></li><li class="line">|</li>
+        <!--
+        <li class="hp-dropDownMenu">
+            <a class="hp-set" title="欧冠" href="http://soccer.hupu.com/uefa/">欧冠</a>
+               <div class="hp-drapDown">
+                <a target="_blank" title="欧冠新闻" href="http://voice.hupu.com/soccer/tag/2011.html">欧冠新闻</a>
+                <a target="_blank" title="欧冠视频" href="http://v.videohupu.com/soccer/tag/%E6%AC%A7%E5%86%A0">欧冠视频</a>
+                <a target="_blank" title="欧冠赛程" href="http://soccer.hupu.com/uefa/schedule.php">欧冠赛程</a>
+                <a target="_blank" title="欧冠积分" href="http://soccer.hupu.com/uefa/table.php">欧冠积分</a>
+                <a target="_blank" title="欧冠直播" href="http://v.videohupu.com/soccer/tv/UCL">欧冠直播</a>
+                <a target="_blank" title="欧冠论坛" href="http://bbs.hupu.com/all-soccer">欧冠论坛</a>
+                <s class="arrow-top"><s class="arrowbd"></s></s>
+                </div>
+        </li>
+        <li class="line">|</li>
+        -->
+        <li class="hp-dropDownMenu">
+            <a class="hp-set" title="英超" href="https://soccer.hupu.com/england/">英超</a>
+            <div class="hp-drapDown">
+                <a target="_blank" title="英超新闻" href="https://voice.hupu.com/soccer/england">英超新闻</a>
+                <a target="_blank" title="英超视频" href="http://v.liangle.com/soccer/new/yingchao">英超视频</a>
+                <a target="_blank" title="英超赛程" href="https://soccer.hupu.com/schedule/England.html">英超赛程</a>
+                <a target="_blank" title="英超积分" href="https://soccer.hupu.com/table/England.html">英超积分</a>
+                <a target="_blank" title="英超直播" href="http://v.liangle.com/soccer/tv/yingchao">英超直播</a>
+                <a target="_blank" title="英超论坛" href="https://bbs.hupu.com/yingchao">英超论坛</a>
+                <s class="arrow-top"><s class="arrowbd"></s></s>
+            </div>
+        </li><li class="line">|</li>
+        <li class="hp-dropDownMenu">
+            <a class="hp-set" title="西甲" href="https://soccer.hupu.com/spain/">西甲</a>
+            <div class="hp-drapDown">
+                <a target="_blank" title="西甲新闻" href="https://voice.hupu.com/soccer/spain">西甲新闻</a>
+                <a target="_blank" title="西甲视频" href="http://v.liangle.com/soccer/new/xijia">西甲视频</a>
+                <a target="_blank" title="西甲赛程" href="https://soccer.hupu.com/schedule/Spain.html">西甲赛程</a>
+                <a target="_blank" title="西甲积分" href="https://soccer.hupu.com/table/Spain.html">西甲积分</a>
+                <a target="_blank" title="西甲直播" href="http://v.liangle.com/soccer/tv/xijia">西甲直播</a>
+                <a target="_blank" title="西甲论坛" href="https://bbs.hupu.com/xijia">西甲论坛</a>
+                <s class="arrow-top"><s class="arrowbd"></s></s>
+            </div>
+        </li><li class="line">|</li>
+        <li class="hp-dropDownMenu">
+            <a class="hp-set" title="意甲" href="https://soccer.hupu.com/italy/">意甲</a>
+            <div class="hp-drapDown">
+                <a target="_blank" title="意甲直播" href="https://voice.hupu.com/soccer/italy">意甲新闻</a>
+                <a target="_blank" title="意甲视频" href="http://v.videohupu.com/soccer/new/yijia">意甲视频</a>
+                <a target="_blank" title="意甲赛程" href="https://soccer.hupu.com/schedule/Italy.html">意甲赛程</a>
+                <a target="_blank" title="意甲积分" href="https://soccer.hupu.com/table/Italy.html">意甲积分</a>
+                <a target="_blank" title="意甲直播" href="http://v.liangle.com/soccer/tv/yijia">意甲直播</a>
+                <a target="_blank" title="意甲论坛" href="https://bbs.hupu.com/yijia">意甲论坛</a>
+                <s class="arrow-top"><s class="arrowbd"></s></s>
+            </div>
+        </li><li class="line">|</li>
+        <li class="hp-dropDownMenu">
+            <a class="hp-set" title="德甲" href="https://soccer.hupu.com/germany/">德甲</a>
+            <div class="hp-drapDown">
+                <a target="_blank" title="德甲新闻" href="https://voice.hupu.com/soccer/germany">德甲新闻</a>
+                <a target="_blank" title="德甲视频" href="http://v.liangle.com/soccer/new/dejia">德甲视频</a>
+                <a target="_blank" title="德甲赛程" href="https://soccer.hupu.com/schedule/Germany.html">德甲赛程</a>
+                <a target="_blank" title="德甲积分" href="https://soccer.hupu.com/table/Germany.html">德甲积分</a>
+                <a target="_blank" title="德甲直播" href="http://v.liangle.com/soccer/tv/dejia">德甲直播</a>
+                <a target="_blank" title="德甲论坛" href="https://bbs.hupu.com/dejia">德甲论坛</a>
+                <s class="arrow-top"><s class="arrowbd"></s></s>
+            </div>
+        </li><li class="line">|</li>
+        <li><a title="欧冠" href="https://soccer.hupu.com/uefa/">欧冠</a></li>
+        <li class="line">|</li>
+        <li class="hp-dropDownMenu">
+            <a class="hp-set" target="_blank" title="新闻" href="https://voice.hupu.com/soccer">新闻</a>
+            <div class="hp-drapDown">
+                <a target="_blank" title="转会签约" href="https://voice.hupu.com/soccer/tag/3721.html">转会签约</a>
+                <a target="_blank" title="英超新闻" href="https://voice.hupu.com/soccer/england">英超新闻</a>
+                <a target="_blank" title="西甲新闻" href="https://voice.hupu.com/soccer/spain">西甲新闻</a>
+                <a target="_blank" title="意甲新闻" href="https://voice.hupu.com/soccer/italy">意甲新闻</a>
+                <a target="_blank" title="德甲新闻" href="https://voice.hupu.com/soccer/germany">德甲新闻</a>
+                <a target="_blank" title="中超新闻" href="https://voice.hupu.com/china">中超新闻</a>
+                <s class="arrow-top"><s class="arrowbd"></s></s>
+            </div>
+        </li>
+        <li class="line">|</li>
+        <!-- <li><a title="中超新闻" href="http://voice.hupu.com/china/newslist" target="_blank">中超新闻</a></li>
+		<li class="line">|</li>-->
+
+        <li class="hp-dropDownMenu">
+            <a class="hp-set" target="_blank" title="视频" href="http://v.liangle.com/soccer">视频</a>
+            <div class="hp-drapDown">
+                <a target="_blank" title="比赛视频" href="http://v.liangle.com/soccer/game">比赛视频</a>
+                <a target="_blank" title="英超视频" href="http://v.liangle.com/soccer/new/yingchao">英超视频</a>
+                <a target="_blank" title="西甲视频" href="http://v.liangle.com/soccer/new/xijia">西甲视频</a>
+                <a target="_blank" title="意甲视频" href="http://v.liangle.com/soccer/new/yijia">意甲视频</a>
+                <a target="_blank" title="德甲视频" href="http://v.liangle.com/soccer/new/dejia">德甲视频</a>
+                <a target="_blank" title="妖人视频" href="http://v.liangle.com/soccer/new/talents">妖人视频</a>
+                <a target="_blank" title="" href="http://v.liangle.com/soccer">更多</a>
+                <s class="arrow-top"><s class="arrowbd"></s></s>
+            </div>
+        </li>
+        <li class="line">|</li>
+        <li class="hp-dropDownMenu">
+            <a class="hp-set" title="比赛" href="https://g.hupu.com/soccer/">比赛</a>
+            <div class="hp-drapDown">
+                <a target="_blank" title="积分" href="https://soccer.hupu.com/table/">积分</a>
+                <a target="_blank" title="赛程" href="https://soccer.hupu.com/schedule/">赛程</a>
+                <a target="_blank" title="球员" href="https://soccer.hupu.com/g/players/">球员</a>
+                <a target="_blank" title="球队" href="https://soccer.hupu.com/teams/">球队</a>
+                <s class="arrow-top"><s class="arrowbd"></s></s>
+            </div>
+        </li><li class="line">|</li>
+        <li class="hp-dropDownMenu">
+            <a class="hp-set" target="_blank" title="足彩" href="http://caipiao.hupu.com/jczq/">足彩</a>
+            <div class="hp-drapDown">
+                <a target="_blank" title="猜一场胜负" href="http://caipiao.hupu.com/pages/lotnew/zq/index_gdhhspf_dg.shtml">猜一场胜负</a>
+                <a target="_blank" title="胜平负" href="http://caipiao.hupu.com/bjdc/">胜平负</a>
+                <a target="_blank" title="比分" href="http://live.caipiao.hupu.com/">比分</a>
+                <a target="_blank" title="总进球数" href="http://caipiao.hupu.com/pages/lotnew/zq/index_gdzjqs.shtml">总进球数</a>
+                <!--<a target="_blank" title="了解单场固定" href="http://lecai.hupu.com/page/zhuanti/dggd_201411/index.shtml">了解单场固定</a>-->
+                <a target="_blank" title="足彩论坛" href="https://bbs.hupu.com/zucai">足彩论坛</a>
+                <a target="_blank" title="胜负彩14场" href="http://caipiao.hupu.com/sfc/">胜负彩14场</a>
+                <a target="_blank" title="任选9场" href="http://caipiao.hupu.com/rx9/">任选9场</a>
+                <!--<a target="_blank" title="足彩新手指南" href="http://goucai.hupu.com/guide">足彩新手指南</a>-->
+                <s class="arrow-top"><s class="arrowbd"></s></s>
+            </div>
+        </li><li class="line">|</li>
+        <li class="hp-dropDownMenu">
+            <a class="hp-set" target="_blank" title="论坛" href="https://bbs.hupu.com/all-soccer">论坛</a>
+            <div class="hp-drapDown">
+                <a target="_blank" title="足球场" href="https://bbs.hupu.com/soccer">足球场</a>
+                <a target="_blank" title="英超专区" href="https://bbs.hupu.com/yingchao">英超专区</a>
+                <a target="_blank" title="西甲专区" href="https://bbs.hupu.com/xijia">西甲专区</a>
+                <a target="_blank" title="意甲专区" href="https://bbs.hupu.com/yijia">意甲专区</a>
+                <a target="_blank" title="德甲专区" href="https://bbs.hupu.com/dejia">德甲专区</a>
+                <a target="_blank" title="妖人" href="https://bbs.hupu.com/yaoren">妖人</a>
+                <a target="_blank" title="话题区" href="https://bbs.hupu.com/topic">话题区</a>
+                <s class="arrow-top"><s class="arrowbd"></s></s>
+            </div>
+        </li>
+        <li class="line">|</li>
+        <li><a target="_blank" title="拜仁官网" href="http://www.fcbayern.cn/">拜仁官网</a></li>
+        <li class="line">|</li>
+        <li><a href="http://www.bundesliga.cn/" target="_blank" title="德甲中文官网">德甲中文官网</a></li>
+    </ul>
+</div>
+
+                                <i class="hp-roundPoint-br-tl roundPoint-br-tl"></i>
+                                <i class="hp-roundPoint-br-tr roundPoint-br-tr"></i>
+                                <i class="hp-roundPoint-br-bl roundPoint-br-bl"></i>
+                                <i class="hp-roundPoint-br-br roundPoint-br-br"></i>
+                            </div>
+                        </div>
+
+<div id="topPub" style="height:66px"></div>
+
+
+			<div class="hp-threeNav">
+			<div class="hp-threeNav-bd">
+			<ul class="hp-threeNav-item"><li><a href='/all-soccer'  class= "on" data-project='soccer' id='g_b'>论坛首页</a></li><li ><a href='/soccer'  >足球场</a></li><li ><a href='/topic'  >足球话题</a></li><li class="hp-dropDownMenu"><a href='/yingchao' class='hp-set '  target="_blank">英超专区</a>
+						<div class="hp-drapDown"><a href='/manutd'  >曼联</a><a href='/arsenal'  >阿森纳</a><a href='/liverpool'  >利物浦</a><a href='/chelsea'  >切尔西</a><a href='/mancity'  >曼城</a><a href='/hotspur'  >热刺</a><a href='/AstonVilla'  >阿斯顿维拉</a><a href='/yingguan'  >英冠</a></div></li><li class="hp-dropDownMenu"><a href='/xijia' class='hp-set '  target="_blank">西甲专区</a>
+						<div class="hp-drapDown"><a href='/4525'  >埃瓦尔官方</a><a href='/realmadrid'  >皇马</a><a href='/barcelona'  >巴萨</a><a href='/atleticodemadrid'  >马竞</a><a href='/vcf'  >瓦伦西亚</a><a href='/sevilla'  >塞维利亚官方<i alt="官方论坛" title="官方论坛" class="icon_v"></i></a></div></li><li class="hp-dropDownMenu"><a href='/yijia' class='hp-set '  target="_blank">意甲专区</a>
+						<div class="hp-drapDown"><a href='/acmilan'  >米兰</a><a href='/inter'  >国米</a><a href='/juventus'  >尤文</a><a href='/asroma'  >罗马</a></div></li><li class="hp-dropDownMenu"><a href='/dejia' class='hp-set '  target="_blank">德意志城堡</a>
+						<div class="hp-drapDown"><a href='/deutschland'  >德国战车</a><a href='/bayern'  >拜仁</a><a href='/bvb'  >多特蒙德</a><a href='/bayer04'  >勒沃库森</a><a href='/bremen'  >不莱梅</a><a href='/schalke04'  >沙尔克04</a><a href='/bundesliga'  >德国联赛</a></div></li><li ><a href='/yaoren'  >妖人银河系</a></li><li class="hp-dropDownMenu">
+								<a href="javascript:void(0)" class="hp-set">更多</a>
+								<div class="hp-drapDown"><a href='/frfootball'  >法兰西足球</a><a href='/euroleagues'  >欧洲非主流联赛</a><a href='/meizhouzuqiu'  >美洲足球-美洲杯</a></div></li></ul></div><i id='level2header' title='论坛'></i>
+				<div class="hp-search">
+					<form id="hp-form-search" method="get" enctype="multipart/form-data" action="https://my.hupu.com/search">
+						<input type="text" value="搜索视频、帖子" class="it-search" />
+						<input type="submit" value="搜索" class="btn-search" />
+					</form>
+				</div>
+			</div>
+		
+<div class="hp-wrap">
+
+<div id="container" class="rel">
+  <div id="container_padd">
+    				<div id="sidenav_bbs">
+					<h4>热门版块</h4>
+						   <ul id="myforums_list"><li><a href="//bbs.hupu.com/china-soccer">中国足球 <span class="num">2190</span></a></li><li><a href="//bbs.hupu.com/4689">青少年足球 <span class="num">6</span></a></li><li><a href="//bbs.hupu.com/hengda">广州恒大 <span class="num">395</span></a></li><li><a href="//bbs.hupu.com/suning">江苏苏宁 <span class="num">17</span></a></li><li><a href="//bbs.hupu.com/sipgfc">上海上港 <span class="num">322</span></a></li><li><a href="//bbs.hupu.com/shenhua">上海申花 <span class="num">167</span></a></li><li><a href="//bbs.hupu.com/guoan">北京国安 <span class="num">118</span></a></li><li><a href="//bbs.hupu.com/fuli">广州富力 <span class="num">12</span></a></li><li><a href="//bbs.hupu.com/huaxia">河北华夏幸福 <span class="num">3</span></a></li><li><a href="//bbs.hupu.com/lifan">重庆当代力帆 <span class="num">12</span></a></li><li><a href="//bbs.hupu.com/yanbian">延边富德</a></li><li><a href="//bbs.hupu.com/teda">天津泰达 <span class="num">4</span></a></li><li><a href="//bbs.hupu.com/hongyun">辽宁宏运</a></li><li><a href="//bbs.hupu.com/yatai">长春亚泰 <span class="num">16</span></a></li><li><a href="//bbs.hupu.com/jianye">河南建业 <span class="num">1</span></a></li><li><a href="//bbs.hupu.com/luneng">山东鲁能 <span class="num">27</span></a></li><li><a href="//bbs.hupu.com/tjquanjianfc">天津权健 <span class="num">30</span></a></li><li><a href="//bbs.hupu.com/guizhouzhicheng">贵州恒丰智诚 <span class="num">1</span></a></li><li><a href="//bbs.hupu.com/3644">中甲联赛</a></li><li><a href="//bbs.hupu.com/asia-soccer">亚洲足球 <span class="num">6</span></a></li></ul>
+							<div id="bbs_banner"><h4><a class="h4_t">版块分类</a></h4><ul>
+		<li id="l198" lid="198"><a href="//bbs.hupu.com/all-soccer">国际足球论坛</a></li>
+		<li id="l4596" lid="4596"><a href="//bbs.hupu.com/all-csl">中国足球论坛</a></li>
+		<li id="l1" lid="1"><a href="//bbs.hupu.com/all-nba">NBA论坛</a></li>
+		<li id="l232" lid="232"><a href="//bbs.hupu.com/all-cba">CBA论坛</a></li>
+		<li id="l233" lid="233"><a href="//bbs.hupu.com/all-gear">运动&装备</a></li>
+		<li id="l41" lid="41"><a href="//bbs.hupu.com/all-sports">综合体育</a></li><li id="l174" lid="174"><a href="//bbs.hupu.com/all-gambia">步行街</a></li>
+	<li id="l42" lid="42"><a href="//bbs.hupu.com/all-lottery">彩票中心</a></li>
+	<li id="l238" lid="238"><a href="//bbs.hupu.com/all-boards">自建版块</a></li>
+	<li id="l114" lid="114"><a href="//bbs.hupu.com/all-group">虎扑社团</a></li>
+	<li id="l7" lid="7"><a href="//bbs.hupu.com/all-feedback">站务管理</a></li>
+	</ul></div>
+							<div class="sidenav_pop_tips"><p class="more"><a href="//bbs.hupu.com/boards.php">更多版块 &raquo;</a></p></div>
+				
+				</div>    <script>
+      if(screen.width > 1152)
+      {
+        document.write('<style>#recomBbsIndex{width:740px} #recomBbsIndex .list .textSpan{width:auto;} </style>');
+      }
+    </script>
+
+    <!---中间 start--->
+    <div id="recomBbsIndex">
+      <h1>国际足球论坛热帖</h1>
+      <div class="list">
+      <h3>主版</h3>
+      <ul>
+        <li><span class="textSpan"><a href="/20022960.html" target="_blank"
+                                      title="真.内鬼而论，当初把卡西推到风口浪尖的电话事件到底是怎么泄露于外的？"><span class="red">真.内鬼而论，当初把卡西推到风口浪尖的电话事件到底是怎么泄露于外的？</span></a><em class="f666">25亮231回复</em></span><span class="forum">
+                <a target="_blank" href="/topic" class="f666">足球话题区</a></span></li>
+        <li><span class="textSpan"><a href="/20022096.html" target="_blank"
+                                      title="[赛后讨论]西超杯：阿森西奥世界波，皇马2-0总比分5-1大胜巴萨夺冠"><span class="red">[赛后讨论]西超杯：阿森西奥世界波，皇马2-0总比分5-1大胜巴萨夺冠</span></a><em class="f666">25亮422回复</em></span><span class="forum">
+                <a target="_blank" href="/topic" class="f666">足球话题区</a></span></li>
+        <li><span class="textSpan"><a href="/20023430.html" target="_blank"
+                                      title="C罗现在究竟算不算是皇马的核心？"><span class="red">C罗现在究竟算不算是皇马的核心？</span></a><em class="f666">11亮120回复</em></span><span class="forum">
+                <a target="_blank" href="/topic" class="f666">足球话题区</a></span></li>
+        <li><span class="textSpan"><a href="/20023745.html" target="_blank"
+                                      title="巴萨补强内马尔，为什么只盯着哭鸟登贝莱两个难度极大并且是次顶级的球员？"><span class="red">巴萨补强内马尔，为什么只盯着哭鸟登贝莱两个难度极大并且是次顶级的球员？</span></a><em class="f666">9亮138回复</em></span><span class="forum">
+                <a target="_blank" href="/topic" class="f666">足球话题区</a></span></li>
+        <li><span class="textSpan"><a href="/20022018.html" target="_blank"
+                                      title="西班牙超级杯两场论，内马尔出走影响到底有多大？"><span class="red">西班牙超级杯两场论，内马尔出走影响到底有多大？</span></a><em class="f666">25亮195回复</em></span><span class="forum">
+                <a target="_blank" href="/topic" class="f666">足球话题区</a></span></li>
+        <li><span class="textSpan"><a href="/20023952.html" target="_blank"
+                                      title="感觉皇马现在盛世之下也有危机啊"><span class="red">感觉皇马现在盛世之下也有危机啊</span></a><em class="f666">8亮63回复</em></span><span class="forum">
+                <a target="_blank" href="/topic" class="f666">足球话题区</a></span></li>
+        <li><span class="textSpan"><a href="/20023686.html" target="_blank"
+                                      title="96两大妖人，阿里和阿森西奥你更看好谁？"><span class="red">96两大妖人，阿里和阿森西奥你更看好谁？</span></a><em class="f666">7亮148回复</em></span><span class="forum">
+                <a target="_blank" href="/topic" class="f666">足球话题区</a></span></li>
+        <li><span class="textSpan"><a href="/20022518.html" target="_blank"
+                                      title="巴萨是否错过了改朝换代的最佳时机？"><span class="red">巴萨是否错过了改朝换代的最佳时机？</span></a><em class="f666">13亮120回复</em></span><span class="forum">
+                <a target="_blank" href="/topic" class="f666">足球话题区</a></span></li>
+        <li><span class="textSpan"><a href="/20022003.html" target="_blank"
+                                      title="[流言板]半场：阿森西奥世界波，皇马主场2-0巴萨"><span class="red">[流言板]半场：阿森西奥世界波，皇马主场2-0巴萨</span></a><em class="f666">18亮143回复</em></span><span class="forum">
+                <a target="_blank" href="/topic" class="f666">足球话题区</a></span></li>
+        <li><span class="textSpan"><a href="/20022526.html" target="_blank"
+                                      title="穆二年从巴萨手中抢得一个联赛冠军是什么难度，算什么水平？"><span class="red">穆二年从巴萨手中抢得一个联赛冠军是什么难度，算什么水平？</span></a><em class="f666">11亮133回复</em></span><span class="forum">
+                <a target="_blank" href="/topic" class="f666">足球话题区</a></span></li>
+      </ul>
+    </div><div class="list">
+      <h3>英超</h3>
+      <ul>
+        <li><span class="textSpan"><a href="/20022666.html" target="_blank"
+                                      title="巴萨官方:我们很接近拿下登贝莱与库蒂尼奥"><span class="red">巴萨官方:我们很接近拿下登贝莱与库蒂尼奥</span></a><em class="f666">10亮108回复</em></span><span class="forum">
+                <a target="_blank" href="/liverpool" class="f666">利物浦专区</a></span></li>
+        <li><span class="textSpan"><a href="/20023609.html" target="_blank"
+                                      title="[流言板]每日电讯：曼联等俱乐部对提前关闭转会窗存疑">[流言板]每日电讯：曼联等俱乐部对提前关闭转会窗存疑</a><em class="f666">4亮66回复</em></span><span class="forum">
+                <a target="_blank" href="/manutd" class="f666">曼联专区</a></span></li>
+        <li><span class="textSpan"><a href="/20022644.html" target="_blank"
+                                      title="镜报+塞尔电台：加布里埃尔1000万英镑转会瓦伦西亚即将官宣">镜报+塞尔电台：加布里埃尔1000万英镑转会瓦伦西亚即将官宣</a><em class="f666">7亮149回复</em></span><span class="forum">
+                <a target="_blank" href="/arsenal" class="f666">阿森纳专区</a></span></li>
+        <li><span class="textSpan"><a href="/20023819.html" target="_blank"
+                                      title="[流言板]霍芬海姆主帅：克洛普说做好了防守只是维护自己球队">[流言板]霍芬海姆主帅：克洛普说做好了防守只是维护自己球队</a><em class="f666">4亮44回复</em></span><span class="forum">
+                <a target="_blank" href="/liverpool" class="f666">利物浦专区</a></span></li>
+      </ul>
+    </div><div class="list">
+      <h3>西甲</h3>
+      <ul>
+        <li><span class="textSpan"><a href="/20023194.html" target="_blank"
+                                      title="话题区无关皇马的回贴，还有专区的戾气是否该控制下"><span class="red">话题区无关皇马的回贴，还有专区的戾气是否该控制下</span></a><em class="f666">13亮118回复</em></span><span class="forum">
+                <a target="_blank" href="/realmadrid" class="f666">皇马专区</a></span></li>
+        <li><span class="textSpan"><a href="/20022433.html" target="_blank"
+                                      title="[西超杯次回合复盘]：两招压制巴萨变阵，皇马收获赛季第二冠！"><span class="red">[西超杯次回合复盘]：两招压制巴萨变阵，皇马收获赛季第二冠！</span></a><em class="f666">7亮69回复</em></span><span class="forum">
+                <a target="_blank" href="/realmadrid" class="f666">皇马专区</a></span></li>
+        <li><span class="textSpan"><a href="/20022098.html" target="_blank"
+                                      title="[赛后讨论]西超杯：阿森西奥世界波，皇马2-0总比分5-1大胜巴萨夺冠"><span class="red">[赛后讨论]西超杯：阿森西奥世界波，皇马2-0总比分5-1大胜巴萨夺冠</span></a><em class="f666">8亮187回复</em></span><span class="forum">
+                <a target="_blank" href="/realmadrid" class="f666">皇马专区</a></span></li>
+        <li><span class="textSpan"><a href="/20022241.html" target="_blank"
+                                      title="不懂就问，阿森西奥和隔壁抢的那些天才们还差多远"><span class="red">不懂就问，阿森西奥和隔壁抢的那些天才们还差多远</span></a><em class="f666">8亮88回复</em></span><span class="forum">
+                <a target="_blank" href="/realmadrid" class="f666">皇马专区</a></span></li>
+      </ul>
+    </div><div class="list">
+      <h3>意甲</h3>
+      <ul>
+        <li><span class="textSpan"><a href="/20021647.html" target="_blank"
+                                      title="每日转会集中讨论贴 8.17">每日转会集中讨论贴 8.17</a><em class="f666">1亮1026回复</em></span><span class="forum">
+                <a target="_blank" href="/acmilan" class="f666">米兰专区</a></span></li>
+        <li><span class="textSpan"><a href="/20020409.html" target="_blank"
+                                      title="【马图伊迪集中讨论】球员开始体检，转会费20+5M，3年年薪3.5/4M"><span class="red">【马图伊迪集中讨论】球员开始体检，转会费20+5M，3年年薪3.5/4M</span></a><em class="f666">9亮225回复</em></span><span class="forum">
+                <a target="_blank" href="/juventus" class="f666">尤文专区</a></span></li>
+        <li><span class="textSpan"><a href="/20022182.html" target="_blank"
+                                      title="[流言板]意媒：米兰前锋尼昂接近加盟莫斯科斯巴达">[流言板]意媒：米兰前锋尼昂接近加盟莫斯科斯巴达</a><em class="f666">1亮47回复</em></span><span class="forum">
+                <a target="_blank" href="/acmilan" class="f666">米兰专区</a></span></li>
+        <li><span class="textSpan"><a href="/20021810.html" target="_blank"
+                                      title="[流言板]意大利媒体披露孔多比亚和坎塞洛的转会细节">[流言板]意大利媒体披露孔多比亚和坎塞洛的转会细节</a><em class="f666">1亮53回复</em></span><span class="forum">
+                <a target="_blank" href="/inter" class="f666">国米专区</a></span></li>
+      </ul>
+    </div><div class="list">
+      <h3>德甲</h3>
+      <ul>
+        <li><span class="textSpan"><a href="/20022066.html" target="_blank"
+                                      title="[流言板]转会闹剧继续！图片报：小登贝莱中断与队友联系">[流言板]转会闹剧继续！图片报：小登贝莱中断与队友联系</a><em class="f666">7亮46回复</em></span><span class="forum">
+                <a target="_blank" href="/bvb" class="f666">多特蒙德专区</a></span></li>
+        <li><span class="textSpan"><a href="/20020234.html" target="_blank"
+                                      title="[流言板]写给十六岁，罗本亲笔：饥饿感流淌在你的灵魂里"><span class="red">[流言板]写给十六岁，罗本亲笔：饥饿感流淌在你的灵魂里</span></a><em class="f666">3亮46回复</em></span><span class="forum">
+                <a target="_blank" href="/bayern" class="f666">拜仁专区</a></span></li>
+        <li><span class="textSpan"><a href="/20023295.html" target="_blank"
+                                      title="[仁间词话]拜仁慕尼黑2017-2018赛季前瞻：注定艰难的赛季">[仁间词话]拜仁慕尼黑2017-2018赛季前瞻：注定艰难的赛季</a><em class="f666">20回复</em></span><span class="forum">
+                <a target="_blank" href="/bayern" class="f666">拜仁专区</a></span></li>
+        <li><span class="textSpan"><a href="/20022074.html" target="_blank"
+                                      title="[流言板]多年队长被撤职！图片报：赫韦德斯有可能离开沙尔克">[流言板]多年队长被撤职！图片报：赫韦德斯有可能离开沙尔克</a><em class="f666">27回复</em></span><span class="forum">
+                <a target="_blank" href="/schalke04" class="f666">沙尔克04专区</a></span></li>
+      </ul>
+    </div><div class="list">
+      <h3>其他</h3>
+      <ul>
+        <li><span class="textSpan"><a href="/19988199.html" target="_blank"
+                                      title="[流言板]队报：巴黎愿为姆巴佩提供税后150万欧的月薪">[流言板]队报：巴黎愿为姆巴佩提供税后150万欧的月薪</a><em class="f666">10回复</em></span><span class="forum">
+                <a target="_blank" href="/frfootball" class="f666">法兰西足球</a></span></li>
+        <li><span class="textSpan"><a href="/19963906.html" target="_blank"
+                                      title="[翻译团] 感觉身体被掏空，法甲新贵盼重生">[翻译团] 感觉身体被掏空，法甲新贵盼重生</a><em class="f666">2亮33回复</em></span><span class="forum">
+                <a target="_blank" href="/frfootball" class="f666">法兰西足球</a></span></li>
+        <li><span class="textSpan"><a href="/19963648.html" target="_blank"
+                                      title="[翻译团]比利时独有的奖项：“黑靴奖”及“比利时之狮”">[翻译团]比利时独有的奖项：“黑靴奖”及“比利时之狮”</a><em class="f666">10回复</em></span><span class="forum">
+                <a target="_blank" href="/euroleagues" class="f666">欧洲非主流联赛</a></span></li>
+      </ul>
+    </div><div class="l_w_reply">
+      <h3 id="highlights">国际足球论坛亮了的回帖</h3>
+      
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/207243154790874">
+        <img alt="飞翔的饭泥" src="https://i1.hoopchina.com.cn/user/default_small.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/207243154790874">飞翔的饭泥</a>
+                       <span class="stime">2017-08-17 12:15:56</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="29631067" id="tipcolor924525">
+                                            <a class="ilike_icon " onclick="tipfight(20023686,924525,1389);" href="javascript:;">亮了</a>(<span id="tip924525" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023686.html" target="_blank">96两大妖人，阿里和阿森西奥你更看好谁？</a>
+                                        <span class="f666">(共7亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用80楼 @<a class="u" target="_blank" href="https://my.hupu.com/224557608530046" >瑜宝宝</a> 发表的</b>:<br>皇马拿到主力就不能比？C罗去皇马前皇马哪个主力能跟他比？</p></blockquote><br>c罗去之前拿了金球欧冠。你是觉得阿里拿进球比阿森西奥当皇马主力更容易还是觉得现在的热刺和当年拿欧冠的曼联是一个档次的球队？<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/273566440145659">
+        <img alt="嘟嘟车" src="https://i3.hoopchina.com.cn/user/488/2355488/2355488_small_4.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/273566440145659">嘟嘟车</a>
+                       <span class="stime">2013-11-17 16:18:13</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="2355488" id="tipcolor471101849">
+                                            <a class="ilike_icon " onclick="tipfight(6927665,471101849,1389);" href="javascript:;">亮了</a>(<span id="tip471101849" class="stime" style="padding:0;">106</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/6927665.html" target="_blank">当年张玉宁曲乐恒事件，大家觉得到底是意外还是蓄意？</a>
+                                        <span class="f666">(共23亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><img src='https://b1.hoopchina.com.cn/post/smile/icon_mannen.gif'> 不可能蓄意的，这样来害人，好大机会就能把自己也弄残的。</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/191431257472642">
+        <img alt="董秋媚" src="https://i3.hoopchina.com.cn/user/936/15485936/15485936_small_3.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/191431257472642">董秋媚</a>
+                       <span class="stime">2013-11-17 16:12:27</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="15485936" id="tipcolor471101467">
+                                            <a class="ilike_icon " onclick="tipfight(6927665,471101467,1389);" href="javascript:;">亮了</a>(<span id="tip471101467" class="stime" style="padding:0;">169</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/6927665.html" target="_blank">当年张玉宁曲乐恒事件，大家觉得到底是意外还是蓄意？</a>
+                                        <span class="f666">(共23亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>这么多年看下来，张玉宁在场外没什么能量，没再干过什么乌七八糟的事，无论在俱乐部和国家队都没有达到球霸的级别，甚至连假球都不沾，退役后混教练也没混出大名堂。总体来说是个品行比较干净、也掀不起大浪的人物。一般来说不相信这样的人能处心积虑制造车祸。</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/55338831649380">
+        <img alt="gavroche" src="https://i1.hoopchina.com.cn/user/606/4818606/4818606_small_14.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/55338831649380">gavroche</a>
+                       <span class="stime">2013-11-17 20:13:20</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="4818606" id="tipcolor471120401">
+                                            <a class="ilike_icon " onclick="tipfight(6927665,471120401,1389);" href="javascript:;">亮了</a>(<span id="tip471120401" class="stime" style="padding:0;">191</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/6927665.html" target="_blank">当年张玉宁曲乐恒事件，大家觉得到底是意外还是蓄意？</a>
+                                        <span class="f666">(共23亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用2楼 @<a class="u" target="_blank" href="https://my.hupu.com/4834182">最后一任</a> 发表的</b>:<br>100%蓄意。 <BR>也许没想过那么严重的后果，但绝对是蓄意的。 <BR><BR>因为<BR>早些年<FONT color=#ff0000><STRONG>在东北开车，没有人系安全带。</STRONG></FONT></p></blockquote><br>我怎么觉得你是在黑东北人。。。。</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/63612705983816">
+        <img alt="尼咩小猫" src="https://i1.hoopchina.com.cn/user/default_small.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/63612705983816">尼咩小猫</a>
+                       <span class="stime">2017-08-17 10:02:40</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="29761993" id="tipcolor820204">
+                                            <a class="ilike_icon " onclick="tipfight(20022739,820204,1389);" href="javascript:;">亮了</a>(<span id="tip820204" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20022739.html" target="_blank">听说布教授是球盲过滤器，感慨现在是不是也走下神坛了</a>
+                                        <span class="f666">(共7亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b></b> 引用内容由于违规已被删除<br></p></blockquote><br>说实话，即使是梦三时代，他也不是世界第一后腰<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/145597655217959">
+        <img alt="活在梦剧场" src="https://i3.hoopchina.com.cn/user/890/19221890/19221890-1468464037.jpeg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/145597655217959">活在梦剧场</a>
+                       <span class="stime">2017-08-17 11:44:29</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="19221890" id="tipcolor900190">
+                                            <a class="ilike_icon " onclick="tipfight(20023652,900190,1389);" href="javascript:;">亮了</a>(<span id="tip900190" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023652.html" target="_blank">实战教学 | 真正提高射门技巧必须要注意的几个细节</a>
+                                        <span class="f666">(来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用1楼 @<a class="u" target="_blank" href="https://my.hupu.com/ix" >成王败寇</a> 发表的</b>:<br>射门脚趾容易痛怎么破？是不是触球位置不对，还是我太娇贵？</p></blockquote><br>大兄弟你该不会是用脚趾捅的吧。。。<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/66329124395991">
+        <img alt="路过成都" src="https://i1.hoopchina.com.cn/user/default_small.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/66329124395991">路过成都</a>
+                       <span class="stime">2017-08-17 12:26:31</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="18762786" id="tipcolor932641">
+                                            <a class="ilike_icon " onclick="tipfight(20022960,932641,1389);" href="javascript:;">亮了</a>(<span id="tip932641" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20022960.html" target="_blank">真.内鬼而论，当初把卡西推到风口浪尖的电话事件到底是怎么泄露于外的？</a>
+                                        <span class="f666">(共25亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用22楼 @<a class="u" target="_blank" href="https://my.hupu.com/201830369107831" >zzz2000zzz</a> 发表的</b>:<br>我也是觉得很奇怪，C罗和卡西关系应该还不错，都知道c罗想要金球，结果卡西投了拉莫斯。。。当年形势上水爷几乎前三没一点希望的，相当于就是弃票了。。。</p></blockquote><br>卡西已经不满足于当皇马最伟大的队长，想当西班牙最伟大的队长！所以牺牲一下皇马利益，讨好巴萨帮，可以皮克给的是一巴掌！<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/246230388765272">
+        <img alt="swl1954" src="https://i3.hoopchina.com.cn/user/735/4877735/4877735_small_5.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/246230388765272">swl1954</a>
+                       <span class="stime">2017-08-17 11:23:04</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="4877735" id="tipcolor883253">
+                                            <a class="ilike_icon " onclick="tipfight(20023430,883253,1389);" href="javascript:;">亮了</a>(<span id="tip883253" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023430.html" target="_blank">C罗现在究竟算不算是皇马的核心？</a>
+                                        <span class="f666">(共11亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用24楼 @<a class="u" target="_blank" href="https://my.hupu.com/61144802421078" >queenie871</a> 发表的</b>:<br>看你发言真尴尬，没错，一般前锋肯定比中场技术能力强，谈到C罗抢点，就说因为他能冲刺，所以中场才强，谈梅西的时候就反过来，是因为前几年哈维伊涅斯塔强，梅西才能刷91球，有立场就别装客观</p></blockquote><br>C罗是不管中场是什么配置，来到皇马以后进球效率一直摆在那，迪马利亚、厄齐尔前后两位欧洲助攻王转会后配置变低是不争的事实。<br><br>梅西当然强，但当年91球当然有哈维和小白都在巅峰的原因，看现在哈维走了、小白老了，tikitaka崩了，梅西就是再强也不能专注进球，需要回撤组织。</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/123018974994425">
+        <img alt="白日梦" src="https://i3.hoopchina.com.cn/user/default_small.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/123018974994425">白日梦</a>
+                       <span class="stime">2017-08-17 10:18:33</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="140915" id="tipcolor832383">
+                                            <a class="ilike_icon madrid-light" onclick="tipfight(20022433,832383,2543);" href="javascript:;">亮了</a>(<span id="tip832383" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20022433.html" target="_blank">[西超杯次回合复盘]：两招压制巴萨变阵，皇马收获赛季第二冠！</a>
+                                        <span class="f666">(共7亮回帖 来自:
+                                            <a href="/realmadrid" target="_blank">皇马专区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用25楼 @<a class="u" target="_blank" href="https://my.hupu.com/123018974994425" >白日梦</a> 发表的</b>:<br>个人认为上半场让科瓦打单后腰是非常重要的，巴萨的中场有技术，但缺乏对抗能力，让技术好，动作速率快的科瓦打单后腰不但可以跟得上梅西的步伐，同时不俗的摆脱能力让他多次避开巴萨前场逼抢，直接将球盘带至中圈，让巴萨的后防线直接面对皇马攻击群。</p></blockquote><br>科瓦这个踢法为下赛季卡塞米罗缺阵情况增加了一个有效的选项，略伦特如果最近两场都是非伤病原因缺席，那很有可能就是还未入玄宗法眼，要被租借了……<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/246624822088014">
+        <img alt="呆呆兽面包" src="https://i3.hoopchina.com.cn/user/032/15192032/15192032_small_1.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/246624822088014">呆呆兽面包</a>
+                       <span class="stime">2017-08-17 09:04:59</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="15192032" id="tipcolor780841">
+                                            <a class="ilike_icon madrid-light" onclick="tipfight(20022433,780841,2543);" href="javascript:;">亮了</a>(<span id="tip780841" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20022433.html" target="_blank">[西超杯次回合复盘]：两招压制巴萨变阵，皇马收获赛季第二冠！</a>
+                                        <span class="f666">(共7亮回帖 来自:
+                                            <a href="/realmadrid" target="_blank">皇马专区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用8楼 @<a class="u" target="_blank" href="https://my.hupu.com/as0909" >as勇敢的心</a> 发表的</b>:<br>可是下半场巴萨变阵四后卫后，皇马真的让人大跌眼镜，但求别浪</p></blockquote><br>也和体能下来了有关，巴斯克斯他们的前场威胁还是不能和主力比的，而且还是不能小看巴萨的。</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/62081432730047">
+        <img alt="thriller52500" src="https://i2.hoopchina.com.cn/user/780/1324780/1324780_small_12.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/62081432730047">thriller52500</a>
+                       <span class="stime">2017-08-17 12:22:36</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="1324780" id="tipcolor929624">
+                                            <a class="ilike_icon " onclick="tipfight(20022960,929624,1389);" href="javascript:;">亮了</a>(<span id="tip929624" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20022960.html" target="_blank">真.内鬼而论，当初把卡西推到风口浪尖的电话事件到底是怎么泄露于外的？</a>
+                                        <span class="f666">(共25亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用161楼 @<a class="u" target="_blank" href="https://my.hupu.com/6556353089535" >爱劳尔爱卡西</a> 发表的</b>:<br>谁泄露的有意义吗？重要的是那段时间成绩不好，主教练难辞其咎，而卡西正好给了主教练甩锅的机会。当然我觉得这无可厚非，毕竟为了球队成绩卡西牺牲点坐板凳也就坐了，可坐了半年板凳最后还是四大皆空更衣室分裂，那就是主教练自己的问题了。</p></blockquote><br>甩锅不甩前锋不甩中场不甩后卫，专门甩你一个门将？<br>坐半年板凳？穆里尼奥之后的安切洛蒂，甚至国家队博斯克，哪个吊卡西利亚斯了？不照样板凳坐穿？菜就是菜，别说人甩锅。</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/101779460473912">
+        <img alt="梅西的球" src="https://i3.hoopchina.com.cn/user/654/27482654/27482654-1486228877.jpg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/101779460473912">梅西的球</a>
+                       <span class="stime">2017-08-17 10:52:19</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="27482654" id="tipcolor858932">
+                                            <a class="ilike_icon " onclick="tipfight(20022949,858932,2544);" href="javascript:;">亮了</a>(<span id="tip858932" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20022949.html" target="_blank">[流言板]巴尔韦德：既然巴萨会输球，那皇马有一天也会输球</a>
+                                        <span class="f666">(来自:
+                                            <a href="/barcelona" target="_blank">巴萨专区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>5：1输的好啊，好让巴帅彻底看清哪些人能用，哪些人不能用，内马尔当初就不该让他踢热身赛，三场用来尝试新赛季阵型多好，你都走了还踢毛线热身赛</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/106827990367396">
+        <img alt="苏宁的INTER" src="https://i1.hoopchina.com.cn/user/default_small.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/106827990367396">苏宁的INTER</a>
+                       <span class="stime">2017-08-17 10:31:54</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="28603174" id="tipcolor842592">
+                                            <a class="ilike_icon " onclick="tipfight(20023232,842592,1389);" href="javascript:;">亮了</a>(<span id="tip842592" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023232.html" target="_blank">给大家发一组意甲四强海报，可以当手机壁纸了，大家觉得如何？</a>
+                                        <span class="f666">(来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用6楼 @<a class="u" target="_blank" href="https://my.hupu.com/76429843866105" >厄齐卡</a> 发表的</b>:<br>建议那不勒斯取代小国际</p></blockquote><br>让你家李哥把PPTV买了就可以这么做了。</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/205094246791633">
+        <img alt="小生藏马" src="https://i1.hoopchina.com.cn/user/header/20170802/150166369671804_small_2.png" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/205094246791633">小生藏马</a>
+                       <span class="stime">2017-08-17 10:59:35</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="25967187" id="tipcolor864789">
+                                            <a class="ilike_icon " onclick="tipfight(20023500,864789,1389);" href="javascript:;">亮了</a>(<span id="tip864789" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023500.html" target="_blank">曾经的三大中锋，苏牙本泽马下滑严重，莱万已经是无可争议的第一中锋了吗？</a>
+                                        <span class="f666">(共5亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>本泽猫，本泽马，本泽虎，看今天是谁上了，不过本泽锅一定要扛<br /><small class="f999">发自手机虎扑 m.hupu.com</small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/124795067327756">
+        <img alt="Ferlocoan" src="https://i1.hoopchina.com.cn/user/default_small.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/124795067327756">Ferlocoan</a>
+                       <span class="stime">2017-08-17 11:47:32</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="19306195" id="tipcolor902585">
+                                            <a class="ilike_icon " onclick="tipfight(20023819,902585,2917);" href="javascript:;">亮了</a>(<span id="tip902585" class="stime" style="padding:0;">6</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023819.html" target="_blank">[流言板]霍芬海姆主帅：克洛普说做好了防守只是维护自己球队</a>
+                                        <span class="f666">(共4亮回帖 来自:
+                                            <a href="/liverpool" target="_blank">利物浦专区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用15楼 @<a class="u" target="_blank" href="https://my.hupu.com/219057408557677" >161321</a> 发表的</b>:<br>话说的不错，就是情商低。别人都看的出来，别人都不说，就你说，你以为自己很高明，实际上这是一种情商低的表现。</p></blockquote><br>人家说这话是必然的，克洛普说做到了让对方在没有威胁的区域控制球，这是直接打对方教练脸，人家当然要反击了</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/45692805533159">
+        <img alt="推进一带一路" src="https://i1.hoopchina.com.cn/user/default_small.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/45692805533159">推进一带一路</a>
+                       <span class="stime">2017-08-17 12:14:54</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="27400535" id="tipcolor923742">
+                                            <a class="ilike_icon madrid-light" onclick="tipfight(20023944,923742,2543);" href="javascript:;">亮了</a>(<span id="tip923742" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023944.html" target="_blank">阿森西奥偶像是齐祖</a>
+                                        <span class="f666">(来自:
+                                            <a href="/realmadrid" target="_blank">皇马专区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用2楼 @<a class="u" target="_blank" href="https://my.hupu.com/158102749540589" >情定伯纳乌2002</a> 发表的</b>:<br>390万欧怎么比450万的分期好20倍？</p></blockquote><br>一次性给钱还免费租借一年<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/154872882385014">
+        <img alt="最爱夜幕山庄" src="https://i1.hoopchina.com.cn/user/33/25875033/25875033-1502847734.jpeg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/154872882385014">最爱夜幕山庄</a>
+                       <span class="stime">2017-07-22 09:19:37</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="25875033" id="tipcolor358260">
+                                            <a class="ilike_icon " onclick="tipfight(19777032,358260,1389);" href="javascript:;">亮了</a>(<span id="tip358260" class="stime" style="padding:0;">579</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/19777032.html" target="_blank">大巴黎连专区都没有，内马尔真转会了会不会销声匿迹？</a>
+                                        <span class="f666">(共5亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>我即世界，虎扑即世界，中国即世界。<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/125964286176825">
+        <img alt="皇昂流1986" src="https://i1.hoopchina.com.cn/user/default_small.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/125964286176825">皇昂流1986</a>
+                       <span class="stime">2017-08-17 11:07:33</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="27424133" id="tipcolor871045">
+                                            <a class="ilike_icon " onclick="tipfight(20023154,871045,1389);" href="javascript:;">亮了</a>(<span id="tip871045" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023154.html" target="_blank">我觉得库鸟和登贝莱转会风波中，各方看似做的正确，却把自己套入僵局</a>
+                                        <span class="f666">(共8亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用1楼 @<a class="u" target="_blank" href="https://my.hupu.com/151996738019337" >Kenzaburou</a> 发表的</b>:<br>那些把多特利物浦当成跳板的球员，稍微有点智商的就不会签那么长的约。</p></blockquote><br>况且利物浦的历史沉淀其实比巴萨厚重得多。。虽然现在比较挫。。<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/25154967947176">
+        <img alt="TheRain_S" src="https://i2.hoopchina.com.cn/user/383/17891383/17891383-1491660462.jpg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/25154967947176">TheRain_S</a>
+                       <span class="stime">2017-08-17 11:25:30</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="17891383" id="tipcolor885122">
+                                            <a class="ilike_icon " onclick="tipfight(20023619,885122,2544);" href="javascript:;">亮了</a>(<span id="tip885122" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023619.html" target="_blank">浅谈西超杯和本赛季的前景</a>
+                                        <span class="f666">(来自:
+                                            <a href="/barcelona" target="_blank">巴萨专区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>说实话，我对巴尔韦德不是很有信心。在管理上，他不是个强势的人。在技战术上，通过现在打的几场比赛来看，思路还不是很清晰，有的用人也让人费解。<br>当然，巴尔韦德也是受害者，接了一个残局，希望正赛开始后他能表现更出色。<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia10" target="_blank">发自虎扑iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/131616790702019">
+        <img alt="gy117963" src="https://i1.hoopchina.com.cn/user/122/17887122/17887122_small_2.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/131616790702019">gy117963</a>
+                       <span class="stime">2017-08-17 10:23:26</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="17887122" id="tipcolor836184">
+                                            <a class="ilike_icon " onclick="tipfight(20022220,836184,1389);" href="javascript:;">亮了</a>(<span id="tip836184" class="stime" style="padding:0;">6</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20022220.html" target="_blank">皮克：这么多年我们第一次觉得皇马比我们优秀。</a>
+                                        <span class="f666">(共11亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>内马尔真是惨案避雷针啊！<br /><small class="f999">发自手机虎扑 m.hupu.com</small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/103585602270261">
+        <img alt="K.Nolan" src="https://i2.hoopchina.com.cn/user/489/4819489/4819489_small_17.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/103585602270261">K.Nolan</a>
+                       <span class="stime">2017-08-17 11:43:38</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="4819489" id="tipcolor899502">
+                                            <a class="ilike_icon " onclick="tipfight(20023686,899502,1389);" href="javascript:;">亮了</a>(<span id="tip899502" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023686.html" target="_blank">96两大妖人，阿里和阿森西奥你更看好谁？</a>
+                                        <span class="f666">(共7亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b></b> 引用内容由于违规已被删除<br></p></blockquote><br>吹过了，英格兰历史最佳阵容都出来了。。。双德也不敢保证历史最佳阵容稳的吧。阿里才到哪哦。</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/144979468312565">
+        <img alt="我湖定会崛起" src="https://i2.hoopchina.com.cn/user/267/30484267/30484267-1497947698.jpg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/144979468312565">我湖定会崛起</a>
+                       <span class="stime">2017-08-17 11:43:08</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="30484267" id="tipcolor899071">
+                                            <a class="ilike_icon " onclick="tipfight(20023686,899071,1389);" href="javascript:;">亮了</a>(<span id="tip899071" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023686.html" target="_blank">96两大妖人，阿里和阿森西奥你更看好谁？</a>
+                                        <span class="f666">(共7亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>另外，如果阿森西奥真能稳坐皇马主力，那估计阿里都被甩的没影了。阿里来皇马估计出场顺序要在科娃后面，现在阿森西奥已经稳定第12人了，阿里拿什么比现在。<br /><small class="f999">发自手机虎扑 m.hupu.com</small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/116166473458464">
+        <img alt="fjcoral" src="https://i2.hoopchina.com.cn/user/header/20170420/149268576045898_small_12.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/116166473458464">fjcoral</a>
+                       <span class="stime">2017-08-17 11:42:02</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="28873609" id="tipcolor898207">
+                                            <a class="ilike_icon " onclick="tipfight(20023430,898207,1389);" href="javascript:;">亮了</a>(<span id="tip898207" class="stime" style="padding:0;">6</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023430.html" target="_blank">C罗现在究竟算不算是皇马的核心？</a>
+                                        <span class="f666">(共11亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>只说一点，上赛季本泽马表现不好的时候，大家很质疑他为什么能压下邋遢首发，通过讨论，大家得出结论，因为他最能配合C罗。<br>希望楼主明白，我团到现在为止一切战术都是以C罗为中心设计的，都是为了让他发挥最大的作用为考量的，这样的人不是核心谁是核心？</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/tktktktk">
+        <img alt="松塔来一包" src="https://i1.hoopchina.com.cn/user/header/20170628/149861037255944_small_55.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/tktktktk">松塔来一包</a>
+                       <span class="stime">2017-08-17 11:56:20</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="19693932" id="tipcolor909448">
+                                            <a class="ilike_icon " onclick="tipfight(20024061,909448,1389);" href="javascript:;">亮了</a>(<span id="tip909448" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20024061.html" target="_blank">塞翁失马，完败也许对巴萨有益无害</a>
+                                        <span class="f666">(来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td>有益无害的前提是巴萨高层真能正视问题。<br>然而，大熊要要能有亡羊补牢的意识，要正视上个赛季早该正视了，萨村球迷又何必这么愁噢 <img src='https://b1.hoopchina.com.cn/post/smile/icon_mannen.gif'> <br><br>另外积极引援，也要引的援确实有“补牢”的能力。<br>然而，看这几年萨村的引援水平。。。→_→</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/241420219016411">
+        <img alt="ViniciusJr" src="https://i1.hoopchina.com.cn/user/header/20170726/150105141145453_small_2.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/241420219016411">ViniciusJr</a>
+                       <span class="stime">2017-08-17 12:43:45</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="31802685" id="tipcolor945610">
+                                            <a class="ilike_icon " onclick="tipfight(20024359,945610,1389);" href="javascript:;">亮了</a>(<span id="tip945610" class="stime" style="padding:0;">6</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20024359.html" target="_blank">看超级杯有感，浅谈巴萨皇马</a>
+                                        <span class="f666">(来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用6楼 @<a class="u" target="_blank" href="https://my.hupu.com/128135903523683" >你说什么就是什么kk</a> 发表的</b>:<br>你理解有问题还是我表达的有问题？我的意思是有内马尔也解决不了巴萨现有的问题，包括我以前评论过的一句话，即使内马在，这赛季巴萨的成就不会高于上赛季</p></blockquote><br>“巴萨：很多人说没留住内马很可惜，其实我觉得未必”<br>当世前三+未来金球被人挖走，你却认为这不可惜？那真的纯属自欺欺人，牺牲一个25岁未来金球的薪水空间来养住两个30岁的球员，这操作怎么看怎么蠢，没得洗</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/210291962381982">
+        <img alt="小栗旬的小破厂" src="https://i3.hoopchina.com.cn/user/265/27643265/27643265-1502339790.jpeg@45h_45w_2e" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/210291962381982">小栗旬的小破厂</a>
+                       <span class="stime">2017-08-17 12:01:25</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="27643265" id="tipcolor913364">
+                                            <a class="ilike_icon " onclick="tipfight(20023745,913364,1389);" href="javascript:;">亮了</a>(<span id="tip913364" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023745.html" target="_blank">巴萨补强内马尔，为什么只盯着哭鸟登贝莱两个难度极大并且是次顶级的球员？</a>
+                                        <span class="f666">(共9亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用49楼 @<a class="u" target="_blank" href="https://my.hupu.com/225137247542514" >pcgsf22</a> 发表的</b>:<br>博洋真的有一流球星潜力吗？</p></blockquote><br>算了算了，你萨培养新人世界第一。<br /><small class="f999">发自手机虎扑 m.hupu.com</small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/222943104258846">
+        <img alt="LBL追神记" src="https://i1.hoopchina.com.cn/user/148/29499148/29499148-1498492378.jpeg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/222943104258846">LBL追神记</a>
+                       <span class="stime">2017-08-17 05:54:48</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="29499148" id="tipcolor747710">
+                                            <a class="ilike_icon " onclick="tipfight(20022003,747710,1389);" href="javascript:;">亮了</a>(<span id="tip747710" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20022003.html" target="_blank">[流言板]半场：阿森西奥世界波，皇马主场2-0巴萨</a>
+                                        <span class="f666">(共18亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用12楼 @<a class="u" target="_blank" href="https://my.hupu.com/142055176554200" >想干董洁</a> 发表的</b>:<br>内马尔不见了？</p></blockquote><br>你可以发布寻人启事<p><img src="https://i10.hoopchina.com.cn/hupuapp/bbs/148/29499148/thread_29499148_20170817055445_s_23210_h_198px_w_198px2113504578.jpeg" data-w="198" data-h="198"/></p><br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/nongH2SO4">
+        <img alt="喝过浓硫酸" src="https://i1.hoopchina.com.cn/user/header/20170423/149292432835054_small_6.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/nongH2SO4">喝过浓硫酸</a>
+                       <span class="stime">2017-08-17 10:56:16</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="18431328" id="tipcolor862194">
+                                            <a class="ilike_icon " onclick="tipfight(20023500,862194,1389);" href="javascript:;">亮了</a>(<span id="tip862194" class="stime" style="padding:0;">5</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023500.html" target="_blank">曾经的三大中锋，苏牙本泽马下滑严重，莱万已经是无可争议的第一中锋了吗？</a>
+                                        <span class="f666">(共5亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用2楼 @<a class="u" target="_blank" href="https://my.hupu.com/83017042533728" >beefmoney</a> 发表的</b>:<br>本泽马在顶级中锋的讨论中这两年已经没怎么被提及了吧，只是偶尔有人提及黑起的时候有所爆发hhh</p></blockquote><br>被评价成“打脸型前锋”说明他的输出稳定性是有问题的，既然如此，就说不上是最顶级前锋了。<br /><small class="f999"><a style="color:#999" href="https://goalhi.hupu.com/app?_r=app_via_iphone" target="_blank">发自虎扑足球iPhone客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/84035073629826">
+        <img alt="AaronLucas" src="https://i2.hoopchina.com.cn/user/035/18521035/18521035_small_3.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/84035073629826">AaronLucas</a>
+                       <span class="stime">2017-08-17 12:08:11</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="18521035" id="tipcolor918640">
+                                            <a class="ilike_icon " onclick="tipfight(20023745,918640,1389);" href="javascript:;">亮了</a>(<span id="tip918640" class="stime" style="padding:0;">7</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023745.html" target="_blank">巴萨补强内马尔，为什么只盯着哭鸟登贝莱两个难度极大并且是次顶级的球员？</a>
+                                        <span class="f666">(共9亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用26楼 @<a class="u" target="_blank" href="https://my.hupu.com/225137247542514" >pcgsf22</a> 发表的</b>:<br>阿扎尔到现在有没有一己之力改变比赛结果的代表作？在国家队能不能起到领袖作用？能连续多个赛季稳定发挥吗？<br>单单是在边路远离禁区的地方刷几个过人并没有多少实际意义，况且英超的防守总体比西甲宽松不少。20岁的阿扎尔还是可能成长为和内马尔同一级别的球星的，可惜，在涨球的关键期，为了虚无缥缈的队内核心位置，他没有接受先进足球文化的熏陶，自己还是半吊子呢，就开始当大腿了。错误的生涯规划贻害无穷啊。</p></blockquote><br>?????萨米思考问题都是这样的吗？果然我注定无法成为萨米。<br /><small class="f999"><a style="color:#999" href="https://mobile.hupu.com/?_r=bbsvia9" target="_blank">发自虎扑Android客户端</a></small></td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+<div class="floor">
+<div class="user">
+        <a class="headpic" target="_blank" href="https://my.hupu.com/133226128433790">
+        <img alt="胃液里2002" src="https://i2.hoopchina.com.cn/user/670/14559670/14559670_small_3.jpg" height="45" width="45">
+        </a>
+ </div>
+ <div class="floor_box" style="padding-bottom:5px;">
+        <div class="author">
+                <a class="u" target="_blank" href="https://my.hupu.com/133226128433790">胃液里2002</a>
+                       <span class="stime">2017-08-17 12:07:59</span>
+                                        <span class="f444">
+                                        <font style="position: relative;" mid="14559670" id="tipcolor918491">
+                                            <a class="ilike_icon " onclick="tipfight(20023745,918491,1389);" href="javascript:;">亮了</a>(<span id="tip918491" class="stime" style="padding:0;">7</span>)
+                                        </font>
+                                        </span>
+         </div>
+                                        <p class="l_w_re">
+                                        <span class="f666">Re：</span>
+                                        <a href="/20023745.html" target="_blank">巴萨补强内马尔，为什么只盯着哭鸟登贝莱两个难度极大并且是次顶级的球员？</a>
+                                        <span class="f666">(共9亮回帖 来自:
+                                            <a href="/topic" target="_blank">足球话题区</a>)
+                                        </span>
+                                        </p>
+                                        <table class="case" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr><td><blockquote><p><b>引用28楼 @<a class="u" target="_blank" href="https://my.hupu.com/225137247542514" >pcgsf22</a> 发表的</b>:<br>不是否定你们培养新人的能力，但是多特擅长把70分的新人变成80分，巴萨擅长把80分的新人变成90分，这是不一样的。</p></blockquote><br>然而你们只想花50分的钱买70分的人</td></tr>
+                                         </tbody>
+                                         </table>
+  </div>
+</div>
+    </div><script type="text/javascript">
+      function tipfight(tid,pid,fid){
+        var state=1,authorid = $("#tipcolor"+pid).attr("mid"),token="4306b06d0c";
+        $.ajax({
+          type: "POST",
+          dataType: "json",
+          url: "/ajax/lights.ajax.php?" + Math.random(),
+          data: {tid:tid, pid:pid, state:state, authorid:authorid, fid:fid,token:token},
+          success: function(data) {
+              $("b.loading").hide();
+              if(data.code != 1){
+                  if(data.code == -1){
+                      show_login();
+                  }else{
+                      show_message("<div class='tips_pop'>"+data.msg+"</div>");
+                  }
+
+                  return false;
+              }else{
+                  $("#tip"+pid).text(data.num);
+                  if(state==1){
+                      $("#tipcolor"+pid).attr("class","red");
+                  }else{
+                      $("#fightcolor"+pid).attr("class","f666");
+                  }
+                  ga("bbs-c-highlights-click");
+              }
+          }
+        });
+      }
+      window.onload=function(){
+        var mw = 444;if(screen.width > 1152){mw = 650;}$("table.case img").each(function(){
+          if($(this).width() > mw){
+            $(this).width(mw).attr("title","点击查看原图").addClass("lightbox").click(function(){window.open($(this).attr("src"));});}});}
+    </script>         <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+                    '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+        <script type='text/javascript'>
+var pubW = screen.width>1152 ? 1200 : 990;
+if ($('#g_b').attr('data-project') != 'soccer') {
+    var other_index_c2c_ad = 'hc_newbbs_indexTop_'+pubW+'x60';
+} else {
+    var other_index_c2c_ad = 'goalhi-bbs-top-banner-'+pubW+'x60';
+}
+googletag.cmd.push(function() {
+googletag.defineSlot('/1016953/hoopchina-bbs-right-Optimus-120x600', [120, 600], 'hoopchina-bbs-right-Optimus-120x600').addService(googletag.pubads());
+googletag.defineSlot('/1016953/'+other_index_c2c_ad+'', [pubW, 60], 'other_index_c2c_ad').addService(googletag.pubads());
+googletag.defineSlot('/1016953/soccer_bbs_list1_1x1', [1, 1], 'soccer_bbs_list1_1x1').addService(googletag.pubads());
+googletag.defineSlot('/1016953/bbs_rightback_250x250', [250, 250], 'bbs_rightback_250x250').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+        <div class="lpub_ad" id="lpub_ad" style="display:none;left:-133px"><div id='hoopchina-bbs-right-Optimus-120x600'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('hoopchina-bbs-right-Optimus-120x600'); });</script></div>
+</div>
+    </div>
+    <!---中间 end--->
+    <!---右侧 start--->
+    <div id="indexSidebar">
+      <h3><a href="/boards.php">版块列表</a></h3>
+      <div class="list"><div class="title">
+          <h4>主版</h4>
+        </div>
+        <ul><li><a target="_blank" href="/topic">话题区</a></li><li><a target="_blank" href="/soccer">足球场</a></li><li><a target="_blank" href="/yaoren">妖人</a></li><li><a target="_blank" href="/meizhouzuqiu">美洲足球</a></li></ul> <br>
+        <div class="clearfix"></div><div class="title">
+          <h4>英超</h4>
+        </div>
+        <ul><li><a target="_blank" href="/yingchao">英超专区</a></li><li><a target="_blank" href="/manutd">曼联专区</a></li><li><a target="_blank" href="/arsenal">阿森纳区</a></li><li><a target="_blank" href="/liverpool">利物浦区</a></li><li><a target="_blank" href="/chelsea">切尔西区</a></li><li><a target="_blank" href="/mancity">曼城专区</a></li><li><a target="_blank" href="/hotspur">热刺专区</a></li><li><a target="_blank" href="/AstonVilla">维拉专区</a></li><li><a target="_blank" href="/yingguan">英冠专区</a></li></ul> <br>
+        <div class="clearfix"></div><div class="title">
+          <h4>西甲</h4>
+        </div>
+        <ul><li><a target="_blank" href="/xijia">西甲专区</a></li><li><a target="_blank" href="/realmadrid">皇马专区</a></li><li><a target="_blank" href="/barcelona">巴萨专区</a></li><li><a target="_blank" href="/atleticodemadrid">马竞专区</a></li><li><a target="_blank" href="/vcf">瓦伦西亚专区</a></li><li><a target="_blank" href="/sevilla">塞维利亚官方专区</a><i alt="官方论坛" title="官方论坛" class="icon_v"></i></li><li><a target="_blank" href="/4525">埃瓦尔区</a></li></ul> <br>
+        <div class="clearfix"></div><div class="title">
+          <h4>意甲</h4>
+        </div>
+        <ul><li><a target="_blank" href="/yijia">意甲专区</a></li><li><a target="_blank" href="/acmilan">米兰专区</a></li><li><a target="_blank" href="/inter">国米专区</a></li><li><a target="_blank" href="/juventus">尤文专区</a></li><li><a target="_blank" href="/asroma">罗马专区</a></li></ul> <br>
+        <div class="clearfix"></div><div class="title">
+          <h4>德甲</h4>
+        </div>
+        <ul><li><a target="_blank" href="/dejia">德甲专区</a></li><li><a target="_blank" href="/bayern">拜仁专区</a></li><li><a target="_blank" href="/bvb">多特蒙德专区</a></li><li><a target="_blank" href="/schalke04">沙尔克04专区</a></li><li><a target="_blank" href="/bayer04">勒沃库森专区</a></li><li><a target="_blank" href="/bremen">不莱梅区</a></li><li><a target="_blank" href="/deutschland">德国战车</a></li><li><a target="_blank" href="/bundesliga">德国联赛专区</a></li></ul> <br>
+        <div class="clearfix"></div><div class="title">
+          <h4>其他</h4>
+        </div>
+        <ul><li><a target="_blank" href="/frfootball">法甲</a></li><li><a target="_blank" href="/euroleagues">欧洲足球</a></li><li><a target="_blank" href="/curio">看球藏图阁</a></li><li><a target="_blank" href="/soccer-wallpaper">足球壁纸</a></li></ul> <br>
+        <div class="clearfix"></div><script type="text/javascript" src="//goto.hupu.com/js/c/69.js"></script>
+      </div><div class="bbs-index-weixin"><div id='bbs_rightback_250x250'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('bbs_rightback_250x250'); });</script></div>
+</div>
+    </div>
+      <!---右侧 end--->
+    </div>
+
+    <div class="c2c_ad" style="display:none;"><div id='other_index_c2c_ad'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('other_index_c2c_ad'); });</script></div>
+</div>
+
+  </div>
+</div>
+</div>
+<div style="display: none;"><div id='soccer_bbs_list1_1x1'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('soccer_bbs_list1_1x1'); });</script></div>
+</div>
+
+
+
+<div class="fback"><a class="btop" href="#">回顶部</a></div>
+<b id="footer-loadedError"></b>
+
+
+<div class="hp-footer">
+                    <div class="hp-copyright">虎扑（上海）文化传播股份有限公司 <a href="https://www.hupu.com/icp.html" target="_blank">沪B2-20120042</a> <a target="_blank" href="http://www.miitbeian.gov.cn">沪ICP备05037078号-13</a></div>
+                    <div class="hp-copyright">
+                    
+                    Copyright by 虎扑JRs &amp;
+                    <a href="https://www.hupu.com/" target="_blank" title="虎扑">虎扑</a> -
+                    <a href="http://jobs.hupu.com/" target="_blank">在虎扑工作</a> -
+                    <a href="http://marketing.hupu.com/contact/" target="_blank">联系我们</a> -
+                    <a href="https://m.hupu.com/" target="_blank">手机虎扑网</a> -
+                    <a href="https://mobile.hupu.com/" target="_blank">虎扑App</a> -
+                    <a href="https://www.hupu.com/policies/terms" target="_blank">服务协议</a> -
+                    <a href="https://www.hupu.com/sitemap.html" target="_blank">网站地图</a> -
+                    <a href="https://nba.hupu.com/" target="_blank" title="NBA">NBA</a> -
+                    <a href="https://cba.hupu.com/" target="_blank" title="CBA">CBA</a>  -
+                    <a href="https://soccer.hupu.com/" target="_blank" title="足球">足球</a> -
+                    <a href="https://soccer.hupu.com/china/" target="_blank" title="中超">中超</a> -
+                    <a href="http://racing.hupu.com/" target="_blank" title="赛车">赛车</a> 
+                    </div>
+                    <div class="securityPic">
+                    <a href="http://www.jhga.gov.cn/" target="_blank"><img src="https://b3.hoopchina.com.cn/images/wl_wljga.png" alt="金华市公安局网络报警"></a>
+                    <a href="http://www.zx110.org" target="_blank"><img src="https://b3.hoopchina.com.cn/images/wl_wlshzxw.png" alt="网络社会征信网"></a>
+                    <a href="http://www.shjbzx.cn/" target="_blank"><img src="https://b3.hoopchina.com.cn/images/www_jubao.png" alt="上海网络举报图片"></a>
+                    <a href="http://report.12377.cn:13225/toreportinputNormal_anis.do" target="_blank"><img src="https://b3.hoopchina.com.cn/images/www_cn_jubao.png" alt="有害信息举报图片"></a>
+                    </div>
+                </div>
+
+
+<script>
+	var countGATrackPageview = location.pathname+location.search+"'|soccer/198-国际足球论坛/198-'";
+_common.init({project: "soccer",countGASetVar: "",countGATrackPageview: countGATrackPageview});	
+</script>
+<script async="true" src="//b3.hoopchina.com.cn/pcbbs/js/g85.js?20170207"></script>
+
+<script type="text/javascript" src="https://hm.baidu.com/h.js?39fc58a7ab8a311f2f6ca4dc1222a96e" async="async"></script>
+<script>IE6 = '';</script><!--[if lte IE 6]><script>IE6 = 'sucks';</script><![endif]-->
+<script>
+    try{
+      if(window.top != window.self){
+        var topHost = top.document.location.hostname;
+        if (topHost.indexOf('hupu.com') < 0 && topHost.indexOf('liangle.com') < 0 && topHost.indexOf('shihuo.cn') < 0){
+          window.top.location.href = window.self.location.href;
+        }
+      } 
+    }catch(e){}
+
+    $(function(){
+        if ($("#lpub_ad")[0]) {
+            function findPos_top(obj) {
+                var top = obj.offsetTop || 0;
+                while (obj = obj.offsetParent) {
+                    top += obj.offsetTop;
+                }
+                return top;
+            }
+
+            function findPos_left(obj) {
+                var l = obj.offsetLeft;
+                while (obj.offsetParent != null) {
+                    obj = obj.offsetParent;
+                    l += obj.offsetLeft;
+                }
+                return l;
+            }
+
+            ifSideSticky = (IE6 == 'sucks') ? false : true;
+            var pubPos = findPos_top($("#bbs_banner")[0]) - findPos_top($("#sidenav_bbs")[0]) + 403;
+            $("#lpub_ad").css('top', pubPos + 'px');
+            $("#lpub_ad").show();
+            if (!isMobile() && ifSideSticky && document.documentElement.clientHeight > 670) {
+                var contentwitdth = $("#content").width();
+                var sideSticky = function () {
+                    var now_top = document.body.scrollTop || document.documentElement.scrollTop || 0;
+                    if (now_top > pubPos + 100) {
+                        $("#lpub_ad").attr('style', 'position: fixed; _position: absolute; top:10px;left:' + (findPos_left($("#container_padd")[0]) + 13 - document.documentElement.scrollLeft) + 'px');
+                    } else {
+                        $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                    }
+                };
+                $(window).bind('scroll', sideSticky).resize(function () {
+                    $(window).unbind("scroll");
+                    $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                });
+            }
+        }
+        if ($("div .c2c_ad")[0]) {
+            if ($(".level2header").attr('title')) {
+                $("div .c2c_ad").css('top', "-66px").show();
+            } else {
+                $("div .c2c_ad").css('top', '-114px').show();
+            }
+        }
+    })
+
+    /**
+     * check is mobile device
+     */
+    function isMobile() {
+        var userAgent = navigator.userAgent.toLowerCase(),
+                mobile = /Mobile/i.test( userAgent ) || 'ontouchstart' in document.documentElement;
+        return mobile;
+    }
+
+</script>
+</body>
+</html>
+

@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<link rel="dns-prefetch" href="//b1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//b3.hoopchina.com.cn" />
+
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.hupu.com/bbs/3442" />
+<meta name="mobile-agent" content="format=html5;url=https://m.hupu.com/bbs/3442" />
+
+<title>音乐区 - 虎扑社区</title>
+<meta name="keywords" content="音乐区" />
+<meta name="description" content="音乐区来自虎扑步行街社区，从古典到流行，从蓝调到爵士，从民乐到乡村，从摇滚到说唱，爱音乐、爱生活，感受这世上最美妙的食物！随意盗墓。" />
+<link rel="alternate" type="application/rss+xml" title="音乐区" href="/rss.php?fid=3442" />
+<base href="//bbs.hupu.com" /><!--[if IE 6]></base><![endif]-->
+<link rel="canonical" href="https://bbs.hupu.com/music" />
+<link rel="alternate" href="android-app://com.hupu.games/huputiyu/bbs/board/3442?r=hupucom"/>
+<script type='text/javascript'>var __daceDataNameOfForum='3442';var __daceDataNameOfCategory = '174'; var __daceDataNameOfProject='bxj';var __daceDataNameOfChannel='gambia';</script>
+<meta name="apple-itunes-app" content="app-id=906632439" />
+<link rel="shortcut icon" href="//b3.hoopchina.com.cn/common/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="//b3.hoopchina.com.cn/common/common-v1.css" />
+<script src="//b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js"></script> 
+<script src="//b3.hoopchina.com.cn/common/common-v1.js"></script>
+<link rel='stylesheet' type='text/css' href='//b3.hoopchina.com.cn/css/hupu-v56.css?2017070320' />
+<link rel='apple-touch-icon' href='https://b1.hoopchina.com.cn/common/apple-touch-icon.png'/>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/pcbbs/js/j15.js"></script>
+</head>
+<body>
+<!--topbarNav star-->
+                        <div id="hp-topbarNav">
+                            <div class="hp-topbarNav-bd">
+                                <ul class="hp-quickNav">
+                                    <li class="mobileWeb"><a href="https://m.hupu.com/" target="_blank"><i class="ico-mobile"></i>手机虎扑</a></li>
+                                    <li class="line">|</li>
+                                    <li class="mobileclientDown"><a class="red" href="https://mobile.hupu.com/?_r=globalNav" target="_blank">虎扑客户端</a></li>
+                                    <li class="line">|</li>
+			                        <li><a class="red" href="https://mobile.hupu.com/football?r=global_nav" target="_blank">虎扑足球客户端</a></li>
+                                    <li class="line">|</li>
+                                    <li class="hp-dropDownMenu topFollowBlog">
+                                        <a href="javascript:void(0)" class="hp-set">关注虎扑<s class="setArrow"></s></a>
+                                        <div class="hp-drapDown followLayer">
+                                            <a class="weibo" target="_blank" rel="nofollow" href="//weibo.com/liangle4u"><i class="hp-ico-weibo"></i>新浪微博</a>
+											<a class="weixin" target="_blank" href="https://voice.hupu.com/other/1581560.html"><i class="hp-ico-weixin"></i>官方微信</a>
+                                            <a class="instagram" target="_blank" rel="nofollow" href="https://voice.hupu.com/other/1634334.html"><i class="hp-ico-instagram"></i>Instagram</a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="hp-topLogin-info"></div>
+                            </div>
+                        </div>
+                        <!--topbarNav ent--><!--header star--><div class="hp-header hp-header-B"><div class="hp-logo"><a title="步行街" href="https://bbs.hupu.com/all-gambia"><img src="https://b3.hoopchina.com.cn/images/logo2017/v1/hp_logo_sports.png" alt="步行街" /></a>
+                            </div>
+                            <div class="hp-mainNav hp-mainNav-B">
+                                <div class="hp-nav">
+                                    <div class="hp-nav-bd">
+                                        <ul class="hp-nav-item"><li><a href="https://www.hupu.com/" >虎扑首页</a></li><li class="line">|</li><li><a href="https://nba.hupu.com/" >NBA</a></li><li class="line">|</li><li><a href="https://cba.hupu.com/" >CBA</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com" >国际足球</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com/china/" >中国足球</a></li><li class="line">|</li><li><a href="http://racing.hupu.com/" >赛车</a></li><li class="line">|</li><li><a href="http://zb.hupu.com/" target="_blank">装备</a></li><li class="line">|</li><li><a href="http://www.shihuo.cn/" target="_blank">识货</a></li><li class="line">|</li><li><a href="http://v.liangle.com/" >视频</a></li><li class="line">|</li><li><a href="http://photo.hupu.com/" >图片</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/" >社区</a></li><li class="line">|</li><li class="on"><a href="https://bbs.hupu.com/all-gambia" >步行街</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/all-esports" >电竞</a></li><li class="line">|</li><li><a href="http://www.liangle.com" target="_blank">路人王</a></li><li class="line">|</li><li class="hp-dropDownMenu hp-moreNav">
+                                                <a href="javascript:void(0)" class="hp-set">更多<s class="setArrow"></s></a>
+                                                <div class="hp-drapDown hp-moreNav-drapDown"><a href="https://shop311048929.taobao.com/" target="_blank">虎扑优选</a><a href="http://www.kaluli.com/" target="_blank">卡路里</a><a href="http://outdoor.hupu.com/" >户外</a><a href="http://run.hupu.com/" >跑步</a><a href="http://ymq.hupu.com/" >羽毛球</a><a href="http://xgame.hupu.com/" target="_blank">xgames</a><a href="http://www.nflchina.com/" target="_blank">NFL</a><a href="http://golf.hupu.com/" target="_blank">高尔夫</a><s class="arrow-top"><s class="arrowbd"></s></s>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="hp-subNav">
+			<ul class="hp-subNav-item">
+                <li><a href="https://bbs.hupu.com/all-gambia">首页</a></li>
+            </ul>
+</div>
+                                <i class="hp-roundPoint-br-tl roundPoint-br-tl"></i>
+                                <i class="hp-roundPoint-br-tr roundPoint-br-tr"></i>
+                                <i class="hp-roundPoint-br-bl roundPoint-br-bl"></i>
+                                <i class="hp-roundPoint-br-br roundPoint-br-br"></i>
+                            </div>
+                        </div>
+
+
+
+
+			<div class="hp-threeNav">
+			<div class="hp-threeNav-bd">
+			<ul class="hp-threeNav-item"><li><a href='/all-gambia'  data-project='bxj' id='g_b'>步行街热帖</a></li><li ><a href='/bxj'  >步行街主干道</a></li><li ><a href='/ent'  >影视</a></li><li ><a href='/digital'  >IT数码</a></li><li ><a href='/selfie'  >爆照</a></li><li ><a href='/lol'  >英雄联盟</a></li><li ><a href='/kog'  >王者荣耀</a></li><li ><a href='/acg'  >ACG</a></li><li ><a href='/finance'  >股票</a></li><li  class="hp-hide-w1024"><a href='/cars'  >车友交流</a></li><li  class="hp-hide-w1024"><a href='/music' class="on" >音乐</a></li><li  class="hp-hide-w1024"><a href='/xuefu'  >学府路</a></li><li  class="hp-hide-w1024"><a href='/999'  >万事屋</a></li></ul></div><i id='level2header' title='首页'></i>
+				<div class="hp-search">
+					<form id="hp-form-search" method="get" enctype="multipart/form-data" action="https://my.hupu.com/search">
+						<input type="text" value="搜索视频、帖子" class="it-search" />
+						<input type="submit" value="搜索" class="btn-search" />
+					</form>
+				</div>
+			</div>
+		
+<div class="hp-wrap">
+
+
+<!--页面主体 -->
+<div id="container" class="rel"><div id="container_padd">
+<!---主体部分 start--->
+				<div id="sidenav_bbs"><div id="bbs_banner"><h4><a class="h4_t">版块分类</a></h4><ul>
+		<li id="l1" lid="1"><a href="//bbs.hupu.com/all-nba">NBA论坛</a></li>
+		<li id="l232" lid="232"><a href="//bbs.hupu.com/all-cba">CBA论坛</a></li>
+		<li id="l233" lid="233"><a href="//bbs.hupu.com/all-gear">运动&装备</a></li>
+		<li id="l198" lid="198"><a href="//bbs.hupu.com/all-soccer">国际足球论坛</a></li>
+		<li id="l4596" lid="4596"><a href="//bbs.hupu.com/all-csl">中国足球论坛</a></li>
+		<li id="l41" lid="41"><a href="//bbs.hupu.com/all-sports">综合体育</a></li><li id="l174" lid="174"><a href="//bbs.hupu.com/all-gambia">步行街</a></li>
+	<li id="l42" lid="42"><a href="//bbs.hupu.com/all-lottery">彩票中心</a></li>
+	<li id="l238" lid="238"><a href="//bbs.hupu.com/all-boards">自建版块</a></li>
+	<li id="l114" lid="114"><a href="//bbs.hupu.com/all-group">虎扑社团</a></li>
+	<li id="l7" lid="7"><a href="//bbs.hupu.com/all-feedback">站务管理</a></li>
+	</ul></div>
+				<div class="sidenav_pop_tips"><p class="more"><a href="//bbs.hupu.com/boards.php">更多版块 &raquo;</a></p></div>
+				
+				</div>
+<!---右侧 start--->
+
+<div id="content">
+<!--头部-->
+
+<div itemscope itemtype="http://schema.org/WebPage" class="bbs_head">
+<div itemprop="breadcrumb" class="breadCrumbs"><a href="/">社区</a>&nbsp;&raquo;&nbsp;<a href="/all-gambia">步行街</a></div>
+
+<div class="right"><form id="forum_see" method="get" enctype="multipart/form-data" name="forum_see" action="//my.hupu.com/search"><input type="hidden" name='fid' value='3442' /><input type="hidden" name='type' value='topic' /><input id="search_thread" name="q" type="text" class="tabs_input" value="搜索本版帖子" title="搜索音乐区的帖子" /><input type="submit" value="" class="tabs_btn" /></form></div>
+<div id="googlepub" class="right" style="margin-right:5px;"></div>
+<h1 class="left"><span id="forumname" fid="3442" fidurl="music">音乐区</span>
+
+</h1>&nbsp;
+<div class="clearfix" style="*height:0;"></div>
+
+<div class="pl_nav ">
+
+
+<span class="pl_d">&nbsp;</span><div class="pl_top">
+版块介绍：<span id="des_forum">从古典到流行，从蓝调到爵士，从民乐到乡村，从摇滚到说唱，爱音乐、爱生活，感受这世上最美妙的食物！随意盗墓。</span><br />
+
+版主：<a class="u" target="_blank" href="https://my.hupu.com/dreamtheatre">hydo</a><span class="f666"></span> <a class="u" target="_blank" href="https://my.hupu.com/LeBron_23_James">浪迹天涯</a><span class="f666"></span> <a class="u" target="_blank" href="https://my.hupu.com/lanxiaomi">一张麻布</a><span class="f666"></span> <a class="u" target="_blank" href="https://my.hupu.com/OnePiece--Sanji">山治</a><span class="f666"></span> <a class="u" target="_blank" href="https://my.hupu.com/taizhi">ko1ok1</a><span class="f666"></span> </div>
+
+<div id="navigation"><span id="nav_change">
+<ul>
+
+<li><a href="https://bbs.hupu.com/3966193.html" target="_blank">※【新人必读】音乐区索引</a></li>
+
+<li><a href="https://bbs.hupu.com/3966486.html" target="_blank">【我是你心里的一首歌——音乐区专属聊天大楼】</a></li>
+
+<li><a href="https://bbs.hupu.com/5981102.html" target="_blank">音乐区入耳phenom社团诚邀大家的加入！</a></li>
+
+<li><a href="https://bbs.hupu.com/5827934.html" target="_blank">【公告】音乐区禁词——7月1日更新，欢迎投诉侮辱词汇</a></li>
+
+</ul>
+</span><div class="clear"></div>
+</div>
+
+
+<script type='text/javascript'>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') +
+				'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script>
+<script type='text/javascript'>
+var adwidth = screen.width>1152 ? 1020 : 810;
+googletag.cmd.push(function() {
+googletag.defineSlot('/1016953/nba_bbs_list_right_320x60', [320, 60], 'bbs_list_right_320x60').addService(googletag.pubads());
+googletag.defineSlot('/1016953/hoopchina-bbs-right-Optimus-120x600', [120, 600], 'hoopchina-bbs-right-Optimus-120x600').addService(googletag.pubads());
+googletag.defineSlot('/1016953/nba_bbs_list_1x1', [1, 1], 'bbs_list_1x1').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+
+
+</div>
+
+
+<div class="clearfix" style="*height:0;"></div>
+</div>
+<!--头部END-->
+<!---标签页 start--->
+<div class="tabs_header zoom" id="tabs_header">
+<ul class="left">
+<li class="selected"><a href="/music">主题</a></li><li><a href="/music-digest">精华</a></li><li><a title="今日15个亮回帖" href="/music/highlights">亮了(15)</a></li>
+
+<li><a href="/music/members">成员</a></li>
+
+<li><a href="/music/ranking"><span >赞赏排行</span></a></li>
+
+</ul>
+
+<div class="right">
+
+<a id="g_n" class="issue_button" rel="nofollow me noopener noreferrer" href="/post.php?fid=3442">发新帖</a>
+</div>
+
+<div class="clearfix tabs_border"></div>
+
+</div>
+<!---标签页 end---><!--内容分类-->
+<div id="sort">
+<div class="fr">
+<form style="display:inline">
+<select id="orderway" style="vertical-align:middle; _vertical-align:top;">
+
+<option value="null" selected>排序方式</option>
+<option value="lastpost">按回帖时间排序</option>
+<option value="postdate">按发帖时间排序</option>
+
+</select></form>
+</div>
+
+<a class="blue" href="/music-type1">原创</a>
+
+<a class="blue" href="/music-type2">话题</a>
+
+<a class="blue" href="/music-type3">转帖</a>
+
+<a class="blue" href="/music-type4">推荐</a>
+
+<a class="blue" href="/music-type5">翻唱</a>
+
+<div class="clearfix" style="*height:0;"></div>
+</div>
+<!--内容分类END--><!--帖子列表-->
+
+<table id="pl" class="bbstopic ptable topiclisttr" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+	<th>&nbsp;</th>
+	<th align="left">主题</th>
+	<th align="left" width="100">作者</th>
+	<th width="110">回复 / 浏览</th>
+	<th align="left" width="85">最后回复</th>
+</tr><tbody>
+
+<tr mid="3966193"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="3966193sh"></div>
+
+<font style="color:#b50000">[置顶]</font> <a id="" href="/3966193.html">音乐区版规+ 索引</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/klexrax">KLEXRAX</a><br />2012-07-10</td><td class="p_re">3 / 11552</td><td class="p_retime"><a href="/3966193.html#o" title="查看最后回复">2012-07-10</a><br />KLEXRAX</td></tr>
+
+<tr mid="19211026"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19211026sh"></div>
+
+ <a id="" href="/19211026.html"><font color=orange>兔瓦斯Twice虎扑粉丝专楼（5.15 5pm新专辑回归）</font></a>
+
+ [ <span class="multipage"> <a href="/19211026-2.html">2</a> <a href="/19211026-3.html">3</a> .. <a href="/19211026-195.html">195</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/153664053055520">Jasikevicius12</a><br />2017-05-15</td><td class="p_re">3893 / 69585</td><td class="p_retime"><a href="/19211026-195.html#o" title="查看最后回复">13:14</a><br />minaMyoui</td></tr>
+
+<tr mid="19984235"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19984235sh"></div>
+
+ <a id="" href="/19984235.html"><font color=red>热烈庆祝陈奕迅专区成立！散卡散币！另招制服组！</font></a>
+
+ [ <span class="multipage"> <a href="/19984235-2.html">2</a> <a href="/19984235-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/257384855918649">广工小乐邦</a><br />2017-08-12</td><td class="p_re">49 / 2399</td><td class="p_retime"><a href="/19984235-3.html#o" title="查看最后回复">13:13</a><br />广工小乐邦</td></tr>
+
+<tr mid="20013980"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20013980sh"></div>
+
+[<a href="/music-type1">原创</a>]
+
+ <a id="" href="/20013980.html">你最欣赏的四位吉他手是谁?</a>
+
+ [ <span class="multipage"> <a href="/20013980-2.html">2</a> <a href="/20013980-3.html">3</a> .. <a href="/20013980-6.html">6</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/124159099343973">蓝色豆沙包</a><br />2017-08-16</td><td class="p_re">102 / 5577</td><td class="p_retime"><a href="/20013980-6.html#o" title="查看最后回复">13:11</a><br />隔壁老王大明</td></tr>
+
+<tr mid="19206170"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19206170sh"></div>
+
+[<a href="/music-type1">原创</a>]
+
+ <a id="" href="/19206170.html"><font color=orange>泡菜女团成绩评论一人呓语の国</font></a>
+
+<span class="light_r "><a title="有1个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19206170-2.html">2</a> <a href="/19206170-3.html">3</a> .. <a href="/19206170-582.html">582</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/44856476119168">机智的小明</a><br />2017-05-14</td><td class="p_re">11622 / 272594</td><td class="p_retime"><a href="/19206170-582.html#o" title="查看最后回复">13:09</a><br />cczju</td></tr>
+
+<tr mid="5896997"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="5896997sh"></div>
+
+ <a id="" href="/5896997.html">同为摇滚乐队，林肯公园和五月天谁更nb？</a>
+
+<span class="light_r "><a title="有8个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/5896997-2.html">2</a> <a href="/5896997-3.html">3</a> .. <a href="/5896997-11.html">11</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/228094534103883">anderson朵</a><br />2013-07-03</td><td class="p_re">216 / 29237</td><td class="p_retime"><a href="/5896997-11.html#o" title="查看最后回复">12:54</a><br />猫叔灬</td></tr>
+
+<tr mid="20013632"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20013632sh"></div>
+
+ <a id="" href="/20013632.html">反正我也没差-试唱人质</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/131309515330116">10号精神</a><br />2017-08-16</td><td class="p_re">1 / 142</td><td class="p_retime"><a href="/20013632.html#o" title="查看最后回复">12:52</a><br />文化处长秘书</td></tr>
+
+<tr mid="18957504"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="18957504sh"></div>
+
+ <a id="" href="/18957504.html"><font color=orange>韩国男女团规划与发展中心（少女时代将以八人形式8月4日1700回归）</font></a>
+
+<span class="light_r "><a title="有2个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/18957504-2.html">2</a> <a href="/18957504-3.html">3</a> .. <a href="/18957504-3824.html">3824</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/153664053055520">Jasikevicius12</a><br />2017-04-13</td><td class="p_re">76479 / 808813</td><td class="p_retime"><a href="/18957504-3824.html#o" title="查看最后回复">12:40</a><br />zjx00933</td></tr>
+
+<tr mid="20016679"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20016679sh"></div>
+
+ <a id="" href="/20016679.html">牵丝戏快来看看吧</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/249402002473710">活塞运动员</a><br />2017-08-16</td><td class="p_re">1 / 173</td><td class="p_retime"><a href="/20016679.html#o" title="查看最后回复">12:31</a><br />wf0524</td></tr>
+
+<tr mid="20015544"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20015544sh"></div>
+
+ <a id="" href="/20015544.html">蹭个热度 老哥们来听听我这几首歌</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/140021680138003">肉食者鄙Q</a><br />2017-08-16</td><td class="p_re">0 / 101</td><td class="p_retime"><a href="/20015544.html#o" title="查看最后回复">12:31</a><br />肉食者鄙Q</td></tr>
+
+<tr mid="20021721"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20021721sh"></div>
+
+ <a id="" href="/20021721.html">终于轮到我了，这首《我不是伟人》——独家记忆粤语版什么水平？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/43334095570403">华为狗</a><br />2017-08-17</td><td class="p_re">1 / 158</td><td class="p_retime"><a href="/20021721.html#o" title="查看最后回复">12:30</a><br />克里斯一邓恩</td></tr>
+
+<tr mid="20023710"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023710sh"></div>
+
+ <a id="" href="/20023710.html">陈奕迅和周杰伦</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/276837992883976">beyeasondshi</a><br />2017-08-17</td><td class="p_re">0 / 54</td><td class="p_retime"><a href="/20023710.html#o" title="查看最后回复">12:30</a><br />beyeasondshi</td></tr>
+
+<tr mid="20021837"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20021837sh"></div>
+
+ <a id="" href="/20021837.html">嗨呀，KTV时间不请自来！你还要我怎样呢？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/93706061895683">你要让我来</a><br />2017-08-17</td><td class="p_re">0 / 569</td><td class="p_retime"><a href="/20021837.html#o" title="查看最后回复">12:29</a><br />你要让我来</td></tr>
+
+<tr mid="20023739"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023739sh"></div>
+
+ <a id="" href="/20023739.html">上次是《痴心绝对》，这次是《你那么爱她》。。哈哈哈。。无聊唱个歌挺爽。</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/195227941215128">至情至性星双</a><br />2017-08-17</td><td class="p_re">1 / 75</td><td class="p_retime"><a href="/20023739.html#o" title="查看最后回复">12:29</a><br />至情至性星双</td></tr>
+
+<tr mid="20016468"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20016468sh"></div>
+
+ <a id="" href="/20016468.html">鄙人平常也是位ktv麦霸级别人物，各位老哥听听鄙人唱的如何？</a>
+
+ [ <span class="multipage"> <a href="/20016468-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/5856639368702">Wb丶Bryant</a><br />2017-08-16</td><td class="p_re">20 / 693</td><td class="p_retime"><a href="/20016468-2.html#o" title="查看最后回复">12:29</a><br />Wb丶Bryant</td></tr>
+
+<tr mid="20023918"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023918sh"></div>
+
+ <a id="" href="/20023918.html">除了仙剑系列，还有哪些好听的游戏主题曲或者插曲。</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/214390944877844">血海滔滔赤帝东来</a><br />2017-08-17</td><td class="p_re">1 / 39</td><td class="p_retime"><a href="/20023918.html#o" title="查看最后回复">12:29</a><br />海南瑞泽</td></tr>
+
+<tr mid="20023426"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023426sh"></div>
+
+ <a id="" href="/20023426.html">请问我唱这首歌的水平能不能力压24%的jrs？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/47451628785708">StefanieW</a><br />2017-08-17</td><td class="p_re">12 / 315</td><td class="p_retime"><a href="/20023426.html#o" title="查看最后回复">12:25</a><br />茶鸟大水比</td></tr>
+
+<tr mid="20020316"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20020316sh"></div>
+
+ <a id="" href="/20020316.html">之前的一个演出视频，歌曲串烧，希望大家喜欢哈</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/47152432710371">Soul_10</a><br />2017-08-16</td><td class="p_re">4 / 77</td><td class="p_retime"><a href="/20020316.html#o" title="查看最后回复">11:56</a><br />Soul_10</td></tr>
+
+<tr mid="10426978"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="10426978sh"></div>
+
+ <a id="" href="/10426978.html">女版许巍！！！张靖懿跟许飞谁更有资格？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/199175792201041">怪男兽</a><br />2014-09-15</td><td class="p_re">13 / 1225</td><td class="p_retime"><a href="/10426978.html#o" title="查看最后回复">11:44</a><br />lei505326803</td></tr>
+
+<tr mid="20022442"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20022442sh"></div>
+
+ <a id="" href="/20022442.html">有喜欢Tom Odell的吗？他的现场什么水平</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/108169460484406">xxlsxe</a><br />2017-08-17</td><td class="p_re">1 / 12</td><td class="p_retime"><a href="/20022442.html#o" title="查看最后回复">11:17</a><br />xxlsxe</td></tr>
+
+<tr mid="20012657"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20012657sh"></div>
+
+ <a id="" href="/20012657.html">我这几首歌能有几分？</a>
+
+ [ <span class="multipage"> <a href="/20012657-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/7342295229789">九浅一深的爱</a><br />2017-08-15</td><td class="p_re">34 / 1131</td><td class="p_retime"><a href="/20012657-2.html#o" title="查看最后回复">11:04</a><br />九浅一深的爱</td></tr>
+
+<tr mid="1508959"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="1508959sh"></div>
+
+[<a href="/music-type3">转帖</a>]
+
+ <a id="" href="/1508959.html">旧磁带——张楚</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/45764055659375">jessechen</a><br />2010-08-26</td><td class="p_re">19 / 1989</td><td class="p_retime"><a href="/1508959.html#o" title="查看最后回复">09:37</a><br />海洋slgd</td></tr>
+
+<tr mid="16429089"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="16429089sh"></div>
+
+ <a id="" href="/16429089.html">许嵩的歌迷请进，探讨一下新专辑《青年晚报》！</a>
+
+<span class="light_r "><a title="有7个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/16429089-2.html">2</a> <a href="/16429089-3.html">3</a> .. <a href="/16429089-8.html">8</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/189531843319536">扑虎NK</a><br />2016-06-05</td><td class="p_re">150 / 15966</td><td class="p_retime"><a href="/16429089-8.html#o" title="查看最后回复">09:03</a><br />中海海海海</td></tr>
+
+<tr mid="20015881"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20015881sh"></div>
+
+ <a id="" href="/20015881.html">终于轮到我了，献丑发一首张国荣的《当爱已成往事》，喜欢音乐的朋友多多讨论。</a>
+
+ [ <span class="multipage"> <a href="/20015881-2.html">2</a> <a href="/20015881-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/225239652412996">脚踝怪兽</a><br />2017-08-16</td><td class="p_re">40 / 1307</td><td class="p_retime"><a href="/20015881-3.html#o" title="查看最后回复">08:52</a><br />怀化大将军</td></tr>
+
+<tr mid="3004312"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="3004312sh"></div>
+
+[<a href="/music-type2">话题</a>]
+
+ <a id="" href="/3004312.html">金典怀旧：百家争鸣万花齐放的90年代是不是中国乐坛的巅峰期？</a>
+
+<span class="light_r "><a title="有2个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/3004312-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/266647792840703">mohui1</a><br />2011-12-08</td><td class="p_re">36 / 5156</td><td class="p_retime"><a href="/3004312-2.html#o" title="查看最后回复">08:43</a><br />毛咨询</td></tr>
+
+<tr mid="2304190"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="2304190sh"></div>
+
+[<a href="/music-type2">话题</a>]
+
+ <a id="" href="/2304190.html">推荐个华裔男歌手Stevie Hoang</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/1385629179141">心痛</a><br />2011-05-25</td><td class="p_re">7 / 3372</td><td class="p_retime"><a href="/2304190.html#o" title="查看最后回复">08:41</a><br />xxlsxe</td></tr>
+
+<tr mid="20013663"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20013663sh"></div>
+
+ <a id="" href="/20013663.html">求助各位大神，两首背景音乐的歌名！</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/204181414983163">平潭土著</a><br />2017-08-16</td><td class="p_re">0 / 33</td><td class="p_retime"><a href="/20013663.html#o" title="查看最后回复">08:39</a><br />平潭土著</td></tr>
+
+<tr mid="20018173"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20018173sh"></div>
+
+ <a id="" href="/20018173.html">大家都晒一晒自己最喜欢的一个歌单吧。</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/95547695210785">哈哈大笑很倾城丶</a><br />2017-08-16</td><td class="p_re">3 / 192</td><td class="p_retime"><a href="/20018173.html#o" title="查看最后回复">08:39</a><br />百投百铁</td></tr>
+
+<tr mid="20013633"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20013633sh"></div>
+
+ <a id="" href="/20013633.html">你们听过清朝时期的国歌么</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/197136764813015">李沁红</a><br />2017-08-16</td><td class="p_re">1 / 53</td><td class="p_retime"><a href="/20013633.html#o" title="查看最后回复">08:38</a><br />湍急之河流</td></tr>
+
+<tr mid="19723152"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19723152sh"></div>
+
+[<a href="/music-type4">推荐</a>]
+
+ <a id="" href="/19723152.html">墨绿森林《爱》</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/51383090780319">lagurus</a><br />2017-07-17</td><td class="p_re">3 / 158</td><td class="p_retime"><a href="/19723152.html#o" title="查看最后回复">08:36</a><br />良田se7en</td></tr>
+
+<tr mid="19996916"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19996916sh"></div>
+
+ <a id="" href="/19996916.html"><font color=blue>我唱的《从前慢》刘欢老师听了会流泪吗？</font></a>
+
+ [ <span class="multipage"> <a href="/19996916-2.html">2</a> <a href="/19996916-3.html">3</a> .. <a href="/19996916-9.html">9</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/202602044104840">是恺不是凯</a><br />2017-08-14</td><td class="p_re">166 / 23033</td><td class="p_retime"><a href="/19996916-9.html#o" title="查看最后回复">08:11</a><br />是恺不是凯</td></tr>
+
+<tr mid="20022081"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20022081sh"></div>
+
+ <a id="" href="/20022081.html">耳机福利！泰勒斯威夫特在格莱美博物馆最佳现场钢琴弹唱！</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/225291739714442">WhateverSkylor</a><br />2017-08-17</td><td class="p_re">0 / 89</td><td class="p_retime"><a href="/20022081.html#o" title="查看最后回复">06:44</a><br />WhateverSkylor</td></tr>
+
+<tr mid="3966486"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="3966486sh"></div>
+
+ <a id="" href="/3966486.html">【我是你心里的一首歌——音乐区专属聊天大楼】乐你想乐</a>
+
+<span class="light_r "><a title="有4个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/3966486-2.html">2</a> <a href="/3966486-3.html">3</a> .. <a href="/3966486-3098.html">3098</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/dandanaw">dandanaw</a><br />2012-07-10</td><td class="p_re">61945 / 258012</td><td class="p_retime"><a href="/3966486-3098.html#o" title="查看最后回复">04:35</a><br />地場衛</td></tr>
+
+<tr mid="20014051"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20014051sh"></div>
+
+ <a id="" href="/20014051.html">有JR听过的么？  <I’m not the only one.></a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/109407591246821">MELeo</a><br />2017-08-16</td><td class="p_re">13 / 533</td><td class="p_retime"><a href="/20014051.html#o" title="查看最后回复">03:03</a><br />MELeo</td></tr>
+
+<tr mid="20001616"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20001616sh"></div>
+
+ <a id="" href="/20001616.html">我唱的这首《关于郑州的记忆》什么水平，喜欢李志的来交流下呀～</a>
+
+ [ <span class="multipage"> <a href="/20001616-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/205116719275036">jiji59476</a><br />2017-08-14</td><td class="p_re">36 / 2327</td><td class="p_retime"><a href="/20001616-2.html#o" title="查看最后回复">02:37</a><br />李大博bobobo</td></tr>
+
+<tr mid="20004402"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20004402sh"></div>
+
+ <a id="" href="/20004402.html">各位JR，有想去内耳音乐节的吗？（先锋实验摇滚为主，有腰）</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/lebronxc">僭越无人区</a><br />2017-08-14</td><td class="p_re">10 / 536</td><td class="p_retime"><a href="/20004402.html#o" title="查看最后回复">01:19</a><br />僭越无人区</td></tr>
+
+<tr mid="20018082"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20018082sh"></div>
+
+ <a id="" href="/20018082.html">我唱的《从前慢》打个分吧</a>
+
+ [ <span class="multipage"> <a href="/20018082-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/136748634345629">爱篮球而已</a><br />2017-08-16</td><td class="p_re">32 / 1674</td><td class="p_retime"><a href="/20018082-2.html#o" title="查看最后回复">01:12</a><br />爱篮球而已</td></tr>
+
+<tr mid="19879423"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19879423sh"></div>
+
+[<a href="/music-type2">话题</a>]
+
+ <a id="" href="/19879423.html">如果你的偶像准备开告别演唱会，你希望用那首歌结束？</a>
+
+<span class="light_r "><a title="有9个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19879423-2.html">2</a> <a href="/19879423-3.html">3</a> .. <a href="/19879423-25.html">25</a></span> ]&nbsp;<span class="bbs-icon-gold" title="已被赞赏10个虎扑币"></span></td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/213318980199496">来自火星的人类</a><br />2017-07-30</td><td class="p_re">484 / 40683</td><td class="p_retime"><a href="/19879423-25.html#o" title="查看最后回复">01:02</a><br />杰伦不是神</td></tr>
+
+<tr mid="17369106"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="17369106sh"></div>
+
+ <a id="" href="/17369106.html">有喜欢听自赏摇和迷幻的吗？交流交流</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/245924294225681">疯狂的后卫</a><br />2016-09-23</td><td class="p_re">13 / 437</td><td class="p_retime"><a href="/17369106.html#o" title="查看最后回复">00:47</a><br />jvfreeman</td></tr>
+
+<tr mid="19998728"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19998728sh"></div>
+
+[<a href="/music-type4">推荐</a>]
+
+ <a id="" href="/19998728.html"><font color=orange>2017-08-14    今天你唱了什么？留下你的坐标。</font></a>
+
+ [ <span class="multipage"> <a href="/19998728-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/dreamtheatre">hydo</a><br />2017-08-14</td><td class="p_re">39 / 1575</td><td class="p_retime"><a href="/19998728-2.html#o" title="查看最后回复">00:23</a><br />闷声续大命</td></tr>
+
+<tr mid="19963775"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19963775sh"></div>
+
+ <a id="" href="/19963775.html">张国荣有哪些比较抒情，节奏较慢的歌？</a>
+
+<span class="light_r "><a title="有7个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19963775-2.html">2</a> <a href="/19963775-3.html">3</a> .. <a href="/19963775-26.html">26</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/20534142008506">一生所爱莫德里奇</a><br />2017-08-09</td><td class="p_re">503 / 28533</td><td class="p_retime"><a href="/19963775-26.html#o" title="查看最后回复">00:18</a><br />我的霍华德</td></tr>
+
+<tr mid="19148886"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19148886sh"></div>
+
+ <a id="" href="/19148886.html">这是霉霉采访中说的一段话，我按照她的意思大概总结了一下，不是复制过来的。</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/36688003843812">嗨我霉女</a><br />2017-05-07</td><td class="p_re">12 / 795</td><td class="p_retime"><a href="/19148886.html#o" title="查看最后回复">00:14</a><br />娶一个妮晨</td></tr>
+
+<tr mid="20020577"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20020577sh"></div>
+
+ <a id="" href="/20020577.html">男版《可惜不是你》，来首符合虎扑主旋律的</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/240835169122215">可乐加冰s26</a><br />2017-08-16</td><td class="p_re">5 / 172</td><td class="p_retime"><a href="/20020577.html#o" title="查看最后回复">00:00</a><br />可乐加冰s26</td></tr>
+
+<tr mid="20001497"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20001497sh"></div>
+
+ <a id="" href="/20001497.html">《送你一朵山茶花》吉他弹唱欢乐版后面越唱越high了</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/230952354567809">锤子Han</a><br />2017-08-14</td><td class="p_re">3 / 183</td><td class="p_retime"><a href="/20001497.html#o" title="查看最后回复">08-16</a><br />锤子Han</td></tr>
+
+<tr mid="20019015"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20019015sh"></div>
+
+ <a id="" href="/20019015.html">终于轮到我了，一首《水星记》送给大家！望轻喷。</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/49582850609227">闷声续大命</a><br />2017-08-16</td><td class="p_re">4 / 124</td><td class="p_retime"><a href="/20019015.html#o" title="查看最后回复">08-16</a><br />闷声续大命</td></tr>
+
+<tr mid="20017395"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20017395sh"></div>
+
+ <a id="" href="/20017395.html">第一次发自己的歌。我唱的《我要你》和好基友唱的《成都》</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/231544690064062">欧洲智慧大亨</a><br />2017-08-16</td><td class="p_re">13 / 448</td><td class="p_retime"><a href="/20017395.html#o" title="查看最后回复">08-16</a><br />visogg</td></tr>
+
+<tr mid="20012984"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20012984sh"></div>
+
+ <a id="" href="/20012984.html">献丑，各位感觉我这两首歌什么水平？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/191728961989472">KyrLe23</a><br />2017-08-15</td><td class="p_re">7 / 447</td><td class="p_retime"><a href="/20012984.html#o" title="查看最后回复">08-16</a><br />邦邦撒浪嘿</td></tr>
+
+<tr mid="20012482"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20012482sh"></div>
+
+ <a id="" href="/20012482.html">自弹自唱《清白之年》 毫无编曲 比朴树版的简单很多</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/visogg">visogg</a><br />2017-08-15</td><td class="p_re">16 / 698</td><td class="p_retime"><a href="/20012482.html#o" title="查看最后回复">08-16</a><br />visogg</td></tr>
+
+<tr mid="20010019"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20010019sh"></div>
+
+ <a id="" href="/20010019.html">大家都在发歌，想让评论一下我的这个童话镇什么水平</a>
+
+ [ <span class="multipage"> <a href="/20010019-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/226814208604913">一号得分王丶</a><br />2017-08-15</td><td class="p_re">20 / 832</td><td class="p_retime"><a href="/20010019-2.html#o" title="查看最后回复">08-16</a><br />邦邦撒浪嘿</td></tr>
+
+<tr mid="19997765"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19997765sh"></div>
+
+ <a id="" href="/19997765.html">有没有男生翻唱首歌  说散就散    </a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/223990593526923">SCHH</a><br />2017-08-14</td><td class="p_re">17 / 1073</td><td class="p_retime"><a href="/19997765.html#o" title="查看最后回复">08-16</a><br />邦邦撒浪嘿</td></tr>
+
+<tr mid="20012900"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20012900sh"></div>
+
+ <a id="" href="/20012900.html">勉唱 以父之名。。</a>
+
+ [ <span class="multipage"> <a href="/20012900-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/160283756975268">上头欢乐科</a><br />2017-08-15</td><td class="p_re">25 / 1424</td><td class="p_retime"><a href="/20012900-2.html#o" title="查看最后回复">08-16</a><br />Giraso</td></tr>
+</tbody></table>
+<!--帖子列表END-->
+
+<div class="rss"><a target="_blank" href="/rss.php?fid=3442" title="通过RSS订阅音乐区的帖子">rss</a></div>
+
+<div class="page"><span class="selected">1</span><a href="/music-2">2</a><a href="/music-3">3</a><a href="/music-4">4</a><a href="/music-5">5</a>...<a href="/music-100">100</a> <input type='text' title='输入页码数，回车即可到达指定页码' onkeydown="if(event.keyCode==13){location='/music-'+this.value+'';return false}"><a id="j_next" class="next" href="/music-2">下一页&raquo;</a><span class="f666">音乐区共18827主题 / 1177264回复 &nbsp;今日485帖</span></div>
+
+<!---主体部分 end--->
+
+<div class="pub_ad">
+    <div id='bbs_list_right_320x60'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('bbs_list_right_320x60'); });</script></div>
+
+</div>
+
+
+	<div class="lpub_ad" id="lpub_ad" style="display:none;left:-133px"><div id='hoopchina-bbs-right-Optimus-120x600'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('hoopchina-bbs-right-Optimus-120x600'); });</script></div>
+</div>
+</div>
+</div></div>
+<!--内容END--><!--页面主体END-->
+
+</div><div class="pop" style="width:420px;display:none;" id="rm_div_msg"><div class="pop_content"><h2 class="mpop"><a onclick="closepop()"></a>推荐版块</h2><ul class="pop_commend"><form name="rm_form"><li>推荐语：</li><li><textarea name="tjmsg" id="tjmsg" class="j_enter"></textarea></li><li><input name="cid" id="cid" type="hidden" value="3442" /><input name="fid" type="hidden" value="3442" /><input name="Input2" type="button" class="btns2 j_tjmsg" id="j_recs" value="推 荐" /> &nbsp; &nbsp;<input name="Input2" type="button" class="btnb2" value="取 消" onclick="closepop()" /></li></form></ul></div></div>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/pcbbs/js/thread22.js?2017040115"></script>
+
+
+<div style="display: none">
+<div id='bbs_list_1x1'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('bbs_list_1x1'); });</script></div>
+</div>
+
+
+
+<div class="fback"><a class="btop" href="#">回顶部</a></div>
+<b id="footer-loadedError"></b>
+
+
+<div class="hp-footer">
+                    
+                    <div class="hp-copyright">
+                    
+                    Copyright by 虎扑JRs &amp;
+                    <a href="https://www.hupu.com/" target="_blank" title="虎扑">虎扑</a> -
+                    <a href="http://jobs.hupu.com/" target="_blank">在虎扑工作</a> -
+                    <a href="http://marketing.hupu.com/contact/" target="_blank">联系我们</a> -
+                    <a href="https://m.hupu.com/" target="_blank">手机虎扑网</a> -
+                    <a href="https://mobile.hupu.com/" target="_blank">虎扑App</a> -
+                    <a href="https://www.hupu.com/policies/terms" target="_blank">服务协议</a> -
+                    <a href="https://www.hupu.com/sitemap.html" target="_blank">网站地图</a> -
+                    <a href="https://nba.hupu.com/" target="_blank" title="NBA">NBA</a> -
+                    <a href="https://cba.hupu.com/" target="_blank" title="CBA">CBA</a>  -
+                    <a href="https://soccer.hupu.com/" target="_blank" title="足球">足球</a> -
+                    <a href="https://soccer.hupu.com/china/" target="_blank" title="中超">中超</a> -
+                    <a href="http://racing.hupu.com/" target="_blank" title="赛车">赛车</a> 
+                    </div>
+                    
+                </div>
+
+
+<script>
+	var countGATrackPageview = location.pathname+location.search+"'|bxj/174-步行街/3442-音乐区'";
+_common.init({project: "bxj",countGASetVar: "",countGATrackPageview: countGATrackPageview});	
+</script>
+<script async="true" src="//b3.hoopchina.com.cn/pcbbs/js/g85.js?20170207"></script>
+
+<script type="text/javascript" src="https://hm.baidu.com/h.js?39fc58a7ab8a311f2f6ca4dc1222a96e" async="async"></script>
+<script>IE6 = '';</script><!--[if lte IE 6]><script>IE6 = 'sucks';</script><![endif]-->
+<script>
+    try{
+      if(window.top != window.self){
+        var topHost = top.document.location.hostname;
+        if (topHost.indexOf('hupu.com') < 0 && topHost.indexOf('liangle.com') < 0 && topHost.indexOf('shihuo.cn') < 0){
+          window.top.location.href = window.self.location.href;
+        }
+      } 
+    }catch(e){}
+
+    $(function(){
+        if ($("#lpub_ad")[0]) {
+            function findPos_top(obj) {
+                var top = obj.offsetTop || 0;
+                while (obj = obj.offsetParent) {
+                    top += obj.offsetTop;
+                }
+                return top;
+            }
+
+            function findPos_left(obj) {
+                var l = obj.offsetLeft;
+                while (obj.offsetParent != null) {
+                    obj = obj.offsetParent;
+                    l += obj.offsetLeft;
+                }
+                return l;
+            }
+
+            ifSideSticky = (IE6 == 'sucks') ? false : true;
+            var pubPos = findPos_top($("#bbs_banner")[0]) - findPos_top($("#sidenav_bbs")[0]) + 403;
+            $("#lpub_ad").css('top', pubPos + 'px');
+            $("#lpub_ad").show();
+            if (!isMobile() && ifSideSticky && document.documentElement.clientHeight > 670) {
+                var contentwitdth = $("#content").width();
+                var sideSticky = function () {
+                    var now_top = document.body.scrollTop || document.documentElement.scrollTop || 0;
+                    if (now_top > pubPos + 100) {
+                        $("#lpub_ad").attr('style', 'position: fixed; _position: absolute; top:10px;left:' + (findPos_left($("#container_padd")[0]) + 13 - document.documentElement.scrollLeft) + 'px');
+                    } else {
+                        $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                    }
+                };
+                $(window).bind('scroll', sideSticky).resize(function () {
+                    $(window).unbind("scroll");
+                    $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                });
+            }
+        }
+        if ($("div .c2c_ad")[0]) {
+            if ($(".level2header").attr('title')) {
+                $("div .c2c_ad").css('top', "-66px").show();
+            } else {
+                $("div .c2c_ad").css('top', '-114px').show();
+            }
+        }
+    })
+
+    /**
+     * check is mobile device
+     */
+    function isMobile() {
+        var userAgent = navigator.userAgent.toLowerCase(),
+                mobile = /Mobile/i.test( userAgent ) || 'ontouchstart' in document.documentElement;
+        return mobile;
+    }
+
+</script>
+</body>
+</html>
+

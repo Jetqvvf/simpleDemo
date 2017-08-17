@@ -1,0 +1,882 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<link rel="dns-prefetch" href="//b1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//b3.hoopchina.com.cn" />
+
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.hupu.com/bbs/161" />
+<meta name="mobile-agent" content="format=html5;url=https://m.hupu.com/bbs/161" />
+
+<title>股票区 - 虎扑社区</title>
+<meta name="keywords" content="股票区" />
+<meta name="description" content="股票区来自虎扑步行街社区，股市有风险，投资须谨慎。" />
+<link rel="alternate" type="application/rss+xml" title="股票区" href="/rss.php?fid=161" />
+<base href="//bbs.hupu.com" /><!--[if IE 6]></base><![endif]-->
+<link rel="canonical" href="https://bbs.hupu.com/finance" />
+<link rel="alternate" href="android-app://com.hupu.games/huputiyu/bbs/board/161?r=hupucom"/>
+<script type='text/javascript'>var __daceDataNameOfForum='161';var __daceDataNameOfCategory = '174'; var __daceDataNameOfProject='bxj';var __daceDataNameOfChannel='gambia';</script>
+<meta name="apple-itunes-app" content="app-id=906632439" />
+<link rel="shortcut icon" href="//b3.hoopchina.com.cn/common/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="//b3.hoopchina.com.cn/common/common-v1.css" />
+<script src="//b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js"></script> 
+<script src="//b3.hoopchina.com.cn/common/common-v1.js"></script>
+<link rel='stylesheet' type='text/css' href='//b3.hoopchina.com.cn/css/hupu-v56.css?2017070320' />
+<link rel='apple-touch-icon' href='https://b1.hoopchina.com.cn/common/apple-touch-icon.png'/>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/pcbbs/js/j15.js"></script>
+</head>
+<body>
+<!--topbarNav star-->
+                        <div id="hp-topbarNav">
+                            <div class="hp-topbarNav-bd">
+                                <ul class="hp-quickNav">
+                                    <li class="mobileWeb"><a href="https://m.hupu.com/" target="_blank"><i class="ico-mobile"></i>手机虎扑</a></li>
+                                    <li class="line">|</li>
+                                    <li class="mobileclientDown"><a class="red" href="https://mobile.hupu.com/?_r=globalNav" target="_blank">虎扑客户端</a></li>
+                                    <li class="line">|</li>
+			                        <li><a class="red" href="https://mobile.hupu.com/football?r=global_nav" target="_blank">虎扑足球客户端</a></li>
+                                    <li class="line">|</li>
+                                    <li class="hp-dropDownMenu topFollowBlog">
+                                        <a href="javascript:void(0)" class="hp-set">关注虎扑<s class="setArrow"></s></a>
+                                        <div class="hp-drapDown followLayer">
+                                            <a class="weibo" target="_blank" rel="nofollow" href="//weibo.com/liangle4u"><i class="hp-ico-weibo"></i>新浪微博</a>
+											<a class="weixin" target="_blank" href="https://voice.hupu.com/other/1581560.html"><i class="hp-ico-weixin"></i>官方微信</a>
+                                            <a class="instagram" target="_blank" rel="nofollow" href="https://voice.hupu.com/other/1634334.html"><i class="hp-ico-instagram"></i>Instagram</a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="hp-topLogin-info"></div>
+                            </div>
+                        </div>
+                        <!--topbarNav ent--><!--header star--><div class="hp-header hp-header-B"><div class="hp-logo"><a title="步行街" href="https://bbs.hupu.com/all-gambia"><img src="https://b3.hoopchina.com.cn/images/logo2017/v1/hp_logo_sports.png" alt="步行街" /></a>
+                            </div>
+                            <div class="hp-mainNav hp-mainNav-B">
+                                <div class="hp-nav">
+                                    <div class="hp-nav-bd">
+                                        <ul class="hp-nav-item"><li><a href="https://www.hupu.com/" >虎扑首页</a></li><li class="line">|</li><li><a href="https://nba.hupu.com/" >NBA</a></li><li class="line">|</li><li><a href="https://cba.hupu.com/" >CBA</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com" >国际足球</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com/china/" >中国足球</a></li><li class="line">|</li><li><a href="http://racing.hupu.com/" >赛车</a></li><li class="line">|</li><li><a href="http://zb.hupu.com/" target="_blank">装备</a></li><li class="line">|</li><li><a href="http://www.shihuo.cn/" target="_blank">识货</a></li><li class="line">|</li><li><a href="http://v.liangle.com/" >视频</a></li><li class="line">|</li><li><a href="http://photo.hupu.com/" >图片</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/" >社区</a></li><li class="line">|</li><li class="on"><a href="https://bbs.hupu.com/all-gambia" >步行街</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/all-esports" >电竞</a></li><li class="line">|</li><li><a href="http://www.liangle.com" target="_blank">路人王</a></li><li class="line">|</li><li class="hp-dropDownMenu hp-moreNav">
+                                                <a href="javascript:void(0)" class="hp-set">更多<s class="setArrow"></s></a>
+                                                <div class="hp-drapDown hp-moreNav-drapDown"><a href="https://shop311048929.taobao.com/" target="_blank">虎扑优选</a><a href="http://www.kaluli.com/" target="_blank">卡路里</a><a href="http://outdoor.hupu.com/" >户外</a><a href="http://run.hupu.com/" >跑步</a><a href="http://ymq.hupu.com/" >羽毛球</a><a href="http://xgame.hupu.com/" target="_blank">xgames</a><a href="http://www.nflchina.com/" target="_blank">NFL</a><a href="http://golf.hupu.com/" target="_blank">高尔夫</a><s class="arrow-top"><s class="arrowbd"></s></s>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="hp-subNav">
+			<ul class="hp-subNav-item">
+                <li><a href="https://bbs.hupu.com/all-gambia">首页</a></li>
+            </ul>
+</div>
+                                <i class="hp-roundPoint-br-tl roundPoint-br-tl"></i>
+                                <i class="hp-roundPoint-br-tr roundPoint-br-tr"></i>
+                                <i class="hp-roundPoint-br-bl roundPoint-br-bl"></i>
+                                <i class="hp-roundPoint-br-br roundPoint-br-br"></i>
+                            </div>
+                        </div>
+
+
+
+
+			<div class="hp-threeNav">
+			<div class="hp-threeNav-bd">
+			<ul class="hp-threeNav-item"><li><a href='/all-gambia'  data-project='bxj' id='g_b'>步行街热帖</a></li><li ><a href='/bxj'  >步行街主干道</a></li><li ><a href='/ent'  >影视</a></li><li ><a href='/digital'  >IT数码</a></li><li ><a href='/selfie'  >爆照</a></li><li ><a href='/lol'  >英雄联盟</a></li><li ><a href='/kog'  >王者荣耀</a></li><li ><a href='/acg'  >ACG</a></li><li ><a href='/finance' class="on" >股票</a></li><li  class="hp-hide-w1024"><a href='/cars'  >车友交流</a></li><li  class="hp-hide-w1024"><a href='/music'  >音乐</a></li><li  class="hp-hide-w1024"><a href='/xuefu'  >学府路</a></li><li  class="hp-hide-w1024"><a href='/999'  >万事屋</a></li></ul></div><i id='level2header' title='首页'></i>
+				<div class="hp-search">
+					<form id="hp-form-search" method="get" enctype="multipart/form-data" action="https://my.hupu.com/search">
+						<input type="text" value="搜索视频、帖子" class="it-search" />
+						<input type="submit" value="搜索" class="btn-search" />
+					</form>
+				</div>
+			</div>
+		
+<div class="hp-wrap">
+
+
+<!--页面主体 -->
+<div id="container" class="rel"><div id="container_padd">
+<!---主体部分 start--->
+				<div id="sidenav_bbs"><div id="bbs_banner"><h4><a class="h4_t">版块分类</a></h4><ul>
+		<li id="l1" lid="1"><a href="//bbs.hupu.com/all-nba">NBA论坛</a></li>
+		<li id="l232" lid="232"><a href="//bbs.hupu.com/all-cba">CBA论坛</a></li>
+		<li id="l233" lid="233"><a href="//bbs.hupu.com/all-gear">运动&装备</a></li>
+		<li id="l198" lid="198"><a href="//bbs.hupu.com/all-soccer">国际足球论坛</a></li>
+		<li id="l4596" lid="4596"><a href="//bbs.hupu.com/all-csl">中国足球论坛</a></li>
+		<li id="l41" lid="41"><a href="//bbs.hupu.com/all-sports">综合体育</a></li><li id="l174" lid="174"><a href="//bbs.hupu.com/all-gambia">步行街</a></li>
+	<li id="l42" lid="42"><a href="//bbs.hupu.com/all-lottery">彩票中心</a></li>
+	<li id="l238" lid="238"><a href="//bbs.hupu.com/all-boards">自建版块</a></li>
+	<li id="l114" lid="114"><a href="//bbs.hupu.com/all-group">虎扑社团</a></li>
+	<li id="l7" lid="7"><a href="//bbs.hupu.com/all-feedback">站务管理</a></li>
+	</ul></div>
+				<div class="sidenav_pop_tips"><p class="more"><a href="//bbs.hupu.com/boards.php">更多版块 &raquo;</a></p></div>
+				
+				</div>
+<!---右侧 start--->
+
+<div id="content">
+<!--头部-->
+
+<div itemscope itemtype="http://schema.org/WebPage" class="bbs_head">
+<div itemprop="breadcrumb" class="breadCrumbs"><a href="/">社区</a>&nbsp;&raquo;&nbsp;<a href="/all-gambia">步行街</a></div>
+
+<div class="right"><form id="forum_see" method="get" enctype="multipart/form-data" name="forum_see" action="//my.hupu.com/search"><input type="hidden" name='fid' value='161' /><input type="hidden" name='type' value='topic' /><input id="search_thread" name="q" type="text" class="tabs_input" value="搜索本版帖子" title="搜索股票区的帖子" /><input type="submit" value="" class="tabs_btn" /></form></div>
+<div id="googlepub" class="right" style="margin-right:5px;"></div>
+<h1 class="left"><span id="forumname" fid="161" fidurl="finance">股票区</span>
+
+</h1>&nbsp;
+<div class="clearfix" style="*height:0;"></div>
+
+<div class="pl_nav ">
+
+<style>
+.pl_nav{background:#fdfdfd url(https://i1.hoopchina.com.cn/blogfile/201706/09/BbsImg149699737954006_1020x118big.png) no-repeat 0px 0px;cursor:pointer;}
+#childBoards{width: 600px;}
+</style>
+<script>
+$(function(){
+    $('.pl_nav ').bind('click', function(event) {
+        if ( event.target.nodeName !== 'A' ) {
+            window.open("https://goto.hupu.com/?a=goClick&id=14597", '_blank');
+            return false;
+        }
+    });
+});
+</script>
+<span class="pl_d">&nbsp;</span><div class="pl_top">
+版块介绍：<span id="des_forum">股市有风险，投资须谨慎。</span><br />
+
+版主：<a class="u" target="_blank" href="https://my.hupu.com/233772650262897">盒饭</a><span class="f666"></span> <a class="u" target="_blank" href="https://my.hupu.com/cjzf">曾经蒸发</a><span class="f666"></span> <a class="u" target="_blank" href="https://my.hupu.com/279768607939237">sky761</a><span class="f666"></span> <a class="u" target="_blank" href="https://my.hupu.com/260343701925349">david2059</a><span class="f666"></span> </div>
+
+<div id="navigation"><span id="nav_change">
+<ul>
+
+<li><a href="https://bbs.hupu.com/13595499.html" target="_blank">股票区版规——良好的环境需要每个人守护</a></li>
+
+<li><a href="" target="_blank">股票区欢迎讨论股票，允许调戏，禁止一切个人攻击。</a></li>
+
+<li><a href="https://bbs.hupu.com/14892249.html" target="_blank">不要相信非认证广告号的股票群，本区楼主都未参与其中</a></li>
+
+<li><a href="https://goto.hupu.com/?a=goClick&id=14570" target="_blank">JR福利来了，点我立享万2.5佣金炒股</a></li>
+
+</ul>
+</span><div class="clear"></div>
+</div>
+
+
+<script type='text/javascript'>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') +
+				'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script>
+<script type='text/javascript'>
+var adwidth = screen.width>1152 ? 1020 : 810;
+googletag.cmd.push(function() {
+googletag.defineSlot('/1016953/nba_bbs_list_right_320x60', [320, 60], 'bbs_list_right_320x60').addService(googletag.pubads());
+googletag.defineSlot('/1016953/hoopchina-bbs-right-Optimus-120x600', [120, 600], 'hoopchina-bbs-right-Optimus-120x600').addService(googletag.pubads());
+googletag.defineSlot('/1016953/nba_bbs_list_1x1', [1, 1], 'bbs_list_1x1').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+
+
+</div>
+
+
+<div class="clearfix" style="*height:0;"></div>
+</div>
+<!--头部END-->
+<!---标签页 start--->
+<div class="tabs_header zoom" id="tabs_header">
+<ul class="left">
+<li class="selected"><a href="/finance">主题</a></li><li><a href="/finance-digest">精华</a></li><li><a title="今日6个亮回帖" href="/finance/highlights">亮了(6)</a></li>
+
+<li><a href="/finance/members">成员</a></li>
+
+<li><a href="/finance/ranking"><span >赞赏排行</span></a></li>
+
+</ul>
+
+<div class="right">
+
+<a id="g_n" class="issue_button" rel="nofollow me noopener noreferrer" href="/post.php?fid=161">发新帖</a>
+</div>
+
+<div class="clearfix tabs_border"></div>
+
+</div>
+<!---标签页 end---><!--内容分类-->
+<div id="sort">
+<div class="fr">
+<form style="display:inline">
+<select id="orderway" style="vertical-align:middle; _vertical-align:top;">
+
+<option value="null" selected>排序方式</option>
+<option value="lastpost">按回帖时间排序</option>
+<option value="postdate">按发帖时间排序</option>
+
+</select></form>
+</div>
+
+<div class="clearfix" style="*height:0;"></div>
+</div>
+<!--内容分类END--><!--帖子列表-->
+
+<table id="pl" class="bbstopic ptable topiclisttr" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+	<th>&nbsp;</th>
+	<th align="left">主题</th>
+	<th align="left" width="100">作者</th>
+	<th width="110">回复 / 浏览</th>
+	<th align="left" width="85">最后回复</th>
+</tr><tbody>
+
+<tr mid="19289324"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19289324sh"></div>
+
+<font style="color:#b50000">[置顶]</font> <a id="" href="/19289324.html"><b><font color=red>【公告】国金证券佣金宝正式入驻股票区，带来最专业最及时的股市信息</font></b></a>
+
+<span class="light_r "><a title="有4个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19289324-2.html">2</a> <a href="/19289324-3.html">3</a> .. <a href="/19289324-6.html">6</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/272380999276581">虎扑团队</a><br />2017-05-25</td><td class="p_re">105 / 9846</td><td class="p_retime"><a href="/19289324-6.html#o" title="查看最后回复">08-16</a><br />让球飞起来</td></tr>
+
+<tr mid="19715677"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19715677sh"></div>
+
+ <a id="" href="/19715677.html"><font color=red>熊市攒股 慢熊养心 猥琐发育 全面发展</font></a>
+
+<span class="light_r "><a title="有25个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19715677-2.html">2</a> <a href="/19715677-3.html">3</a> .. <a href="/19715677-1525.html">1525</a></span> ]&nbsp;<span class="bbs-icon-gold" title="已被赞赏94个虎扑币"></span></td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/58737997705789">体育竞技励志</a><br />2017-07-16</td><td class="p_re">30487 / 655749</td><td class="p_retime"><a href="/19715677-1525.html#o" title="查看最后回复">13:20</a><br />七夜雪zjy</td></tr>
+
+<tr mid="19544256"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19544256sh"></div>
+
+ <a id="" href="/19544256.html">股票流水账</a>
+
+ [ <span class="multipage"> <a href="/19544256-2.html">2</a> <a href="/19544256-3.html">3</a> .. <a href="/19544256-8.html">8</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/257730790749097">丰神俊朗</a><br />2017-06-27</td><td class="p_re">151 / 4591</td><td class="p_retime"><a href="/19544256-8.html#o" title="查看最后回复">13:15</a><br />丰神俊朗</td></tr>
+
+<tr mid="19769632"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19769632sh"></div>
+
+ <a id="" href="/19769632.html">开个实盘！看自己还能亏多少！</a>
+
+ [ <span class="multipage"> <a href="/19769632-2.html">2</a> <a href="/19769632-3.html">3</a> <a href="/19769632-4.html">4</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/272690681267078">jacksoncjp</a><br />2017-07-21</td><td class="p_re">66 / 3957</td><td class="p_retime"><a href="/19769632-4.html#o" title="查看最后回复">13:10</a><br />jacksoncjp</td></tr>
+
+<tr mid="20020633"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20020633sh"></div>
+
+ <a id="" href="/20020633.html">实盘截图，明天雄安送我上天</a>
+
+ [ <span class="multipage"> <a href="/20020633-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/127476178522645">且住丿饮酒来</a><br />2017-08-16</td><td class="p_re">30 / 1496</td><td class="p_retime"><a href="/20020633-2.html#o" title="查看最后回复">13:04</a><br />唯我詹独尊</td></tr>
+
+<tr mid="19332184"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19332184sh"></div>
+
+ <a id="" href="/19332184.html">投资计划：20万到100万实盘养成记（持续更新ing）</a>
+
+ [ <span class="multipage"> <a href="/19332184-2.html">2</a> <a href="/19332184-3.html">3</a> .. <a href="/19332184-76.html">76</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/117238738929740">苍穹vip77098</a><br />2017-05-31</td><td class="p_re">1515 / 103391</td><td class="p_retime"><a href="/19332184-76.html#o" title="查看最后回复">13:00</a><br />温岭养猪王</td></tr>
+
+<tr mid="19180167"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19180167sh"></div>
+
+ <a id="" href="/19180167.html">现在这个市场，可以总结为存量博弈四个字</a>
+
+<span class="light_r "><a title="有3个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19180167-2.html">2</a> <a href="/19180167-3.html">3</a> .. <a href="/19180167-245.html">245</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/89010186366175">希夏邦驴</a><br />2017-05-11</td><td class="p_re">4881 / 208487</td><td class="p_retime"><a href="/19180167-245.html#o" title="查看最后回复">12:54</a><br />希夏邦驴</td></tr>
+
+<tr mid="19962314"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19962314sh"></div>
+
+ <a id="" href="/19962314.html">今天账户终于创新高了，今年市场难做得想哭</a>
+
+ [ <span class="multipage"> <a href="/19962314-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/108046764752724">破碎夹子</a><br />2017-08-09</td><td class="p_re">22 / 2688</td><td class="p_retime"><a href="/19962314-2.html#o" title="查看最后回复">12:39</a><br />榜样勒布朗</td></tr>
+
+<tr mid="19957311"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19957311sh"></div>
+
+ <a id="" href="/19957311.html">股市老鸟，发帖专门解股</a>
+
+ [ <span class="multipage"> <a href="/19957311-2.html">2</a> <a href="/19957311-3.html">3</a> .. <a href="/19957311-34.html">34</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/197725761081054">知名评论员</a><br />2017-08-09</td><td class="p_re">677 / 19229</td><td class="p_retime"><a href="/19957311-34.html#o" title="查看最后回复">12:38</a><br />榜样勒布朗</td></tr>
+
+<tr mid="10420114"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="10420114sh"></div>
+
+ <a id="" href="/10420114.html"><font color=orange>投资是一场修行（个人实盘记录贴）</font></a>
+
+<span class="light_r "><a title="有8个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/10420114-2.html">2</a> <a href="/10420114-3.html">3</a> .. <a href="/10420114-374.html">374</a></span> ]&nbsp;<span class="bbs-icon-gold" title="已被赞赏100个虎扑币"></span></td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/260343701925349">david2059</a><br />2014-09-15</td><td class="p_re">7467 / 529341</td><td class="p_retime"><a href="/10420114-374.html#o" title="查看最后回复">12:31</a><br />david2059</td></tr>
+
+<tr mid="20022803"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20022803sh"></div>
+
+ <a id="" href="/20022803.html">【热线】8月17日开盘，创业板这是要回调“晚节不保”？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/yongjinbao">佣金宝</a><br />2017-08-17</td><td class="p_re">12 / 10171</td><td class="p_retime"><a href="/20022803.html#o" title="查看最后回复">12:23</a><br />钱德勒_帕森斯</td></tr>
+
+<tr mid="18677268"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="18677268sh"></div>
+
+ <a id="" href="/18677268.html">【中年人炒股日常记录】17.8.10 扔了宝钢和糖果，感觉进入市场冷静期了，我也需要冷静...</a>
+
+ [ <span class="multipage"> <a href="/18677268-2.html">2</a> <a href="/18677268-3.html">3</a> .. <a href="/18677268-10.html">10</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/48728188550139">非典型英雄</a><br />2017-03-09</td><td class="p_re">182 / 10555</td><td class="p_retime"><a href="/18677268-10.html#o" title="查看最后回复">12:11</a><br />非典型英雄</td></tr>
+
+<tr mid="19990504"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19990504sh"></div>
+
+ <a id="" href="/19990504.html">有高手帮我看下深套的股吗</a>
+
+ [ <span class="multipage"> <a href="/19990504-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/110957243448332">今晚打老虎ooo</a><br />2017-08-13</td><td class="p_re">25 / 920</td><td class="p_retime"><a href="/19990504-2.html#o" title="查看最后回复">12:02</a><br />好心情888</td></tr>
+
+<tr mid="20023959"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023959sh"></div>
+
+ <a id="" href="/20023959.html">大名城。。一只每天涨跌幅度控制在0.5％的股票。。。</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/16292851849525">怒苍秦仲海</a><br />2017-08-17</td><td class="p_re">1 / 76</td><td class="p_retime"><a href="/20023959.html#o" title="查看最后回复">11:50</a><br />我就是来聊聊天</td></tr>
+
+<tr mid="20020668"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20020668sh"></div>
+
+ <a id="" href="/20020668.html">大家觉得证券人员怎么样</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/180147233919167">仙道爱流川枫</a><br />2017-08-16</td><td class="p_re">4 / 148</td><td class="p_retime"><a href="/20020668.html#o" title="查看最后回复">11:12</a><br />pin_c</td></tr>
+
+<tr mid="20023224"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023224sh"></div>
+
+ <a id="" href="/20023224.html">昨天刚买的苏宁云商今天停牌了，是福还是祸？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/127451171017939">看不见的甲壳虫</a><br />2017-08-17</td><td class="p_re">4 / 156</td><td class="p_retime"><a href="/20023224.html#o" title="查看最后回复">11:08</a><br />马基路斯</td></tr>
+
+<tr mid="18135528"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="18135528sh"></div>
+
+ <a id="" href="/18135528.html">开个新帖去去晦气 专心讲我的路吧</a>
+
+ [ <span class="multipage"> <a href="/18135528-2.html">2</a> <a href="/18135528-3.html">3</a> .. <a href="/18135528-146.html">146</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/223212261406043">互砍比罚球就赢了</a><br />2016-12-29</td><td class="p_re">2917 / 158249</td><td class="p_retime"><a href="/18135528-146.html#o" title="查看最后回复">11:05</a><br />我被蛇玩过了</td></tr>
+
+<tr mid="20020799"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20020799sh"></div>
+
+ <a id="" href="/20020799.html">有研究血液制品行业的吗？我觉得是个好行业啊</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/4277378417369">黑蛋不是蛋</a><br />2017-08-16</td><td class="p_re">2 / 177</td><td class="p_retime"><a href="/20020799.html#o" title="查看最后回复">10:53</a><br />唱歌就跑调</td></tr>
+
+<tr mid="18089988"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="18089988sh"></div>
+
+ <a id="" href="/18089988.html">虎扑巴菲特成长史</a>
+
+<span class="light_r "><a title="有2个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/18089988-2.html">2</a> <a href="/18089988-3.html">3</a> .. <a href="/18089988-6.html">6</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/70806841275483">浪子愿回头</a><br />2016-12-24</td><td class="p_re">109 / 7965</td><td class="p_retime"><a href="/18089988-6.html#o" title="查看最后回复">10:13</a><br />海盗分金</td></tr>
+
+<tr mid="20010140"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20010140sh"></div>
+
+ <a id="" href="/20010140.html">为什么我一直和大家说要买白马蓝筹股</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/104513092046317">的确比他好</a><br />2017-08-15</td><td class="p_re">4 / 573</td><td class="p_retime"><a href="/20010140.html#o" title="查看最后回复">09:56</a><br />彤彤小菠萝</td></tr>
+
+<tr mid="19804554"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19804554sh"></div>
+
+ <a id="" href="/19804554.html">谈谈我的股票世界观！</a>
+
+ [ <span class="multipage"> <a href="/19804554-2.html">2</a> <a href="/19804554-3.html">3</a> <a href="/19804554-4.html">4</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/226338167788781">向着阳光06</a><br />2017-07-25</td><td class="p_re">60 / 3984</td><td class="p_retime"><a href="/19804554-4.html#o" title="查看最后回复">09:54</a><br />彤彤小菠萝</td></tr>
+
+<tr mid="19759643"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19759643sh"></div>
+
+ <a id="" href="/19759643.html">证券市场书籍</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/85852307767736">你们看我吊么</a><br />2017-07-20</td><td class="p_re">5 / 259</td><td class="p_retime"><a href="/19759643.html#o" title="查看最后回复">09:46</a><br />彤彤小菠萝</td></tr>
+
+<tr mid="19780283"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19780283sh"></div>
+
+ <a id="" href="/19780283.html">中印一旦开火，国防军工板块是不是就要起飞了？</a>
+
+<span class="light_r "><a title="有1个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19780283-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/79710620500071">柬埔寨第一寒冰</a><br />2017-07-22</td><td class="p_re">20 / 2195</td><td class="p_retime"><a href="/19780283-2.html#o" title="查看最后回复">09:45</a><br />彤彤小菠萝</td></tr>
+
+<tr mid="19767357"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19767357sh"></div>
+
+ <a id="" href="/19767357.html">股票街可谈</a>
+
+ [ <span class="multipage"> <a href="/19767357-2.html">2</a> <a href="/19767357-3.html">3</a> <a href="/19767357-4.html">4</a> <a href="/19767357-5.html">5</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/38548421570383">证券经纪人</a><br />2017-07-21</td><td class="p_re">89 / 2968</td><td class="p_retime"><a href="/19767357-5.html#o" title="查看最后回复">09:27</a><br />证券经纪人</td></tr>
+
+<tr mid="19745496"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19745496sh"></div>
+
+ <a id="" href="/19745496.html">新版530过后，只做周期股。5W实盘直播冲10W</a>
+
+ [ <span class="multipage"> <a href="/19745496-2.html">2</a> <a href="/19745496-3.html">3</a> .. <a href="/19745496-9.html">9</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/61390456985527">股中做乐</a><br />2017-07-18</td><td class="p_re">168 / 10707</td><td class="p_retime"><a href="/19745496-9.html#o" title="查看最后回复">07:52</a><br />股中做乐</td></tr>
+
+<tr mid="18156227"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="18156227sh"></div>
+
+ <a id="" href="/18156227.html">七月已经过去，只希望剩下的五个月再中几次新股</a>
+
+ [ <span class="multipage"> <a href="/18156227-2.html">2</a> <a href="/18156227-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/229587230500482">amarnieve</a><br />2017-01-01</td><td class="p_re">57 / 3705</td><td class="p_retime"><a href="/18156227-3.html#o" title="查看最后回复">01:52</a><br />dakosi</td></tr>
+
+<tr mid="19940509"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19940509sh"></div>
+
+ <a id="" href="/19940509.html">那些收费推荐股票的可信么</a>
+
+<span class="light_r "><a title="有2个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19940509-2.html">2</a> <a href="/19940509-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/91038544834505">蜗牛哥007</a><br />2017-08-07</td><td class="p_re">50 / 3337</td><td class="p_retime"><a href="/19940509-3.html#o" title="查看最后回复">00:07</a><br />赖燕芳</td></tr>
+
+<tr mid="19275928"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19275928sh"></div>
+
+ <a id="" href="/19275928.html">找个地方，每天复复盘，记录记录失误操作，克服懒惰，就这样。</a>
+
+ [ <span class="multipage"> <a href="/19275928-2.html">2</a> <a href="/19275928-3.html">3</a> .. <a href="/19275928-22.html">22</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/214644365389100">SniperM</a><br />2017-05-23</td><td class="p_re">428 / 21000</td><td class="p_retime"><a href="/19275928-22.html#o" title="查看最后回复">08-16</a><br />zqbxrambo</td></tr>
+
+<tr mid="19754985"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19754985sh"></div>
+
+ <a id="" href="/19754985.html">学生党刚刚接触股票，向请教下大家</a>
+
+<span class="light_r "><a title="有1个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19754985-2.html">2</a> <a href="/19754985-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/90454174937070">大英头牌</a><br />2017-07-19</td><td class="p_re">58 / 3807</td><td class="p_retime"><a href="/19754985-3.html#o" title="查看最后回复">08-16</a><br />榜样勒布朗</td></tr>
+
+<tr mid="20017724"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20017724sh"></div>
+
+ <a id="" href="/20017724.html"><b><font color=red>【赛后】小票崛起？！沪指报3246.45-0.15%，深证报10600.78+0.39%创业板1825.19+1.48%</font></b></a>
+
+<span class="light_r "><a title="有3个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/20017724-2.html">2</a> <a href="/20017724-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/yongjinbao">佣金宝</a><br />2017-08-16</td><td class="p_re">53 / 14518</td><td class="p_retime"><a href="/20017724-3.html#o" title="查看最后回复">08-16</a><br />lovetangna</td></tr>
+
+<tr mid="17622613"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="17622613sh"></div>
+
+ <a id="" href="/17622613.html">96W闯A股，争取一年30%</a>
+
+ [ <span class="multipage"> <a href="/17622613-2.html">2</a> <a href="/17622613-3.html">3</a> .. <a href="/17622613-8.html">8</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/40690554582992">钢菊</a><br />2016-10-27</td><td class="p_re">147 / 21051</td><td class="p_retime"><a href="/17622613-8.html#o" title="查看最后回复">08-16</a><br />荒野_hunter</td></tr>
+
+<tr mid="18145127"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="18145127sh"></div>
+
+ <a id="" href="/18145127.html">我也在这里盖一个楼，本人的低风险组合理财记录 2017</a>
+
+ [ <span class="multipage"> <a href="/18145127-2.html">2</a> <a href="/18145127-3.html">3</a> .. <a href="/18145127-11.html">11</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/219945998327457">zhjienc</a><br />2016-12-31</td><td class="p_re">206 / 13231</td><td class="p_retime"><a href="/18145127-11.html#o" title="查看最后回复">08-16</a><br />zhjienc</td></tr>
+
+<tr mid="20018823"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20018823sh"></div>
+
+ <a id="" href="/20018823.html">601898有老哥懂的吗</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/194196077112548">逅入狂魔詹姆兰尼斯特</a><br />2017-08-16</td><td class="p_re">4 / 208</td><td class="p_retime"><a href="/20018823.html#o" title="查看最后回复">08-16</a><br />熊市猎人</td></tr>
+
+<tr mid="19672022"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19672022sh"></div>
+
+ <a id="" href="/19672022.html">2017/8/10 周线8连阳 （主页附带一些细节）</a>
+
+ [ <span class="multipage"> <a href="/19672022-2.html">2</a> <a href="/19672022-3.html">3</a> .. <a href="/19672022-38.html">38</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/102438987693882">buts5e2</a><br />2017-07-12</td><td class="p_re">757 / 22625</td><td class="p_retime"><a href="/19672022-38.html#o" title="查看最后回复">08-16</a><br />buts5e2</td></tr>
+
+<tr mid="20019245"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20019245sh"></div>
+
+ <a id="" href="/20019245.html">大家看看长期定投买这几个哪个好</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/191387070630697">Clutch韧性</a><br />2017-08-16</td><td class="p_re">0 / 66</td><td class="p_retime"><a href="/20019245.html#o" title="查看最后回复">08-16</a><br />Clutch韧性</td></tr>
+
+<tr mid="20006295"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20006295sh"></div>
+
+ <a id="" href="/20006295.html"><b><font color=red>【热线】8月15日开盘，周期熄火or小盘股强势归来？！</font></b></a>
+
+<span class="light_r "><a title="有2个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/20006295-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/yongjinbao">佣金宝</a><br />2017-08-15</td><td class="p_re">37 / 11327</td><td class="p_retime"><a href="/20006295-2.html#o" title="查看最后回复">08-16</a><br />琪琪琪仔</td></tr>
+
+<tr mid="20013759"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20013759sh"></div>
+
+ <a id="" href="/20013759.html">进攻的号角已经吹响-写在大盘起飞前的狂想</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/138943426271335">RiverJady</a><br />2017-08-16</td><td class="p_re">10 / 604</td><td class="p_retime"><a href="/20013759.html#o" title="查看最后回复">08-16</a><br />swllarry</td></tr>
+
+<tr mid="17188758"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="17188758sh"></div>
+
+ <a id="" href="/17188758.html">手中有股票有被套牢的朋友，发送代码和买入价，我给出解套方案</a>
+
+<span class="light_r "><a title="有3个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/17188758-2.html">2</a> <a href="/17188758-3.html">3</a> .. <a href="/17188758-47.html">47</a></span> ]&nbsp;<span class="bbs-icon-gold" title="已被赞赏10个虎扑币"></span></td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/275882592979771">前职业操盘手</a><br />2016-08-30</td><td class="p_re">925 / 45411</td><td class="p_retime"><a href="/17188758-47.html#o" title="查看最后回复">08-16</a><br />Dirkson</td></tr>
+
+<tr mid="19745013"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19745013sh"></div>
+
+ <a id="" href="/19745013.html">原创！创业板本次调整最大可能结束在1641.38点</a>
+
+ [ <span class="multipage"> <a href="/19745013-2.html">2</a> <a href="/19745013-3.html">3</a> <a href="/19745013-4.html">4</a> <a href="/19745013-5.html">5</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/270859516150139">东南亚影魔</a><br />2017-07-18</td><td class="p_re">87 / 4570</td><td class="p_retime"><a href="/19745013-5.html#o" title="查看最后回复">08-16</a><br />东南亚影魔</td></tr>
+
+<tr mid="19709528"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19709528sh"></div>
+
+ <a id="" href="/19709528.html">短线实盘交流</a>
+
+ [ <span class="multipage"> <a href="/19709528-2.html">2</a> <a href="/19709528-3.html">3</a> <a href="/19709528-4.html">4</a> <a href="/19709528-5.html">5</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/253537649199620">一网一网没有鱼</a><br />2017-07-15</td><td class="p_re">99 / 3399</td><td class="p_retime"><a href="/19709528-5.html#o" title="查看最后回复">08-16</a><br />一网一网没有鱼</td></tr>
+
+<tr mid="20014763"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20014763sh"></div>
+
+ <a id="" href="/20014763.html"><b><font color=red>【热线】8月16日，原谅色开盘，谨防再次回调！</font></b></a>
+
+<span class="light_r "><a title="有2个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/20014763-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/yongjinbao">佣金宝</a><br />2017-08-16</td><td class="p_re">34 / 11373</td><td class="p_retime"><a href="/20014763-2.html#o" title="查看最后回复">08-16</a><br />我叫PPP333</td></tr>
+
+<tr mid="19822287"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19822287sh"></div>
+
+ <a id="" href="/19822287.html">我想告诉大家的是，散户赚钱是需要很深的研究能力，私募基金也许是现在最好的选择...</a>
+
+ [ <span class="multipage"> <a href="/19822287-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/191191992278293">shorjet</a><br />2017-07-27</td><td class="p_re">29 / 1923</td><td class="p_retime"><a href="/19822287-2.html#o" title="查看最后回复">08-16</a><br />彤彤小菠萝</td></tr>
+
+<tr mid="19790441"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19790441sh"></div>
+
+ <a id="" href="/19790441.html">说说初入股市大家看过受益匪浅的一本书吧</a>
+
+ [ <span class="multipage"> <a href="/19790441-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/216237574254146">白头生</a><br />2017-07-23</td><td class="p_re">26 / 1031</td><td class="p_retime"><a href="/19790441-2.html#o" title="查看最后回复">08-16</a><br />彤彤小菠萝</td></tr>
+
+<tr mid="19737253"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19737253sh"></div>
+
+ <a id="" href="/19737253.html">关于外汇平台的疑问</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/212181673663802">人马座射手</a><br />2017-07-17</td><td class="p_re">16 / 380</td><td class="p_retime"><a href="/19737253.html#o" title="查看最后回复">08-16</a><br />chenxiaoGod</td></tr>
+
+<tr mid="20003207"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20003207sh"></div>
+
+ <a id="" href="/20003207.html">做什么行业的人才会有时间去炒股？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/167438512381835">青山05</a><br />2017-08-14</td><td class="p_re">8 / 915</td><td class="p_retime"><a href="/20003207.html#o" title="查看最后回复">08-16</a><br />我们懂个球</td></tr>
+
+<tr mid="19974258"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19974258sh"></div>
+
+ <a id="" href="/19974258.html">股票市值记录贴，看看多久能从不到49万到100万</a>
+
+<span class="light_r "><a title="有1个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19974258-2.html">2</a> <a href="/19974258-3.html">3</a> <a href="/19974258-4.html">4</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/256843069460910">大爱詹猩猩</a><br />2017-08-11</td><td class="p_re">62 / 4789</td><td class="p_retime"><a href="/19974258-4.html#o" title="查看最后回复">08-16</a><br />大爱詹猩猩</td></tr>
+
+<tr mid="20015952"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20015952sh"></div>
+
+ <a id="" href="/20015952.html">请教一个股市基础的问题</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/173418828495341">乱且慢</a><br />2017-08-16</td><td class="p_re">0 / 111</td><td class="p_retime"><a href="/20015952.html#o" title="查看最后回复">08-16</a><br />乱且慢</td></tr>
+
+<tr mid="19892275"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19892275sh"></div>
+
+ <a id="" href="/19892275.html">大家看好下半年军工板块吗</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/221134532874813">2232323h</a><br />2017-08-01</td><td class="p_re">18 / 1700</td><td class="p_retime"><a href="/19892275.html#o" title="查看最后回复">08-16</a><br />彤彤小菠萝</td></tr>
+
+<tr mid="19975726"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19975726sh"></div>
+
+ <a id="" href="/19975726.html">山东钢铁和包钢股份现在让我赔成了弱智</a>
+
+<span class="light_r "><a title="有2个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19975726-2.html">2</a> <a href="/19975726-3.html">3</a> .. <a href="/19975726-6.html">6</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/8871609621760">交大宁滨</a><br />2017-08-11</td><td class="p_re">115 / 25983</td><td class="p_retime"><a href="/19975726-6.html#o" title="查看最后回复">08-16</a><br />彤彤小菠萝</td></tr>
+
+<tr mid="19608883"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19608883sh"></div>
+
+ <a id="" href="/19608883.html">有多少人还拿有贵州茅台？</a>
+
+ [ <span class="multipage"> <a href="/19608883-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/defencewin">顶级比赛看防守</a><br />2017-07-05</td><td class="p_re">20 / 2267</td><td class="p_retime"><a href="/19608883-2.html#o" title="查看最后回复">08-16</a><br />彤彤小菠萝</td></tr>
+</tbody></table>
+<!--帖子列表END-->
+
+<div class="rss"><a target="_blank" href="/rss.php?fid=161" title="通过RSS订阅股票区的帖子">rss</a></div>
+
+<div class="page"><span class="selected">1</span><a href="/finance-2">2</a><a href="/finance-3">3</a><a href="/finance-4">4</a><a href="/finance-5">5</a>...<a href="/finance-100">100</a> <input type='text' title='输入页码数，回车即可到达指定页码' onkeydown="if(event.keyCode==13){location='/finance-'+this.value+'';return false}"><a id="j_next" class="next" href="/finance-2">下一页&raquo;</a><span class="f666">股票区共5529主题 / 785446回复 &nbsp;今日802帖</span></div>
+
+<!---主体部分 end--->
+
+<div class="pub_ad">
+    <div id='bbs_list_right_320x60'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('bbs_list_right_320x60'); });</script></div>
+
+</div>
+
+
+	<div class="lpub_ad" id="lpub_ad" style="display:none;left:-133px"><div id='hoopchina-bbs-right-Optimus-120x600'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('hoopchina-bbs-right-Optimus-120x600'); });</script></div>
+</div>
+</div>
+</div></div>
+<!--内容END--><!--页面主体END-->
+
+</div><div class="pop" style="width:420px;display:none;" id="rm_div_msg"><div class="pop_content"><h2 class="mpop"><a onclick="closepop()"></a>推荐版块</h2><ul class="pop_commend"><form name="rm_form"><li>推荐语：</li><li><textarea name="tjmsg" id="tjmsg" class="j_enter"></textarea></li><li><input name="cid" id="cid" type="hidden" value="161" /><input name="fid" type="hidden" value="161" /><input name="Input2" type="button" class="btns2 j_tjmsg" id="j_recs" value="推 荐" /> &nbsp; &nbsp;<input name="Input2" type="button" class="btnb2" value="取 消" onclick="closepop()" /></li></form></ul></div></div>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/pcbbs/js/thread22.js?2017040115"></script>
+
+
+<div style="display: none">
+<div id='bbs_list_1x1'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('bbs_list_1x1'); });</script></div>
+</div>
+
+
+
+<div class="fback"><a class="btop" href="#">回顶部</a></div>
+<b id="footer-loadedError"></b>
+
+
+<div class="hp-footer">
+                    
+                    <div class="hp-copyright">
+                    
+                    Copyright by 虎扑JRs &amp;
+                    <a href="https://www.hupu.com/" target="_blank" title="虎扑">虎扑</a> -
+                    <a href="http://jobs.hupu.com/" target="_blank">在虎扑工作</a> -
+                    <a href="http://marketing.hupu.com/contact/" target="_blank">联系我们</a> -
+                    <a href="https://m.hupu.com/" target="_blank">手机虎扑网</a> -
+                    <a href="https://mobile.hupu.com/" target="_blank">虎扑App</a> -
+                    <a href="https://www.hupu.com/policies/terms" target="_blank">服务协议</a> -
+                    <a href="https://www.hupu.com/sitemap.html" target="_blank">网站地图</a> -
+                    <a href="https://nba.hupu.com/" target="_blank" title="NBA">NBA</a> -
+                    <a href="https://cba.hupu.com/" target="_blank" title="CBA">CBA</a>  -
+                    <a href="https://soccer.hupu.com/" target="_blank" title="足球">足球</a> -
+                    <a href="https://soccer.hupu.com/china/" target="_blank" title="中超">中超</a> -
+                    <a href="http://racing.hupu.com/" target="_blank" title="赛车">赛车</a> 
+                    </div>
+                    
+                </div>
+
+
+<script>
+	var countGATrackPageview = location.pathname+location.search+"'|bxj/174-步行街/161-股票区'";
+_common.init({project: "bxj",countGASetVar: "",countGATrackPageview: countGATrackPageview});	
+</script>
+<script async="true" src="//b3.hoopchina.com.cn/pcbbs/js/g85.js?20170207"></script>
+
+<script type="text/javascript" src="https://hm.baidu.com/h.js?39fc58a7ab8a311f2f6ca4dc1222a96e" async="async"></script>
+<script>IE6 = '';</script><!--[if lte IE 6]><script>IE6 = 'sucks';</script><![endif]-->
+<script>
+    try{
+      if(window.top != window.self){
+        var topHost = top.document.location.hostname;
+        if (topHost.indexOf('hupu.com') < 0 && topHost.indexOf('liangle.com') < 0 && topHost.indexOf('shihuo.cn') < 0){
+          window.top.location.href = window.self.location.href;
+        }
+      } 
+    }catch(e){}
+
+    $(function(){
+        if ($("#lpub_ad")[0]) {
+            function findPos_top(obj) {
+                var top = obj.offsetTop || 0;
+                while (obj = obj.offsetParent) {
+                    top += obj.offsetTop;
+                }
+                return top;
+            }
+
+            function findPos_left(obj) {
+                var l = obj.offsetLeft;
+                while (obj.offsetParent != null) {
+                    obj = obj.offsetParent;
+                    l += obj.offsetLeft;
+                }
+                return l;
+            }
+
+            ifSideSticky = (IE6 == 'sucks') ? false : true;
+            var pubPos = findPos_top($("#bbs_banner")[0]) - findPos_top($("#sidenav_bbs")[0]) + 403;
+            $("#lpub_ad").css('top', pubPos + 'px');
+            $("#lpub_ad").show();
+            if (!isMobile() && ifSideSticky && document.documentElement.clientHeight > 670) {
+                var contentwitdth = $("#content").width();
+                var sideSticky = function () {
+                    var now_top = document.body.scrollTop || document.documentElement.scrollTop || 0;
+                    if (now_top > pubPos + 100) {
+                        $("#lpub_ad").attr('style', 'position: fixed; _position: absolute; top:10px;left:' + (findPos_left($("#container_padd")[0]) + 13 - document.documentElement.scrollLeft) + 'px');
+                    } else {
+                        $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                    }
+                };
+                $(window).bind('scroll', sideSticky).resize(function () {
+                    $(window).unbind("scroll");
+                    $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                });
+            }
+        }
+        if ($("div .c2c_ad")[0]) {
+            if ($(".level2header").attr('title')) {
+                $("div .c2c_ad").css('top', "-66px").show();
+            } else {
+                $("div .c2c_ad").css('top', '-114px').show();
+            }
+        }
+    })
+
+    /**
+     * check is mobile device
+     */
+    function isMobile() {
+        var userAgent = navigator.userAgent.toLowerCase(),
+                mobile = /Mobile/i.test( userAgent ) || 'ontouchstart' in document.documentElement;
+        return mobile;
+    }
+
+</script>
+</body>
+</html>
+

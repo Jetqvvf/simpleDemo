@@ -1,0 +1,909 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<link rel="dns-prefetch" href="//b1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//b3.hoopchina.com.cn" />
+
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.hupu.com/bbs/1649" />
+<meta name="mobile-agent" content="format=html5;url=https://m.hupu.com/bbs/1649" />
+
+<title>IT数码区 - 虎扑社区</title>
+<meta name="keywords" content="IT数码区" />
+<meta name="description" content="IT数码区来自虎扑步行街社区，手机、电脑、电子产品开箱评测、新闻资讯、咨询求助，任何数码问题，都来这里解决！欢迎分享开箱评测，有奖励！详情见版规" />
+<link rel="alternate" type="application/rss+xml" title="IT数码区" href="/rss.php?fid=1649" />
+<base href="//bbs.hupu.com" /><!--[if IE 6]></base><![endif]-->
+<link rel="canonical" href="https://bbs.hupu.com/digital" />
+<link rel="alternate" href="android-app://com.hupu.games/huputiyu/bbs/board/1649?r=hupucom"/>
+<script type='text/javascript'>var __daceDataNameOfForum='1649';var __daceDataNameOfCategory = '174'; var __daceDataNameOfProject='bxj';var __daceDataNameOfChannel='gambia';</script>
+<meta name="apple-itunes-app" content="app-id=906632439" />
+<link rel="shortcut icon" href="//b3.hoopchina.com.cn/common/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="//b3.hoopchina.com.cn/common/common-v1.css" />
+<script src="//b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js"></script> 
+<script src="//b3.hoopchina.com.cn/common/common-v1.js"></script>
+<link rel='stylesheet' type='text/css' href='//b3.hoopchina.com.cn/css/hupu-v56.css?2017070320' />
+<link rel='apple-touch-icon' href='https://b1.hoopchina.com.cn/common/apple-touch-icon.png'/>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/pcbbs/js/j15.js"></script>
+</head>
+<body>
+<!--topbarNav star-->
+                        <div id="hp-topbarNav">
+                            <div class="hp-topbarNav-bd">
+                                <ul class="hp-quickNav">
+                                    <li class="mobileWeb"><a href="https://m.hupu.com/" target="_blank"><i class="ico-mobile"></i>手机虎扑</a></li>
+                                    <li class="line">|</li>
+                                    <li class="mobileclientDown"><a class="red" href="https://mobile.hupu.com/?_r=globalNav" target="_blank">虎扑客户端</a></li>
+                                    <li class="line">|</li>
+			                        <li><a class="red" href="https://mobile.hupu.com/football?r=global_nav" target="_blank">虎扑足球客户端</a></li>
+                                    <li class="line">|</li>
+                                    <li class="hp-dropDownMenu topFollowBlog">
+                                        <a href="javascript:void(0)" class="hp-set">关注虎扑<s class="setArrow"></s></a>
+                                        <div class="hp-drapDown followLayer">
+                                            <a class="weibo" target="_blank" rel="nofollow" href="//weibo.com/liangle4u"><i class="hp-ico-weibo"></i>新浪微博</a>
+											<a class="weixin" target="_blank" href="https://voice.hupu.com/other/1581560.html"><i class="hp-ico-weixin"></i>官方微信</a>
+                                            <a class="instagram" target="_blank" rel="nofollow" href="https://voice.hupu.com/other/1634334.html"><i class="hp-ico-instagram"></i>Instagram</a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="hp-topLogin-info"></div>
+                            </div>
+                        </div>
+                        <!--topbarNav ent--><!--header star--><div class="hp-header hp-header-B"><div class="hp-logo"><a title="步行街" href="https://bbs.hupu.com/all-gambia"><img src="https://b3.hoopchina.com.cn/images/logo2017/v1/hp_logo_sports.png" alt="步行街" /></a>
+                            </div>
+                            <div class="hp-mainNav hp-mainNav-B">
+                                <div class="hp-nav">
+                                    <div class="hp-nav-bd">
+                                        <ul class="hp-nav-item"><li><a href="https://www.hupu.com/" >虎扑首页</a></li><li class="line">|</li><li><a href="https://nba.hupu.com/" >NBA</a></li><li class="line">|</li><li><a href="https://cba.hupu.com/" >CBA</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com" >国际足球</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com/china/" >中国足球</a></li><li class="line">|</li><li><a href="http://racing.hupu.com/" >赛车</a></li><li class="line">|</li><li><a href="http://zb.hupu.com/" target="_blank">装备</a></li><li class="line">|</li><li><a href="http://www.shihuo.cn/" target="_blank">识货</a></li><li class="line">|</li><li><a href="http://v.liangle.com/" >视频</a></li><li class="line">|</li><li><a href="http://photo.hupu.com/" >图片</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/" >社区</a></li><li class="line">|</li><li class="on"><a href="https://bbs.hupu.com/all-gambia" >步行街</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/all-esports" >电竞</a></li><li class="line">|</li><li><a href="http://www.liangle.com" target="_blank">路人王</a></li><li class="line">|</li><li class="hp-dropDownMenu hp-moreNav">
+                                                <a href="javascript:void(0)" class="hp-set">更多<s class="setArrow"></s></a>
+                                                <div class="hp-drapDown hp-moreNav-drapDown"><a href="https://shop311048929.taobao.com/" target="_blank">虎扑优选</a><a href="http://www.kaluli.com/" target="_blank">卡路里</a><a href="http://outdoor.hupu.com/" >户外</a><a href="http://run.hupu.com/" >跑步</a><a href="http://ymq.hupu.com/" >羽毛球</a><a href="http://xgame.hupu.com/" target="_blank">xgames</a><a href="http://www.nflchina.com/" target="_blank">NFL</a><a href="http://golf.hupu.com/" target="_blank">高尔夫</a><s class="arrow-top"><s class="arrowbd"></s></s>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="hp-subNav">
+			<ul class="hp-subNav-item">
+                <li><a href="https://bbs.hupu.com/all-gambia">首页</a></li>
+            </ul>
+</div>
+                                <i class="hp-roundPoint-br-tl roundPoint-br-tl"></i>
+                                <i class="hp-roundPoint-br-tr roundPoint-br-tr"></i>
+                                <i class="hp-roundPoint-br-bl roundPoint-br-bl"></i>
+                                <i class="hp-roundPoint-br-br roundPoint-br-br"></i>
+                            </div>
+                        </div>
+
+
+
+
+			<div class="hp-threeNav">
+			<div class="hp-threeNav-bd">
+			<ul class="hp-threeNav-item"><li><a href='/all-gambia'  data-project='bxj' id='g_b'>步行街热帖</a></li><li ><a href='/bxj'  >步行街主干道</a></li><li ><a href='/ent'  >影视</a></li><li ><a href='/digital' class="on" >IT数码</a></li><li ><a href='/selfie'  >爆照</a></li><li ><a href='/lol'  >英雄联盟</a></li><li ><a href='/kog'  >王者荣耀</a></li><li ><a href='/acg'  >ACG</a></li><li ><a href='/finance'  >股票</a></li><li  class="hp-hide-w1024"><a href='/cars'  >车友交流</a></li><li  class="hp-hide-w1024"><a href='/music'  >音乐</a></li><li  class="hp-hide-w1024"><a href='/xuefu'  >学府路</a></li><li  class="hp-hide-w1024"><a href='/999'  >万事屋</a></li></ul></div><i id='level2header' title='首页'></i>
+				<div class="hp-search">
+					<form id="hp-form-search" method="get" enctype="multipart/form-data" action="https://my.hupu.com/search">
+						<input type="text" value="搜索视频、帖子" class="it-search" />
+						<input type="submit" value="搜索" class="btn-search" />
+					</form>
+				</div>
+			</div>
+		
+<div class="hp-wrap">
+
+
+<!--页面主体 -->
+<div id="container" class="rel"><div id="container_padd">
+<!---主体部分 start--->
+				<div id="sidenav_bbs"><div id="bbs_banner"><h4><a class="h4_t">版块分类</a></h4><ul>
+		<li id="l1" lid="1"><a href="//bbs.hupu.com/all-nba">NBA论坛</a></li>
+		<li id="l232" lid="232"><a href="//bbs.hupu.com/all-cba">CBA论坛</a></li>
+		<li id="l233" lid="233"><a href="//bbs.hupu.com/all-gear">运动&装备</a></li>
+		<li id="l198" lid="198"><a href="//bbs.hupu.com/all-soccer">国际足球论坛</a></li>
+		<li id="l4596" lid="4596"><a href="//bbs.hupu.com/all-csl">中国足球论坛</a></li>
+		<li id="l41" lid="41"><a href="//bbs.hupu.com/all-sports">综合体育</a></li><li id="l174" lid="174"><a href="//bbs.hupu.com/all-gambia">步行街</a></li>
+	<li id="l42" lid="42"><a href="//bbs.hupu.com/all-lottery">彩票中心</a></li>
+	<li id="l238" lid="238"><a href="//bbs.hupu.com/all-boards">自建版块</a></li>
+	<li id="l114" lid="114"><a href="//bbs.hupu.com/all-group">虎扑社团</a></li>
+	<li id="l7" lid="7"><a href="//bbs.hupu.com/all-feedback">站务管理</a></li>
+	</ul></div>
+				<div class="sidenav_pop_tips"><p class="more"><a href="//bbs.hupu.com/boards.php">更多版块 &raquo;</a></p></div>
+				
+				</div>
+<!---右侧 start--->
+
+<div id="content">
+<!--头部-->
+
+<div itemscope itemtype="http://schema.org/WebPage" class="bbs_head">
+<div itemprop="breadcrumb" class="breadCrumbs"><a href="/">社区</a>&nbsp;&raquo;&nbsp;<a href="/all-gambia">步行街</a></div>
+
+<div class="right"><form id="forum_see" method="get" enctype="multipart/form-data" name="forum_see" action="//my.hupu.com/search"><input type="hidden" name='fid' value='1649' /><input type="hidden" name='type' value='topic' /><input id="search_thread" name="q" type="text" class="tabs_input" value="搜索本版帖子" title="搜索IT数码区的帖子" /><input type="submit" value="" class="tabs_btn" /></form></div>
+<div id="googlepub" class="right" style="margin-right:5px;"></div>
+<h1 class="left"><span id="forumname" fid="1649" fidurl="digital">IT数码区</span>
+
+</h1>&nbsp;
+<div class="clearfix" style="*height:0;"></div>
+
+<div class="pl_nav ">
+
+
+<span class="pl_d">&nbsp;</span><div class="pl_top">
+版块介绍：<span id="des_forum">手机、电脑、电子产品开箱评测、新闻资讯、咨询求助，任何数码问题，都来这里解决！欢迎分享开箱评测，有奖励！详情见版规</span><br />
+
+版主：<a class="u" target="_blank" href="https://my.hupu.com/SmithKobe">SmithKobe</a><span class="f666"></span> <a class="u" target="_blank" href="https://my.hupu.com/23378940819806">霍格沃兹的猫头鹰</a><span class="f666"></span> <a class="u" target="_blank" href="https://my.hupu.com/zty45057602">你的肾也透支啦</a><span class="f666"></span> <a class="u" target="_blank" href="https://my.hupu.com/163662792669636">MVP我兄弟</a><span class="f666"></span> <a class="u" target="_blank" href="https://my.hupu.com/243942529750622">ZuDumm</a><span class="f666"></span> <a class="u" target="_blank" href="https://my.hupu.com/113822976697141">天黑以前</a><span class="f666"></span> <a class="u" target="_blank" href="https://my.hupu.com/147939821924598">_Lutter</a><span class="f666"></span> <a class="u" target="_blank" href="https://my.hupu.com/20325638191798">识货数码君</a><span class="f666"></span> <a class="u" target="_blank" href="https://my.hupu.com/256507309273607">小舌弯弯</a><span class="f666">(实习)</span> </div>
+
+<div id="navigation"><span id="nav_change">
+<ul>
+
+<li><a href="https://bbs.hupu.com/19668937.html" target="_blank">IT数码区版规（开箱分享有奖，发帖禁福利）</a></li>
+
+<li><a href="https://bbs.hupu.com/yjahz" target="_blank">更多干货分享，专业技术，发烧友交流，请来玩机社</a></li>
+
+<li><a href="https://bbs.hupu.com/19682320.html" target="_blank">IT数码区咨询求助专帖，尽管问吧！</a></li>
+
+</ul>
+</span><div class="clear"></div>
+</div>
+
+
+<script type='text/javascript'>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') +
+				'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script>
+<script type='text/javascript'>
+var adwidth = screen.width>1152 ? 1020 : 810;
+googletag.cmd.push(function() {
+googletag.defineSlot('/1016953/nba_bbs_list_right_320x60', [320, 60], 'bbs_list_right_320x60').addService(googletag.pubads());
+googletag.defineSlot('/1016953/hoopchina-bbs-right-Optimus-120x600', [120, 600], 'hoopchina-bbs-right-Optimus-120x600').addService(googletag.pubads());
+googletag.defineSlot('/1016953/nba_bbs_list_1x1', [1, 1], 'bbs_list_1x1').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+
+
+</div>
+
+
+<div class="clearfix" style="*height:0;"></div>
+</div>
+<!--头部END-->
+<!---标签页 start--->
+<div class="tabs_header zoom" id="tabs_header">
+<ul class="left">
+<li class="selected"><a href="/digital">主题</a></li><li><a href="/digital-digest">精华</a></li><li><a title="今日31个亮回帖" href="/digital/highlights">亮了(31)</a></li>
+
+<li><a href="/digital/members">成员</a></li>
+
+</ul>
+
+<div class="right">
+
+<a id="g_n" class="issue_button" rel="nofollow me noopener noreferrer" href="/post.php?fid=1649">发新帖</a>
+</div>
+
+<div class="clearfix tabs_border"></div>
+
+</div>
+<!---标签页 end---><!--内容分类-->
+<div id="sort">
+<div class="fr">
+<form style="display:inline">
+<select id="orderway" style="vertical-align:middle; _vertical-align:top;">
+
+<option value="null" selected>排序方式</option>
+<option value="lastpost">按回帖时间排序</option>
+<option value="postdate">按发帖时间排序</option>
+
+</select></form>
+</div>
+
+<a class="blue" href="/digital-type1">新闻</a>
+
+<a class="blue" href="/digital-type2">电脑评测</a>
+
+<a class="blue" href="/digital-type3">手机评测</a>
+
+<a class="blue" href="/digital-type4">其他评测</a>
+
+<a class="blue" href="/digital-type5">电脑选购</a>
+
+<a class="blue" href="/digital-type6">手机选购</a>
+
+<a class="blue" href="/digital-type7">其他选购</a>
+
+<a class="blue" href="/digital-type8">问题集中营</a>
+
+<a class="blue" href="/digital-type9">毒物鉴赏</a>
+
+<a class="blue" href="/digital-type10">公告须知</a>
+
+<a class="blue" href="/digital-type11">技术交流</a>
+
+<a class="blue" href="/digital-type12">话题</a>
+
+<div class="clearfix" style="*height:0;"></div>
+</div>
+<!--内容分类END--><!--帖子列表-->
+
+<table id="pl" class="bbstopic ptable topiclisttr" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+	<th>&nbsp;</th>
+	<th align="left">主题</th>
+	<th align="left" width="100">作者</th>
+	<th width="110">回复 / 浏览</th>
+	<th align="left" width="85">最后回复</th>
+</tr><tbody>
+
+<tr mid="19682320"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19682320sh"></div>
+
+[<a href="/digital-type8">问题集中营</a>]
+
+<font style="color:#b50000">[置顶]</font> <a id="" href="/19682320.html"><b><font color=red>IT数码区咨询求助专帖集中楼，尽管问吧！(手机、电脑、耳机)</font></b></a>
+
+<span class="light_r "><a title="有13个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19682320-2.html">2</a> <a href="/19682320-3.html">3</a> .. <a href="/19682320-67.html">67</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/20325638191798">识货数码君</a><br />2017-07-13</td><td class="p_re">1325 / 43323</td><td class="p_retime"><a href="/19682320-67.html#o" title="查看最后回复">12:59</a><br />布莱恩特杜兰特</td></tr>
+
+<tr mid="20024091"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024091sh"></div>
+
+ <a id="" href="/20024091.html">请教一下小米6屏幕问题</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/194717598170838">鳌巴马</a><br />2017-08-17</td><td class="p_re">7 / 110</td><td class="p_retime"><a href="/20024091.html#o" title="查看最后回复">13:07</a><br />鳌巴马</td></tr>
+
+<tr mid="20020565"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20020565sh"></div>
+
+ <a id="" href="/20020565.html">电脑小白DIY清单，求帮忙看看</a>
+
+ [ <span class="multipage"> <a href="/20020565-2.html">2</a> <a href="/20020565-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/113493755657863">q258456q2006</a><br />2017-08-16</td><td class="p_re">40 / 1044</td><td class="p_retime"><a href="/20020565-3.html#o" title="查看最后回复">13:06</a><br />q258456q2006</td></tr>
+
+<tr mid="20024318"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024318sh"></div>
+
+ <a id="" href="/20024318.html">新大学生求购两款电脑！很纠结！</a>
+
+ [ <span class="multipage"> <a href="/20024318-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/232140006244073">啦啦啦32</a><br />2017-08-17</td><td class="p_re">38 / 549</td><td class="p_retime"><a href="/20024318-2.html#o" title="查看最后回复">13:06</a><br />啦啦啦32</td></tr>
+
+<tr mid="20024443"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024443sh"></div>
+
+ <a id="" href="/20024443.html">求各位大哥们推荐一款笔记本</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/fht20011002">昊天爱打球</a><br />2017-08-17</td><td class="p_re">3 / 15</td><td class="p_retime"><a href="/20024443.html#o" title="查看最后回复">13:06</a><br />我是真的科比</td></tr>
+
+<tr mid="20024633"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024633sh"></div>
+
+ <a id="" href="/20024633.html">大一新生，7与7p纠结中，求各位指教</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/251141650445025">ZD么么哒</a><br />2017-08-17</td><td class="p_re">0 / 2</td><td class="p_retime"><a href="/20024633.html#o" title="查看最后回复">13:06</a><br />ZD么么哒</td></tr>
+
+<tr mid="20024390"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024390sh"></div>
+
+ <a id="" href="/20024390.html">最近买电视纠结死了，各位老哥进来帮忙看看吧</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/127685889851491">勒布朗扣科比</a><br />2017-08-17</td><td class="p_re">2 / 25</td><td class="p_retime"><a href="/20024390.html#o" title="查看最后回复">13:06</a><br />张静萱不吐不快</td></tr>
+
+<tr mid="20023666"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023666sh"></div>
+
+ <a id="" href="/20023666.html">ZT：MIUI即将全面撤掉广告</a>
+
+<span class="light_r "><a title="有3个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/20023666-2.html">2</a> <a href="/20023666-3.html">3</a> <a href="/20023666-4.html">4</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/86610059263001">音希声</a><br />2017-08-17</td><td class="p_re">66 / 7793</td><td class="p_retime"><a href="/20023666-4.html#o" title="查看最后回复">13:06</a><br />后入古力娜扎</td></tr>
+
+<tr mid="19805056"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="19805056sh"></div>
+
+[<a href="/digital-type11">技术交流</a>]
+
+ <a id="" href="/19805056.html"><b><font color=blue>做了4年的电脑装机员 说说我知道的那些事</font></b></a>
+
+<span class="digest_1"><a title="精华帖">&nbsp;</a></span>
+
+<span class="light_r "><a title="有8个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/19805056-2.html">2</a> <a href="/19805056-3.html">3</a> .. <a href="/19805056-20.html">20</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/89390992782895">twice321</a><br />2017-07-26</td><td class="p_re">387 / 66040</td><td class="p_retime"><a href="/19805056-20.html#o" title="查看最后回复">13:06</a><br />iversun</td></tr>
+
+<tr mid="20016539"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20016539sh"></div>
+
+[<a href="/digital-type6">手机选购</a>]
+
+ <a id="" href="/20016539.html">小米6还是vivo xplay6?</a>
+
+ [ <span class="multipage"> <a href="/20016539-2.html">2</a> <a href="/20016539-3.html">3</a> <a href="/20016539-4.html">4</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/236888888950639">GHzhanghan</a><br />2017-08-16</td><td class="p_re">70 / 2992</td><td class="p_retime"><a href="/20016539-4.html#o" title="查看最后回复">13:05</a><br />偶尔想看云飞却没风丶</td></tr>
+
+<tr mid="20017695"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20017695sh"></div>
+
+ <a id="" href="/20017695.html">求问问大神，机械革命这个品牌的本子到底怎么样</a>
+
+ [ <span class="multipage"> <a href="/20017695-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/137966133700279">MVPPG13</a><br />2017-08-16</td><td class="p_re">25 / 645</td><td class="p_retime"><a href="/20017695-2.html#o" title="查看最后回复">13:05</a><br />刁民王二涛</td></tr>
+
+<tr mid="20023303"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023303sh"></div>
+
+ <a id="" href="/20023303.html"><font color=green>[流言板]情怀旗舰！诺基亚8发布：4700元/骁龙835/1300万蔡司双摄</font></a>
+
+<span class="light_r "><a title="有3个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/20023303-2.html">2</a> <a href="/20023303-3.html">3</a> .. <a href="/20023303-7.html">7</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/23378940819806">霍格沃兹的猫头鹰</a><br />2017-08-17</td><td class="p_re">125 / 21416</td><td class="p_retime"><a href="/20023303-7.html#o" title="查看最后回复">13:05</a><br />捏爆你的奶</td></tr>
+
+<tr mid="20023734"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023734sh"></div>
+
+ <a id="" href="/20023734.html">各位jrs，求助，想买个笔记本，详情如下</a>
+
+ [ <span class="multipage"> <a href="/20023734-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/225075085110222">离歌笑的酒</a><br />2017-08-17</td><td class="p_re">21 / 246</td><td class="p_retime"><a href="/20023734-2.html#o" title="查看最后回复">13:03</a><br />AJ555555</td></tr>
+
+<tr mid="20021327"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20021327sh"></div>
+
+ <a id="" href="/20021327.html">努比亚Z17开箱</a>
+
+ [ <span class="multipage"> <a href="/20021327-2.html">2</a> <a href="/20021327-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/179316235279117">克村名宿勒布朗</a><br />2017-08-16</td><td class="p_re">43 / 1388</td><td class="p_retime"><a href="/20021327-3.html#o" title="查看最后回复">13:02</a><br />李察的森</td></tr>
+
+<tr mid="20023290"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023290sh"></div>
+
+ <a id="" href="/20023290.html">全球手机销量排行榜 红米神机竟挤进前5-ZT</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/234041727115698">rosericky</a><br />2017-08-17</td><td class="p_re">2 / 173</td><td class="p_retime"><a href="/20023290.html#o" title="查看最后回复">13:02</a><br />鹏鹏你上西南</td></tr>
+
+<tr mid="20023559"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023559sh"></div>
+
+ <a id="" href="/20023559.html">求问这几个电源哪个比较好</a>
+
+ [ <span class="multipage"> <a href="/20023559-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/28327707443049">H管扣不管扶J</a><br />2017-08-17</td><td class="p_re">21 / 429</td><td class="p_retime"><a href="/20023559-2.html#o" title="查看最后回复">13:00</a><br />我找旅瀚</td></tr>
+
+<tr mid="20024582"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024582sh"></div>
+
+ <a id="" href="/20024582.html">开学想买个机械键盘 求助</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/86468775739751">就爱大灰熊熊</a><br />2017-08-17</td><td class="p_re">0 / 6</td><td class="p_retime"><a href="/20024582.html#o" title="查看最后回复">13:00</a><br />就爱大灰熊熊</td></tr>
+
+<tr mid="20024094"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024094sh"></div>
+
+ <a id="" href="/20024094.html">求助求助！怎么让macbook安上windows</a>
+
+ [ <span class="multipage"> <a href="/20024094-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/83838124891580">楼上湿了</a><br />2017-08-17</td><td class="p_re">28 / 679</td><td class="p_retime"><a href="/20024094-2.html#o" title="查看最后回复">13:00</a><br />hydra318</td></tr>
+
+<tr mid="20008933"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20008933sh"></div>
+
+[<a href="/digital-type1">新闻</a>]
+
+ <a id="" href="/20008933.html">[流言板]华为最强旗舰提前到来：阻击iPhone 8</a>
+
+<span class="light_r "><a title="有9个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/20008933-2.html">2</a> <a href="/20008933-3.html">3</a> .. <a href="/20008933-16.html">16</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/26012912718827">哑铃很重</a><br />2017-08-15</td><td class="p_re">306 / 76036</td><td class="p_retime"><a href="/20008933-16.html#o" title="查看最后回复">12:58</a><br />豆豉香辣酱</td></tr>
+
+<tr mid="20023658"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023658sh"></div>
+
+ <a id="" href="/20023658.html">想买个空气净化器，一看价差那么大，同志们有推荐的不最好能用个5年以上的那种</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/274055794662828">炸铁詹宁斯</a><br />2017-08-17</td><td class="p_re">7 / 221</td><td class="p_retime"><a href="/20023658.html#o" title="查看最后回复">12:57</a><br />hotman82</td></tr>
+
+<tr mid="20008898"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20008898sh"></div>
+
+ <a id="" href="/20008898.html">求大神们推荐手机，感谢有福利</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/113639007684639">城建9号</a><br />2017-08-15</td><td class="p_re">8 / 200</td><td class="p_retime"><a href="/20008898.html#o" title="查看最后回复">12:57</a><br />kittki1</td></tr>
+
+<tr mid="20023643"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023643sh"></div>
+
+ <a id="" href="/20023643.html">求助街上苹果手机大神</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/155252983524408">胆小的哥布林</a><br />2017-08-17</td><td class="p_re">18 / 412</td><td class="p_retime"><a href="/20023643.html#o" title="查看最后回复">12:57</a><br />服部半藏不服全藏</td></tr>
+
+<tr mid="20022052"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20022052sh"></div>
+
+ <a id="" href="/20022052.html">今年国产旗舰大家最终入的是哪一台?</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/121316614247720">一只雅蠛蝶</a><br />2017-08-17</td><td class="p_re">19 / 664</td><td class="p_retime"><a href="/20022052.html#o" title="查看最后回复">12:56</a><br />一只雅蠛蝶</td></tr>
+
+<tr mid="20019682"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20019682sh"></div>
+
+ <a id="" href="/20019682.html">选择困难症，XPS还是小米笔记本</a>
+
+<span class="light_r "><a title="有1个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/20019682-2.html">2</a> <a href="/20019682-3.html">3</a> <a href="/20019682-4.html">4</a> <a href="/20019682-5.html">5</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/235202583033733">梦想风向标</a><br />2017-08-16</td><td class="p_re">97 / 8058</td><td class="p_retime"><a href="/20019682-5.html#o" title="查看最后回复">12:56</a><br />梦想风向标</td></tr>
+
+<tr mid="20015899"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20015899sh"></div>
+
+ <a id="" href="/20015899.html">买小米6的都抢几次了？</a>
+
+<span class="light_r "><a title="有1个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/20015899-2.html">2</a> <a href="/20015899-3.html">3</a> .. <a href="/20015899-8.html">8</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/145732312184389">寂寞大婶</a><br />2017-08-16</td><td class="p_re">153 / 6434</td><td class="p_retime"><a href="/20015899-8.html#o" title="查看最后回复">12:54</a><br />队魂郑智</td></tr>
+
+<tr mid="20008425"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20008425sh"></div>
+
+ <a id="" href="/20008425.html">坚果pro怎么样？用过锤子的jrs评价一下</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/240303470355763">向C罗同志学习</a><br />2017-08-15</td><td class="p_re">5 / 211</td><td class="p_retime"><a href="/20008425.html#o" title="查看最后回复">12:54</a><br />向C罗同志学习</td></tr>
+
+<tr mid="20022841"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20022841sh"></div>
+
+ <a id="" href="/20022841.html">快5年的水果5花屏了，怎么解决？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/215378033368767">nero0409</a><br />2017-08-17</td><td class="p_re">10 / 305</td><td class="p_retime"><a href="/20022841.html#o" title="查看最后回复">12:54</a><br />magicgzh</td></tr>
+
+<tr mid="20024039"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024039sh"></div>
+
+ <a id="" href="/20024039.html">你们的手机都贴了膜吗</a>
+
+ [ <span class="multipage"> <a href="/20024039-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/154489889756753">安福陈冠希</a><br />2017-08-17</td><td class="p_re">26 / 851</td><td class="p_retime"><a href="/20024039-2.html#o" title="查看最后回复">12:52</a><br />大梦缔造者</td></tr>
+
+<tr mid="20023837"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023837sh"></div>
+
+ <a id="" href="/20023837.html">有幸买到小米6亮银探索版☺</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/154328767728071">拉风放荡不羁</a><br />2017-08-17</td><td class="p_re">7 / 335</td><td class="p_retime"><a href="/20023837.html#o" title="查看最后回复">12:51</a><br />hansand</td></tr>
+
+<tr mid="20023341"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023341sh"></div>
+
+[<a href="/digital-type5">电脑选购</a>]
+
+ <a id="" href="/20023341.html">纯粹的小白就指导，7000左右的预算，要显示器</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/218382413614089">带你们跪</a><br />2017-08-17</td><td class="p_re">17 / 268</td><td class="p_retime"><a href="/20023341.html#o" title="查看最后回复">12:51</a><br />无忌天子羽</td></tr>
+
+<tr mid="20023821"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023821sh"></div>
+
+ <a id="" href="/20023821.html">求问船的事</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/186254649121501">苦逼小学弟</a><br />2017-08-17</td><td class="p_re">9 / 60</td><td class="p_retime"><a href="/20023821.html#o" title="查看最后回复">12:49</a><br />苦逼小学弟</td></tr>
+
+<tr mid="20015149"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20015149sh"></div>
+
+ <a id="" href="/20015149.html">小米6亮蓝色实在太难抢了 求问窍门（已购入）</a>
+
+ [ <span class="multipage"> <a href="/20015149-2.html">2</a> <a href="/20015149-3.html">3</a> <a href="/20015149-4.html">4</a> <a href="/20015149-5.html">5</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/276471040764842">理查德凯利</a><br />2017-08-16</td><td class="p_re">87 / 7749</td><td class="p_retime"><a href="/20015149-5.html#o" title="查看最后回复">12:49</a><br />提交后能改</td></tr>
+
+<tr mid="20021796"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20021796sh"></div>
+
+[<a href="/digital-type5">电脑选购</a>]
+
+ <a id="" href="/20021796.html">请大家帮我看看该怎么配电脑</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/gkj">guo8040950</a><br />2017-08-17</td><td class="p_re">9 / 129</td><td class="p_retime"><a href="/20021796.html#o" title="查看最后回复">12:47</a><br />顾嘻飒</td></tr>
+
+<tr mid="20023594"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023594sh"></div>
+
+[<a href="/digital-type1">新闻</a>]
+
+ <a id="" href="/20023594.html">[流言板]诺基亚8将于9月6日开卖 约售4700元</a>
+
+<span class="light_r "><a title="有1个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/20023594-2.html">2</a> <a href="/20023594-3.html">3</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/182665961921601">你伤不到我哒</a><br />2017-08-17</td><td class="p_re">54 / 9619</td><td class="p_retime"><a href="/20023594-3.html#o" title="查看最后回复">12:46</a><br />kaw1eonard</td></tr>
+
+<tr mid="20017562"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20017562sh"></div>
+
+[<a href="/digital-type7">其他选购</a>]
+
+ <a id="" href="/20017562.html">老哥们，森海塞尔的ie60耳机怎么样，诚信求问</a>
+
+ [ <span class="multipage"> <a href="/20017562-2.html">2</a> <a href="/20017562-3.html">3</a> <a href="/20017562-4.html">4</a> <a href="/20017562-5.html">5</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/274470483882230">1317045908</a><br />2017-08-16</td><td class="p_re">85 / 2708</td><td class="p_retime"><a href="/20017562-5.html#o" title="查看最后回复">12:42</a><br />喵喵喵喵呜</td></tr>
+
+<tr mid="20015009"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20015009sh"></div>
+
+ <a id="" href="/20015009.html">2600淘宝的4+64的mate9到了 闪存测试如下</a>
+
+<span class="light_r "><a title="有3个亮了的回帖">&nbsp;</a></span> [ <span class="multipage"> <a href="/20015009-2.html">2</a> <a href="/20015009-3.html">3</a> <a href="/20015009-4.html">4</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/122037096145059">尼东安隆梅卡</a><br />2017-08-16</td><td class="p_re">73 / 3429</td><td class="p_retime"><a href="/20015009-4.html#o" title="查看最后回复">12:39</a><br />8科比24神</td></tr>
+
+<tr mid="20021817"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20021817sh"></div>
+
+ <a id="" href="/20021817.html">游戏本求大神推荐！</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/200245925501397">KingLBJ_TWO</a><br />2017-08-17</td><td class="p_re">11 / 118</td><td class="p_retime"><a href="/20021817.html#o" title="查看最后回复">12:39</a><br />KingLBJ_TWO</td></tr>
+
+<tr mid="20024387"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024387sh"></div>
+
+ <a id="" href="/20024387.html">有没有懂手机的jrs</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/chuanaka">跳大女王</a><br />2017-08-17</td><td class="p_re">1 / 31</td><td class="p_retime"><a href="/20024387.html#o" title="查看最后回复">12:38</a><br />山南水北95</td></tr>
+
+<tr mid="20023588"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023588sh"></div>
+
+ <a id="" href="/20023588.html">要搬新房了，求推荐电视机、冰箱、洗衣机</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/268763275144976">格雷格奥斯特塔格</a><br />2017-08-17</td><td class="p_re">16 / 426</td><td class="p_retime"><a href="/20023588.html#o" title="查看最后回复">12:34</a><br />Bell1993</td></tr>
+
+<tr mid="20023198"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023198sh"></div>
+
+ <a id="" href="/20023198.html">讲道理，华为mate9好用吗？想入手一款。</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/210623221815634">如燕盘旋而来的思念</a><br />2017-08-17</td><td class="p_re">6 / 146</td><td class="p_retime"><a href="/20023198.html#o" title="查看最后回复">12:34</a><br />我叼蔡xx</td></tr>
+
+<tr mid="20000938"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20000938sh"></div>
+
+ <a id="" href="/20000938.html">一加5和mate9选什么？给老爸买</a>
+
+ [ <span class="multipage"> <a href="/20000938-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/201329549815686">丶减单丶</a><br />2017-08-14</td><td class="p_re">33 / 1436</td><td class="p_retime"><a href="/20000938-2.html#o" title="查看最后回复">12:34</a><br />丶减单丶</td></tr>
+
+<tr mid="20008557"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20008557sh"></div>
+
+ <a id="" href="/20008557.html">问一下闲鱼上的三星S8敢买吗...</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/255001421503814">苦恼裤裆太小</a><br />2017-08-15</td><td class="p_re">17 / 903</td><td class="p_retime"><a href="/20008557.html#o" title="查看最后回复">12:30</a><br />ChiggaBow</td></tr>
+
+<tr mid="20024116"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024116sh"></div>
+
+ <a id="" href="/20024116.html">期盼已久的keyone终于到手了，大家有什么要问的吗？</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/36941732618383">说什么啥呢</a><br />2017-08-17</td><td class="p_re">4 / 103</td><td class="p_retime"><a href="/20024116.html#o" title="查看最后回复">12:30</a><br />Luxfero</td></tr>
+
+<tr mid="20024092"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024092sh"></div>
+
+ <a id="" href="/20024092.html">手机问题，有福利！</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/227970242104101">战狼队长</a><br />2017-08-17</td><td class="p_re">5 / 213</td><td class="p_retime"><a href="/20024092.html#o" title="查看最后回复">12:30</a><br />EvemOre</td></tr>
+
+<tr mid="20004325"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20004325sh"></div>
+
+[<a href="/digital-type1">新闻</a>]
+
+ <a id="" href="/20004325.html">【ZT】iPhone8提前发布啦？</a>
+
+ [ <span class="multipage"> <a href="/20004325-2.html">2</a></span> ]&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/228252896697447">他比沈佳宜</a><br />2017-08-14</td><td class="p_re">28 / 3137</td><td class="p_retime"><a href="/20004325-2.html#o" title="查看最后回复">12:30</a><br />给草满分</td></tr>
+
+<tr mid="20024344"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024344sh"></div>
+
+ <a id="" href="/20024344.html">有用MOTO Z的朋友嘛</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/814568928209">球爹黑曼巴</a><br />2017-08-17</td><td class="p_re">0 / 15</td><td class="p_retime"><a href="/20024344.html#o" title="查看最后回复">12:30</a><br />球爹黑曼巴</td></tr>
+
+<tr mid="20023721"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20023721sh"></div>
+
+ <a id="" href="/20023721.html">求助街上苹果手机大神</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/155252983524408">胆小的哥布林</a><br />2017-08-17</td><td class="p_re">3 / 38</td><td class="p_retime"><a href="/20023721.html#o" title="查看最后回复">12:28</a><br />你真的好啊</td></tr>
+
+<tr mid="20013434"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20013434sh"></div>
+
+ <a id="" href="/20013434.html">惠普暗影精灵3值得入手吗</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/116971519364310">去尼麻痹被占用</a><br />2017-08-16</td><td class="p_re">13 / 448</td><td class="p_retime"><a href="/20013434.html#o" title="查看最后回复">12:26</a><br />纳十3</td></tr>
+
+<tr mid="20021556"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20021556sh"></div>
+
+ <a id="" href="/20021556.html">小米6会像米5一样降价吗</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/106152304219687">地表最强勒布朗</a><br />2017-08-17</td><td class="p_re">6 / 307</td><td class="p_retime"><a href="/20021556.html#o" title="查看最后回复">12:26</a><br />南琴梨</td></tr>
+
+<tr mid="20024136"><td class="p_chkbox">
+
+&nbsp;
+
+</td><td id="" class="p_title"><div id="20024136sh"></div>
+
+ <a id="" href="/20024136.html">有没有仍然喜欢全键盘的实体键的朋友</a>
+
+&nbsp;</td><td class="p_author"><a class="u" target="_blank" href="https://my.hupu.com/norsaa">亮子norsa</a><br />2017-08-17</td><td class="p_re">2 / 80</td><td class="p_retime"><a href="/20024136.html#o" title="查看最后回复">12:25</a><br />grey的races</td></tr>
+</tbody></table>
+<!--帖子列表END-->
+
+<div class="rss"><a target="_blank" href="/rss.php?fid=1649" title="通过RSS订阅IT数码区的帖子">rss</a></div>
+
+<div class="page"><span class="selected">1</span><a href="/digital-2">2</a><a href="/digital-3">3</a><a href="/digital-4">4</a><a href="/digital-5">5</a>...<a href="/digital-100">100</a> <input type='text' title='输入页码数，回车即可到达指定页码' onkeydown="if(event.keyCode==13){location='/digital-'+this.value+'';return false}"><a id="j_next" class="next" href="/digital-2">下一页&raquo;</a><span class="f666">IT数码区共14602主题 / 171886回复 &nbsp;今日1028帖</span></div>
+
+<!---主体部分 end--->
+
+<div class="pub_ad">
+    <div id='bbs_list_right_320x60'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('bbs_list_right_320x60'); });</script></div>
+
+</div>
+
+
+	<div class="lpub_ad" id="lpub_ad" style="display:none;left:-133px"><div id='hoopchina-bbs-right-Optimus-120x600'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('hoopchina-bbs-right-Optimus-120x600'); });</script></div>
+</div>
+</div>
+</div></div>
+<!--内容END--><!--页面主体END-->
+
+</div><div class="pop" style="width:420px;display:none;" id="rm_div_msg"><div class="pop_content"><h2 class="mpop"><a onclick="closepop()"></a>推荐版块</h2><ul class="pop_commend"><form name="rm_form"><li>推荐语：</li><li><textarea name="tjmsg" id="tjmsg" class="j_enter"></textarea></li><li><input name="cid" id="cid" type="hidden" value="1649" /><input name="fid" type="hidden" value="1649" /><input name="Input2" type="button" class="btns2 j_tjmsg" id="j_recs" value="推 荐" /> &nbsp; &nbsp;<input name="Input2" type="button" class="btnb2" value="取 消" onclick="closepop()" /></li></form></ul></div></div>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/pcbbs/js/thread22.js?2017040115"></script>
+
+
+<div style="display: none">
+<div id='bbs_list_1x1'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('bbs_list_1x1'); });</script></div>
+</div>
+
+
+
+<div class="fback"><a class="btop" href="#">回顶部</a></div>
+<b id="footer-loadedError"></b>
+
+
+<div class="hp-footer">
+                    
+                    <div class="hp-copyright">
+                    
+                    Copyright by 虎扑JRs &amp;
+                    <a href="https://www.hupu.com/" target="_blank" title="虎扑">虎扑</a> -
+                    <a href="http://jobs.hupu.com/" target="_blank">在虎扑工作</a> -
+                    <a href="http://marketing.hupu.com/contact/" target="_blank">联系我们</a> -
+                    <a href="https://m.hupu.com/" target="_blank">手机虎扑网</a> -
+                    <a href="https://mobile.hupu.com/" target="_blank">虎扑App</a> -
+                    <a href="https://www.hupu.com/policies/terms" target="_blank">服务协议</a> -
+                    <a href="https://www.hupu.com/sitemap.html" target="_blank">网站地图</a> -
+                    <a href="https://nba.hupu.com/" target="_blank" title="NBA">NBA</a> -
+                    <a href="https://cba.hupu.com/" target="_blank" title="CBA">CBA</a>  -
+                    <a href="https://soccer.hupu.com/" target="_blank" title="足球">足球</a> -
+                    <a href="https://soccer.hupu.com/china/" target="_blank" title="中超">中超</a> -
+                    <a href="http://racing.hupu.com/" target="_blank" title="赛车">赛车</a> 
+                    </div>
+                    
+                </div>
+
+
+<script>
+	var countGATrackPageview = location.pathname+location.search+"'|bxj/174-步行街/1649-IT数码区'";
+_common.init({project: "bxj",countGASetVar: "",countGATrackPageview: countGATrackPageview});	
+</script>
+<script async="true" src="//b3.hoopchina.com.cn/pcbbs/js/g85.js?20170207"></script>
+
+<script type="text/javascript" src="https://hm.baidu.com/h.js?39fc58a7ab8a311f2f6ca4dc1222a96e" async="async"></script>
+<script>IE6 = '';</script><!--[if lte IE 6]><script>IE6 = 'sucks';</script><![endif]-->
+<script>
+    try{
+      if(window.top != window.self){
+        var topHost = top.document.location.hostname;
+        if (topHost.indexOf('hupu.com') < 0 && topHost.indexOf('liangle.com') < 0 && topHost.indexOf('shihuo.cn') < 0){
+          window.top.location.href = window.self.location.href;
+        }
+      } 
+    }catch(e){}
+
+    $(function(){
+        if ($("#lpub_ad")[0]) {
+            function findPos_top(obj) {
+                var top = obj.offsetTop || 0;
+                while (obj = obj.offsetParent) {
+                    top += obj.offsetTop;
+                }
+                return top;
+            }
+
+            function findPos_left(obj) {
+                var l = obj.offsetLeft;
+                while (obj.offsetParent != null) {
+                    obj = obj.offsetParent;
+                    l += obj.offsetLeft;
+                }
+                return l;
+            }
+
+            ifSideSticky = (IE6 == 'sucks') ? false : true;
+            var pubPos = findPos_top($("#bbs_banner")[0]) - findPos_top($("#sidenav_bbs")[0]) + 403;
+            $("#lpub_ad").css('top', pubPos + 'px');
+            $("#lpub_ad").show();
+            if (!isMobile() && ifSideSticky && document.documentElement.clientHeight > 670) {
+                var contentwitdth = $("#content").width();
+                var sideSticky = function () {
+                    var now_top = document.body.scrollTop || document.documentElement.scrollTop || 0;
+                    if (now_top > pubPos + 100) {
+                        $("#lpub_ad").attr('style', 'position: fixed; _position: absolute; top:10px;left:' + (findPos_left($("#container_padd")[0]) + 13 - document.documentElement.scrollLeft) + 'px');
+                    } else {
+                        $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                    }
+                };
+                $(window).bind('scroll', sideSticky).resize(function () {
+                    $(window).unbind("scroll");
+                    $("#lpub_ad").removeAttr('style').css('left', '-133px').css('top', pubPos + 'px');
+                });
+            }
+        }
+        if ($("div .c2c_ad")[0]) {
+            if ($(".level2header").attr('title')) {
+                $("div .c2c_ad").css('top', "-66px").show();
+            } else {
+                $("div .c2c_ad").css('top', '-114px').show();
+            }
+        }
+    })
+
+    /**
+     * check is mobile device
+     */
+    function isMobile() {
+        var userAgent = navigator.userAgent.toLowerCase(),
+                mobile = /Mobile/i.test( userAgent ) || 'ontouchstart' in document.documentElement;
+        return mobile;
+    }
+
+</script>
+</body>
+</html>
+
